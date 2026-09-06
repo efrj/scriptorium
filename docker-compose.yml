@@ -1,0 +1,50 @@
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: holy_bible_yii3_app
+    ports:
+      - "8080:8080"
+    volumes:
+      - .:/var/www/html
+      - /var/www/html/vendor
+    environment:
+      - APP_ENV=dev
+      - APP_DEBUG=true
+      - DB_DRIVER=pgsql
+      - DB_HOST=postgres
+      - DB_PORT=5432
+      - DB_NAME=holybible
+      - DB_USER=postgres
+      - DB_PASSWORD=postgres
+    depends_on:
+      postgres:
+        condition: service_healthy
+    networks:
+      - bible_net
+
+  postgres:
+    image: postgres:16-alpine
+    container_name: holy_bible_yii3_postgres
+    restart: always
+    environment:
+      POSTGRES_DB: holybible
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./data/postgres:/var/lib/postgresql/data
+      - ./resources/sql:/docker-entrypoint-initdb.d:ro
+    healthcheck:
+      test: [ "CMD-SHELL", "pg_isready -U postgres -d holybible" ]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+    networks:
+      - bible_net
+
+networks:
+  bible_net:
+    driver: bridge

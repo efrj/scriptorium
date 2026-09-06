@@ -1,0 +1,10 @@
+/vendor/
+/runtime/
+/data/postgres/
+/data/*.sqlite
+*.sqlite
+.env
+.DS_Store
+.idea/
+.vscode/
+*.log

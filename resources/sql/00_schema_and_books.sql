@@ -1,5 +1,5 @@
 -- ====================================================================
--- Holy Bible Database Schema, Books & Versions (72 Versions, 73 Books)
+-- Holy Bible Database Schema, Books & Versions (73 Versions, 73 Books)
 -- Compatible with: PostgreSQL, MySQL 5.7+, SQLite 3
 -- ====================================================================
 
@@ -197,3 +197,4 @@ INSERT INTO versions (id, code, name, language) VALUES (69, 'SWA', 'Swahili New 
 INSERT INTO versions (id, code, name, language) VALUES (70, 'LAV', 'Latviešu Bībele', 'lv');
 INSERT INTO versions (id, code, name, language) VALUES (71, 'MRI', 'Paipera Tapu (Maori)', 'mi');
 INSERT INTO versions (id, code, name, language) VALUES (72, 'CHR', 'Cherokee New Testament', 'chr');
+INSERT INTO versions (id, code, name, language) VALUES (73, 'PASTORAL', 'Bíblia Sagrada - Edição Pastoral (Católica)', 'pt');

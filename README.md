@@ -16,9 +16,9 @@
 ### Overview
 **Scriptorium** is a modern Biblical Study and Reading Platform built with **Yii 3** and **Bootstrap 5.3**. It provides a clean, fast interface for reading the Holy Scriptures, searching passages, and comparing **up to 3 Bible translations simultaneously** in parallel synchronized columns or line-by-line view.
 
-### Included Bible Translations (72 Versions & 2,068,000+ Verses & 73 Books)
+### Included Bible Translations (73 Versions & 2,096,000+ Verses & 73 Books)
 
-#### Portuguese (26 Versions)
+#### Portuguese (27 Versions)
 1. **[ARIB]** Almeida Revisada Imprensa Bíblica
 2. **[ACRF]** Almeida Corrigida e Revisada Fiel
 3. **[NVI]** Nova Versão Internacional
@@ -45,58 +45,59 @@
 24. **[ALM1911]** Almeida 1911
 25. **[MENS]** A Mensagem 2016
 26. **[VFL]** Versão Fácil de Ler 2017
+27. **[PASTORAL]** Bíblia Sagrada - Edição Pastoral (Católica) (73 books & 35,434 verses)
 
 #### English (12 Versions)
-27. **[KJV]** King James Version - Pure Cambridge Edition (complete 31,102 verses)
-28. **[ASV]** American Standard Version
-29. **[BBE]** Bible in Basic English
-30. **[NIV]** New International Version
-31. **[BSB]** Berean Standard Bible
-32. **[DARBY]** Darby Translation (1890)
-33. **[DRA]** Douay-Rheims 1899 American Edition
-34. **[OEB-CW]** Open English Bible (Commonwealth)
-35. **[OEB-US]** Open English Bible (US Edition)
-36. **[WEB]** World English Bible
-37. **[WEBBE]** World English Bible (British Edition)
-38. **[YLT]** Young's Literal Translation
+28. **[KJV]** King James Version - Pure Cambridge Edition (complete 31,102 verses)
+29. **[ASV]** American Standard Version
+30. **[BBE]** Bible in Basic English
+31. **[NIV]** New International Version
+32. **[BSB]** Berean Standard Bible
+33. **[DARBY]** Darby Translation (1890)
+34. **[DRA]** Douay-Rheims 1899 American Edition
+35. **[OEB-CW]** Open English Bible (Commonwealth)
+36. **[OEB-US]** Open English Bible (US Edition)
+37. **[WEB]** World English Bible
+38. **[WEBBE]** World English Bible (British Edition)
+39. **[YLT]** Young's Literal Translation
 
 #### Spanish (4 Versions)
-39. **[SPNBES]** La Biblia en Español Sencillo
-40. **[SPAPDT]** Palabra de Dios para Ti
-41. **[RV1909]** Reina Valera 1909
-42. **[SPNVBL]** Versión Biblia Libre
+40. **[SPNBES]** La Biblia en Español Sencillo
+41. **[SPAPDT]** Palabra de Dios para Ti
+42. **[RV1909]** Reina Valera 1909
+43. **[SPNVBL]** Versión Biblia Libre
 
 #### Other International Languages (30 Global Translations)
-43. **[LUT1912]** German: Luther Bibel (1912)
-44. **[OST1996]** French: Ostervald (1996)
-45. **[RIV1927]** Italian: Riveduta (1927)
-46. **[VULG]** Latin: Clementine Latin Vulgate
-47. **[SYNODAL]** Russian: Russian Synodal Translation
-48. **[CUV]** Chinese: Chinese Union Version (Traditional)
-49. **[CUVS]** Chinese: Chinese Union Version (Simplified)
-50. **[KOUGO]** Japanese: Japanese Kougo-yaku (1954/1955)
-51. **[KOR]** Korean: Korean Bible
-52. **[WLC]** Hebrew: Leningrad Codex (Tanakh/OT)
-53. **[STATEN]** Dutch: Statenvertaling (1637)
-54. **[BKR]** Czech: Bible Kralická
-55. **[DAN]** Danish: Danske Bibel
-56. **[SWE]** Swedish: Svenska Bibeln (1917)
-57. **[NOR]** Norwegian: Norsk Bibel (1930)
-58. **[FIN]** Finnish: Suomalainen Biblia (1776)
-59. **[POL]** Polish: Polska Biblia Gdańska (1881)
-60. **[HRV]** Croatian: Hrvatska Biblija
-61. **[HUN]** Hungarian: Magyar Károli Gáspár Biblia
-62. **[RON]** Romanian: Versiunea Dumitru Cornilescu
-63. **[BUL]** Bulgarian: Balgarska Bibliya
-64. **[SQI]** Albanian: Bibla Shqip
-65. **[TGL]** Tagalog: Ang Dating Biblia (1905)
-66. **[VIE]** Vietnamese: Bản Dịch Cadman (1934)
-67. **[THA]** Thai: Thai Holy Bible
-68. **[TUR]** Turkish: Türkçe Kutsal Kitap
-69. **[SWA]** Swahili: Swahili New Testament
-70. **[LAV]** Latvian: Latviešu Bībele
-71. **[MRI]** Maori: Paipera Tapu
-72. **[CHR]** Cherokee: Cherokee New Testament
+44. **[LUT1912]** German: Luther Bibel (1912)
+45. **[OST1996]** French: Ostervald (1996)
+46. **[RIV1927]** Italian: Riveduta (1927)
+47. **[VULG]** Latin: Clementine Latin Vulgate
+48. **[SYNODAL]** Russian: Russian Synodal Translation
+49. **[CUV]** Chinese: Chinese Union Version (Traditional)
+50. **[CUVS]** Chinese: Chinese Union Version (Simplified)
+51. **[KOUGO]** Japanese: Japanese Kougo-yaku (1954/1955)
+52. **[KOR]** Korean: Korean Bible
+53. **[WLC]** Hebrew: Leningrad Codex (Tanakh/OT)
+54. **[STATEN]** Dutch: Statenvertaling (1637)
+55. **[BKR]** Czech: Bible Kralická
+56. **[DAN]** Danish: Danske Bibel
+57. **[SWE]** Swedish: Svenska Bibeln (1917)
+58. **[NOR]** Norwegian: Norsk Bibel (1930)
+59. **[FIN]** Finnish: Suomalainen Biblia (1776)
+60. **[POL]** Polish: Polska Biblia Gdańska (1881)
+61. **[HRV]** Croatian: Hrvatska Biblija
+62. **[HUN]** Hungarian: Magyar Károli Gáspár Biblia
+63. **[RON]** Romanian: Versiunea Dumitru Cornilescu
+64. **[BUL]** Bulgarian: Balgarska Bibliya
+65. **[SQI]** Albanian: Bibla Shqip
+66. **[TGL]** Tagalog: Ang Dating Biblia (1905)
+67. **[VIE]** Vietnamese: Bản Dịch Cadman (1934)
+68. **[THA]** Thai: Thai Holy Bible
+69. **[TUR]** Turkish: Türkçe Kutsal Kitap
+70. **[SWA]** Swahili: Swahili New Testament
+71. **[LAV]** Latvian: Latviešu Bībele
+72. **[MRI]** Maori: Paipera Tapu
+73. **[CHR]** Cherokee: Cherokee New Testament
 
 ### Key Features
 - **Single Reader Mode**: Fast navigation by Version, Book (Old and New Testaments), Chapter, and Verse, with previous/next chapter controls and verse clipboard copy.
@@ -110,7 +111,7 @@
   - PostgreSQL (Primary/Recommended)
   - SQLite (Ready-to-use local fallback included in `data/bible.sqlite`)
   - MySQL 5.7+
-  - ANSI SQL modular dumps included in `resources/sql/*.sql` (73 files)
+  - ANSI SQL modular dumps included in `resources/sql/*.sql` (74 files)
   - Yii 3 Migrations and Seeder CLI command (`php yii bible/import`).
 
 ---
@@ -192,9 +193,9 @@ Feel free to open an **[Issue](https://github.com/efrj/scriptorium/issues)** or 
 ### Visão Geral
 **Scriptorium** é uma plataforma moderna para leitura e estudos bíblicos desenvolvida com o framework **Yii 3** e interface responsiva em **Bootstrap 5.3**. Oferece uma experiência fluida para leitura das Sagradas Escrituras, busca por termos/passagens e comparação simultânea de **até 3 versões da Bíblia** em colunas paralelas ou linha a linha.
 
-### Traduções Bíblicas Inclusas (72 Versões, 2.068.000+ Versículos e 73 Livros)
+### Traduções Bíblicas Inclusas (73 Versões, 2.096.000+ Versículos e 73 Livros)
 
-#### Português (26 Versões)
+#### Português (27 Versões)
 1. **[ARIB]** Almeida Revisada Imprensa Bíblica
 2. **[ACRF]** Almeida Corrigida e Revisada Fiel
 3. **[NVI]** Nova Versão Internacional
@@ -221,58 +222,59 @@ Feel free to open an **[Issue](https://github.com/efrj/scriptorium/issues)** or 
 24. **[ALM1911]** Almeida 1911
 25. **[MENS]** A Mensagem 2016
 26. **[VFL]** Versão Fácil de Ler 2017
+27. **[PASTORAL]** Bíblia Sagrada - Edição Pastoral (Católica) (73 livros e 35.434 versículos)
 
 #### Inglês (12 Versões)
-27. **[KJV]** King James Version - Pure Cambridge Edition (completa com 31.102 versículos)
-28. **[ASV]** American Standard Version
-29. **[BBE]** Bible in Basic English
-30. **[NIV]** New International Version
-31. **[BSB]** Berean Standard Bible
-32. **[DARBY]** Darby Translation (1890)
-33. **[DRA]** Douay-Rheims 1899 American Edition
-34. **[OEB-CW]** Open English Bible (Commonwealth)
-35. **[OEB-US]** Open English Bible (US Edition)
-36. **[WEB]** World English Bible
-37. **[WEBBE]** World English Bible (British Edition)
-38. **[YLT]** Young's Literal Translation
+28. **[KJV]** King James Version - Pure Cambridge Edition (completa com 31.102 versículos)
+29. **[ASV]** American Standard Version
+30. **[BBE]** Bible in Basic English
+31. **[NIV]** New International Version
+32. **[BSB]** Berean Standard Bible
+33. **[DARBY]** Darby Translation (1890)
+34. **[DRA]** Douay-Rheims 1899 American Edition
+35. **[OEB-CW]** Open English Bible (Commonwealth)
+36. **[OEB-US]** Open English Bible (US Edition)
+37. **[WEB]** World English Bible
+38. **[WEBBE]** World English Bible (British Edition)
+39. **[YLT]** Young's Literal Translation
 
 #### Espanhol (4 Versões)
-39. **[SPNBES]** La Biblia en Español Sencillo
-40. **[SPAPDT]** Palabra de Dios para Ti
-41. **[RV1909]** Reina Valera 1909
-42. **[SPNVBL]** Versión Biblia Libre
+40. **[SPNBES]** La Biblia en Español Sencillo
+41. **[SPAPDT]** Palabra de Dios para Ti
+42. **[RV1909]** Reina Valera 1909
+43. **[SPNVBL]** Versión Biblia Libre
 
 #### Outros Idiomas Globais (30 Traduções)
-43. **[LUT1912]** Alemão: Luther Bibel (1912)
-44. **[OST1996]** Francês: Ostervald (1996)
-45. **[RIV1927]** Italiano: Riveduta (1927)
-46. **[VULG]** Latim: Clementine Latin Vulgate
-47. **[SYNODAL]** Russo: Russian Synodal Translation
-48. **[CUV]** Chinês: Chinese Union Version (Tradicional)
-49. **[CUVS]** Chinês: Chinese Union Version (Simplificado)
-50. **[KOUGO]** Japonês: Japanese Kougo-yaku (1954/1955)
-51. **[KOR]** Coreano: Korean Bible
-52. **[WLC]** Hebraico: Leningrad Codex (Tanakh/AT)
-53. **[STATEN]** Holandês: Statenvertaling (1637)
-54. **[BKR]** Tcheco: Bible Kralická
-55. **[DAN]** Dinamarquês: Danske Bibel
-56. **[SWE]** Sueco: Svenska Bibeln (1917)
-57. **[NOR]** Norueguês: Norsk Bibel (1930)
-58. **[FIN]** Finlandês: Suomalainen Biblia (1776)
-59. **[POL]** Polonês: Polska Biblia Gdańska (1881)
-60. **[HRV]** Croata: Hrvatska Biblija
-61. **[HUN]** Húngaro: Magyar Károli Gáspár Biblia
-62. **[RON]** Romeno: Versiunea Dumitru Cornilescu
-63. **[BUL]** Búlgaro: Balgarska Bibliya
-64. **[SQI]** Albanês: Bibla Shqip
-65. **[TGL]** Tagalo: Ang Dating Biblia (1905)
-66. **[VIE]** Vietnamita: Bản Dịch Cadman (1934)
-67. **[THA]** Tailandês: Thai Holy Bible
-68. **[TUR]** Turco: Türkçe Kutsal Kitap
-69. **[SWA]** Suaíli: Swahili New Testament
-70. **[LAV]** Letão: Latviešu Bībele
-71. **[MRI]** Maori: Paipera Tapu
-72. **[CHR]** Cherokee: Cherokee New Testament
+44. **[LUT1912]** Alemão: Luther Bibel (1912)
+45. **[OST1996]** Francês: Ostervald (1996)
+46. **[RIV1927]** Italiano: Riveduta (1927)
+47. **[VULG]** Latim: Clementine Latin Vulgate
+48. **[SYNODAL]** Russo: Russian Synodal Translation
+49. **[CUV]** Chinês: Chinese Union Version (Tradicional)
+50. **[CUVS]** Chinês: Chinese Union Version (Simplificado)
+51. **[KOUGO]** Japonês: Japanese Kougo-yaku (1954/1955)
+52. **[KOR]** Coreano: Korean Bible
+53. **[WLC]** Hebraico: Leningrad Codex (Tanakh/AT)
+54. **[STATEN]** Holandês: Statenvertaling (1637)
+55. **[BKR]** Tcheco: Bible Kralická
+56. **[DAN]** Dinamarquês: Danske Bibel
+57. **[SWE]** Sueco: Svenska Bibeln (1917)
+58. **[NOR]** Norueguês: Norsk Bibel (1930)
+59. **[FIN]** Finlandês: Suomalainen Biblia (1776)
+60. **[POL]** Polonês: Polska Biblia Gdańska (1881)
+61. **[HRV]** Croata: Hrvatska Biblija
+62. **[HUN]** Húngaro: Magyar Károli Gáspár Biblia
+63. **[RON]** Romeno: Versiunea Dumitru Cornilescu
+64. **[BUL]** Búlgaro: Balgarska Bibliya
+65. **[SQI]** Albanês: Bibla Shqip
+66. **[TGL]** Tagalo: Ang Dating Biblia (1905)
+67. **[VIE]** Vietnamita: Bản Dịch Cadman (1934)
+68. **[THA]** Tailandês: Thai Holy Bible
+69. **[TUR]** Turco: Türkçe Kutsal Kitap
+70. **[SWA]** Suaíli: Swahili New Testament
+71. **[LAV]** Letão: Latviešu Bībele
+72. **[MRI]** Maori: Paipera Tapu
+73. **[CHR]** Cherokee: Cherokee New Testament
 
 ### Principais Recursos
 - **Modo Leitor Individual**: Navegação rápida por Tradução, Livro (Antigo e Novo Testamento), Capítulo e Versículo, botões de capítulo anterior/próximo e cópia de versículo com referência formatada.
@@ -285,7 +287,7 @@ Feel free to open an **[Issue](https://github.com/efrj/scriptorium/issues)** or 
 - **Compatibilidade Multi-Banco (PostgreSQL, MySQL e SQLite)**:
   - Banco de Dados PostgreSQL nativo.
   - Banco SQLite local incluído e pré-gerado em `data/bible.sqlite`.
-  - Dumps SQL ANSI modulares por versão em `resources/sql/*.sql` (73 arquivos).
+  - Dumps SQL ANSI modulares por versão em `resources/sql/*.sql` (74 arquivos).
   - Migrações do Yii 3 e comando de Seeder (`php yii bible/import`).
 
 ---

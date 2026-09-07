@@ -1,4 +1,4 @@
--- Verses for Version [KJV] King James Version (Pure Cambridge Edition)
+-- Verses for 08_verses_KJV.sql
 -- Compatible with PostgreSQL, MySQL 5.7+, SQLite 3
 
 INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
@@ -51,8 +51,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (193520,8,1,2,16,'And the LORD God commanded the man, saying, Of every tree of the garden thou mayest freely eat:'),
 (193521,8,1,2,17,'But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die.'),
 (193522,8,1,2,18,'And the LORD God said, [It is] not good that the man should be alone; I will make him an help meet for him.'),
-(193523,8,1,2,19,'And out of the ground the LORD God formed every beast of the field, and every fowl of the air; and brought [them] unto Adam to see what he would call them: and whatsoever Adam called every living creature, that [was] the name thereof.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(193523,8,1,2,19,'And out of the ground the LORD God formed every beast of the field, and every fowl of the air; and brought [them] unto Adam to see what he would call them: and whatsoever Adam called every living creature, that [was] the name thereof.'),
 (193524,8,1,2,20,'And Adam gave names to all cattle, and to the fowl of the air, and to every beast of the field; but for Adam there was not found an help meet for him.'),
 (193525,8,1,2,21,'And the LORD God caused a deep sleep to fall upon Adam, and he slept: and he took one of his ribs, and closed up the flesh instead thereof;'),
 (193526,8,1,2,22,'And the rib, which the LORD God had taken from man, made he a woman, and brought her unto the man.'),
@@ -102,8 +101,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (193570,8,1,4,17,'And Cain knew his wife; and she conceived, and bare Enoch: and he builded a city, and called the name of the city, after the name of his son, Enoch.'),
 (193571,8,1,4,18,'And unto Enoch was born Irad: and Irad begat Mehujael: and Mehujael begat Methusael: and Methusael begat Lamech.'),
 (193572,8,1,4,19,'And Lamech took unto him two wives: the name of the one [was] Adah, and the name of the other Zillah.'),
-(193573,8,1,4,20,'And Adah bare Jabal: he was the father of such as dwell in tents, and [of such as have] cattle.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(193573,8,1,4,20,'And Adah bare Jabal: he was the father of such as dwell in tents, and [of such as have] cattle.'),
 (193574,8,1,4,21,'And his brother''s name [was] Jubal: he was the father of all such as handle the harp and organ.'),
 (193575,8,1,4,22,'And Zillah, she also bare Tubalcain, an instructer of every artificer in brass and iron: and the sister of Tubalcain [was] Naamah.'),
 (193576,8,1,4,23,'And Lamech said unto his wives, Adah and Zillah, Hear my voice; ye wives of Lamech, hearken unto my speech: for I have slain a man to my wounding, and a young man to my hurt.'),
@@ -153,8 +151,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (193620,8,1,6,9,'These [are] the generations of Noah: Noah was a just man [and] perfect in his generations, [and] Noah walked with God.'),
 (193621,8,1,6,10,'And Noah begat three sons, Shem, Ham, and Japheth.'),
 (193622,8,1,6,11,'The earth also was corrupt before God, and the earth was filled with violence.'),
-(193623,8,1,6,12,'And God looked upon the earth, and, behold, it was corrupt; for all flesh had corrupted his way upon the earth.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(193623,8,1,6,12,'And God looked upon the earth, and, behold, it was corrupt; for all flesh had corrupted his way upon the earth.'),
 (193624,8,1,6,13,'And God said unto Noah, The end of all flesh is come before me; for the earth is filled with violence through them; and, behold, I will destroy them with the earth.'),
 (193625,8,1,6,14,'Make thee an ark of gopher wood; rooms shalt thou make in the ark, and shalt pitch it within and without with pitch.'),
 (193626,8,1,6,15,'And this [is the fashion] which thou shalt make it [of]: The length of the ark [shall be] three hundred cubits, the breadth of it fifty cubits, and the height of it thirty cubits.'),
@@ -204,8 +201,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (193670,8,1,8,13,'And it came to pass in the six hundredth and first year, in the first [month], the first [day] of the month, the waters were dried up from off the earth: and Noah removed the covering of the ark, and looked, and, behold, the face of the ground was dry.'),
 (193671,8,1,8,14,'And in the second month, on the seven and twentieth day of the month, was the earth dried.'),
 (193672,8,1,8,15,'And God spake unto Noah, saying,'),
-(193673,8,1,8,16,'Go forth of the ark, thou, and thy wife, and thy sons, and thy sons'' wives with thee.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(193673,8,1,8,16,'Go forth of the ark, thou, and thy wife, and thy sons, and thy sons'' wives with thee.'),
 (193674,8,1,8,17,'Bring forth with thee every living thing that [is] with thee, of all flesh, [both] of fowl, and of cattle, and of every creeping thing that creepeth upon the earth; that they may breed abundantly in the earth, and be fruitful, and multiply upon the earth.'),
 (193675,8,1,8,18,'And Noah went forth, and his sons, and his wife, and his sons'' wives with him:'),
 (193676,8,1,8,19,'Every beast, every creeping thing, and every fowl, [and] whatsoever creepeth upon the earth, after their kinds, went forth out of the ark.'),
@@ -255,8 +251,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (193720,8,1,10,12,'And Resen between Nineveh and Calah: the same [is] a great city.'),
 (193721,8,1,10,13,'And Mizraim begat Ludim, and Anamim, and Lehabim, and Naphtuhim,'),
 (193722,8,1,10,14,'And Pathrusim, and Casluhim, (out of whom came Philistim,) and Caphtorim.'),
-(193723,8,1,10,15,'And Canaan begat Sidon his firstborn, and Heth,');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(193723,8,1,10,15,'And Canaan begat Sidon his firstborn, and Heth,'),
 (193724,8,1,10,16,'And the Jebusite, and the Amorite, and the Girgasite,'),
 (193725,8,1,10,17,'And the Hivite, and the Arkite, and the Sinite,'),
 (193726,8,1,10,18,'And the Arvadite, and the Zemarite, and the Hamathite: and afterward were the families of the Canaanites spread abroad.'),
@@ -306,8 +301,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (193770,8,1,11,30,'But Sarai was barren; she [had] no child.'),
 (193771,8,1,11,31,'And Terah took Abram his son, and Lot the son of Haran his son''s son, and Sarai his daughter in law, his son Abram''s wife; and they went forth with them from Ur of the Chaldees, to go into the land of Canaan; and they came unto Haran, and dwelt there.'),
 (193772,8,1,11,32,'And the days of Terah were two hundred and five years: and Terah died in Haran.'),
-(193773,8,1,12,1,'Now the LORD had said unto Abram, Get thee out of thy country, and from thy kindred, and from thy father''s house, unto a land that I will shew thee:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(193773,8,1,12,1,'Now the LORD had said unto Abram, Get thee out of thy country, and from thy kindred, and from thy father''s house, unto a land that I will shew thee:'),
 (193774,8,1,12,2,'And I will make of thee a great nation, and I will bless thee, and make thy name great; and thou shalt be a blessing:'),
 (193775,8,1,12,3,'And I will bless them that bless thee, and curse him that curseth thee: and in thee shall all families of the earth be blessed.'),
 (193776,8,1,12,4,'So Abram departed, as the LORD had spoken unto him; and Lot went with him: and Abram [was] seventy and five years old when he departed out of Haran.'),
@@ -357,8 +351,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (193820,8,1,14,10,'And the vale of Siddim [was full of] slimepits; and the kings of Sodom and Gomorrah fled, and fell there; and they that remained fled to the mountain.'),
 (193821,8,1,14,11,'And they took all the goods of Sodom and Gomorrah, and all their victuals, and went their way.'),
 (193822,8,1,14,12,'And they took Lot, Abram''s brother''s son, who dwelt in Sodom, and his goods, and departed.'),
-(193823,8,1,14,13,'And there came one that had escaped, and told Abram the Hebrew; for he dwelt in the plain of Mamre the Amorite, brother of Eshcol, and brother of Aner: and these [were] confederate with Abram.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(193823,8,1,14,13,'And there came one that had escaped, and told Abram the Hebrew; for he dwelt in the plain of Mamre the Amorite, brother of Eshcol, and brother of Aner: and these [were] confederate with Abram.'),
 (193824,8,1,14,14,'And when Abram heard that his brother was taken captive, he armed his trained [servants], born in his own house, three hundred and eighteen, and pursued [them] unto Dan.'),
 (193825,8,1,14,15,'And he divided himself against them, he and his servants, by night, and smote them, and pursued them unto Hobah, which [is] on the left hand of Damascus.'),
 (193826,8,1,14,16,'And he brought back all the goods, and also brought again his brother Lot, and his goods, and the women also, and the people.'),
@@ -408,8 +401,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (193870,8,1,16,15,'And Hagar bare Abram a son: and Abram called his son''s name, which Hagar bare, Ishmael.'),
 (193871,8,1,16,16,'And Abram [was] fourscore and six years old, when Hagar bare Ishmael to Abram.'),
 (193872,8,1,17,1,'And when Abram was ninety years old and nine, the LORD appeared to Abram, and said unto him, I [am] the Almighty God; walk before me, and be thou perfect.'),
-(193873,8,1,17,2,'And I will make my covenant between me and thee, and will multiply thee exceedingly.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(193873,8,1,17,2,'And I will make my covenant between me and thee, and will multiply thee exceedingly.'),
 (193874,8,1,17,3,'And Abram fell on his face: and God talked with him, saying,'),
 (193875,8,1,17,4,'As for me, behold, my covenant [is] with thee, and thou shalt be a father of many nations.'),
 (193876,8,1,17,5,'Neither shall thy name any more be called Abram, but thy name shall be Abraham; for a father of many nations have I made thee.'),
@@ -459,8 +451,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (193920,8,1,18,22,'And the men turned their faces from thence, and went toward Sodom: but Abraham stood yet before the LORD.'),
 (193921,8,1,18,23,'And Abraham drew near, and said, Wilt thou also destroy the righteous with the wicked?'),
 (193922,8,1,18,24,'Peradventure there be fifty righteous within the city: wilt thou also destroy and not spare the place for the fifty righteous that [are] therein?'),
-(193923,8,1,18,25,'That be far from thee to do after this manner, to slay the righteous with the wicked: and that the righteous should be as the wicked, that be far from thee: Shall not the Judge of all the earth do right?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(193923,8,1,18,25,'That be far from thee to do after this manner, to slay the righteous with the wicked: and that the righteous should be as the wicked, that be far from thee: Shall not the Judge of all the earth do right?'),
 (193924,8,1,18,26,'And the LORD said, If I find in Sodom fifty righteous within the city, then I will spare all the place for their sakes.'),
 (193925,8,1,18,27,'And Abraham answered and said, Behold now, I have taken upon me to speak unto the Lord, which [am but] dust and ashes:'),
 (193926,8,1,18,28,'Peradventure there shall lack five of the fifty righteous: wilt thou destroy all the city for [lack of] five? And he said, If I find there forty and five, I will not destroy [it].'),
@@ -510,8 +501,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (193970,8,1,20,1,'And Abraham journeyed from thence toward the south country, and dwelled between Kadesh and Shur, and sojourned in Gerar.'),
 (193971,8,1,20,2,'And Abraham said of Sarah his wife, She [is] my sister: and Abimelech king of Gerar sent, and took Sarah.'),
 (193972,8,1,20,3,'But God came to Abimelech in a dream by night, and said to him, Behold, thou [art but] a dead man, for the woman which thou hast taken; for she [is] a man''s wife.'),
-(193973,8,1,20,4,'But Abimelech had not come near her: and he said, Lord, wilt thou slay also a righteous nation?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(193973,8,1,20,4,'But Abimelech had not come near her: and he said, Lord, wilt thou slay also a righteous nation?'),
 (193974,8,1,20,5,'Said he not unto me, She [is] my sister? and she, even she herself said, He [is] my brother: in the integrity of my heart and innocency of my hands have I done this.'),
 (193975,8,1,20,6,'And God said unto him in a dream, Yea, I know that thou didst this in the integrity of thy heart; for I also withheld thee from sinning against me: therefore suffered I thee not to touch her.'),
 (193976,8,1,20,7,'Now therefore restore the man [his] wife; for he [is] a prophet, and he shall pray for thee, and thou shalt live: and if thou restore [her] not, know thou that thou shalt surely die, thou, and all that [are] thine.'),
@@ -561,8 +551,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (194020,8,1,21,33,'And [Abraham] planted a grove in Beersheba, and called there on the name of the LORD, the everlasting God.'),
 (194021,8,1,21,34,'And Abraham sojourned in the Philistines'' land many days.'),
 (194022,8,1,22,1,'And it came to pass after these things, that God did tempt Abraham, and said unto him, Abraham: and he said, Behold, [here] I [am].'),
-(194023,8,1,22,2,'And he said, Take now thy son, thine only [son] Isaac, whom thou lovest, and get thee into the land of Moriah; and offer him there for a burnt offering upon one of the mountains which I will tell thee of.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(194023,8,1,22,2,'And he said, Take now thy son, thine only [son] Isaac, whom thou lovest, and get thee into the land of Moriah; and offer him there for a burnt offering upon one of the mountains which I will tell thee of.'),
 (194024,8,1,22,3,'And Abraham rose up early in the morning, and saddled his ass, and took two of his young men with him, and Isaac his son, and clave the wood for the burnt offering, and rose up, and went unto the place of which God had told him.'),
 (194025,8,1,22,4,'Then on the third day Abraham lifted up his eyes, and saw the place afar off.'),
 (194026,8,1,22,5,'And Abraham said unto his young men, Abide ye here with the ass; and I and the lad will go yonder and worship, and come again to you.'),
@@ -612,8 +601,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (194070,8,1,24,5,'And the servant said unto him, Peradventure the woman will not be willing to follow me unto this land: must I needs bring thy son again unto the land from whence thou camest?'),
 (194071,8,1,24,6,'And Abraham said unto him, Beware thou that thou bring not my son thither again.'),
 (194072,8,1,24,7,'The LORD God of heaven, which took me from my father''s house, and from the land of my kindred, and which spake unto me, and that sware unto me, saying, Unto thy seed will I give this land; he shall send his angel before thee, and thou shalt take a wife unto my son from thence.'),
-(194073,8,1,24,8,'And if the woman will not be willing to follow thee, then thou shalt be clear from this my oath: only bring not my son thither again.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(194073,8,1,24,8,'And if the woman will not be willing to follow thee, then thou shalt be clear from this my oath: only bring not my son thither again.'),
 (194074,8,1,24,9,'And the servant put his hand under the thigh of Abraham his master, and sware to him concerning that matter.'),
 (194075,8,1,24,10,'And the servant took ten camels of the camels of his master, and departed; for all the goods of his master [were] in his hand: and he arose, and went to Mesopotamia, unto the city of Nahor.'),
 (194076,8,1,24,11,'And he made his camels to kneel down without the city by a well of water at the time of the evening, [even] the time that women go out to draw [water].'),
@@ -663,8 +651,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (194120,8,1,24,55,'And her brother and her mother said, Let the damsel abide with us [a few] days, at the least ten; after that she shall go.'),
 (194121,8,1,24,56,'And he said unto them, Hinder me not, seeing the LORD hath prospered my way; send me away that I may go to my master.'),
 (194122,8,1,24,57,'And they said, We will call the damsel, and inquire at her mouth.'),
-(194123,8,1,24,58,'And they called Rebekah, and said unto her, Wilt thou go with this man? And she said, I will go.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(194123,8,1,24,58,'And they called Rebekah, and said unto her, Wilt thou go with this man? And she said, I will go.'),
 (194124,8,1,24,59,'And they sent away Rebekah their sister, and her nurse, and Abraham''s servant, and his men.'),
 (194125,8,1,24,60,'And they blessed Rebekah, and said unto her, Thou [art] our sister, be thou [the mother] of thousands of millions, and let thy seed possess the gate of those which hate them.'),
 (194126,8,1,24,61,'And Rebekah arose, and her damsels, and they rode upon the camels, and followed the man: and the servant took Rebekah, and went his way.'),
@@ -714,8 +701,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (194170,8,1,26,4,'And I will make thy seed to multiply as the stars of heaven, and will give unto thy seed all these countries; and in thy seed shall all the nations of the earth be blessed;'),
 (194171,8,1,26,5,'Because that Abraham obeyed my voice, and kept my charge, my commandments, my statutes, and my laws.'),
 (194172,8,1,26,6,'And Isaac dwelt in Gerar:'),
-(194173,8,1,26,7,'And the men of the place asked [him] of his wife; and he said, She [is] my sister: for he feared to say, [She is] my wife; lest, [said he], the men of the place should kill me for Rebekah; because she [was] fair to look upon.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(194173,8,1,26,7,'And the men of the place asked [him] of his wife; and he said, She [is] my sister: for he feared to say, [She is] my wife; lest, [said he], the men of the place should kill me for Rebekah; because she [was] fair to look upon.'),
 (194174,8,1,26,8,'And it came to pass, when he had been there a long time, that Abimelech king of the Philistines looked out at a window, and saw, and, behold, Isaac [was] sporting with Rebekah his wife.'),
 (194175,8,1,26,9,'And Abimelech called Isaac, and said, Behold, of a surety she [is] thy wife: and how saidst thou, She [is] my sister? And Isaac said unto him, Because I said, Lest I die for her.'),
 (194176,8,1,26,10,'And Abimelech said, What [is] this thou hast done unto us? one of the people might lightly have lien with thy wife, and thou shouldest have brought guiltiness upon us.'),
@@ -765,8 +751,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (194220,8,1,27,19,'And Jacob said unto his father, I [am] Esau thy firstborn; I have done according as thou badest me: arise, I pray thee, sit and eat of my venison, that thy soul may bless me.'),
 (194221,8,1,27,20,'And Isaac said unto his son, How [is it] that thou hast found [it] so quickly, my son? And he said, Because the LORD thy God brought [it] to me.'),
 (194222,8,1,27,21,'And Isaac said unto Jacob, Come near, I pray thee, that I may feel thee, my son, whether thou [be] my very son Esau or not.'),
-(194223,8,1,27,22,'And Jacob went near unto Isaac his father; and he felt him, and said, The voice [is] Jacob''s voice, but the hands [are] the hands of Esau.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(194223,8,1,27,22,'And Jacob went near unto Isaac his father; and he felt him, and said, The voice [is] Jacob''s voice, but the hands [are] the hands of Esau.'),
 (194224,8,1,27,23,'And he discerned him not, because his hands were hairy, as his brother Esau''s hands: so he blessed him.'),
 (194225,8,1,27,24,'And he said, [Art] thou my very son Esau? And he said, I [am].'),
 (194226,8,1,27,25,'And he said, Bring [it] near to me, and I will eat of my son''s venison, that my soul may bless thee. And he brought [it] near to him, and he did eat: and he brought him wine, and he drank.'),
@@ -816,8 +801,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (194270,8,1,29,1,'Then Jacob went on his journey, and came into the land of the people of the east.'),
 (194271,8,1,29,2,'And he looked, and behold a well in the field, and, lo, there [were] three flocks of sheep lying by it; for out of that well they watered the flocks: and a great stone [was] upon the well''s mouth.'),
 (194272,8,1,29,3,'And thither were all the flocks gathered: and they rolled the stone from the well''s mouth, and watered the sheep, and put the stone again upon the well''s mouth in his place.'),
-(194273,8,1,29,4,'And Jacob said unto them, My brethren, whence [be] ye? And they said, Of Haran [are] we.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(194273,8,1,29,4,'And Jacob said unto them, My brethren, whence [be] ye? And they said, Of Haran [are] we.'),
 (194274,8,1,29,5,'And he said unto them, Know ye Laban the son of Nahor? And they said, We know [him].'),
 (194275,8,1,29,6,'And he said unto them, [Is] he well? And they said, [He is] well: and, behold, Rachel his daughter cometh with the sheep.'),
 (194276,8,1,29,7,'And he said, Lo, [it is] yet high day, neither [is it] time that the cattle should be gathered together: water ye the sheep, and go [and] feed [them].'),
@@ -867,8 +851,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (194320,8,1,30,16,'And Jacob came out of the field in the evening, and Leah went out to meet him, and said, Thou must come in unto me; for surely I have hired thee with my son''s mandrakes. And he lay with her that night.'),
 (194321,8,1,30,17,'And God hearkened unto Leah, and she conceived, and bare Jacob the fifth son.'),
 (194322,8,1,30,18,'And Leah said, God hath given me my hire, because I have given my maiden to my husband: and she called his name Issachar.'),
-(194323,8,1,30,19,'And Leah conceived again, and bare Jacob the sixth son.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(194323,8,1,30,19,'And Leah conceived again, and bare Jacob the sixth son.'),
 (194324,8,1,30,20,'And Leah said, God hath endued me [with] a good dowry; now will my husband dwell with me, because I have born him six sons: and she called his name Zebulun.'),
 (194325,8,1,30,21,'And afterwards she bare a daughter, and called her name Dinah.'),
 (194326,8,1,30,22,'And God remembered Rachel, and God hearkened to her, and opened her womb.'),
@@ -918,8 +901,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (194370,8,1,31,23,'And he took his brethren with him, and pursued after him seven days'' journey; and they overtook him in the mount Gilead.'),
 (194371,8,1,31,24,'And God came to Laban the Syrian in a dream by night, and said unto him, Take heed that thou speak not to Jacob either good or bad.'),
 (194372,8,1,31,25,'Then Laban overtook Jacob. Now Jacob had pitched his tent in the mount: and Laban with his brethren pitched in the mount of Gilead.'),
-(194373,8,1,31,26,'And Laban said to Jacob, What hast thou done, that thou hast stolen away unawares to me, and carried away my daughters, as captives [taken] with the sword?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(194373,8,1,31,26,'And Laban said to Jacob, What hast thou done, that thou hast stolen away unawares to me, and carried away my daughters, as captives [taken] with the sword?'),
 (194374,8,1,31,27,'Wherefore didst thou flee away secretly, and steal away from me; and didst not tell me, that I might have sent thee away with mirth, and with songs, with tabret, and with harp?'),
 (194375,8,1,31,28,'And hast not suffered me to kiss my sons and my daughters? thou hast now done foolishly in [so] doing.'),
 (194376,8,1,31,29,'It is in the power of my hand to do you hurt: but the God of your father spake unto me yesternight, saying, Take thou heed that thou speak not to Jacob either good or bad.'),
@@ -969,8 +951,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (194420,8,1,32,18,'Then thou shalt say, [They be] thy servant Jacob''s; it [is] a present sent unto my lord Esau: and, behold, also he [is] behind us.'),
 (194421,8,1,32,19,'And so commanded he the second, and the third, and all that followed the droves, saying, On this manner shall ye speak unto Esau, when ye find him.'),
 (194422,8,1,32,20,'And say ye moreover, Behold, thy servant Jacob [is] behind us. For he said, I will appease him with the present that goeth before me, and afterward I will see his face; peradventure he will accept of me.'),
-(194423,8,1,32,21,'So went the present over before him: and himself lodged that night in the company.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(194423,8,1,32,21,'So went the present over before him: and himself lodged that night in the company.'),
 (194424,8,1,32,22,'And he rose up that night, and took his two wives, and his two womenservants, and his eleven sons, and passed over the ford Jabbok.'),
 (194425,8,1,32,23,'And he took them, and sent them over the brook, and sent over that he had.'),
 (194426,8,1,32,24,'And Jacob was left alone; and there wrestled a man with him until the breaking of the day.'),
@@ -1071,8 +1052,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (194520,8,1,36,6,'And Esau took his wives, and his sons, and his daughters, and all the persons of his house, and his cattle, and all his beasts, and all his substance, which he had got in the land of Canaan; and went into the country from the face of his brother Jacob.'),
 (194521,8,1,36,7,'For their riches were more than that they might dwell together; and the land wherein they were strangers could not bear them because of their cattle.'),
 (194522,8,1,36,8,'Thus dwelt Esau in mount Seir: Esau [is] Edom.'),
-(194523,8,1,36,9,'And these [are] the generations of Esau the father of the Edomites in mount Seir:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(194523,8,1,36,9,'And these [are] the generations of Esau the father of the Edomites in mount Seir:'),
 (194524,8,1,36,10,'These [are] the names of Esau''s sons; Eliphaz the son of Adah the wife of Esau, Reuel the son of Bashemath the wife of Esau.'),
 (194525,8,1,36,11,'And the sons of Eliphaz were Teman, Omar, Zepho, and Gatam, and Kenaz.'),
 (194526,8,1,36,12,'And Timna was concubine to Eliphaz Esau''s son; and she bare to Eliphaz Amalek: these [were] the sons of Adah Esau''s wife.'),
@@ -1122,8 +1102,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (194570,8,1,37,13,'And Israel said unto Joseph, Do not thy brethren feed [the flock] in Shechem? come, and I will send thee unto them. And he said to him, Here [am I].'),
 (194571,8,1,37,14,'And he said to him, Go, I pray thee, see whether it be well with thy brethren, and well with the flocks; and bring me word again. So he sent him out of the vale of Hebron, and he came to Shechem.'),
 (194572,8,1,37,15,'And a certain man found him, and, behold, [he was] wandering in the field: and the man asked him, saying, What seekest thou?'),
-(194573,8,1,37,16,'And he said, I seek my brethren: tell me, I pray thee, where they feed [their flocks].');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(194573,8,1,37,16,'And he said, I seek my brethren: tell me, I pray thee, where they feed [their flocks].'),
 (194574,8,1,37,17,'And the man said, They are departed hence; for I heard them say, Let us go to Dothan. And Joseph went after his brethren, and found them in Dothan.'),
 (194575,8,1,37,18,'And when they saw him afar off, even before he came near unto them, they conspired against him to slay him.'),
 (194576,8,1,37,19,'And they said one to another, Behold, this dreamer cometh.'),
@@ -1173,8 +1152,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (194620,8,1,38,27,'And it came to pass in the time of her travail, that, behold, twins [were] in her womb.'),
 (194621,8,1,38,28,'And it came to pass, when she travailed, that [the one] put out [his] hand: and the midwife took and bound upon his hand a scarlet thread, saying, This came out first.'),
 (194622,8,1,38,29,'And it came to pass, as he drew back his hand, that, behold, his brother came out: and she said, How hast thou broken forth? [this] breach [be] upon thee: therefore his name was called Pharez.'),
-(194623,8,1,38,30,'And afterward came out his brother, that had the scarlet thread upon his hand: and his name was called Zarah.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(194623,8,1,38,30,'And afterward came out his brother, that had the scarlet thread upon his hand: and his name was called Zarah.'),
 (194624,8,1,39,1,'And Joseph was brought down to Egypt; and Potiphar, an officer of Pharaoh, captain of the guard, an Egyptian, bought him of the hands of the Ishmeelites, which had brought him down thither.'),
 (194625,8,1,39,2,'And the LORD was with Joseph, and he was a prosperous man; and he was in the house of his master the Egyptian.'),
 (194626,8,1,39,3,'And his master saw that the LORD [was] with him, and that the LORD made all that he did to prosper in his hand.'),
@@ -1224,8 +1202,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (194670,8,1,41,1,'And it came to pass at the end of two full years, that Pharaoh dreamed: and, behold, he stood by the river.'),
 (194671,8,1,41,2,'And, behold, there came up out of the river seven well favoured kine and fatfleshed; and they fed in a meadow.'),
 (194672,8,1,41,3,'And, behold, seven other kine came up after them out of the river, ill favoured and leanfleshed; and stood by the [other] kine upon the brink of the river.'),
-(194673,8,1,41,4,'And the ill favoured and leanfleshed kine did eat up the seven well favoured and fat kine. So Pharaoh awoke.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(194673,8,1,41,4,'And the ill favoured and leanfleshed kine did eat up the seven well favoured and fat kine. So Pharaoh awoke.'),
 (194674,8,1,41,5,'And he slept and dreamed the second time: and, behold, seven ears of corn came up upon one stalk, rank and good.'),
 (194675,8,1,41,6,'And, behold, seven thin ears and blasted with the east wind sprung up after them.'),
 (194676,8,1,41,7,'And the seven thin ears devoured the seven rank and full ears. And Pharaoh awoke, and, behold, [it was] a dream.'),
@@ -1275,8 +1252,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (194720,8,1,41,51,'And Joseph called the name of the firstborn Manasseh: For God, [said he], hath made me forget all my toil, and all my father''s house.'),
 (194721,8,1,41,52,'And the name of the second called he Ephraim: For God hath caused me to be fruitful in the land of my affliction.'),
 (194722,8,1,41,53,'And the seven years of plenteousness, that was in the land of Egypt, were ended.'),
-(194723,8,1,41,54,'And the seven years of dearth began to come, according as Joseph had said: and the dearth was in all lands; but in all the land of Egypt there was bread.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(194723,8,1,41,54,'And the seven years of dearth began to come, according as Joseph had said: and the dearth was in all lands; but in all the land of Egypt there was bread.'),
 (194724,8,1,41,55,'And when all the land of Egypt was famished, the people cried to Pharaoh for bread: and Pharaoh said unto all the Egyptians, Go unto Joseph; what he saith to you, do.'),
 (194725,8,1,41,56,'And the famine was over all the face of the earth: And Joseph opened all the storehouses, and sold unto the Egyptians; and the famine waxed sore in the land of Egypt.'),
 (194726,8,1,41,57,'And all countries came into Egypt to Joseph for to buy [corn]; because that the famine was [so] sore in all lands.'),
@@ -1326,8 +1302,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (194770,8,1,43,6,'And Israel said, Wherefore dealt ye [so] ill with me, [as] to tell the man whether ye had yet a brother?'),
 (194771,8,1,43,7,'And they said, The man asked us straitly of our state, and of our kindred, saying, [Is] your father yet alive? have ye [another] brother? and we told him according to the tenor of these words: could we certainly know that he would say, Bring your brother down?'),
 (194772,8,1,43,8,'And Judah said unto Israel his father, Send the lad with me, and we will arise and go; that we may live, and not die, both we, and thou, [and] also our little ones.'),
-(194773,8,1,43,9,'I will be surety for him; of my hand shalt thou require him: if I bring him not unto thee, and set him before thee, then let me bear the blame for ever:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(194773,8,1,43,9,'I will be surety for him; of my hand shalt thou require him: if I bring him not unto thee, and set him before thee, then let me bear the blame for ever:'),
 (194774,8,1,43,10,'For except we had lingered, surely now we had returned this second time.'),
 (194775,8,1,43,11,'And their father Israel said unto them, If [it must be] so now, do this; take of the best fruits in the land in your vessels, and carry down the man a present, a little balm, and a little honey, spices, and myrrh, nuts, and almonds:'),
 (194776,8,1,43,12,'And take double money in your hand; and the money that was brought again in the mouth of your sacks, carry [it] again in your hand; peradventure it [was] an oversight:'),
@@ -1377,8 +1352,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (194820,8,1,44,22,'And we said unto my lord, The lad cannot leave his father: for [if] he should leave his father, [his father] would die.'),
 (194821,8,1,44,23,'And thou saidst unto thy servants, Except your youngest brother come down with you, ye shall see my face no more.'),
 (194822,8,1,44,24,'And it came to pass when we came up unto thy servant my father, we told him the words of my lord.'),
-(194823,8,1,44,25,'And our father said, Go again, [and] buy us a little food.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(194823,8,1,44,25,'And our father said, Go again, [and] buy us a little food.'),
 (194824,8,1,44,26,'And we said, We cannot go down: if our youngest brother be with us, then will we go down: for we may not see the man''s face, except our youngest brother [be] with us.'),
 (194825,8,1,44,27,'And thy servant my father said unto us, Ye know that my wife bare me two [sons]:'),
 (194826,8,1,44,28,'And the one went out from me, and I said, Surely he is torn in pieces; and I saw him not since:'),
@@ -1428,8 +1402,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (194870,8,1,46,10,'And the sons of Simeon; Jemuel, and Jamin, and Ohad, and Jachin, and Zohar, and Shaul the son of a Canaanitish woman.'),
 (194871,8,1,46,11,'And the sons of Levi; Gershon, Kohath, and Merari.'),
 (194872,8,1,46,12,'And the sons of Judah; Er, and Onan, and Shelah, and Pharez, and Zerah: but Er and Onan died in the land of Canaan. And the sons of Pharez were Hezron and Hamul.'),
-(194873,8,1,46,13,'And the sons of Issachar; Tola, and Phuvah, and Job, and Shimron.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(194873,8,1,46,13,'And the sons of Issachar; Tola, and Phuvah, and Job, and Shimron.'),
 (194874,8,1,46,14,'And the sons of Zebulun; Sered, and Elon, and Jahleel.'),
 (194875,8,1,46,15,'These [be] the sons of Leah, which she bare unto Jacob in Padanaram, with his daughter Dinah: all the souls of his sons and his daughters [were] thirty and three.'),
 (194876,8,1,46,16,'And the sons of Gad; Ziphion, and Haggi, Shuni, and Ezbon, Eri, and Arodi, and Areli.'),
@@ -1479,8 +1452,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (194920,8,1,47,26,'And Joseph made it a law over the land of Egypt unto this day, [that] Pharaoh should have the fifth [part]; except the land of the priests only, [which] became not Pharaoh''s.'),
 (194921,8,1,47,27,'And Israel dwelt in the land of Egypt, in the country of Goshen; and they had possessions therein, and grew, and multiplied exceedingly.'),
 (194922,8,1,47,28,'And Jacob lived in the land of Egypt seventeen years: so the whole age of Jacob was an hundred forty and seven years.'),
-(194923,8,1,47,29,'And the time drew nigh that Israel must die: and he called his son Joseph, and said unto him, If now I have found grace in thy sight, put, I pray thee, thy hand under my thigh, and deal kindly and truly with me; bury me not, I pray thee, in Egypt:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(194923,8,1,47,29,'And the time drew nigh that Israel must die: and he called his son Joseph, and said unto him, If now I have found grace in thy sight, put, I pray thee, thy hand under my thigh, and deal kindly and truly with me; bury me not, I pray thee, in Egypt:'),
 (194924,8,1,47,30,'But I will lie with my fathers, and thou shalt carry me out of Egypt, and bury me in their buryingplace. And he said, I will do as thou hast said.'),
 (194925,8,1,47,31,'And he said, Swear unto me. And he sware unto him. And Israel bowed himself upon the bed''s head.'),
 (194926,8,1,48,1,'And it came to pass after these things, that [one] told Joseph, Behold, thy father [is] sick: and he took with him his two sons, Manasseh and Ephraim.'),
@@ -1530,8 +1502,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (194970,8,1,49,23,'The archers have sorely grieved him, and shot [at him], and hated him:'),
 (194971,8,1,49,24,'But his bow abode in strength, and the arms of his hands were made strong by the hands of the mighty [God] of Jacob; (from thence [is] the shepherd, the stone of Israel:)'),
 (194972,8,1,49,25,'[Even] by the God of thy father, who shall help thee; and by the Almighty, who shall bless thee with blessings of heaven above, blessings of the deep that lieth under, blessings of the breasts, and of the womb:'),
-(194973,8,1,49,26,'The blessings of thy father have prevailed above the blessings of my progenitors unto the utmost bound of the everlasting hills: they shall be on the head of Joseph, and on the crown of the head of him that was separate from his brethren.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(194973,8,1,49,26,'The blessings of thy father have prevailed above the blessings of my progenitors unto the utmost bound of the everlasting hills: they shall be on the head of Joseph, and on the crown of the head of him that was separate from his brethren.'),
 (194974,8,1,49,27,'Benjamin shall ravin [as] a wolf: in the morning he shall devour the prey, and at night he shall divide the spoil.'),
 (194975,8,1,49,28,'All these [are] the twelve tribes of Israel: and this [is it] that their father spake unto them, and blessed them; every one according to his blessing he blessed them.'),
 (194976,8,1,49,29,'And he charged them, and said unto them, I am to be gathered unto my people: bury me with my fathers in the cave that [is] in the field of Ephron the Hittite,'),
@@ -1581,8 +1552,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (195020,8,2,1,14,'And they made their lives bitter with hard bondage, in morter, and in brick, and in all manner of service in the field: all their service, wherein they made them serve, [was] with rigour.'),
 (195021,8,2,1,15,'And the king of Egypt spake to the Hebrew midwives, of which the name of the one [was] Shiphrah, and the name of the other Puah:'),
 (195022,8,2,1,16,'And he said, When ye do the office of a midwife to the Hebrew women, and see [them] upon the stools; if it [be] a son, then ye shall kill him: but if it [be] a daughter, then she shall live.'),
-(195023,8,2,1,17,'But the midwives feared God, and did not as the king of Egypt commanded them, but saved the men children alive.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(195023,8,2,1,17,'But the midwives feared God, and did not as the king of Egypt commanded them, but saved the men children alive.'),
 (195024,8,2,1,18,'And the king of Egypt called for the midwives, and said unto them, Why have ye done this thing, and have saved the men children alive?'),
 (195025,8,2,1,19,'And the midwives said unto Pharaoh, Because the Hebrew women [are] not as the Egyptian women; for they [are] lively, and are delivered ere the midwives come in unto them.'),
 (195026,8,2,1,20,'Therefore God dealt well with the midwives: and the people multiplied, and waxed very mighty.'),
@@ -1632,8 +1602,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (195070,8,2,3,17,'And I have said, I will bring you up out of the affliction of Egypt unto the land of the Canaanites, and the Hittites, and the Amorites, and the Perizzites, and the Hivites, and the Jebusites, unto a land flowing with milk and honey.'),
 (195071,8,2,3,18,'And they shall hearken to thy voice: and thou shalt come, thou and the elders of Israel, unto the king of Egypt, and ye shall say unto him, The LORD God of the Hebrews hath met with us: and now let us go, we beseech thee, three days'' journey into the wilderness, that we may sacrifice to the LORD our God.'),
 (195072,8,2,3,19,'And I am sure that the king of Egypt will not let you go, no, not by a mighty hand.'),
-(195073,8,2,3,20,'And I will stretch out my hand, and smite Egypt with all my wonders which I will do in the midst thereof: and after that he will let you go.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(195073,8,2,3,20,'And I will stretch out my hand, and smite Egypt with all my wonders which I will do in the midst thereof: and after that he will let you go.'),
 (195074,8,2,3,21,'And I will give this people favour in the sight of the Egyptians: and it shall come to pass, that, when ye go, ye shall not go empty:'),
 (195075,8,2,3,22,'But every woman shall borrow of her neighbour, and of her that sojourneth in her house, jewels of silver, and jewels of gold, and raiment: and ye shall put [them] upon your sons, and upon your daughters; and ye shall spoil the Egyptians.'),
 (195076,8,2,4,1,'And Moses answered and said, But, behold, they will not believe me, nor hearken unto my voice: for they will say, The LORD hath not appeared unto thee.'),
@@ -1683,8 +1652,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (195120,8,2,5,14,'And the officers of the children of Israel, which Pharaoh''s taskmasters had set over them, were beaten, [and] demanded, Wherefore have ye not fulfilled your task in making brick both yesterday and to day, as heretofore?'),
 (195121,8,2,5,15,'Then the officers of the children of Israel came and cried unto Pharaoh, saying, Wherefore dealest thou thus with thy servants?'),
 (195122,8,2,5,16,'There is no straw given unto thy servants, and they say to us, Make brick: and, behold, thy servants [are] beaten; but the fault [is] in thine own people.'),
-(195123,8,2,5,17,'But he said, Ye [are] idle, [ye are] idle: therefore ye say, Let us go [and] do sacrifice to the LORD.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(195123,8,2,5,17,'But he said, Ye [are] idle, [ye are] idle: therefore ye say, Let us go [and] do sacrifice to the LORD.'),
 (195124,8,2,5,18,'Go therefore now, [and] work; for there shall no straw be given you, yet shall ye deliver the tale of bricks.'),
 (195125,8,2,5,19,'And the officers of the children of Israel did see [that] they [were] in evil [case], after it was said, Ye shall not minish [ought] from your bricks of your daily task.'),
 (195126,8,2,5,20,'And they met Moses and Aaron, who stood in the way, as they came forth from Pharaoh:'),
@@ -1734,8 +1702,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (195170,8,2,7,11,'Then Pharaoh also called the wise men and the sorcerers: now the magicians of Egypt, they also did in like manner with their enchantments.'),
 (195171,8,2,7,12,'For they cast down every man his rod, and they became serpents: but Aaron''s rod swallowed up their rods.'),
 (195172,8,2,7,13,'And he hardened Pharaoh''s heart, that he hearkened not unto them; as the LORD had said.'),
-(195173,8,2,7,14,'And the LORD said unto Moses, Pharaoh''s heart [is] hardened, he refuseth to let the people go.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(195173,8,2,7,14,'And the LORD said unto Moses, Pharaoh''s heart [is] hardened, he refuseth to let the people go.'),
 (195174,8,2,7,15,'Get thee unto Pharaoh in the morning; lo, he goeth out unto the water; and thou shalt stand by the river''s brink against he come; and the rod which was turned to a serpent shalt thou take in thine hand.'),
 (195175,8,2,7,16,'And thou shalt say unto him, The LORD God of the Hebrews hath sent me unto thee, saying, Let my people go, that they may serve me in the wilderness: and, behold, hitherto thou wouldest not hear.'),
 (195176,8,2,7,17,'Thus saith the LORD, In this thou shalt know that I [am] the LORD: behold, I will smite with the rod that [is] in mine hand upon the waters which [are] in the river, and they shall be turned to blood.'),
@@ -1785,8 +1752,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (195220,8,2,9,4,'And the LORD shall sever between the cattle of Israel and the cattle of Egypt: and there shall nothing die of all [that is] the children''s of Israel.'),
 (195221,8,2,9,5,'And the LORD appointed a set time, saying, To morrow the LORD shall do this thing in the land.'),
 (195222,8,2,9,6,'And the LORD did that thing on the morrow, and all the cattle of Egypt died: but of the cattle of the children of Israel died not one.'),
-(195223,8,2,9,7,'And Pharaoh sent, and, behold, there was not one of the cattle of the Israelites dead. And the heart of Pharaoh was hardened, and he did not let the people go.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(195223,8,2,9,7,'And Pharaoh sent, and, behold, there was not one of the cattle of the Israelites dead. And the heart of Pharaoh was hardened, and he did not let the people go.'),
 (195224,8,2,9,8,'And the LORD said unto Moses and unto Aaron, Take to you handfuls of ashes of the furnace, and let Moses sprinkle it toward the heaven in the sight of Pharaoh.'),
 (195225,8,2,9,9,'And it shall become small dust in all the land of Egypt, and shall be a boil breaking forth [with] blains upon man, and upon beast, throughout all the land of Egypt.'),
 (195226,8,2,9,10,'And they took ashes of the furnace, and stood before Pharaoh; and Moses sprinkled it up toward heaven; and it became a boil breaking forth [with] blains upon man, and upon beast.'),
@@ -1836,8 +1802,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (195270,8,2,10,19,'And the LORD turned a mighty strong west wind, which took away the locusts, and cast them into the Red sea; there remained not one locust in all the coasts of Egypt.'),
 (195271,8,2,10,20,'But the LORD hardened Pharaoh''s heart, so that he would not let the children of Israel go.'),
 (195272,8,2,10,21,'And the LORD said unto Moses, Stretch out thine hand toward heaven, that there may be darkness over the land of Egypt, even darkness [which] may be felt.'),
-(195273,8,2,10,22,'And Moses stretched forth his hand toward heaven; and there was a thick darkness in all the land of Egypt three days:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(195273,8,2,10,22,'And Moses stretched forth his hand toward heaven; and there was a thick darkness in all the land of Egypt three days:'),
 (195274,8,2,10,23,'They saw not one another, neither rose any from his place for three days: but all the children of Israel had light in their dwellings.'),
 (195275,8,2,10,24,'And Pharaoh called unto Moses, and said, Go ye, serve the LORD; only let your flocks and your herds be stayed: let your little ones also go with you.'),
 (195276,8,2,10,25,'And Moses said, Thou must give us also sacrifices and burnt offerings, that we may sacrifice unto the LORD our God.'),
@@ -1887,8 +1852,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (195320,8,2,12,30,'And Pharaoh rose up in the night, he, and all his servants, and all the Egyptians; and there was a great cry in Egypt; for [there was] not a house where [there was] not one dead.'),
 (195321,8,2,12,31,'And he called for Moses and Aaron by night, and said, Rise up, [and] get you forth from among my people, both ye and the children of Israel; and go, serve the LORD, as ye have said.'),
 (195322,8,2,12,32,'Also take your flocks and your herds, as ye have said, and be gone; and bless me also.'),
-(195323,8,2,12,33,'And the Egyptians were urgent upon the people, that they might send them out of the land in haste; for they said, We [be] all dead [men].');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(195323,8,2,12,33,'And the Egyptians were urgent upon the people, that they might send them out of the land in haste; for they said, We [be] all dead [men].'),
 (195324,8,2,12,34,'And the people took their dough before it was leavened, their kneadingtroughs being bound up in their clothes upon their shoulders.'),
 (195325,8,2,12,35,'And the children of Israel did according to the word of Moses; and they borrowed of the Egyptians jewels of silver, and jewels of gold, and raiment:'),
 (195326,8,2,12,36,'And the LORD gave the people favour in the sight of the Egyptians, so that they lent unto them [such things as they required]. And they spoiled the Egyptians.'),
@@ -1938,8 +1902,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (195370,8,2,14,7,'And he took six hundred chosen chariots, and all the chariots of Egypt, and captains over every one of them.'),
 (195371,8,2,14,8,'And the LORD hardened the heart of Pharaoh king of Egypt, and he pursued after the children of Israel: and the children of Israel went out with an high hand.'),
 (195372,8,2,14,9,'But the Egyptians pursued after them, all the horses [and] chariots of Pharaoh, and his horsemen, and his army, and overtook them encamping by the sea, beside Pihahiroth, before Baalzephon.'),
-(195373,8,2,14,10,'And when Pharaoh drew nigh, the children of Israel lifted up their eyes, and, behold, the Egyptians marched after them; and they were sore afraid: and the children of Israel cried out unto the LORD.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(195373,8,2,14,10,'And when Pharaoh drew nigh, the children of Israel lifted up their eyes, and, behold, the Egyptians marched after them; and they were sore afraid: and the children of Israel cried out unto the LORD.'),
 (195374,8,2,14,11,'And they said unto Moses, Because [there were] no graves in Egypt, hast thou taken us away to die in the wilderness? wherefore hast thou dealt thus with us, to carry us forth out of Egypt?'),
 (195375,8,2,14,12,'[Is] not this the word that we did tell thee in Egypt, saying, Let us alone, that we may serve the Egyptians? For [it had been] better for us to serve the Egyptians, than that we should die in the wilderness.'),
 (195376,8,2,14,13,'And Moses said unto the people, Fear ye not, stand still, and see the salvation of the LORD, which he will shew to you to day: for the Egyptians whom ye have seen to day, ye shall see them again no more for ever.'),
@@ -1989,8 +1952,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (195420,8,2,15,26,'And said, If thou wilt diligently hearken to the voice of the LORD thy God, and wilt do that which is right in his sight, and wilt give ear to his commandments, and keep all his statutes, I will put none of these diseases upon thee, which I have brought upon the Egyptians: for I [am] the LORD that healeth thee.'),
 (195421,8,2,15,27,'And they came to Elim, where [were] twelve wells of water, and threescore and ten palm trees: and they encamped there by the waters.'),
 (195422,8,2,16,1,'And they took their journey from Elim, and all the congregation of the children of Israel came unto the wilderness of Sin, which [is] between Elim and Sinai, on the fifteenth day of the second month after their departing out of the land of Egypt.'),
-(195423,8,2,16,2,'And the whole congregation of the children of Israel murmured against Moses and Aaron in the wilderness:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(195423,8,2,16,2,'And the whole congregation of the children of Israel murmured against Moses and Aaron in the wilderness:'),
 (195424,8,2,16,3,'And the children of Israel said unto them, Would to God we had died by the hand of the LORD in the land of Egypt, when we sat by the flesh pots, [and] when we did eat bread to the full; for ye have brought us forth into this wilderness, to kill this whole assembly with hunger.'),
 (195425,8,2,16,4,'Then said the LORD unto Moses, Behold, I will rain bread from heaven for you; and the people shall go out and gather a certain rate every day, that I may prove them, whether they will walk in my law, or no.'),
 (195426,8,2,16,5,'And it shall come to pass, that on the sixth day they shall prepare [that] which they bring in; and it shall be twice as much as they gather daily.'),
@@ -2091,8 +2053,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (195520,8,2,19,20,'And the LORD came down upon mount Sinai, on the top of the mount: and the LORD called Moses [up] to the top of the mount; and Moses went up.'),
 (195521,8,2,19,21,'And the LORD said unto Moses, Go down, charge the people, lest they break through unto the LORD to gaze, and many of them perish.'),
 (195522,8,2,19,22,'And let the priests also, which come near to the LORD, sanctify themselves, lest the LORD break forth upon them.'),
-(195523,8,2,19,23,'And Moses said unto the LORD, The people cannot come up to mount Sinai: for thou chargedst us, saying, Set bounds about the mount, and sanctify it.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(195523,8,2,19,23,'And Moses said unto the LORD, The people cannot come up to mount Sinai: for thou chargedst us, saying, Set bounds about the mount, and sanctify it.'),
 (195524,8,2,19,24,'And the LORD said unto him, Away, get thee down, and thou shalt come up, thou, and Aaron with thee: but let not the priests and the people break through to come up unto the LORD, lest he break forth upon them.'),
 (195525,8,2,19,25,'So Moses went down unto the people, and spake unto them.'),
 (195526,8,2,20,1,'And God spake all these words, saying,'),
@@ -2142,8 +2103,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (195570,8,2,21,19,'If he rise again, and walk abroad upon his staff, then shall he that smote [him] be quit: only he shall pay [for] the loss of his time, and shall cause [him] to be thoroughly healed.'),
 (195571,8,2,21,20,'And if a man smite his servant, or his maid, with a rod, and he die under his hand; he shall be surely punished.'),
 (195572,8,2,21,21,'Notwithstanding, if he continue a day or two, he shall not be punished: for he [is] his money.'),
-(195573,8,2,21,22,'If men strive, and hurt a woman with child, so that her fruit depart [from her], and yet no mischief follow: he shall be surely punished, according as the woman''s husband will lay upon him; and he shall pay as the judges [determine].');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(195573,8,2,21,22,'If men strive, and hurt a woman with child, so that her fruit depart [from her], and yet no mischief follow: he shall be surely punished, according as the woman''s husband will lay upon him; and he shall pay as the judges [determine].'),
 (195574,8,2,21,23,'And if [any] mischief follow, then thou shalt give life for life,'),
 (195575,8,2,21,24,'Eye for eye, tooth for tooth, hand for hand, foot for foot,'),
 (195576,8,2,21,25,'Burning for burning, wound for wound, stripe for stripe.'),
@@ -2193,8 +2153,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (195620,8,2,23,2,'Thou shalt not follow a multitude to [do] evil; neither shalt thou speak in a cause to decline after many to wrest [judgment]:'),
 (195621,8,2,23,3,'Neither shalt thou countenance a poor man in his cause.'),
 (195622,8,2,23,4,'If thou meet thine enemy''s ox or his ass going astray, thou shalt surely bring it back to him again.'),
-(195623,8,2,23,5,'If thou see the ass of him that hateth thee lying under his burden, and wouldest forbear to help him, thou shalt surely help with him.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(195623,8,2,23,5,'If thou see the ass of him that hateth thee lying under his burden, and wouldest forbear to help him, thou shalt surely help with him.'),
 (195624,8,2,23,6,'Thou shalt not wrest the judgment of thy poor in his cause.'),
 (195625,8,2,23,7,'Keep thee far from a false matter; and the innocent and righteous slay thou not: for I will not justify the wicked.'),
 (195626,8,2,23,8,'And thou shalt take no gift: for the gift blindeth the wise, and perverteth the words of the righteous.'),
@@ -2244,8 +2203,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (195670,8,2,25,1,'And the LORD spake unto Moses, saying,'),
 (195671,8,2,25,2,'Speak unto the children of Israel, that they bring me an offering: of every man that giveth it willingly with his heart ye shall take my offering.'),
 (195672,8,2,25,3,'And this [is] the offering which ye shall take of them; gold, and silver, and brass,'),
-(195673,8,2,25,4,'And blue, and purple, and scarlet, and fine linen, and goats'' [hair],');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(195673,8,2,25,4,'And blue, and purple, and scarlet, and fine linen, and goats'' [hair],'),
 (195674,8,2,25,5,'And rams'' skins dyed red, and badgers'' skins, and shittim wood,'),
 (195675,8,2,25,6,'Oil for the light, spices for anointing oil, and for sweet incense,'),
 (195676,8,2,25,7,'Onyx stones, and stones to be set in the ephod, and in the breastplate.'),
@@ -2295,8 +2253,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (195720,8,2,26,11,'And thou shalt make fifty taches of brass, and put the taches into the loops, and couple the tent together, that it may be one.'),
 (195721,8,2,26,12,'And the remnant that remaineth of the curtains of the tent, the half curtain that remaineth, shall hang over the backside of the tabernacle.'),
 (195722,8,2,26,13,'And a cubit on the one side, and a cubit on the other side of that which remaineth in the length of the curtains of the tent, it shall hang over the sides of the tabernacle on this side and on that side, to cover it.'),
-(195723,8,2,26,14,'And thou shalt make a covering for the tent [of] rams'' skins dyed red, and a covering above [of] badgers'' skins.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(195723,8,2,26,14,'And thou shalt make a covering for the tent [of] rams'' skins dyed red, and a covering above [of] badgers'' skins.'),
 (195724,8,2,26,15,'And thou shalt make boards for the tabernacle [of] shittim wood standing up.'),
 (195725,8,2,26,16,'Ten cubits [shall be] the length of a board, and a cubit and a half [shall be] the breadth of one board.'),
 (195726,8,2,26,17,'Two tenons [shall there be] in one board, set in order one against another: thus shalt thou make for all the boards of the tabernacle.'),
@@ -2346,8 +2303,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (195770,8,2,28,3,'And thou shalt speak unto all [that are] wise hearted, whom I have filled with the spirit of wisdom, that they may make Aaron''s garments to consecrate him, that he may minister unto me in the priest''s office.'),
 (195771,8,2,28,4,'And these [are] the garments which they shall make; a breastplate, and an ephod, and a robe, and a broidered coat, a mitre, and a girdle: and they shall make holy garments for Aaron thy brother, and his sons, that he may minister unto me in the priest''s office.'),
 (195772,8,2,28,5,'And they shall take gold, and blue, and purple, and scarlet, and fine linen.'),
-(195773,8,2,28,6,'And they shall make the ephod [of] gold, [of] blue, and [of] purple, [of] scarlet, and fine twined linen, with cunning work.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(195773,8,2,28,6,'And they shall make the ephod [of] gold, [of] blue, and [of] purple, [of] scarlet, and fine twined linen, with cunning work.'),
 (195774,8,2,28,7,'It shall have the two shoulderpieces thereof joined at the two edges thereof; and [so] it shall be joined together.'),
 (195775,8,2,28,8,'And the curious girdle of the ephod, which [is] upon it, shall be of the same, according to the work thereof; [even of] gold, [of] blue, and purple, and scarlet, and fine twined linen.'),
 (195776,8,2,28,9,'And thou shalt take two onyx stones, and grave on them the names of the children of Israel:'),
@@ -2397,8 +2353,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (195820,8,2,29,10,'And thou shalt cause a bullock to be brought before the tabernacle of the congregation: and Aaron and his sons shall put their hands upon the head of the bullock.'),
 (195821,8,2,29,11,'And thou shalt kill the bullock before the LORD, [by] the door of the tabernacle of the congregation.'),
 (195822,8,2,29,12,'And thou shalt take of the blood of the bullock, and put [it] upon the horns of the altar with thy finger, and pour all the blood beside the bottom of the altar.'),
-(195823,8,2,29,13,'And thou shalt take all the fat that covereth the inwards, and the caul [that is] above the liver, and the two kidneys, and the fat that [is] upon them, and burn [them] upon the altar.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(195823,8,2,29,13,'And thou shalt take all the fat that covereth the inwards, and the caul [that is] above the liver, and the two kidneys, and the fat that [is] upon them, and burn [them] upon the altar.'),
 (195824,8,2,29,14,'But the flesh of the bullock, and his skin, and his dung, shalt thou burn with fire without the camp: it [is] a sin offering.'),
 (195825,8,2,29,15,'Thou shalt also take one ram; and Aaron and his sons shall put their hands upon the head of the ram.'),
 (195826,8,2,29,16,'And thou shalt slay the ram, and thou shalt take his blood, and sprinkle [it] round about upon the altar.'),
@@ -2448,8 +2403,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (195870,8,2,30,14,'Every one that passeth among them that are numbered, from twenty years old and above, shall give an offering unto the LORD.'),
 (195871,8,2,30,15,'The rich shall not give more, and the poor shall not give less than half a shekel, when [they] give an offering unto the LORD, to make an atonement for your souls.'),
 (195872,8,2,30,16,'And thou shalt take the atonement money of the children of Israel, and shalt appoint it for the service of the tabernacle of the congregation; that it may be a memorial unto the children of Israel before the LORD, to make an atonement for your souls.'),
-(195873,8,2,30,17,'And the LORD spake unto Moses, saying,');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(195873,8,2,30,17,'And the LORD spake unto Moses, saying,'),
 (195874,8,2,30,18,'Thou shalt also make a laver [of] brass, and his foot [also of] brass, to wash [withal]: and thou shalt put it between the tabernacle of the congregation and the altar, and thou shalt put water therein.'),
 (195875,8,2,30,19,'For Aaron and his sons shall wash their hands and their feet thereat:'),
 (195876,8,2,30,20,'When they go into the tabernacle of the congregation, they shall wash with water, that they die not; or when they come near to the altar to minister, to burn offering made by fire unto the LORD:'),
@@ -2499,8 +2453,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (195920,8,2,32,8,'They have turned aside quickly out of the way which I commanded them: they have made them a molten calf, and have worshipped it, and have sacrificed thereunto, and said, These [be] thy gods, O Israel, which have brought thee up out of the land of Egypt.'),
 (195921,8,2,32,9,'And the LORD said unto Moses, I have seen this people, and, behold, it [is] a stiffnecked people:'),
 (195922,8,2,32,10,'Now therefore let me alone, that my wrath may wax hot against them, and that I may consume them: and I will make of thee a great nation.'),
-(195923,8,2,32,11,'And Moses besought the LORD his God, and said, LORD, why doth thy wrath wax hot against thy people, which thou hast brought forth out of the land of Egypt with great power, and with a mighty hand?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(195923,8,2,32,11,'And Moses besought the LORD his God, and said, LORD, why doth thy wrath wax hot against thy people, which thou hast brought forth out of the land of Egypt with great power, and with a mighty hand?'),
 (195924,8,2,32,12,'Wherefore should the Egyptians speak, and say, For mischief did he bring them out, to slay them in the mountains, and to consume them from the face of the earth? Turn from thy fierce wrath, and repent of this evil against thy people.'),
 (195925,8,2,32,13,'Remember Abraham, Isaac, and Israel, thy servants, to whom thou swarest by thine own self, and saidst unto them, I will multiply your seed as the stars of heaven, and all this land that I have spoken of will I give unto your seed, and they shall inherit [it] for ever.'),
 (195926,8,2,32,14,'And the LORD repented of the evil which he thought to do unto his people.'),
@@ -2550,8 +2503,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (195970,8,2,33,23,'And I will take away mine hand, and thou shalt see my back parts: but my face shall not be seen.'),
 (195971,8,2,34,1,'And the LORD said unto Moses, Hew thee two tables of stone like unto the first: and I will write upon [these] tables the words that were in the first tables, which thou brakest.'),
 (195972,8,2,34,2,'And be ready in the morning, and come up in the morning unto mount Sinai, and present thyself there to me in the top of the mount.'),
-(195973,8,2,34,3,'And no man shall come up with thee, neither let any man be seen throughout all the mount; neither let the flocks nor herds feed before that mount.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(195973,8,2,34,3,'And no man shall come up with thee, neither let any man be seen throughout all the mount; neither let the flocks nor herds feed before that mount.'),
 (195974,8,2,34,4,'And he hewed two tables of stone like unto the first; and Moses rose up early in the morning, and went up unto mount Sinai, as the LORD had commanded him, and took in his hand the two tables of stone.'),
 (195975,8,2,34,5,'And the LORD descended in the cloud, and stood with him there, and proclaimed the name of the LORD.'),
 (195976,8,2,34,6,'And the LORD passed by before him, and proclaimed, The LORD, The LORD God, merciful and gracious, longsuffering, and abundant in goodness and truth,'),
@@ -2601,8 +2553,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (196020,8,2,35,15,'And the incense altar, and his staves, and the anointing oil, and the sweet incense, and the hanging for the door at the entering in of the tabernacle,'),
 (196021,8,2,35,16,'The altar of burnt offering, with his brasen grate, his staves, and all his vessels, the laver and his foot,'),
 (196022,8,2,35,17,'The hangings of the court, his pillars, and their sockets, and the hanging for the door of the court,'),
-(196023,8,2,35,18,'The pins of the tabernacle, and the pins of the court, and their cords,');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(196023,8,2,35,18,'The pins of the tabernacle, and the pins of the court, and their cords,'),
 (196024,8,2,35,19,'The cloths of service, to do service in the holy [place], the holy garments for Aaron the priest, and the garments of his sons, to minister in the priest''s office.'),
 (196025,8,2,35,20,'And all the congregation of the children of Israel departed from the presence of Moses.'),
 (196026,8,2,35,21,'And they came, every one whose heart stirred him up, and every one whom his spirit made willing, [and] they brought the LORD''s offering to the work of the tabernacle of the congregation, and for all his service, and for the holy garments.'),
@@ -2652,8 +2603,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (196070,8,2,36,30,'And there were eight boards; and their sockets [were] sixteen sockets of silver, under every board two sockets.'),
 (196071,8,2,36,31,'And he made bars of shittim wood; five for the boards of the one side of the tabernacle,'),
 (196072,8,2,36,32,'And five bars for the boards of the other side of the tabernacle, and five bars for the boards of the tabernacle for the sides westward.'),
-(196073,8,2,36,33,'And he made the middle bar to shoot through the boards from the one end to the other.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(196073,8,2,36,33,'And he made the middle bar to shoot through the boards from the one end to the other.'),
 (196074,8,2,36,34,'And he overlaid the boards with gold, and made their rings [of] gold [to be] places for the bars, and overlaid the bars with gold.'),
 (196075,8,2,36,35,'And he made a vail [of] blue, and purple, and scarlet, and fine twined linen: [with] cherubims made he it of cunning work.'),
 (196076,8,2,36,36,'And he made thereunto four pillars [of] shittim [wood], and overlaid them with gold: their hooks [were of] gold; and he cast for them four sockets of silver.'),
@@ -2703,8 +2653,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (196120,8,2,38,13,'And for the east side eastward fifty cubits.'),
 (196121,8,2,38,14,'The hangings of the one side [of the gate were] fifteen cubits; their pillars three, and their sockets three.'),
 (196122,8,2,38,15,'And for the other side of the court gate, on this hand and that hand, [were] hangings of fifteen cubits; their pillars three, and their sockets three.'),
-(196123,8,2,38,16,'All the hangings of the court round about [were] of fine twined linen.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(196123,8,2,38,16,'All the hangings of the court round about [were] of fine twined linen.'),
 (196124,8,2,38,17,'And the sockets for the pillars [were of] brass; the hooks of the pillars and their fillets [of] silver; and the overlaying of their chapiters [of] silver; and all the pillars of the court [were] filleted with silver.'),
 (196125,8,2,38,18,'And the hanging for the gate of the court [was] needlework, [of] blue, and purple, and scarlet, and fine twined linen: and twenty cubits [was] the length, and the height in the breadth [was] five cubits, answerable to the hangings of the court.'),
 (196126,8,2,38,19,'And their pillars [were] four, and their sockets [of] brass four; their hooks [of] silver, and the overlaying of their chapiters and their fillets [of] silver.'),
@@ -2754,8 +2703,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (196170,8,2,39,32,'Thus was all the work of the tabernacle of the tent of the congregation finished: and the children of Israel did according to all that the LORD commanded Moses, so did they.'),
 (196171,8,2,39,33,'And they brought the tabernacle unto Moses, the tent, and all his furniture, his taches, his boards, his bars, and his pillars, and his sockets,'),
 (196172,8,2,39,34,'And the covering of rams'' skins dyed red, and the covering of badgers'' skins, and the vail of the covering,'),
-(196173,8,2,39,35,'The ark of the testimony, and the staves thereof, and the mercy seat,');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(196173,8,2,39,35,'The ark of the testimony, and the staves thereof, and the mercy seat,'),
 (196174,8,2,39,36,'The table, [and] all the vessels thereof, and the shewbread,'),
 (196175,8,2,39,37,'The pure candlestick, [with] the lamps thereof, [even with] the lamps to be set in order, and all the vessels thereof, and the oil for light,'),
 (196176,8,2,39,38,'And the golden altar, and the anointing oil, and the sweet incense, and the hanging for the tabernacle door,'),
@@ -2805,8 +2753,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (196220,8,3,1,1,'And the LORD called unto Moses, and spake unto him out of the tabernacle of the congregation, saying,'),
 (196221,8,3,1,2,'Speak unto the children of Israel, and say unto them, If any man of you bring an offering unto the LORD, ye shall bring your offering of the cattle, [even] of the herd, and of the flock.'),
 (196222,8,3,1,3,'If his offering [be] a burnt sacrifice of the herd, let him offer a male without blemish: he shall offer it of his own voluntary will at the door of the tabernacle of the congregation before the LORD.'),
-(196223,8,3,1,4,'And he shall put his hand upon the head of the burnt offering; and it shall be accepted for him to make atonement for him.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(196223,8,3,1,4,'And he shall put his hand upon the head of the burnt offering; and it shall be accepted for him to make atonement for him.'),
 (196224,8,3,1,5,'And he shall kill the bullock before the LORD: and the priests, Aaron''s sons, shall bring the blood, and sprinkle the blood round about upon the altar that [is by] the door of the tabernacle of the congregation.'),
 (196225,8,3,1,6,'And he shall flay the burnt offering, and cut it into his pieces.'),
 (196226,8,3,1,7,'And the sons of Aaron the priest shall put fire upon the altar, and lay the wood in order upon the fire:'),
@@ -2856,8 +2803,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (196270,8,3,4,1,'And the LORD spake unto Moses, saying,'),
 (196271,8,3,4,2,'Speak unto the children of Israel, saying, If a soul shall sin through ignorance against any of the commandments of the LORD [concerning things] which ought not to be done, and shall do against any of them:'),
 (196272,8,3,4,3,'If the priest that is anointed do sin according to the sin of the people; then let him bring for his sin, which he hath sinned, a young bullock without blemish unto the LORD for a sin offering.'),
-(196273,8,3,4,4,'And he shall bring the bullock unto the door of the tabernacle of the congregation before the LORD; and shall lay his hand upon the bullock''s head, and kill the bullock before the LORD.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(196273,8,3,4,4,'And he shall bring the bullock unto the door of the tabernacle of the congregation before the LORD; and shall lay his hand upon the bullock''s head, and kill the bullock before the LORD.'),
 (196274,8,3,4,5,'And the priest that is anointed shall take of the bullock''s blood, and bring it to the tabernacle of the congregation:'),
 (196275,8,3,4,6,'And the priest shall dip his finger in the blood, and sprinkle of the blood seven times before the LORD, before the vail of the sanctuary.'),
 (196276,8,3,4,7,'And the priest shall put [some] of the blood upon the horns of the altar of sweet incense before the LORD, which [is] in the tabernacle of the congregation; and shall pour all the blood of the bullock at the bottom of the altar of the burnt offering, which [is at] the door of the tabernacle of the congregation.'),
@@ -2907,8 +2853,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (196320,8,3,5,16,'And he shall make amends for the harm that he hath done in the holy thing, and shall add the fifth part thereto, and give it unto the priest: and the priest shall make an atonement for him with the ram of the trespass offering, and it shall be forgiven him.'),
 (196321,8,3,5,17,'And if a soul sin, and commit any of these things which are forbidden to be done by the commandments of the LORD; though he wist [it] not, yet is he guilty, and shall bear his iniquity.'),
 (196322,8,3,5,18,'And he shall bring a ram without blemish out of the flock, with thy estimation, for a trespass offering, unto the priest: and the priest shall make an atonement for him concerning his ignorance wherein he erred and wist [it] not, and it shall be forgiven him.'),
-(196323,8,3,5,19,'It [is] a trespass offering: he hath certainly trespassed against the LORD.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(196323,8,3,5,19,'It [is] a trespass offering: he hath certainly trespassed against the LORD.'),
 (196324,8,3,6,1,'And the LORD spake unto Moses, saying,'),
 (196325,8,3,6,2,'If a soul sin, and commit a trespass against the LORD, and lie unto his neighbour in that which was delivered him to keep, or in fellowship, or in a thing taken away by violence, or hath deceived his neighbour;'),
 (196326,8,3,6,3,'Or have found that which was lost, and lieth concerning it, and sweareth falsely; in any of all these that a man doeth, sinning therein:'),
@@ -2958,8 +2903,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (196370,8,3,7,17,'But the remainder of the flesh of the sacrifice on the third day shall be burnt with fire.'),
 (196371,8,3,7,18,'And if [any] of the flesh of the sacrifice of his peace offerings be eaten at all on the third day, it shall not be accepted, neither shall it be imputed unto him that offereth it: it shall be an abomination, and the soul that eateth of it shall bear his iniquity.'),
 (196372,8,3,7,19,'And the flesh that toucheth any unclean [thing] shall not be eaten; it shall be burnt with fire: and as for the flesh, all that be clean shall eat thereof.'),
-(196373,8,3,7,20,'But the soul that eateth [of] the flesh of the sacrifice of peace offerings, that [pertain] unto the LORD, having his uncleanness upon him, even that soul shall be cut off from his people.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(196373,8,3,7,20,'But the soul that eateth [of] the flesh of the sacrifice of peace offerings, that [pertain] unto the LORD, having his uncleanness upon him, even that soul shall be cut off from his people.'),
 (196374,8,3,7,21,'Moreover the soul that shall touch any unclean [thing, as] the uncleanness of man, or [any] unclean beast, or any abominable unclean [thing], and eat of the flesh of the sacrifice of peace offerings, which [pertain] unto the LORD, even that soul shall be cut off from his people.'),
 (196375,8,3,7,22,'And the LORD spake unto Moses, saying,'),
 (196376,8,3,7,23,'Speak unto the children of Israel, saying, Ye shall eat no manner of fat, of ox, or of sheep, or of goat.'),
@@ -3009,8 +2953,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (196420,8,3,8,29,'And Moses took the breast, and waved it [for] a wave offering before the LORD: [for] of the ram of consecration it was Moses'' part; as the LORD commanded Moses.'),
 (196421,8,3,8,30,'And Moses took of the anointing oil, and of the blood which [was] upon the altar, and sprinkled [it] upon Aaron, [and] upon his garments, and upon his sons, and upon his sons'' garments with him; and sanctified Aaron, [and] his garments, and his sons, and his sons'' garments with him.'),
 (196422,8,3,8,31,'And Moses said unto Aaron and to his sons, Boil the flesh [at] the door of the tabernacle of the congregation: and there eat it with the bread that [is] in the basket of consecrations, as I commanded, saying, Aaron and his sons shall eat it.'),
-(196423,8,3,8,32,'And that which remaineth of the flesh and of the bread shall ye burn with fire.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(196423,8,3,8,32,'And that which remaineth of the flesh and of the bread shall ye burn with fire.'),
 (196424,8,3,8,33,'And ye shall not go out of the door of the tabernacle of the congregation [in] seven days, until the days of your consecration be at an end: for seven days shall he consecrate you.'),
 (196425,8,3,8,34,'As he hath done this day, [so] the LORD hath commanded to do, to make an atonement for you.'),
 (196426,8,3,8,35,'Therefore shall ye abide [at] the door of the tabernacle of the congregation day and night seven days, and keep the charge of the LORD, that ye die not: for so I am commanded.'),
@@ -3111,8 +3054,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (196520,8,3,12,2,'Speak unto the children of Israel, saying, If a woman have conceived seed, and born a man child: then she shall be unclean seven days; according to the days of the separation for her infirmity shall she be unclean.'),
 (196521,8,3,12,3,'And in the eighth day the flesh of his foreskin shall be circumcised.'),
 (196522,8,3,12,4,'And she shall then continue in the blood of her purifying three and thirty days; she shall touch no hallowed thing, nor come into the sanctuary, until the days of her purifying be fulfilled.'),
-(196523,8,3,12,5,'But if she bear a maid child, then she shall be unclean two weeks, as in her separation: and she shall continue in the blood of her purifying threescore and six days.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(196523,8,3,12,5,'But if she bear a maid child, then she shall be unclean two weeks, as in her separation: and she shall continue in the blood of her purifying threescore and six days.'),
 (196524,8,3,12,6,'And when the days of her purifying are fulfilled, for a son, or for a daughter, she shall bring a lamb of the first year for a burnt offering, and a young pigeon, or a turtledove, for a sin offering, unto the door of the tabernacle of the congregation, unto the priest:'),
 (196525,8,3,12,7,'Who shall offer it before the LORD, and make an atonement for her; and she shall be cleansed from the issue of her blood. This [is] the law for her that hath born a male or a female.'),
 (196526,8,3,12,8,'And if she be not able to bring a lamb, then she shall bring two turtles, or two young pigeons; the one for the burnt offering, and the other for a sin offering: and the priest shall make an atonement for her, and she shall be clean.'),
@@ -3162,8 +3104,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (196570,8,3,13,44,'He is a leprous man, he [is] unclean: the priest shall pronounce him utterly unclean; his plague [is] in his head.'),
 (196571,8,3,13,45,'And the leper in whom the plague [is], his clothes shall be rent, and his head bare, and he shall put a covering upon his upper lip, and shall cry, Unclean, unclean.'),
 (196572,8,3,13,46,'All the days wherein the plague [shall be] in him he shall be defiled; he [is] unclean: he shall dwell alone; without the camp [shall] his habitation [be].'),
-(196573,8,3,13,47,'The garment also that the plague of leprosy is in, [whether it be] a woollen garment, or a linen garment;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(196573,8,3,13,47,'The garment also that the plague of leprosy is in, [whether it be] a woollen garment, or a linen garment;'),
 (196574,8,3,13,48,'Whether [it be] in the warp, or woof; of linen, or of woollen; whether in a skin, or in any thing made of skin;'),
 (196575,8,3,13,49,'And if the plague be greenish or reddish in the garment, or in the skin, either in the warp, or in the woof, or in any thing of skin; it [is] a plague of leprosy, and shall be shewed unto the priest:'),
 (196576,8,3,13,50,'And the priest shall look upon the plague, and shut up [it that hath] the plague seven days:'),
@@ -3213,8 +3154,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (196620,8,3,14,35,'And he that owneth the house shall come and tell the priest, saying, It seemeth to me [there is] as it were a plague in the house:'),
 (196621,8,3,14,36,'Then the priest shall command that they empty the house, before the priest go [into it] to see the plague, that all that [is] in the house be not made unclean: and afterward the priest shall go in to see the house:'),
 (196622,8,3,14,37,'And he shall look on the plague, and, behold, [if] the plague [be] in the walls of the house with hollow strakes, greenish or reddish, which in sight [are] lower than the wall;'),
-(196623,8,3,14,38,'Then the priest shall go out of the house to the door of the house, and shut up the house seven days:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(196623,8,3,14,38,'Then the priest shall go out of the house to the door of the house, and shut up the house seven days:'),
 (196624,8,3,14,39,'And the priest shall come again the seventh day, and shall look: and, behold, [if] the plague be spread in the walls of the house;'),
 (196625,8,3,14,40,'Then the priest shall command that they take away the stones in which the plague [is], and they shall cast them into an unclean place without the city:'),
 (196626,8,3,14,41,'And he shall cause the house to be scraped within round about, and they shall pour out the dust that they scrape off without the city into an unclean place:'),
@@ -3264,8 +3204,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (196670,8,3,15,28,'But if she be cleansed of her issue, then she shall number to herself seven days, and after that she shall be clean.'),
 (196671,8,3,15,29,'And on the eighth day she shall take unto her two turtles, or two young pigeons, and bring them unto the priest, to the door of the tabernacle of the congregation.'),
 (196672,8,3,15,30,'And the priest shall offer the one [for] a sin offering, and the other [for] a burnt offering; and the priest shall make an atonement for her before the LORD for the issue of her uncleanness.'),
-(196673,8,3,15,31,'Thus shall ye separate the children of Israel from their uncleanness; that they die not in their uncleanness, when they defile my tabernacle that [is] among them.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(196673,8,3,15,31,'Thus shall ye separate the children of Israel from their uncleanness; that they die not in their uncleanness, when they defile my tabernacle that [is] among them.'),
 (196674,8,3,15,32,'This [is] the law of him that hath an issue, and [of him] whose seed goeth from him, and is defiled therewith;'),
 (196675,8,3,15,33,'And of her that is sick of her flowers, and of him that hath an issue, of the man, and of the woman, and of him that lieth with her that is unclean.'),
 (196676,8,3,16,1,'And the LORD spake unto Moses after the death of the two sons of Aaron, when they offered before the LORD, and died;'),
@@ -3315,8 +3254,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (196720,8,3,17,11,'For the life of the flesh [is] in the blood: and I have given it to you upon the altar to make an atonement for your souls: for it [is] the blood [that] maketh an atonement for the soul.'),
 (196721,8,3,17,12,'Therefore I said unto the children of Israel, No soul of you shall eat blood, neither shall any stranger that sojourneth among you eat blood.'),
 (196722,8,3,17,13,'And whatsoever man [there be] of the children of Israel, or of the strangers that sojourn among you, which hunteth and catcheth any beast or fowl that may be eaten; he shall even pour out the blood thereof, and cover it with dust.'),
-(196723,8,3,17,14,'For [it is] the life of all flesh; the blood of it [is] for the life thereof: therefore I said unto the children of Israel, Ye shall eat the blood of no manner of flesh: for the life of all flesh [is] the blood thereof: whosoever eateth it shall be cut off.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(196723,8,3,17,14,'For [it is] the life of all flesh; the blood of it [is] for the life thereof: therefore I said unto the children of Israel, Ye shall eat the blood of no manner of flesh: for the life of all flesh [is] the blood thereof: whosoever eateth it shall be cut off.'),
 (196724,8,3,17,15,'And every soul that eateth that which died [of itself], or that which was torn [with beasts, whether it be] one of your own country, or a stranger, he shall both wash his clothes, and bathe [himself] in water, and be unclean until the even: then shall he be clean.'),
 (196725,8,3,17,16,'But if he wash [them] not, nor bathe his flesh; then he shall bear his iniquity.'),
 (196726,8,3,18,1,'And the LORD spake unto Moses, saying,'),
@@ -3366,8 +3304,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (196770,8,3,19,15,'Ye shall do no unrighteousness in judgment: thou shalt not respect the person of the poor, nor honour the person of the mighty: [but] in righteousness shalt thou judge thy neighbour.'),
 (196771,8,3,19,16,'Thou shalt not go up and down [as] a talebearer among thy people: neither shalt thou stand against the blood of thy neighbour: I [am] the LORD.'),
 (196772,8,3,19,17,'Thou shalt not hate thy brother in thine heart: thou shalt in any wise rebuke thy neighbour, and not suffer sin upon him.'),
-(196773,8,3,19,18,'Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I [am] the LORD.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(196773,8,3,19,18,'Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I [am] the LORD.'),
 (196774,8,3,19,19,'Ye shall keep my statutes. Thou shalt not let thy cattle gender with a diverse kind: thou shalt not sow thy field with mingled seed: neither shall a garment mingled of linen and woollen come upon thee.'),
 (196775,8,3,19,20,'And whosoever lieth carnally with a woman, that [is] a bondmaid, betrothed to an husband, and not at all redeemed, nor freedom given her; she shall be scourged; they shall not be put to death, because she was not free.'),
 (196776,8,3,19,21,'And he shall bring his trespass offering unto the LORD, unto the door of the tabernacle of the congregation, [even] a ram for a trespass offering.'),
@@ -3417,8 +3354,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (196820,8,3,21,1,'And the LORD said unto Moses, Speak unto the priests the sons of Aaron, and say unto them, There shall none be defiled for the dead among his people:'),
 (196821,8,3,21,2,'But for his kin, that is near unto him, [that is], for his mother, and for his father, and for his son, and for his daughter, and for his brother,'),
 (196822,8,3,21,3,'And for his sister a virgin, that is nigh unto him, which hath had no husband; for her may he be defiled.'),
-(196823,8,3,21,4,'[But] he shall not defile himself, [being] a chief man among his people, to profane himself.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(196823,8,3,21,4,'[But] he shall not defile himself, [being] a chief man among his people, to profane himself.'),
 (196824,8,3,21,5,'They shall not make baldness upon their head, neither shall they shave off the corner of their beard, nor make any cuttings in their flesh.'),
 (196825,8,3,21,6,'They shall be holy unto their God, and not profane the name of their God: for the offerings of the LORD made by fire, [and] the bread of their God, they do offer: therefore they shall be holy.'),
 (196826,8,3,21,7,'They shall not take a wife [that is] a whore, or profane; neither shall they take a woman put away from her husband: for he [is] holy unto his God.'),
@@ -3468,8 +3404,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (196870,8,3,22,27,'When a bullock, or a sheep, or a goat, is brought forth, then it shall be seven days under the dam; and from the eighth day and thenceforth it shall be accepted for an offering made by fire unto the LORD.'),
 (196871,8,3,22,28,'And [whether it be] cow or ewe, ye shall not kill it and her young both in one day.'),
 (196872,8,3,22,29,'And when ye will offer a sacrifice of thanksgiving unto the LORD, offer [it] at your own will.'),
-(196873,8,3,22,30,'On the same day it shall be eaten up; ye shall leave none of it until the morrow: I [am] the LORD.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(196873,8,3,22,30,'On the same day it shall be eaten up; ye shall leave none of it until the morrow: I [am] the LORD.'),
 (196874,8,3,22,31,'Therefore shall ye keep my commandments, and do them: I [am] the LORD.'),
 (196875,8,3,22,32,'Neither shall ye profane my holy name; but I will be hallowed among the children of Israel: I [am] the LORD which hallow you,'),
 (196876,8,3,22,33,'That brought you out of the land of Egypt, to be your God: I [am] the LORD.'),
@@ -3519,8 +3454,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (196920,8,3,23,44,'And Moses declared unto the children of Israel the feasts of the LORD.'),
 (196921,8,3,24,1,'And the LORD spake unto Moses, saying,'),
 (196922,8,3,24,2,'Command the children of Israel, that they bring unto thee pure oil olive beaten for the light, to cause the lamps to burn continually.'),
-(196923,8,3,24,3,'Without the vail of the testimony, in the tabernacle of the congregation, shall Aaron order it from the evening unto the morning before the LORD continually: [it shall be] a statute for ever in your generations.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(196923,8,3,24,3,'Without the vail of the testimony, in the tabernacle of the congregation, shall Aaron order it from the evening unto the morning before the LORD continually: [it shall be] a statute for ever in your generations.'),
 (196924,8,3,24,4,'He shall order the lamps upon the pure candlestick before the LORD continually.'),
 (196925,8,3,24,5,'And thou shalt take fine flour, and bake twelve cakes thereof: two tenth deals shall be in one cake.'),
 (196926,8,3,24,6,'And thou shalt set them in two rows, six on a row, upon the pure table before the LORD.'),
@@ -3570,8 +3504,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (196970,8,3,25,27,'Then let him count the years of the sale thereof, and restore the overplus unto the man to whom he sold it; that he may return unto his possession.'),
 (196971,8,3,25,28,'But if he be not able to restore [it] to him, then that which is sold shall remain in the hand of him that hath bought it until the year of jubile: and in the jubile it shall go out, and he shall return unto his possession.'),
 (196972,8,3,25,29,'And if a man sell a dwelling house in a walled city, then he may redeem it within a whole year after it is sold; [within] a full year may he redeem it.'),
-(196973,8,3,25,30,'And if it be not redeemed within the space of a full year, then the house that [is] in the walled city shall be established for ever to him that bought it throughout his generations: it shall not go out in the jubile.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(196973,8,3,25,30,'And if it be not redeemed within the space of a full year, then the house that [is] in the walled city shall be established for ever to him that bought it throughout his generations: it shall not go out in the jubile.'),
 (196974,8,3,25,31,'But the houses of the villages which have no wall round about them shall be counted as the fields of the country: they may be redeemed, and they shall go out in the jubile.'),
 (196975,8,3,25,32,'Notwithstanding the cities of the Levites, [and] the houses of the cities of their possession, may the Levites redeem at any time.'),
 (196976,8,3,25,33,'And if a man purchase of the Levites, then the house that was sold, and the city of his possession, shall go out in [the year of] jubile: for the houses of the cities of the Levites [are] their possession among the children of Israel.'),
@@ -3621,8 +3554,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (197020,8,3,26,22,'I will also send wild beasts among you, which shall rob you of your children, and destroy your cattle, and make you few in number; and your [high] ways shall be desolate.'),
 (197021,8,3,26,23,'And if ye will not be reformed by me by these things, but will walk contrary unto me;'),
 (197022,8,3,26,24,'Then will I also walk contrary unto you, and will punish you yet seven times for your sins.'),
-(197023,8,3,26,25,'And I will bring a sword upon you, that shall avenge the quarrel of [my] covenant: and when ye are gathered together within your cities, I will send the pestilence among you; and ye shall be delivered into the hand of the enemy.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(197023,8,3,26,25,'And I will bring a sword upon you, that shall avenge the quarrel of [my] covenant: and when ye are gathered together within your cities, I will send the pestilence among you; and ye shall be delivered into the hand of the enemy.'),
 (197024,8,3,26,26,'[And] when I have broken the staff of your bread, ten women shall bake your bread in one oven, and they shall deliver [you] your bread again by weight: and ye shall eat, and not be satisfied.'),
 (197025,8,3,26,27,'And if ye will not for all this hearken unto me, but walk contrary unto me;'),
 (197026,8,3,26,28,'Then I will walk contrary unto you also in fury; and I, even I, will chastise you seven times for your sins.'),
@@ -3672,8 +3604,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (197070,8,3,27,26,'Only the firstling of the beasts, which should be the LORD''s firstling, no man shall sanctify it; whether [it be] ox, or sheep: it [is] the LORD''s.'),
 (197071,8,3,27,27,'And if [it be] of an unclean beast, then he shall redeem [it] according to thine estimation, and shall add a fifth [part] of it thereto: or if it be not redeemed, then it shall be sold according to thy estimation.'),
 (197072,8,3,27,28,'Notwithstanding no devoted thing, that a man shall devote unto the LORD of all that he hath, [both] of man and beast, and of the field of his possession, shall be sold or redeemed: every devoted thing [is] most holy unto the LORD.'),
-(197073,8,3,27,29,'None devoted, which shall be devoted of men, shall be redeemed; [but] shall surely be put to death.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(197073,8,3,27,29,'None devoted, which shall be devoted of men, shall be redeemed; [but] shall surely be put to death.'),
 (197074,8,3,27,30,'And all the tithe of the land, [whether] of the seed of the land, [or] of the fruit of the tree, [is] the LORD''s: [it is] holy unto the LORD.'),
 (197075,8,3,27,31,'And if a man will at all redeem [ought] of his tithes, he shall add thereto the fifth [part] thereof.'),
 (197076,8,3,27,32,'And concerning the tithe of the herd, or of the flock, [even] of whatsoever passeth under the rod, the tenth shall be holy unto the LORD.'),
@@ -3723,8 +3654,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (197120,8,4,1,42,'Of the children of Naphtali, throughout their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;'),
 (197121,8,4,1,43,'Those that were numbered of them, [even] of the tribe of Naphtali, [were] fifty and three thousand and four hundred.'),
 (197122,8,4,1,44,'These [are] those that were numbered, which Moses and Aaron numbered, and the princes of Israel, [being] twelve men: each one was for the house of his fathers.'),
-(197123,8,4,1,45,'So were all those that were numbered of the children of Israel, by the house of their fathers, from twenty years old and upward, all that were able to go forth to war in Israel;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(197123,8,4,1,45,'So were all those that were numbered of the children of Israel, by the house of their fathers, from twenty years old and upward, all that were able to go forth to war in Israel;'),
 (197124,8,4,1,46,'Even all they that were numbered were six hundred thousand and three thousand and five hundred and fifty.'),
 (197125,8,4,1,47,'But the Levites after the tribe of their fathers were not numbered among them.'),
 (197126,8,4,1,48,'For the LORD had spoken unto Moses, saying,'),
@@ -3774,8 +3704,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (197170,8,4,3,4,'And Nadab and Abihu died before the LORD, when they offered strange fire before the LORD, in the wilderness of Sinai, and they had no children: and Eleazar and Ithamar ministered in the priest''s office in the sight of Aaron their father.'),
 (197171,8,4,3,5,'And the LORD spake unto Moses, saying,'),
 (197172,8,4,3,6,'Bring the tribe of Levi near, and present them before Aaron the priest, that they may minister unto him.'),
-(197173,8,4,3,7,'And they shall keep his charge, and the charge of the whole congregation before the tabernacle of the congregation, to do the service of the tabernacle.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(197173,8,4,3,7,'And they shall keep his charge, and the charge of the whole congregation before the tabernacle of the congregation, to do the service of the tabernacle.'),
 (197174,8,4,3,8,'And they shall keep all the instruments of the tabernacle of the congregation, and the charge of the children of Israel, to do the service of the tabernacle.'),
 (197175,8,4,3,9,'And thou shalt give the Levites unto Aaron and to his sons: they [are] wholly given unto him out of the children of Israel.'),
 (197176,8,4,3,10,'And thou shalt appoint Aaron and his sons, and they shall wait on their priest''s office: and the stranger that cometh nigh shall be put to death.'),
@@ -3825,8 +3754,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (197220,8,4,4,3,'From thirty years old and upward even until fifty years old, all that enter into the host, to do the work in the tabernacle of the congregation.'),
 (197221,8,4,4,4,'This [shall be] the service of the sons of Kohath in the tabernacle of the congregation, [about] the most holy things:'),
 (197222,8,4,4,5,'And when the camp setteth forward, Aaron shall come, and his sons, and they shall take down the covering vail, and cover the ark of testimony with it:'),
-(197223,8,4,4,6,'And shall put thereon the covering of badgers'' skins, and shall spread over [it] a cloth wholly of blue, and shall put in the staves thereof.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(197223,8,4,4,6,'And shall put thereon the covering of badgers'' skins, and shall spread over [it] a cloth wholly of blue, and shall put in the staves thereof.'),
 (197224,8,4,4,7,'And upon the table of shewbread they shall spread a cloth of blue, and put thereon the dishes, and the spoons, and the bowls, and covers to cover withal: and the continual bread shall be thereon:'),
 (197225,8,4,4,8,'And they shall spread upon them a cloth of scarlet, and cover the same with a covering of badgers'' skins, and shall put in the staves thereof.'),
 (197226,8,4,4,9,'And they shall take a cloth of blue, and cover the candlestick of the light, and his lamps, and his tongs, and his snuffdishes, and all the oil vessels thereof, wherewith they minister unto it:'),
@@ -3876,8 +3804,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (197270,8,4,5,4,'And the children of Israel did so, and put them out without the camp: as the LORD spake unto Moses, so did the children of Israel.'),
 (197271,8,4,5,5,'And the LORD spake unto Moses, saying,'),
 (197272,8,4,5,6,'Speak unto the children of Israel, When a man or woman shall commit any sin that men commit, to do a trespass against the LORD, and that person be guilty;'),
-(197273,8,4,5,7,'Then they shall confess their sin which they have done: and he shall recompense his trespass with the principal thereof, and add unto it the fifth [part] thereof, and give [it] unto [him] against whom he hath trespassed.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(197273,8,4,5,7,'Then they shall confess their sin which they have done: and he shall recompense his trespass with the principal thereof, and add unto it the fifth [part] thereof, and give [it] unto [him] against whom he hath trespassed.'),
 (197274,8,4,5,8,'But if the man have no kinsman to recompense the trespass unto, let the trespass be recompensed unto the LORD, [even] to the priest; beside the ram of the atonement, whereby an atonement shall be made for him.'),
 (197275,8,4,5,9,'And every offering of all the holy things of the children of Israel, which they bring unto the priest, shall be his.'),
 (197276,8,4,5,10,'And every man''s hallowed things shall be his: whatsoever any man giveth the priest, it shall be his.'),
@@ -3927,8 +3854,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (197320,8,4,6,23,'Speak unto Aaron and unto his sons, saying, On this wise ye shall bless the children of Israel, saying unto them,'),
 (197321,8,4,6,24,'The LORD bless thee, and keep thee:'),
 (197322,8,4,6,25,'The LORD make his face shine upon thee, and be gracious unto thee:'),
-(197323,8,4,6,26,'The LORD lift up his countenance upon thee, and give thee peace.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(197323,8,4,6,26,'The LORD lift up his countenance upon thee, and give thee peace.'),
 (197324,8,4,6,27,'And they shall put my name upon the children of Israel; and I will bless them.'),
 (197325,8,4,7,1,'And it came to pass on the day that Moses had fully set up the tabernacle, and had anointed it, and sanctified it, and all the instruments thereof, both the altar and all the vessels thereof, and had anointed them, and sanctified them;'),
 (197326,8,4,7,2,'That the princes of Israel, heads of the house of their fathers, who [were] the princes of the tribes, and were over them that were numbered, offered:'),
@@ -3978,8 +3904,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (197370,8,4,7,46,'One kid of the goats for a sin offering:'),
 (197371,8,4,7,47,'And for a sacrifice of peace offerings, two oxen, five rams, five he goats, five lambs of the first year: this [was] the offering of Eliasaph the son of Deuel.'),
 (197372,8,4,7,48,'On the seventh day Elishama the son of Ammihud, prince of the children of Ephraim, [offered]:'),
-(197373,8,4,7,49,'His offering [was] one silver charger, the weight whereof [was] an hundred and thirty [shekels], one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(197373,8,4,7,49,'His offering [was] one silver charger, the weight whereof [was] an hundred and thirty [shekels], one silver bowl of seventy shekels, after the shekel of the sanctuary; both of them full of fine flour mingled with oil for a meat offering:'),
 (197374,8,4,7,50,'One golden spoon of ten [shekels], full of incense:'),
 (197375,8,4,7,51,'One young bullock, one ram, one lamb of the first year, for a burnt offering:'),
 (197376,8,4,7,52,'One kid of the goats for a sin offering:'),
@@ -4029,8 +3954,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (197420,8,4,8,7,'And thus shalt thou do unto them, to cleanse them: Sprinkle water of purifying upon them, and let them shave all their flesh, and let them wash their clothes, and [so] make themselves clean.'),
 (197421,8,4,8,8,'Then let them take a young bullock with his meat offering, [even] fine flour mingled with oil, and another young bullock shalt thou take for a sin offering.'),
 (197422,8,4,8,9,'And thou shalt bring the Levites before the tabernacle of the congregation: and thou shalt gather the whole assembly of the children of Israel together:'),
-(197423,8,4,8,10,'And thou shalt bring the Levites before the LORD: and the children of Israel shall put their hands upon the Levites:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(197423,8,4,8,10,'And thou shalt bring the Levites before the LORD: and the children of Israel shall put their hands upon the Levites:'),
 (197424,8,4,8,11,'And Aaron shall offer the Levites before the LORD [for] an offering of the children of Israel, that they may execute the service of the LORD.'),
 (197425,8,4,8,12,'And the Levites shall lay their hands upon the heads of the bullocks: and thou shalt offer the one [for] a sin offering, and the other [for] a burnt offering, unto the LORD, to make an atonement for the Levites.'),
 (197426,8,4,8,13,'And thou shalt set the Levites before Aaron, and before his sons, and offer them [for] an offering unto the LORD.'),
@@ -4131,8 +4055,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (197520,8,4,11,22,'Shall the flocks and the herds be slain for them, to suffice them? or shall all the fish of the sea be gathered together for them, to suffice them?'),
 (197521,8,4,11,23,'And the LORD said unto Moses, Is the LORD''s hand waxed short? thou shalt see now whether my word shall come to pass unto thee or not.'),
 (197522,8,4,11,24,'And Moses went out, and told the people the words of the LORD, and gathered the seventy men of the elders of the people, and set them round about the tabernacle.'),
-(197523,8,4,11,25,'And the LORD came down in a cloud, and spake unto him, and took of the spirit that [was] upon him, and gave [it] unto the seventy elders: and it came to pass, [that], when the spirit rested upon them, they prophesied, and did not cease.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(197523,8,4,11,25,'And the LORD came down in a cloud, and spake unto him, and took of the spirit that [was] upon him, and gave [it] unto the seventy elders: and it came to pass, [that], when the spirit rested upon them, they prophesied, and did not cease.'),
 (197524,8,4,11,26,'But there remained two [of the] men in the camp, the name of the one [was] Eldad, and the name of the other Medad: and the spirit rested upon them; and they [were] of them that were written, but went not out unto the tabernacle: and they prophesied in the camp.'),
 (197525,8,4,11,27,'And there ran a young man, and told Moses, and said, Eldad and Medad do prophesy in the camp.'),
 (197526,8,4,11,28,'And Joshua the son of Nun, the servant of Moses, [one] of his young men, answered and said, My lord Moses, forbid them.'),
@@ -4182,8 +4105,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (197570,8,4,13,21,'So they went up, and searched the land from the wilderness of Zin unto Rehob, as men come to Hamath.'),
 (197571,8,4,13,22,'And they ascended by the south, and came unto Hebron; where Ahiman, Sheshai, and Talmai, the children of Anak, [were]. (Now Hebron was built seven years before Zoan in Egypt.)'),
 (197572,8,4,13,23,'And they came unto the brook of Eshcol, and cut down from thence a branch with one cluster of grapes, and they bare it between two upon a staff; and [they brought] of the pomegranates, and of the figs.'),
-(197573,8,4,13,24,'The place was called the brook Eshcol, because of the cluster of grapes which the children of Israel cut down from thence.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(197573,8,4,13,24,'The place was called the brook Eshcol, because of the cluster of grapes which the children of Israel cut down from thence.'),
 (197574,8,4,13,25,'And they returned from searching of the land after forty days.'),
 (197575,8,4,13,26,'And they went and came to Moses, and to Aaron, and to all the congregation of the children of Israel, unto the wilderness of Paran, to Kadesh; and brought back word unto them, and unto all the congregation, and shewed them the fruit of the land.'),
 (197576,8,4,13,27,'And they told him, and said, We came unto the land whither thou sentest us, and surely it floweth with milk and honey; and this [is] the fruit of it.'),
@@ -4233,8 +4155,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (197620,8,4,14,38,'But Joshua the son of Nun, and Caleb the son of Jephunneh, [which were] of the men that went to search the land, lived [still].'),
 (197621,8,4,14,39,'And Moses told these sayings unto all the children of Israel: and the people mourned greatly.'),
 (197622,8,4,14,40,'And they rose up early in the morning, and gat them up into the top of the mountain, saying, Lo, we [be here], and will go up unto the place which the LORD hath promised: for we have sinned.'),
-(197623,8,4,14,41,'And Moses said, Wherefore now do ye transgress the commandment of the LORD? but it shall not prosper.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(197623,8,4,14,41,'And Moses said, Wherefore now do ye transgress the commandment of the LORD? but it shall not prosper.'),
 (197624,8,4,14,42,'Go not up, for the LORD [is] not among you; that ye be not smitten before your enemies.'),
 (197625,8,4,14,43,'For the Amalekites and the Canaanites [are] there before you, and ye shall fall by the sword: because ye are turned away from the LORD, therefore the LORD will not be with you.'),
 (197626,8,4,14,44,'But they presumed to go up unto the hill top: nevertheless the ark of the covenant of the LORD, and Moses, departed not out of the camp.'),
@@ -4284,8 +4205,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (197670,8,4,16,2,'And they rose up before Moses, with certain of the children of Israel, two hundred and fifty princes of the assembly, famous in the congregation, men of renown:'),
 (197671,8,4,16,3,'And they gathered themselves together against Moses and against Aaron, and said unto them, [Ye take] too much upon you, seeing all the congregation [are] holy, every one of them, and the LORD [is] among them: wherefore then lift ye up yourselves above the congregation of the LORD?'),
 (197672,8,4,16,4,'And when Moses heard [it], he fell upon his face:'),
-(197673,8,4,16,5,'And he spake unto Korah and unto all his company, saying, Even to morrow the LORD will shew who [are] his, and [who is] holy; and will cause [him] to come near unto him: even [him] whom he hath chosen will he cause to come near unto him.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(197673,8,4,16,5,'And he spake unto Korah and unto all his company, saying, Even to morrow the LORD will shew who [are] his, and [who is] holy; and will cause [him] to come near unto him: even [him] whom he hath chosen will he cause to come near unto him.'),
 (197674,8,4,16,6,'This do; Take you censers, Korah, and all his company;'),
 (197675,8,4,16,7,'And put fire therein, and put incense in them before the LORD to morrow: and it shall be [that] the man whom the LORD doth choose, he [shall be] holy: [ye take] too much upon you, ye sons of Levi.'),
 (197676,8,4,16,8,'And Moses said unto Korah, Hear, I pray you, ye sons of Levi:'),
@@ -4335,8 +4255,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (197720,8,4,17,2,'Speak unto the children of Israel, and take of every one of them a rod according to the house of [their] fathers, of all their princes according to the house of their fathers twelve rods: write thou every man''s name upon his rod.'),
 (197721,8,4,17,3,'And thou shalt write Aaron''s name upon the rod of Levi: for one rod [shall be] for the head of the house of their fathers.'),
 (197722,8,4,17,4,'And thou shalt lay them up in the tabernacle of the congregation before the testimony, where I will meet with you.'),
-(197723,8,4,17,5,'And it shall come to pass, [that] the man''s rod, whom I shall choose, shall blossom: and I will make to cease from me the murmurings of the children of Israel, whereby they murmur against you.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(197723,8,4,17,5,'And it shall come to pass, [that] the man''s rod, whom I shall choose, shall blossom: and I will make to cease from me the murmurings of the children of Israel, whereby they murmur against you.'),
 (197724,8,4,17,6,'And Moses spake unto the children of Israel, and every one of their princes gave him a rod apiece, for each prince one, according to their fathers'' houses, [even] twelve rods: and the rod of Aaron [was] among their rods.'),
 (197725,8,4,17,7,'And Moses laid up the rods before the LORD in the tabernacle of witness.'),
 (197726,8,4,17,8,'And it came to pass, that on the morrow Moses went into the tabernacle of witness; and, behold, the rod of Aaron for the house of Levi was budded, and brought forth buds, and bloomed blossoms, and yielded almonds.'),
@@ -4386,8 +4305,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (197770,8,4,19,7,'Then the priest shall wash his clothes, and he shall bathe his flesh in water, and afterward he shall come into the camp, and the priest shall be unclean until the even.'),
 (197771,8,4,19,8,'And he that burneth her shall wash his clothes in water, and bathe his flesh in water, and shall be unclean until the even.'),
 (197772,8,4,19,9,'And a man [that is] clean shall gather up the ashes of the heifer, and lay [them] up without the camp in a clean place, and it shall be kept for the congregation of the children of Israel for a water of separation: it [is] a purification for sin.'),
-(197773,8,4,19,10,'And he that gathereth the ashes of the heifer shall wash his clothes, and be unclean until the even: and it shall be unto the children of Israel, and unto the stranger that sojourneth among them, for a statute for ever.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(197773,8,4,19,10,'And he that gathereth the ashes of the heifer shall wash his clothes, and be unclean until the even: and it shall be unto the children of Israel, and unto the stranger that sojourneth among them, for a statute for ever.'),
 (197774,8,4,19,11,'He that toucheth the dead body of any man shall be unclean seven days.'),
 (197775,8,4,19,12,'He shall purify himself with it on the third day, and on the seventh day he shall be clean: but if he purify not himself the third day, then the seventh day he shall not be clean.'),
 (197776,8,4,19,13,'Whosoever toucheth the dead body of any man that is dead, and purifieth not himself, defileth the tabernacle of the LORD; and that soul shall be cut off from Israel: because the water of separation was not sprinkled upon him, he shall be unclean; his uncleanness [is] yet upon him.'),
@@ -4437,8 +4355,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (197820,8,4,21,6,'And the LORD sent fiery serpents among the people, and they bit the people; and much people of Israel died.'),
 (197821,8,4,21,7,'Therefore the people came to Moses, and said, We have sinned, for we have spoken against the LORD, and against thee; pray unto the LORD, that he take away the serpents from us. And Moses prayed for the people.'),
 (197822,8,4,21,8,'And the LORD said unto Moses, Make thee a fiery serpent, and set it upon a pole: and it shall come to pass, that every one that is bitten, when he looketh upon it, shall live.'),
-(197823,8,4,21,9,'And Moses made a serpent of brass, and put it upon a pole, and it came to pass, that if a serpent had bitten any man, when he beheld the serpent of brass, he lived.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(197823,8,4,21,9,'And Moses made a serpent of brass, and put it upon a pole, and it came to pass, that if a serpent had bitten any man, when he beheld the serpent of brass, he lived.'),
 (197824,8,4,21,10,'And the children of Israel set forward, and pitched in Oboth.'),
 (197825,8,4,21,11,'And they journeyed from Oboth, and pitched at Ijeabarim, in the wilderness which [is] before Moab, toward the sunrising.'),
 (197826,8,4,21,12,'From thence they removed, and pitched in the valley of Zared.'),
@@ -4488,8 +4405,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (197870,8,4,22,21,'And Balaam rose up in the morning, and saddled his ass, and went with the princes of Moab.'),
 (197871,8,4,22,22,'And God''s anger was kindled because he went: and the angel of the LORD stood in the way for an adversary against him. Now he was riding upon his ass, and his two servants [were] with him.'),
 (197872,8,4,22,23,'And the ass saw the angel of the LORD standing in the way, and his sword drawn in his hand: and the ass turned aside out of the way, and went into the field: and Balaam smote the ass, to turn her into the way.'),
-(197873,8,4,22,24,'But the angel of the LORD stood in a path of the vineyards, a wall [being] on this side, and a wall on that side.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(197873,8,4,22,24,'But the angel of the LORD stood in a path of the vineyards, a wall [being] on this side, and a wall on that side.'),
 (197874,8,4,22,25,'And when the ass saw the angel of the LORD, she thrust herself unto the wall, and crushed Balaam''s foot against the wall: and he smote her again.'),
 (197875,8,4,22,26,'And the angel of the LORD went further, and stood in a narrow place, where [was] no way to turn either to the right hand or to the left.'),
 (197876,8,4,22,27,'And when the ass saw the angel of the LORD, she fell down under Balaam: and Balaam''s anger was kindled, and he smote the ass with a staff.'),
@@ -4539,8 +4455,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (197920,8,4,23,30,'And Balak did as Balaam had said, and offered a bullock and a ram on [every] altar.'),
 (197921,8,4,24,1,'And when Balaam saw that it pleased the LORD to bless Israel, he went not, as at other times, to seek for enchantments, but he set his face toward the wilderness.'),
 (197922,8,4,24,2,'And Balaam lifted up his eyes, and he saw Israel abiding [in his tents] according to their tribes; and the spirit of God came upon him.'),
-(197923,8,4,24,3,'And he took up his parable, and said, Balaam the son of Beor hath said, and the man whose eyes are open hath said:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(197923,8,4,24,3,'And he took up his parable, and said, Balaam the son of Beor hath said, and the man whose eyes are open hath said:'),
 (197924,8,4,24,4,'He hath said, which heard the words of God, which saw the vision of the Almighty, falling [into a trance], but having his eyes open:'),
 (197925,8,4,24,5,'How goodly are thy tents, O Jacob, [and] thy tabernacles, O Israel!'),
 (197926,8,4,24,6,'As the valleys are they spread forth, as gardens by the river''s side, as the trees of lign aloes which the LORD hath planted, [and] as cedar trees beside the waters.'),
@@ -4590,8 +4505,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (197970,8,4,26,7,'These [are] the families of the Reubenites: and they that were numbered of them were forty and three thousand and seven hundred and thirty.'),
 (197971,8,4,26,8,'And the sons of Pallu; Eliab.'),
 (197972,8,4,26,9,'And the sons of Eliab; Nemuel, and Dathan, and Abiram. This [is that] Dathan and Abiram, [which were] famous in the congregation, who strove against Moses and against Aaron in the company of Korah, when they strove against the LORD:'),
-(197973,8,4,26,10,'And the earth opened her mouth, and swallowed them up together with Korah, when that company died, what time the fire devoured two hundred and fifty men: and they became a sign.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(197973,8,4,26,10,'And the earth opened her mouth, and swallowed them up together with Korah, when that company died, what time the fire devoured two hundred and fifty men: and they became a sign.'),
 (197974,8,4,26,11,'Notwithstanding the children of Korah died not.'),
 (197975,8,4,26,12,'The sons of Simeon after their families: of Nemuel, the family of the Nemuelites: of Jamin, the family of the Jaminites: of Jachin, the family of the Jachinites:'),
 (197976,8,4,26,13,'Of Zerah, the family of the Zarhites: of Shaul, the family of the Shaulites.'),
@@ -4641,8 +4555,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (198020,8,4,26,57,'And these [are] they that were numbered of the Levites after their families: of Gershon, the family of the Gershonites: of Kohath, the family of the Kohathites: of Merari, the family of the Merarites.'),
 (198021,8,4,26,58,'These [are] the families of the Levites: the family of the Libnites, the family of the Hebronites, the family of the Mahlites, the family of the Mushites, the family of the Korathites. And Kohath begat Amram.'),
 (198022,8,4,26,59,'And the name of Amram''s wife [was] Jochebed, the daughter of Levi, whom [her mother] bare to Levi in Egypt: and she bare unto Amram Aaron and Moses, and Miriam their sister.'),
-(198023,8,4,26,60,'And unto Aaron was born Nadab, and Abihu, Eleazar, and Ithamar.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(198023,8,4,26,60,'And unto Aaron was born Nadab, and Abihu, Eleazar, and Ithamar.'),
 (198024,8,4,26,61,'And Nadab and Abihu died, when they offered strange fire before the LORD.'),
 (198025,8,4,26,62,'And those that were numbered of them were twenty and three thousand, all males from a month old and upward: for they were not numbered among the children of Israel, because there was no inheritance given them among the children of Israel.'),
 (198026,8,4,26,63,'These [are] they that were numbered by Moses and Eleazar the priest, who numbered the children of Israel in the plains of Moab by Jordan [near] Jericho.'),
@@ -4692,8 +4605,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (198070,8,4,28,19,'But ye shall offer a sacrifice made by fire [for] a burnt offering unto the LORD; two young bullocks, and one ram, and seven lambs of the first year: they shall be unto you without blemish:'),
 (198071,8,4,28,20,'And their meat offering [shall be of] flour mingled with oil: three tenth deals shall ye offer for a bullock, and two tenth deals for a ram;'),
 (198072,8,4,28,21,'A several tenth deal shalt thou offer for every lamb, throughout the seven lambs:'),
-(198073,8,4,28,22,'And one goat [for] a sin offering, to make an atonement for you.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(198073,8,4,28,22,'And one goat [for] a sin offering, to make an atonement for you.'),
 (198074,8,4,28,23,'Ye shall offer these beside the burnt offering in the morning, which [is] for a continual burnt offering.'),
 (198075,8,4,28,24,'After this manner ye shall offer daily, throughout the seven days, the meat of the sacrifice made by fire, of a sweet savour unto the LORD: it shall be offered beside the continual burnt offering, and his drink offering.'),
 (198076,8,4,28,25,'And on the seventh day ye shall have an holy convocation; ye shall do no servile work.'),
@@ -4743,8 +4655,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (198120,8,4,29,38,'And one goat [for] a sin offering; beside the continual burnt offering, and his meat offering, and his drink offering.'),
 (198121,8,4,29,39,'These [things] ye shall do unto the LORD in your set feasts, beside your vows, and your freewill offerings, for your burnt offerings, and for your meat offerings, and for your drink offerings, and for your peace offerings.'),
 (198122,8,4,29,40,'And Moses told the children of Israel according to all that the LORD commanded Moses.'),
-(198123,8,4,30,1,'And Moses spake unto the heads of the tribes concerning the children of Israel, saying, This [is] the thing which the LORD hath commanded.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(198123,8,4,30,1,'And Moses spake unto the heads of the tribes concerning the children of Israel, saying, This [is] the thing which the LORD hath commanded.'),
 (198124,8,4,30,2,'If a man vow a vow unto the LORD, or swear an oath to bind his soul with a bond; he shall not break his word, he shall do according to all that proceedeth out of his mouth.'),
 (198125,8,4,30,3,'If a woman also vow a vow unto the LORD, and bind [herself] by a bond, [being] in her father''s house in her youth;'),
 (198126,8,4,30,4,'And her father hear her vow, and her bond wherewith she hath bound her soul, and her father shall hold his peace at her: then all her vows shall stand, and every bond wherewith she hath bound her soul shall stand.'),
@@ -4794,8 +4705,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (198170,8,4,31,32,'And the booty, [being] the rest of the prey which the men of war had caught, was six hundred thousand and seventy thousand and five thousand sheep,'),
 (198171,8,4,31,33,'And threescore and twelve thousand beeves,'),
 (198172,8,4,31,34,'And threescore and one thousand asses,'),
-(198173,8,4,31,35,'And thirty and two thousand persons in all, of women that had not known man by lying with him.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(198173,8,4,31,35,'And thirty and two thousand persons in all, of women that had not known man by lying with him.'),
 (198174,8,4,31,36,'And the half, [which was] the portion of them that went out to war, was in number three hundred thousand and seven and thirty thousand and five hundred sheep:'),
 (198175,8,4,31,37,'And the LORD''s tribute of the sheep was six hundred and threescore and fifteen.'),
 (198176,8,4,31,38,'And the beeves [were] thirty and six thousand; of which the LORD''s tribute [was] threescore and twelve.'),
@@ -4845,8 +4755,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (198220,8,4,32,28,'So concerning them Moses commanded Eleazar the priest, and Joshua the son of Nun, and the chief fathers of the tribes of the children of Israel:'),
 (198221,8,4,32,29,'And Moses said unto them, If the children of Gad and the children of Reuben will pass with you over Jordan, every man armed to battle, before the LORD, and the land shall be subdued before you; then ye shall give them the land of Gilead for a possession:'),
 (198222,8,4,32,30,'But if they will not pass over with you armed, they shall have possessions among you in the land of Canaan.'),
-(198223,8,4,32,31,'And the children of Gad and the children of Reuben answered, saying, As the LORD hath said unto thy servants, so will we do.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(198223,8,4,32,31,'And the children of Gad and the children of Reuben answered, saying, As the LORD hath said unto thy servants, so will we do.'),
 (198224,8,4,32,32,'We will pass over armed before the LORD into the land of Canaan, that the possession of our inheritance on this side Jordan [may be] ours.'),
 (198225,8,4,32,33,'And Moses gave unto them, [even] to the children of Gad, and to the children of Reuben, and unto half the tribe of Manasseh the son of Joseph, the kingdom of Sihon king of the Amorites, and the kingdom of Og king of Bashan, the land, with the cities thereof in the coasts, [even] the cities of the country round about.'),
 (198226,8,4,32,34,'And the children of Gad built Dibon, and Ataroth, and Aroer,'),
@@ -4896,8 +4805,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (198270,8,4,33,36,'And they removed from Eziongaber, and pitched in the wilderness of Zin, which [is] Kadesh.'),
 (198271,8,4,33,37,'And they removed from Kadesh, and pitched in mount Hor, in the edge of the land of Edom.'),
 (198272,8,4,33,38,'And Aaron the priest went up into mount Hor at the commandment of the LORD, and died there, in the fortieth year after the children of Israel were come out of the land of Egypt, in the first [day] of the fifth month.'),
-(198273,8,4,33,39,'And Aaron [was] an hundred and twenty and three years old when he died in mount Hor.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(198273,8,4,33,39,'And Aaron [was] an hundred and twenty and three years old when he died in mount Hor.'),
 (198274,8,4,33,40,'And king Arad the Canaanite, which dwelt in the south in the land of Canaan, heard of the coming of the children of Israel.'),
 (198275,8,4,33,41,'And they departed from mount Hor, and pitched in Zalmonah.'),
 (198276,8,4,33,42,'And they departed from Zalmonah, and pitched in Punon.'),
@@ -4947,8 +4855,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (198320,8,4,35,1,'And the LORD spake unto Moses in the plains of Moab by Jordan [near] Jericho, saying,'),
 (198321,8,4,35,2,'Command the children of Israel, that they give unto the Levites of the inheritance of their possession cities to dwell in; and ye shall give [also] unto the Levites suburbs for the cities round about them.'),
 (198322,8,4,35,3,'And the cities shall they have to dwell in; and the suburbs of them shall be for their cattle, and for their goods, and for all their beasts.'),
-(198323,8,4,35,4,'And the suburbs of the cities, which ye shall give unto the Levites, [shall reach] from the wall of the city and outward a thousand cubits round about.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(198323,8,4,35,4,'And the suburbs of the cities, which ye shall give unto the Levites, [shall reach] from the wall of the city and outward a thousand cubits round about.'),
 (198324,8,4,35,5,'And ye shall measure from without the city on the east side two thousand cubits, and on the south side two thousand cubits, and on the west side two thousand cubits, and on the north side two thousand cubits; and the city [shall be] in the midst: this shall be to them the suburbs of the cities.'),
 (198325,8,4,35,6,'And among the cities which ye shall give unto the Levites [there shall be] six cities for refuge, which ye shall appoint for the manslayer, that he may flee thither: and to them ye shall add forty and two cities.'),
 (198326,8,4,35,7,'[So] all the cities which ye shall give to the Levites [shall be] forty and eight cities: them [shall ye give] with their suburbs.'),
@@ -4998,8 +4905,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (198370,8,5,1,4,'After he had slain Sihon the king of the Amorites, which dwelt in Heshbon, and Og the king of Bashan, which dwelt at Astaroth in Edrei:'),
 (198371,8,5,1,5,'On this side Jordan, in the land of Moab, began Moses to declare this law, saying,'),
 (198372,8,5,1,6,'The LORD our God spake unto us in Horeb, saying, Ye have dwelt long enough in this mount:'),
-(198373,8,5,1,7,'Turn you, and take your journey, and go to the mount of the Amorites, and unto all [the places] nigh thereunto, in the plain, in the hills, and in the vale, and in the south, and by the sea side, to the land of the Canaanites, and unto Lebanon, unto the great river, the river Euphrates.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(198373,8,5,1,7,'Turn you, and take your journey, and go to the mount of the Amorites, and unto all [the places] nigh thereunto, in the plain, in the hills, and in the vale, and in the south, and by the sea side, to the land of the Canaanites, and unto Lebanon, unto the great river, the river Euphrates.'),
 (198374,8,5,1,8,'Behold, I have set the land before you: go in and possess the land which the LORD sware unto your fathers, Abraham, Isaac, and Jacob, to give unto them and to their seed after them.'),
 (198375,8,5,1,9,'And I spake unto you at that time, saying, I am not able to bear you myself alone:'),
 (198376,8,5,1,10,'The LORD your God hath multiplied you, and, behold, ye [are] this day as the stars of heaven for multitude.'),
@@ -5049,8 +4955,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (198420,8,5,2,8,'And when we passed by from our brethren the children of Esau, which dwelt in Seir, through the way of the plain from Elath, and from Eziongaber, we turned and passed by the way of the wilderness of Moab.'),
 (198421,8,5,2,9,'And the LORD said unto me, Distress not the Moabites, neither contend with them in battle: for I will not give thee of their land [for] a possession; because I have given Ar unto the children of Lot [for] a possession.'),
 (198422,8,5,2,10,'The Emims dwelt therein in times past, a people great, and many, and tall, as the Anakims;'),
-(198423,8,5,2,11,'Which also were accounted giants, as the Anakims; but the Moabites call them Emims.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(198423,8,5,2,11,'Which also were accounted giants, as the Anakims; but the Moabites call them Emims.'),
 (198424,8,5,2,12,'The Horims also dwelt in Seir beforetime; but the children of Esau succeeded them, when they had destroyed them from before them, and dwelt in their stead; as Israel did unto the land of his possession, which the LORD gave unto them.'),
 (198425,8,5,2,13,'Now rise up, [said I], and get you over the brook Zered. And we went over the brook Zered.'),
 (198426,8,5,2,14,'And the space in which we came from Kadeshbarnea, until we were come over the brook Zered, [was] thirty and eight years; until all the generation of the men of war were wasted out from among the host, as the LORD sware unto them.'),
@@ -5151,8 +5056,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (198520,8,5,4,42,'That the slayer might flee thither, which should kill his neighbour unawares, and hated him not in times past; and that fleeing unto one of these cities he might live:'),
 (198521,8,5,4,43,'[Namely], Bezer in the wilderness, in the plain country, of the Reubenites; and Ramoth in Gilead, of the Gadites; and Golan in Bashan, of the Manassites.'),
 (198522,8,5,4,44,'And this [is] the law which Moses set before the children of Israel:'),
-(198523,8,5,4,45,'These [are] the testimonies, and the statutes, and the judgments, which Moses spake unto the children of Israel, after they came forth out of Egypt,');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(198523,8,5,4,45,'These [are] the testimonies, and the statutes, and the judgments, which Moses spake unto the children of Israel, after they came forth out of Egypt,'),
 (198524,8,5,4,46,'On this side Jordan, in the valley over against Bethpeor, in the land of Sihon king of the Amorites, who dwelt at Heshbon, whom Moses and the children of Israel smote, after they were come forth out of Egypt:'),
 (198525,8,5,4,47,'And they possessed his land, and the land of Og king of Bashan, two kings of the Amorites, which [were] on this side Jordan toward the sunrising;'),
 (198526,8,5,4,48,'From Aroer, which [is] by the bank of the river Arnon, even unto mount Sion, which [is] Hermon,'),
@@ -5202,8 +5106,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (198570,8,5,6,10,'And it shall be, when the LORD thy God shall have brought thee into the land which he sware unto thy fathers, to Abraham, to Isaac, and to Jacob, to give thee great and goodly cities, which thou buildedst not,'),
 (198571,8,5,6,11,'And houses full of all good [things], which thou filledst not, and wells digged, which thou diggedst not, vineyards and olive trees, which thou plantedst not; when thou shalt have eaten and be full;'),
 (198572,8,5,6,12,'[Then] beware lest thou forget the LORD, which brought thee forth out of the land of Egypt, from the house of bondage.'),
-(198573,8,5,6,13,'Thou shalt fear the LORD thy God, and serve him, and shalt swear by his name.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(198573,8,5,6,13,'Thou shalt fear the LORD thy God, and serve him, and shalt swear by his name.'),
 (198574,8,5,6,14,'Ye shall not go after other gods, of the gods of the people which [are] round about you;'),
 (198575,8,5,6,15,'(For the LORD thy God [is] a jealous God among you) lest the anger of the LORD thy God be kindled against thee, and destroy thee from off the face of the earth.'),
 (198576,8,5,6,16,'Ye shall not tempt the LORD your God, as ye tempted [him] in Massah.'),
@@ -5253,8 +5156,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (198620,8,5,8,9,'A land wherein thou shalt eat bread without scarceness, thou shalt not lack any [thing] in it; a land whose stones [are] iron, and out of whose hills thou mayest dig brass.'),
 (198621,8,5,8,10,'When thou hast eaten and art full, then thou shalt bless the LORD thy God for the good land which he hath given thee.'),
 (198622,8,5,8,11,'Beware that thou forget not the LORD thy God, in not keeping his commandments, and his judgments, and his statutes, which I command thee this day:'),
-(198623,8,5,8,12,'Lest [when] thou hast eaten and art full, and hast built goodly houses, and dwelt [therein];');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(198623,8,5,8,12,'Lest [when] thou hast eaten and art full, and hast built goodly houses, and dwelt [therein];'),
 (198624,8,5,8,13,'And [when] thy herds and thy flocks multiply, and thy silver and thy gold is multiplied, and all that thou hast is multiplied;'),
 (198625,8,5,8,14,'Then thine heart be lifted up, and thou forget the LORD thy God, which brought thee forth out of the land of Egypt, from the house of bondage;'),
 (198626,8,5,8,15,'Who led thee through that great and terrible wilderness, [wherein were] fiery serpents, and scorpions, and drought, where [there was] no water; who brought thee forth water out of the rock of flint;'),
@@ -5304,8 +5206,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (198670,8,5,10,10,'And I stayed in the mount, according to the first time, forty days and forty nights; and the LORD hearkened unto me at that time also, [and] the LORD would not destroy thee.'),
 (198671,8,5,10,11,'And the LORD said unto me, Arise, take [thy] journey before the people, that they may go in and possess the land, which I sware unto their fathers to give unto them.'),
 (198672,8,5,10,12,'And now, Israel, what doth the LORD thy God require of thee, but to fear the LORD thy God, to walk in all his ways, and to love him, and to serve the LORD thy God with all thy heart and with all thy soul,'),
-(198673,8,5,10,13,'To keep the commandments of the LORD, and his statutes, which I command thee this day for thy good?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(198673,8,5,10,13,'To keep the commandments of the LORD, and his statutes, which I command thee this day for thy good?'),
 (198674,8,5,10,14,'Behold, the heaven and the heaven of heavens [is] the LORD''s thy God, the earth [also], with all that therein [is].'),
 (198675,8,5,10,15,'Only the LORD had a delight in thy fathers to love them, and he chose their seed after them, [even] you above all people, as [it is] this day.'),
 (198676,8,5,10,16,'Circumcise therefore the foreskin of your heart, and be no more stiffnecked.'),
@@ -5355,8 +5256,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (198720,8,5,12,6,'And thither ye shall bring your burnt offerings, and your sacrifices, and your tithes, and heave offerings of your hand, and your vows, and your freewill offerings, and the firstlings of your herds and of your flocks:'),
 (198721,8,5,12,7,'And there ye shall eat before the LORD your God, and ye shall rejoice in all that ye put your hand unto, ye and your households, wherein the LORD thy God hath blessed thee.'),
 (198722,8,5,12,8,'Ye shall not do after all [the things] that we do here this day, every man whatsoever [is] right in his own eyes.'),
-(198723,8,5,12,9,'For ye are not as yet come to the rest and to the inheritance, which the LORD your God giveth you.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(198723,8,5,12,9,'For ye are not as yet come to the rest and to the inheritance, which the LORD your God giveth you.'),
 (198724,8,5,12,10,'But [when] ye go over Jordan, and dwell in the land which the LORD your God giveth you to inherit, and [when] he giveth you rest from all your enemies round about, so that ye dwell in safety;'),
 (198725,8,5,12,11,'Then there shall be a place which the LORD your God shall choose to cause his name to dwell there; thither shall ye bring all that I command you; your burnt offerings, and your sacrifices, your tithes, and the heave offering of your hand, and all your choice vows which ye vow unto the LORD:'),
 (198726,8,5,12,12,'And ye shall rejoice before the LORD your God, ye, and your sons, and your daughters, and your menservants, and your maidservants, and the Levite that [is] within your gates; forasmuch as he hath no part nor inheritance with you.'),
@@ -5406,8 +5306,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (198770,8,5,14,6,'And every beast that parteth the hoof, and cleaveth the cleft into two claws, [and] cheweth the cud among the beasts, that ye shall eat.'),
 (198771,8,5,14,7,'Nevertheless these ye shall not eat of them that chew the cud, or of them that divide the cloven hoof; [as] the camel, and the hare, and the coney: for they chew the cud, but divide not the hoof; [therefore] they [are] unclean unto you.'),
 (198772,8,5,14,8,'And the swine, because it divideth the hoof, yet cheweth not the cud, it [is] unclean unto you: ye shall not eat of their flesh, nor touch their dead carcase.'),
-(198773,8,5,14,9,'These ye shall eat of all that [are] in the waters: all that have fins and scales shall ye eat:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(198773,8,5,14,9,'These ye shall eat of all that [are] in the waters: all that have fins and scales shall ye eat:'),
 (198774,8,5,14,10,'And whatsoever hath not fins and scales ye may not eat; it [is] unclean unto you.'),
 (198775,8,5,14,11,'[Of] all clean birds ye shall eat.'),
 (198776,8,5,14,12,'But these [are they] of which ye shall not eat: the eagle, and the ossifrage, and the ospray,'),
@@ -5457,8 +5356,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (198820,8,5,16,4,'And there shall be no leavened bread seen with thee in all thy coast seven days; neither shall there [any thing] of the flesh, which thou sacrificedst the first day at even, remain all night until the morning.'),
 (198821,8,5,16,5,'Thou mayest not sacrifice the passover within any of thy gates, which the LORD thy God giveth thee:'),
 (198822,8,5,16,6,'But at the place which the LORD thy God shall choose to place his name in, there thou shalt sacrifice the passover at even, at the going down of the sun, at the season that thou camest forth out of Egypt.'),
-(198823,8,5,16,7,'And thou shalt roast and eat [it] in the place which the LORD thy God shall choose: and thou shalt turn in the morning, and go unto thy tents.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(198823,8,5,16,7,'And thou shalt roast and eat [it] in the place which the LORD thy God shall choose: and thou shalt turn in the morning, and go unto thy tents.'),
 (198824,8,5,16,8,'Six days thou shalt eat unleavened bread: and on the seventh day [shall be] a solemn assembly to the LORD thy God: thou shalt do no work [therein].'),
 (198825,8,5,16,9,'Seven weeks shalt thou number unto thee: begin to number the seven weeks from [such time as] thou beginnest [to put] the sickle to the corn.'),
 (198826,8,5,16,10,'And thou shalt keep the feast of weeks unto the LORD thy God with a tribute of a freewill offering of thine hand, which thou shalt give [unto the LORD thy God], according as the LORD thy God hath blessed thee:'),
@@ -5508,8 +5406,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (198870,8,5,18,12,'For all that do these things [are] an abomination unto the LORD: and because of these abominations the LORD thy God doth drive them out from before thee.'),
 (198871,8,5,18,13,'Thou shalt be perfect with the LORD thy God.'),
 (198872,8,5,18,14,'For these nations, which thou shalt possess, hearkened unto observers of times, and unto diviners: but as for thee, the LORD thy God hath not suffered thee so [to do].'),
-(198873,8,5,18,15,'The LORD thy God will raise up unto thee a Prophet from the midst of thee, of thy brethren, like unto me; unto him ye shall hearken;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(198873,8,5,18,15,'The LORD thy God will raise up unto thee a Prophet from the midst of thee, of thy brethren, like unto me; unto him ye shall hearken;'),
 (198874,8,5,18,16,'According to all that thou desiredst of the LORD thy God in Horeb in the day of the assembly, saying, Let me not hear again the voice of the LORD my God, neither let me see this great fire any more, that I die not.'),
 (198875,8,5,18,17,'And the LORD said unto me, They have well [spoken that] which they have spoken.'),
 (198876,8,5,18,18,'I will raise them up a Prophet from among their brethren, like unto thee, and will put my words in his mouth; and he shall speak unto them all that I shall command him.'),
@@ -5559,8 +5456,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (198920,8,5,20,19,'When thou shalt besiege a city a long time, in making war against it to take it, thou shalt not destroy the trees thereof by forcing an axe against them: for thou mayest eat of them, and thou shalt not cut them down (for the tree of the field [is] man''s [life]) to employ [them] in the siege:'),
 (198921,8,5,20,20,'Only the trees which thou knowest that they [be] not trees for meat, thou shalt destroy and cut them down; and thou shalt build bulwarks against the city that maketh war with thee, until it be subdued.'),
 (198922,8,5,21,1,'If [one] be found slain in the land which the LORD thy God giveth thee to possess it, lying in the field, [and] it be not known who hath slain him:'),
-(198923,8,5,21,2,'Then thy elders and thy judges shall come forth, and they shall measure unto the cities which [are] round about him that is slain:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(198923,8,5,21,2,'Then thy elders and thy judges shall come forth, and they shall measure unto the cities which [are] round about him that is slain:'),
 (198924,8,5,21,3,'And it shall be, [that] the city [which is] next unto the slain man, even the elders of that city shall take an heifer, which hath not been wrought with, [and] which hath not drawn in the yoke;'),
 (198925,8,5,21,4,'And the elders of that city shall bring down the heifer unto a rough valley, which is neither eared nor sown, and shall strike off the heifer''s neck there in the valley:'),
 (198926,8,5,21,5,'And the priests the sons of Levi shall come near; for them the LORD thy God hath chosen to minister unto him, and to bless in the name of the LORD; and by their word shall every controversy and every stroke be [tried]:'),
@@ -5610,8 +5506,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (198970,8,5,22,26,'But unto the damsel thou shalt do nothing; [there is] in the damsel no sin [worthy] of death: for as when a man riseth against his neighbour, and slayeth him, even so [is] this matter:'),
 (198971,8,5,22,27,'For he found her in the field, [and] the betrothed damsel cried, and [there was] none to save her.'),
 (198972,8,5,22,28,'If a man find a damsel [that is] a virgin, which is not betrothed, and lay hold on her, and lie with her, and they be found;'),
-(198973,8,5,22,29,'Then the man that lay with her shall give unto the damsel''s father fifty [shekels] of silver, and she shall be his wife; because he hath humbled her, he may not put her away all his days.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(198973,8,5,22,29,'Then the man that lay with her shall give unto the damsel''s father fifty [shekels] of silver, and she shall be his wife; because he hath humbled her, he may not put her away all his days.'),
 (198974,8,5,22,30,'A man shall not take his father''s wife, nor discover his father''s skirt.'),
 (198975,8,5,23,1,'He that is wounded in the stones, or hath his privy member cut off, shall not enter into the congregation of the LORD.'),
 (198976,8,5,23,2,'A bastard shall not enter into the congregation of the LORD; even to his tenth generation shall he not enter into the congregation of the LORD.'),
@@ -5661,8 +5556,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (199020,8,5,24,21,'When thou gatherest the grapes of thy vineyard, thou shalt not glean [it] afterward: it shall be for the stranger, for the fatherless, and for the widow.'),
 (199021,8,5,24,22,'And thou shalt remember that thou wast a bondman in the land of Egypt: therefore I command thee to do this thing.'),
 (199022,8,5,25,1,'If there be a controversy between men, and they come unto judgment, that [the judges] may judge them; then they shall justify the righteous, and condemn the wicked.'),
-(199023,8,5,25,2,'And it shall be, if the wicked man [be] worthy to be beaten, that the judge shall cause him to lie down, and to be beaten before his face, according to his fault, by a certain number.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(199023,8,5,25,2,'And it shall be, if the wicked man [be] worthy to be beaten, that the judge shall cause him to lie down, and to be beaten before his face, according to his fault, by a certain number.'),
 (199024,8,5,25,3,'Forty stripes he may give him, [and] not exceed: lest, [if] he should exceed, and beat him above these with many stripes, then thy brother should seem vile unto thee.'),
 (199025,8,5,25,4,'Thou shalt not muzzle the ox when he treadeth out [the corn].'),
 (199026,8,5,25,5,'If brethren dwell together, and one of them die, and have no child, the wife of the dead shall not marry without unto a stranger: her husband''s brother shall go in unto her, and take her to him to wife, and perform the duty of an husband''s brother unto her.'),
@@ -5712,8 +5606,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (199070,8,5,27,11,'And Moses charged the people the same day, saying,'),
 (199071,8,5,27,12,'These shall stand upon mount Gerizim to bless the people, when ye are come over Jordan; Simeon, and Levi, and Judah, and Issachar, and Joseph, and Benjamin:'),
 (199072,8,5,27,13,'And these shall stand upon mount Ebal to curse; Reuben, Gad, and Asher, and Zebulun, Dan, and Naphtali.'),
-(199073,8,5,27,14,'And the Levites shall speak, and say unto all the men of Israel with a loud voice,');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(199073,8,5,27,14,'And the Levites shall speak, and say unto all the men of Israel with a loud voice,'),
 (199074,8,5,27,15,'Cursed [be] the man that maketh [any] graven or molten image, an abomination unto the LORD, the work of the hands of the craftsman, and putteth [it] in [a] secret [place]. And all the people shall answer and say, Amen.'),
 (199075,8,5,27,16,'Cursed [be] he that setteth light by his father or his mother. And all the people shall say, Amen.'),
 (199076,8,5,27,17,'Cursed [be] he that removeth his neighbour''s landmark. And all the people shall say, Amen.'),
@@ -5763,8 +5656,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (199120,8,5,28,35,'The LORD shall smite thee in the knees, and in the legs, with a sore botch that cannot be healed, from the sole of thy foot unto the top of thy head.'),
 (199121,8,5,28,36,'The LORD shall bring thee, and thy king which thou shalt set over thee, unto a nation which neither thou nor thy fathers have known; and there shalt thou serve other gods, wood and stone.'),
 (199122,8,5,28,37,'And thou shalt become an astonishment, a proverb, and a byword, among all nations whither the LORD shall lead thee.'),
-(199123,8,5,28,38,'Thou shalt carry much seed out into the field, and shalt gather [but] little in; for the locust shall consume it.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(199123,8,5,28,38,'Thou shalt carry much seed out into the field, and shalt gather [but] little in; for the locust shall consume it.'),
 (199124,8,5,28,39,'Thou shalt plant vineyards, and dress [them], but shalt neither drink [of] the wine, nor gather [the grapes]; for the worms shall eat them.'),
 (199125,8,5,28,40,'Thou shalt have olive trees throughout all thy coasts, but thou shalt not anoint [thyself] with the oil; for thine olive shall cast [his fruit].'),
 (199126,8,5,28,41,'Thou shalt beget sons and daughters, but thou shalt not enjoy them; for they shall go into captivity.'),
@@ -5814,8 +5706,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (199170,8,5,29,17,'And ye have seen their abominations, and their idols, wood and stone, silver and gold, which [were] among them:)'),
 (199171,8,5,29,18,'Lest there should be among you man, or woman, or family, or tribe, whose heart turneth away this day from the LORD our God, to go [and] serve the gods of these nations; lest there should be among you a root that beareth gall and wormwood;'),
 (199172,8,5,29,19,'And it come to pass, when he heareth the words of this curse, that he bless himself in his heart, saying, I shall have peace, though I walk in the imagination of mine heart, to add drunkenness to thirst:'),
-(199173,8,5,29,20,'The LORD will not spare him, but then the anger of the LORD and his jealousy shall smoke against that man, and all the curses that are written in this book shall lie upon him, and the LORD shall blot out his name from under heaven.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(199173,8,5,29,20,'The LORD will not spare him, but then the anger of the LORD and his jealousy shall smoke against that man, and all the curses that are written in this book shall lie upon him, and the LORD shall blot out his name from under heaven.'),
 (199174,8,5,29,21,'And the LORD shall separate him unto evil out of all the tribes of Israel, according to all the curses of the covenant that are written in this book of the law:'),
 (199175,8,5,29,22,'So that the generation to come of your children that shall rise up after you, and the stranger that shall come from a far land, shall say, when they see the plagues of that land, and the sicknesses which the LORD hath laid upon it;'),
 (199176,8,5,29,23,'[And that] the whole land thereof [is] brimstone, and salt, [and] burning, [that] it is not sown, nor beareth, nor any grass groweth therein, like the overthrow of Sodom, and Gomorrah, Admah, and Zeboim, which the LORD overthrew in his anger, and in his wrath:'),
@@ -5865,8 +5756,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (199220,8,5,31,18,'And I will surely hide my face in that day for all the evils which they shall have wrought, in that they are turned unto other gods.'),
 (199221,8,5,31,19,'Now therefore write ye this song for you, and teach it the children of Israel: put it in their mouths, that this song may be a witness for me against the children of Israel.'),
 (199222,8,5,31,20,'For when I shall have brought them into the land which I sware unto their fathers, that floweth with milk and honey; and they shall have eaten and filled themselves, and waxen fat; then will they turn unto other gods, and serve them, and provoke me, and break my covenant.'),
-(199223,8,5,31,21,'And it shall come to pass, when many evils and troubles are befallen them, that this song shall testify against them as a witness; for it shall not be forgotten out of the mouths of their seed: for I know their imagination which they go about, even now, before I have brought them into the land which I sware.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(199223,8,5,31,21,'And it shall come to pass, when many evils and troubles are befallen them, that this song shall testify against them as a witness; for it shall not be forgotten out of the mouths of their seed: for I know their imagination which they go about, even now, before I have brought them into the land which I sware.'),
 (199224,8,5,31,22,'Moses therefore wrote this song the same day, and taught it the children of Israel.'),
 (199225,8,5,31,23,'And he gave Joshua the son of Nun a charge, and said, Be strong and of a good courage: for thou shalt bring the children of Israel into the land which I sware unto them: and I will be with thee.'),
 (199226,8,5,31,24,'And it came to pass, when Moses had made an end of writing the words of this law in a book, until they were finished,'),
@@ -5916,8 +5806,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (199270,8,5,32,38,'Which did eat the fat of their sacrifices, [and] drank the wine of their drink offerings? let them rise up and help you, [and] be your protection.'),
 (199271,8,5,32,39,'See now that I, [even] I, [am] he, and [there is] no god with me: I kill, and I make alive; I wound, and I heal: neither [is there any] that can deliver out of my hand.'),
 (199272,8,5,32,40,'For I lift up my hand to heaven, and say, I live for ever.'),
-(199273,8,5,32,41,'If I whet my glittering sword, and mine hand take hold on judgment; I will render vengeance to mine enemies, and will reward them that hate me.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(199273,8,5,32,41,'If I whet my glittering sword, and mine hand take hold on judgment; I will render vengeance to mine enemies, and will reward them that hate me.'),
 (199274,8,5,32,42,'I will make mine arrows drunk with blood, and my sword shall devour flesh; [and that] with the blood of the slain and of the captives, from the beginning of revenges upon the enemy.'),
 (199275,8,5,32,43,'Rejoice, O ye nations, [with] his people: for he will avenge the blood of his servants, and will render vengeance to his adversaries, and will be merciful unto his land, [and] to his people.'),
 (199276,8,5,32,44,'And Moses came and spake all the words of this song in the ears of the people, he, and Hoshea the son of Nun.'),
@@ -5967,8 +5856,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (199320,8,5,34,7,'And Moses [was] an hundred and twenty years old when he died: his eye was not dim, nor his natural force abated.'),
 (199321,8,5,34,8,'And the children of Israel wept for Moses in the plains of Moab thirty days: so the days of weeping [and] mourning for Moses were ended.'),
 (199322,8,5,34,9,'And Joshua the son of Nun was full of the spirit of wisdom; for Moses had laid his hands upon him: and the children of Israel hearkened unto him, and did as the LORD commanded Moses.'),
-(199323,8,5,34,10,'And there arose not a prophet since in Israel like unto Moses, whom the LORD knew face to face,');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(199323,8,5,34,10,'And there arose not a prophet since in Israel like unto Moses, whom the LORD knew face to face,'),
 (199324,8,5,34,11,'In all the signs and the wonders, which the LORD sent him to do in the land of Egypt to Pharaoh, and to all his servants, and to all his land,'),
 (199325,8,5,34,12,'And in all that mighty hand, and in all the great terror which Moses shewed in the sight of all Israel.'),
 (199326,8,6,1,1,'Now after the death of Moses the servant of the LORD it came to pass, that the LORD spake unto Joshua the son of Nun, Moses'' minister, saying,'),
@@ -6018,8 +5906,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (199370,8,6,3,3,'And they commanded the people, saying, When ye see the ark of the covenant of the LORD your God, and the priests the Levites bearing it, then ye shall remove from your place, and go after it.'),
 (199371,8,6,3,4,'Yet there shall be a space between you and it, about two thousand cubits by measure: come not near unto it, that ye may know the way by which ye must go: for ye have not passed [this] way heretofore.'),
 (199372,8,6,3,5,'And Joshua said unto the people, Sanctify yourselves: for to morrow the LORD will do wonders among you.'),
-(199373,8,6,3,6,'And Joshua spake unto the priests, saying, Take up the ark of the covenant, and pass over before the people. And they took up the ark of the covenant, and went before the people.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(199373,8,6,3,6,'And Joshua spake unto the priests, saying, Take up the ark of the covenant, and pass over before the people. And they took up the ark of the covenant, and went before the people.'),
 (199374,8,6,3,7,'And the LORD said unto Joshua, This day will I begin to magnify thee in the sight of all Israel, that they may know that, as I was with Moses, [so] I will be with thee.'),
 (199375,8,6,3,8,'And thou shalt command the priests that bear the ark of the covenant, saying, When ye are come to the brink of the water of Jordan, ye shall stand still in Jordan.'),
 (199376,8,6,3,9,'And Joshua said unto the children of Israel, Come hither, and hear the words of the LORD your God.'),
@@ -6069,8 +5956,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (199420,8,6,5,12,'And the manna ceased on the morrow after they had eaten of the old corn of the land; neither had the children of Israel manna any more; but they did eat of the fruit of the land of Canaan that year.'),
 (199421,8,6,5,13,'And it came to pass, when Joshua was by Jericho, that he lifted up his eyes and looked, and, behold, there stood a man over against him with his sword drawn in his hand: and Joshua went unto him, and said unto him, [Art] thou for us, or for our adversaries?'),
 (199422,8,6,5,14,'And he said, Nay; but [as] captain of the host of the LORD am I now come. And Joshua fell on his face to the earth, and did worship, and said unto him, What saith my lord unto his servant?'),
-(199423,8,6,5,15,'And the captain of the LORD''s host said unto Joshua, Loose thy shoe from off thy foot; for the place whereon thou standest [is] holy. And Joshua did so.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(199423,8,6,5,15,'And the captain of the LORD''s host said unto Joshua, Loose thy shoe from off thy foot; for the place whereon thou standest [is] holy. And Joshua did so.'),
 (199424,8,6,6,1,'Now Jericho was straitly shut up because of the children of Israel: none went out, and none came in.'),
 (199425,8,6,6,2,'And the LORD said unto Joshua, See, I have given into thine hand Jericho, and the king thereof, [and] the mighty men of valour.'),
 (199426,8,6,6,3,'And ye shall compass the city, all [ye] men of war, [and] go round about the city once. Thus shalt thou do six days.'),
@@ -6171,8 +6057,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (199520,8,6,9,9,'And they said unto him, From a very far country thy servants are come because of the name of the LORD thy God: for we have heard the fame of him, and all that he did in Egypt,'),
 (199521,8,6,9,10,'And all that he did to the two kings of the Amorites, that [were] beyond Jordan, to Sihon king of Heshbon, and to Og king of Bashan, which [was] at Ashtaroth.'),
 (199522,8,6,9,11,'Wherefore our elders and all the inhabitants of our country spake to us, saying, Take victuals with you for the journey, and go to meet them, and say unto them, We [are] your servants: therefore now make ye a league with us.'),
-(199523,8,6,9,12,'This our bread we took hot [for] our provision out of our houses on the day we came forth to go unto you; but now, behold, it is dry, and it is mouldy:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(199523,8,6,9,12,'This our bread we took hot [for] our provision out of our houses on the day we came forth to go unto you; but now, behold, it is dry, and it is mouldy:'),
 (199524,8,6,9,13,'And these bottles of wine, which we filled, [were] new; and, behold, they be rent: and these our garments and our shoes are become old by reason of the very long journey.'),
 (199525,8,6,9,14,'And the men took of their victuals, and asked not [counsel] at the mouth of the LORD.'),
 (199526,8,6,9,15,'And Joshua made peace with them, and made a league with them, to let them live: and the princes of the congregation sware unto them.'),
@@ -6222,8 +6107,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (199570,8,6,10,32,'And the LORD delivered Lachish into the hand of Israel, which took it on the second day, and smote it with the edge of the sword, and all the souls that [were] therein, according to all that he had done to Libnah.'),
 (199571,8,6,10,33,'Then Horam king of Gezer came up to help Lachish; and Joshua smote him and his people, until he had left him none remaining.'),
 (199572,8,6,10,34,'And from Lachish Joshua passed unto Eglon, and all Israel with him; and they encamped against it, and fought against it:'),
-(199573,8,6,10,35,'And they took it on that day, and smote it with the edge of the sword, and all the souls that [were] therein he utterly destroyed that day, according to all that he had done to Lachish.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(199573,8,6,10,35,'And they took it on that day, and smote it with the edge of the sword, and all the souls that [were] therein he utterly destroyed that day, according to all that he had done to Lachish.'),
 (199574,8,6,10,36,'And Joshua went up from Eglon, and all Israel with him, unto Hebron; and they fought against it:'),
 (199575,8,6,10,37,'And they took it, and smote it with the edge of the sword, and the king thereof, and all the cities thereof, and all the souls that [were] therein; he left none remaining, according to all that he had done to Eglon; but destroyed it utterly, and all the souls that [were] therein.'),
 (199576,8,6,10,38,'And Joshua returned, and all Israel with him, to Debir; and fought against it:'),
@@ -6273,8 +6157,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (199620,8,6,12,16,'The king of Makkedah, one; the king of Bethel, one;'),
 (199621,8,6,12,17,'The king of Tappuah, one; the king of Hepher, one;'),
 (199622,8,6,12,18,'The king of Aphek, one; the king of Lasharon, one;'),
-(199623,8,6,12,19,'The king of Madon, one; the king of Hazor, one;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(199623,8,6,12,19,'The king of Madon, one; the king of Hazor, one;'),
 (199624,8,6,12,20,'The king of Shimronmeron, one; the king of Achshaph, one;'),
 (199625,8,6,12,21,'The king of Taanach, one; the king of Megiddo, one;'),
 (199626,8,6,12,22,'The king of Kedesh, one; the king of Jokneam of Carmel, one;'),
@@ -6324,8 +6207,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (199670,8,6,14,9,'And Moses sware on that day, saying, Surely the land whereon thy feet have trodden shall be thine inheritance, and thy children''s for ever, because thou hast wholly followed the LORD my God.'),
 (199671,8,6,14,10,'And now, behold, the LORD hath kept me alive, as he said, these forty and five years, even since the LORD spake this word unto Moses, while [the children of] Israel wandered in the wilderness: and now, lo, I [am] this day fourscore and five years old.'),
 (199672,8,6,14,11,'As yet I [am as] strong this day as [I was] in the day that Moses sent me: as my strength [was] then, even so [is] my strength now, for war, both to go out, and to come in.'),
-(199673,8,6,14,12,'Now therefore give me this mountain, whereof the LORD spake in that day; for thou heardest in that day how the Anakims [were] there, and [that] the cities [were] great [and] fenced: if so be the LORD [will be] with me, then I shall be able to drive them out, as the LORD said.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(199673,8,6,14,12,'Now therefore give me this mountain, whereof the LORD spake in that day; for thou heardest in that day how the Anakims [were] there, and [that] the cities [were] great [and] fenced: if so be the LORD [will be] with me, then I shall be able to drive them out, as the LORD said.'),
 (199674,8,6,14,13,'And Joshua blessed him, and gave unto Caleb the son of Jephunneh Hebron for an inheritance.'),
 (199675,8,6,14,14,'Hebron therefore became the inheritance of Caleb the son of Jephunneh the Kenezite unto this day, because that he wholly followed the LORD God of Israel.'),
 (199676,8,6,14,15,'And the name of Hebron before [was] Kirjatharba; [which Arba was] a great man among the Anakims. And the land had rest from war.'),
@@ -6375,8 +6257,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (199720,8,6,15,44,'And Keilah, and Achzib, and Mareshah; nine cities with their villages:'),
 (199721,8,6,15,45,'Ekron, with her towns and her villages:'),
 (199722,8,6,15,46,'From Ekron even unto the sea, all that [lay] near Ashdod, with their villages:'),
-(199723,8,6,15,47,'Ashdod with her towns and her villages, Gaza with her towns and her villages, unto the river of Egypt, and the great sea, and the border [thereof]:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(199723,8,6,15,47,'Ashdod with her towns and her villages, Gaza with her towns and her villages, unto the river of Egypt, and the great sea, and the border [thereof]:'),
 (199724,8,6,15,48,'And in the mountains, Shamir, and Jattir, and Socoh,'),
 (199725,8,6,15,49,'And Dannah, and Kirjathsannah, which [is] Debir,'),
 (199726,8,6,15,50,'And Anab, and Eshtemoh, and Anim,'),
@@ -6426,8 +6307,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (199770,8,6,18,3,'And Joshua said unto the children of Israel, How long [are] ye slack to go to possess the land, which the LORD God of your fathers hath given you?'),
 (199771,8,6,18,4,'Give out from among you three men for [each] tribe: and I will send them, and they shall rise, and go through the land, and describe it according to the inheritance of them; and they shall come [again] to me.'),
 (199772,8,6,18,5,'And they shall divide it into seven parts: Judah shall abide in their coast on the south, and the house of Joseph shall abide in their coasts on the north.'),
-(199773,8,6,18,6,'Ye shall therefore describe the land [into] seven parts, and bring [the description] hither to me, that I may cast lots for you here before the LORD our God.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(199773,8,6,18,6,'Ye shall therefore describe the land [into] seven parts, and bring [the description] hither to me, that I may cast lots for you here before the LORD our God.'),
 (199774,8,6,18,7,'But the Levites have no part among you; for the priesthood of the LORD [is] their inheritance: and Gad, and Reuben, and half the tribe of Manasseh, have received their inheritance beyond Jordan on the east, which Moses the servant of the LORD gave them.'),
 (199775,8,6,18,8,'And the men arose, and went away: and Joshua charged them that went to describe the land, saying, Go and walk through the land, and describe it, and come again to me, that I may here cast lots for you before the LORD in Shiloh.'),
 (199776,8,6,18,9,'And the men went and passed through the land, and described it by cities into seven parts in a book, and came [again] to Joshua to the host at Shiloh.'),
@@ -6477,8 +6357,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (199820,8,6,19,25,'And their border was Helkath, and Hali, and Beten, and Achshaph,'),
 (199821,8,6,19,26,'And Alammelech, and Amad, and Misheal; and reacheth to Carmel westward, and to Shihorlibnath;'),
 (199822,8,6,19,27,'And turneth toward the sunrising to Bethdagon, and reacheth to Zebulun, and to the valley of Jiphthahel toward the north side of Bethemek, and Neiel, and goeth out to Cabul on the left hand,'),
-(199823,8,6,19,28,'And Hebron, and Rehob, and Hammon, and Kanah, [even] unto great Zidon;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(199823,8,6,19,28,'And Hebron, and Rehob, and Hammon, and Kanah, [even] unto great Zidon;'),
 (199824,8,6,19,29,'And [then] the coast turneth to Ramah, and to the strong city Tyre; and the coast turneth to Hosah; and the outgoings thereof are at the sea from the coast to Achzib:'),
 (199825,8,6,19,30,'Ummah also, and Aphek, and Rehob: twenty and two cities with their villages.'),
 (199826,8,6,19,31,'This [is] the inheritance of the tribe of the children of Asher according to their families, these cities with their villages.'),
@@ -6528,8 +6407,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (199870,8,6,21,15,'And Holon with her suburbs, and Debir with her suburbs,'),
 (199871,8,6,21,16,'And Ain with her suburbs, and Juttah with her suburbs, [and] Bethshemesh with her suburbs; nine cities out of those two tribes.'),
 (199872,8,6,21,17,'And out of the tribe of Benjamin, Gibeon with her suburbs, Geba with her suburbs,'),
-(199873,8,6,21,18,'Anathoth with her suburbs, and Almon with her suburbs; four cities.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(199873,8,6,21,18,'Anathoth with her suburbs, and Almon with her suburbs; four cities.'),
 (199874,8,6,21,19,'All the cities of the children of Aaron, the priests, [were] thirteen cities with their suburbs.'),
 (199875,8,6,21,20,'And the families of the children of Kohath, the Levites which remained of the children of Kohath, even they had the cities of their lot out of the tribe of Ephraim.'),
 (199876,8,6,21,21,'For they gave them Shechem with her suburbs in mount Ephraim, [to be] a city of refuge for the slayer; and Gezer with her suburbs,'),
@@ -6579,8 +6457,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (199920,8,6,22,20,'Did not Achan the son of Zerah commit a trespass in the accursed thing, and wrath fell on all the congregation of Israel? and that man perished not alone in his iniquity.'),
 (199921,8,6,22,21,'Then the children of Reuben and the children of Gad and the half tribe of Manasseh answered, and said unto the heads of the thousands of Israel,'),
 (199922,8,6,22,22,'The LORD God of gods, the LORD God of gods, he knoweth, and Israel he shall know; if [it be] in rebellion, or if in transgression against the LORD, (save us not this day,)'),
-(199923,8,6,22,23,'That we have built us an altar to turn from following the LORD, or if to offer thereon burnt offering or meat offering, or if to offer peace offerings thereon, let the LORD himself require [it];');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(199923,8,6,22,23,'That we have built us an altar to turn from following the LORD, or if to offer thereon burnt offering or meat offering, or if to offer peace offerings thereon, let the LORD himself require [it];'),
 (199924,8,6,22,24,'And if we have not [rather] done it for fear of [this] thing, saying, In time to come your children might speak unto our children, saying, What have ye to do with the LORD God of Israel?'),
 (199925,8,6,22,25,'For the LORD hath made Jordan a border between us and you, ye children of Reuben and children of Gad; ye have no part in the LORD: so shall your children make our children cease from fearing the LORD.'),
 (199926,8,6,22,26,'Therefore we said, Let us now prepare to build us an altar, not for burnt offering, nor for sacrifice:'),
@@ -6630,8 +6507,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (199970,8,6,24,20,'If ye forsake the LORD, and serve strange gods, then he will turn and do you hurt, and consume you, after that he hath done you good.'),
 (199971,8,6,24,21,'And the people said unto Joshua, Nay; but we will serve the LORD.'),
 (199972,8,6,24,22,'And Joshua said unto the people, Ye [are] witnesses against yourselves that ye have chosen you the LORD, to serve him. And they said, [We are] witnesses.'),
-(199973,8,6,24,23,'Now therefore put away, [said he], the strange gods which [are] among you, and incline your heart unto the LORD God of Israel.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(199973,8,6,24,23,'Now therefore put away, [said he], the strange gods which [are] among you, and incline your heart unto the LORD God of Israel.'),
 (199974,8,6,24,24,'And the people said unto Joshua, The LORD our God will we serve, and his voice will we obey.'),
 (199975,8,6,24,25,'So Joshua made a covenant with the people that day, and set them a statute and an ordinance in Shechem.'),
 (199976,8,6,24,26,'And Joshua wrote these words in the book of the law of God, and took a great stone, and set it up there under an oak, that [was] by the sanctuary of the LORD.'),
@@ -6681,8 +6557,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (200020,8,7,2,1,'And an angel of the LORD came up from Gilgal to Bochim, and said, I made you to go up out of Egypt, and have brought you unto the land which I sware unto your fathers; and I said, I will never break my covenant with you.'),
 (200021,8,7,2,2,'And ye shall make no league with the inhabitants of this land; ye shall throw down their altars: but ye have not obeyed my voice: why have ye done this?'),
 (200022,8,7,2,3,'Wherefore I also said, I will not drive them out from before you; but they shall be [as thorns] in your sides, and their gods shall be a snare unto you.'),
-(200023,8,7,2,4,'And it came to pass, when the angel of the LORD spake these words unto all the children of Israel, that the people lifted up their voice, and wept.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(200023,8,7,2,4,'And it came to pass, when the angel of the LORD spake these words unto all the children of Israel, that the people lifted up their voice, and wept.'),
 (200024,8,7,2,5,'And they called the name of that place Bochim: and they sacrificed there unto the LORD.'),
 (200025,8,7,2,6,'And when Joshua had let the people go, the children of Israel went every man unto his inheritance to possess the land.'),
 (200026,8,7,2,7,'And the people served the LORD all the days of Joshua, and all the days of the elders that outlived Joshua, who had seen all the great works of the LORD, that he did for Israel.'),
@@ -6732,8 +6607,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (200070,8,7,3,28,'And he said unto them, Follow after me: for the LORD hath delivered your enemies the Moabites into your hand. And they went down after him, and took the fords of Jordan toward Moab, and suffered not a man to pass over.'),
 (200071,8,7,3,29,'And they slew of Moab at that time about ten thousand men, all lusty, and all men of valour; and there escaped not a man.'),
 (200072,8,7,3,30,'So Moab was subdued that day under the hand of Israel. And the land had rest fourscore years.'),
-(200073,8,7,3,31,'And after him was Shamgar the son of Anath, which slew of the Philistines six hundred men with an ox goad: and he also delivered Israel.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(200073,8,7,3,31,'And after him was Shamgar the son of Anath, which slew of the Philistines six hundred men with an ox goad: and he also delivered Israel.'),
 (200074,8,7,4,1,'And the children of Israel again did evil in the sight of the LORD, when Ehud was dead.'),
 (200075,8,7,4,2,'And the LORD sold them into the hand of Jabin king of Canaan, that reigned in Hazor; the captain of whose host [was] Sisera, which dwelt in Harosheth of the Gentiles.'),
 (200076,8,7,4,3,'And the children of Israel cried unto the LORD: for he had nine hundred chariots of iron; and twenty years he mightily oppressed the children of Israel.'),
@@ -6783,8 +6657,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (200120,8,7,5,23,'Curse ye Meroz, said the angel of the LORD, curse ye bitterly the inhabitants thereof; because they came not to the help of the LORD, to the help of the LORD against the mighty.'),
 (200121,8,7,5,24,'Blessed above women shall Jael the wife of Heber the Kenite be, blessed shall she be above women in the tent.'),
 (200122,8,7,5,25,'He asked water, [and] she gave [him] milk; she brought forth butter in a lordly dish.'),
-(200123,8,7,5,26,'She put her hand to the nail, and her right hand to the workmen''s hammer; and with the hammer she smote Sisera, she smote off his head, when she had pierced and stricken through his temples.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(200123,8,7,5,26,'She put her hand to the nail, and her right hand to the workmen''s hammer; and with the hammer she smote Sisera, she smote off his head, when she had pierced and stricken through his temples.'),
 (200124,8,7,5,27,'At her feet he bowed, he fell, he lay down: at her feet he bowed, he fell: where he bowed, there he fell down dead.'),
 (200125,8,7,5,28,'The mother of Sisera looked out at a window, and cried through the lattice, Why is his chariot [so] long in coming? why tarry the wheels of his chariots?'),
 (200126,8,7,5,29,'Her wise ladies answered her, yea, she returned answer to herself,'),
@@ -6834,8 +6707,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (200170,8,7,7,2,'And the LORD said unto Gideon, The people that [are] with thee [are] too many for me to give the Midianites into their hands, lest Israel vaunt themselves against me, saying, Mine own hand hath saved me.'),
 (200171,8,7,7,3,'Now therefore go to, proclaim in the ears of the people, saying, Whosoever [is] fearful and afraid, let him return and depart early from mount Gilead. And there returned of the people twenty and two thousand; and there remained ten thousand.'),
 (200172,8,7,7,4,'And the LORD said unto Gideon, The people [are] yet [too] many; bring them down unto the water, and I will try them for thee there: and it shall be, [that] of whom I say unto thee, This shall go with thee, the same shall go with thee; and of whomsoever I say unto thee, This shall not go with thee, the same shall not go.'),
-(200173,8,7,7,5,'So he brought down the people unto the water: and the LORD said unto Gideon, Every one that lappeth of the water with his tongue, as a dog lappeth, him shalt thou set by himself; likewise every one that boweth down upon his knees to drink.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(200173,8,7,7,5,'So he brought down the people unto the water: and the LORD said unto Gideon, Every one that lappeth of the water with his tongue, as a dog lappeth, him shalt thou set by himself; likewise every one that boweth down upon his knees to drink.'),
 (200174,8,7,7,6,'And the number of them that lapped, [putting] their hand to their mouth, were three hundred men: but all the rest of the people bowed down upon their knees to drink water.'),
 (200175,8,7,7,7,'And the LORD said unto Gideon, By the three hundred men that lapped will I save you, and deliver the Midianites into thine hand: and let all the [other] people go every man unto his place.'),
 (200176,8,7,7,8,'So the people took victuals in their hand, and their trumpets: and he sent all [the rest of] Israel every man unto his tent, and retained those three hundred men: and the host of Midian was beneath him in the valley.'),
@@ -6885,8 +6757,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (200220,8,7,8,27,'And Gideon made an ephod thereof, and put it in his city, [even] in Ophrah: and all Israel went thither a whoring after it: which thing became a snare unto Gideon, and to his house.'),
 (200221,8,7,8,28,'Thus was Midian subdued before the children of Israel, so that they lifted up their heads no more. And the country was in quietness forty years in the days of Gideon.'),
 (200222,8,7,8,29,'And Jerubbaal the son of Joash went and dwelt in his own house.'),
-(200223,8,7,8,30,'And Gideon had threescore and ten sons of his body begotten: for he had many wives.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(200223,8,7,8,30,'And Gideon had threescore and ten sons of his body begotten: for he had many wives.'),
 (200224,8,7,8,31,'And his concubine that [was] in Shechem, she also bare him a son, whose name he called Abimelech.'),
 (200225,8,7,8,32,'And Gideon the son of Joash died in a good old age, and was buried in the sepulchre of Joash his father, in Ophrah of the Abiezrites.'),
 (200226,8,7,8,33,'And it came to pass, as soon as Gideon was dead, that the children of Israel turned again, and went a whoring after Baalim, and made Baalberith their god.'),
@@ -6936,8 +6807,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (200270,8,7,9,42,'And it came to pass on the morrow, that the people went out into the field; and they told Abimelech.'),
 (200271,8,7,9,43,'And he took the people, and divided them into three companies, and laid wait in the field, and looked, and, behold, the people [were] come forth out of the city; and he rose up against them, and smote them.'),
 (200272,8,7,9,44,'And Abimelech, and the company that [was] with him, rushed forward, and stood in the entering of the gate of the city: and the two [other] companies ran upon all [the people] that [were] in the fields, and slew them.'),
-(200273,8,7,9,45,'And Abimelech fought against the city all that day; and he took the city, and slew the people that [was] therein, and beat down the city, and sowed it with salt.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(200273,8,7,9,45,'And Abimelech fought against the city all that day; and he took the city, and slew the people that [was] therein, and beat down the city, and sowed it with salt.'),
 (200274,8,7,9,46,'And when all the men of the tower of Shechem heard [that], they entered into an hold of the house of the god Berith.'),
 (200275,8,7,9,47,'And it was told Abimelech, that all the men of the tower of Shechem were gathered together.'),
 (200276,8,7,9,48,'And Abimelech gat him up to mount Zalmon, he and all the people that [were] with him; and Abimelech took an axe in his hand, and cut down a bough from the trees, and took it, and laid [it] on his shoulder, and said unto the people that [were] with him, What ye have seen me do, make haste, [and] do as I [have done].'),
@@ -6987,8 +6857,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (200320,8,7,11,17,'Then Israel sent messengers unto the king of Edom, saying, Let me, I pray thee, pass through thy land: but the king of Edom would not hearken [thereto]. And in like manner they sent unto the king of Moab: but he would not [consent]: and Israel abode in Kadesh.'),
 (200321,8,7,11,18,'Then they went along through the wilderness, and compassed the land of Edom, and the land of Moab, and came by the east side of the land of Moab, and pitched on the other side of Arnon, but came not within the border of Moab: for Arnon [was] the border of Moab.'),
 (200322,8,7,11,19,'And Israel sent messengers unto Sihon king of the Amorites, the king of Heshbon; and Israel said unto him, Let us pass, we pray thee, through thy land into my place.'),
-(200323,8,7,11,20,'But Sihon trusted not Israel to pass through his coast: but Sihon gathered all his people together, and pitched in Jahaz, and fought against Israel.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(200323,8,7,11,20,'But Sihon trusted not Israel to pass through his coast: but Sihon gathered all his people together, and pitched in Jahaz, and fought against Israel.'),
 (200324,8,7,11,21,'And the LORD God of Israel delivered Sihon and all his people into the hand of Israel, and they smote them: so Israel possessed all the land of the Amorites, the inhabitants of that country.'),
 (200325,8,7,11,22,'And they possessed all the coasts of the Amorites, from Arnon even unto Jabbok, and from the wilderness even unto Jordan.'),
 (200326,8,7,11,23,'So now the LORD God of Israel hath dispossessed the Amorites from before his people Israel, and shouldest thou possess it?'),
@@ -7038,8 +6907,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (200370,8,7,13,12,'And Manoah said, Now let thy words come to pass. How shall we order the child, and [how] shall we do unto him?'),
 (200371,8,7,13,13,'And the angel of the LORD said unto Manoah, Of all that I said unto the woman let her beware.'),
 (200372,8,7,13,14,'She may not eat of any [thing] that cometh of the vine, neither let her drink wine or strong drink, nor eat any unclean [thing]: all that I commanded her let her observe.'),
-(200373,8,7,13,15,'And Manoah said unto the angel of the LORD, I pray thee, let us detain thee, until we shall have made ready a kid for thee.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(200373,8,7,13,15,'And Manoah said unto the angel of the LORD, I pray thee, let us detain thee, until we shall have made ready a kid for thee.'),
 (200374,8,7,13,16,'And the angel of the LORD said unto Manoah, Though thou detain me, I will not eat of thy bread: and if thou wilt offer a burnt offering, thou must offer it unto the LORD. For Manoah knew not that he [was] an angel of the LORD.'),
 (200375,8,7,13,17,'And Manoah said unto the angel of the LORD, What [is] thy name, that when thy sayings come to pass we may do thee honour?'),
 (200376,8,7,13,18,'And the angel of the LORD said unto him, Why askest thou thus after my name, seeing it [is] secret?'),
@@ -7089,8 +6957,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (200420,8,7,15,17,'And it came to pass, when he had made an end of speaking, that he cast away the jawbone out of his hand, and called that place Ramathlehi.'),
 (200421,8,7,15,18,'And he was sore athirst, and called on the LORD, and said, Thou hast given this great deliverance into the hand of thy servant: and now shall I die for thirst, and fall into the hand of the uncircumcised?'),
 (200422,8,7,15,19,'But God clave an hollow place that [was] in the jaw, and there came water thereout; and when he had drunk, his spirit came again, and he revived: wherefore he called the name thereof Enhakkore, which [is] in Lehi unto this day.'),
-(200423,8,7,15,20,'And he judged Israel in the days of the Philistines twenty years.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(200423,8,7,15,20,'And he judged Israel in the days of the Philistines twenty years.'),
 (200424,8,7,16,1,'Then went Samson to Gaza, and saw there an harlot, and went in unto her.'),
 (200425,8,7,16,2,'[And it was told] the Gazites, saying, Samson is come hither. And they compassed [him] in, and laid wait for him all night in the gate of the city, and were quiet all the night, saying, In the morning, when it is day, we shall kill him.'),
 (200426,8,7,16,3,'And Samson lay till midnight, and arose at midnight, and took the doors of the gate of the city, and the two posts, and went away with them, bar and all, and put [them] upon his shoulders, and carried them up to the top of an hill that [is] before Hebron.'),
@@ -7191,8 +7058,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (200520,8,7,19,22,'[Now] as they were making their hearts merry, behold, the men of the city, certain sons of Belial, beset the house round about, [and] beat at the door, and spake to the master of the house, the old man, saying, Bring forth the man that came into thine house, that we may know him.'),
 (200521,8,7,19,23,'And the man, the master of the house, went out unto them, and said unto them, Nay, my brethren, [nay], I pray you, do not [so] wickedly; seeing that this man is come into mine house, do not this folly.'),
 (200522,8,7,19,24,'Behold, [here is] my daughter a maiden, and his concubine; them I will bring out now, and humble ye them, and do with them what seemeth good unto you: but unto this man do not so vile a thing.'),
-(200523,8,7,19,25,'But the men would not hearken to him: so the man took his concubine, and brought her forth unto them; and they knew her, and abused her all the night until the morning: and when the day began to spring, they let her go.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(200523,8,7,19,25,'But the men would not hearken to him: so the man took his concubine, and brought her forth unto them; and they knew her, and abused her all the night until the morning: and when the day began to spring, they let her go.'),
 (200524,8,7,19,26,'Then came the woman in the dawning of the day, and fell down at the door of the man''s house where her lord [was], till it was light.'),
 (200525,8,7,19,27,'And her lord rose up in the morning, and opened the doors of the house, and went out to go his way: and, behold, the woman his concubine was fallen down [at] the door of the house, and her hands [were] upon the threshold.'),
 (200526,8,7,19,28,'And he said unto her, Up, and let us be going. But none answered. Then the man took her [up] upon an ass, and the man rose up, and gat him unto his place.'),
@@ -7242,8 +7108,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (200570,8,7,20,42,'Therefore they turned [their backs] before the men of Israel unto the way of the wilderness; but the battle overtook them; and them which [came] out of the cities they destroyed in the midst of them.'),
 (200571,8,7,20,43,'[Thus] they inclosed the Benjamites round about, [and] chased them, [and] trode them down with ease over against Gibeah toward the sunrising.'),
 (200572,8,7,20,44,'And there fell of Benjamin eighteen thousand men; all these [were] men of valour.'),
-(200573,8,7,20,45,'And they turned and fled toward the wilderness unto the rock of Rimmon: and they gleaned of them in the highways five thousand men; and pursued hard after them unto Gidom, and slew two thousand men of them.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(200573,8,7,20,45,'And they turned and fled toward the wilderness unto the rock of Rimmon: and they gleaned of them in the highways five thousand men; and pursued hard after them unto Gidom, and slew two thousand men of them.'),
 (200574,8,7,20,46,'So that all which fell that day of Benjamin were twenty and five thousand men that drew the sword; all these [were] men of valour.'),
 (200575,8,7,20,47,'But six hundred men turned and fled to the wilderness unto the rock Rimmon, and abode in the rock Rimmon four months.'),
 (200576,8,7,20,48,'And the men of Israel turned again upon the children of Benjamin, and smote them with the edge of the sword, as well the men of [every] city, as the beast, and all that came to hand: also they set on fire all the cities that they came to.'),
@@ -7293,8 +7158,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (200620,8,8,1,19,'So they two went until they came to Bethlehem. And it came to pass, when they were come to Bethlehem, that all the city was moved about them, and they said, [Is] this Naomi?'),
 (200621,8,8,1,20,'And she said unto them, Call me not Naomi, call me Mara: for the Almighty hath dealt very bitterly with me.'),
 (200622,8,8,1,21,'I went out full, and the LORD hath brought me home again empty: why [then] call ye me Naomi, seeing the LORD hath testified against me, and the Almighty hath afflicted me?'),
-(200623,8,8,1,22,'So Naomi returned, and Ruth the Moabitess, her daughter in law, with her, which returned out of the country of Moab: and they came to Bethlehem in the beginning of barley harvest.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(200623,8,8,1,22,'So Naomi returned, and Ruth the Moabitess, her daughter in law, with her, which returned out of the country of Moab: and they came to Bethlehem in the beginning of barley harvest.'),
 (200624,8,8,2,1,'And Naomi had a kinsman of her husband''s, a mighty man of wealth, of the family of Elimelech; and his name [was] Boaz.'),
 (200625,8,8,2,2,'And Ruth the Moabitess said unto Naomi, Let me now go to the field, and glean ears of corn after [him] in whose sight I shall find grace. And she said unto her, Go, my daughter.'),
 (200626,8,8,2,3,'And she went, and came, and gleaned in the field after the reapers: and her hap was to light on a part of the field [belonging] unto Boaz, who [was] of the kindred of Elimelech.'),
@@ -7344,8 +7208,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (200670,8,8,4,6,'And the kinsman said, I cannot redeem [it] for myself, lest I mar mine own inheritance: redeem thou my right to thyself; for I cannot redeem [it].'),
 (200671,8,8,4,7,'Now this [was the manner] in former time in Israel concerning redeeming and concerning changing, for to confirm all things; a man plucked off his shoe, and gave [it] to his neighbour: and this [was] a testimony in Israel.'),
 (200672,8,8,4,8,'Therefore the kinsman said unto Boaz, Buy [it] for thee. So he drew off his shoe.'),
-(200673,8,8,4,9,'And Boaz said unto the elders, and [unto] all the people, Ye [are] witnesses this day, that I have bought all that [was] Elimelech''s, and all that [was] Chilion''s and Mahlon''s, of the hand of Naomi.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(200673,8,8,4,9,'And Boaz said unto the elders, and [unto] all the people, Ye [are] witnesses this day, that I have bought all that [was] Elimelech''s, and all that [was] Chilion''s and Mahlon''s, of the hand of Naomi.'),
 (200674,8,8,4,10,'Moreover Ruth the Moabitess, the wife of Mahlon, have I purchased to be my wife, to raise up the name of the dead upon his inheritance, that the name of the dead be not cut off from among his brethren, and from the gate of his place: ye [are] witnesses this day.'),
 (200675,8,8,4,11,'And all the people that [were] in the gate, and the elders, said, [We are] witnesses. The LORD make the woman that is come into thine house like Rachel and like Leah, which two did build the house of Israel: and do thou worthily in Ephratah, and be famous in Bethlehem:'),
 (200676,8,8,4,12,'And let thy house be like the house of Pharez, whom Tamar bare unto Judah, of the seed which the LORD shall give thee of this young woman.'),
@@ -7395,8 +7258,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (200720,8,9,2,6,'The LORD killeth, and maketh alive: he bringeth down to the grave, and bringeth up.'),
 (200721,8,9,2,7,'The LORD maketh poor, and maketh rich: he bringeth low, and lifteth up.'),
 (200722,8,9,2,8,'He raiseth up the poor out of the dust, [and] lifteth up the beggar from the dunghill, to set [them] among princes, and to make them inherit the throne of glory: for the pillars of the earth [are] the LORD''s, and he hath set the world upon them.'),
-(200723,8,9,2,9,'He will keep the feet of his saints, and the wicked shall be silent in darkness; for by strength shall no man prevail.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(200723,8,9,2,9,'He will keep the feet of his saints, and the wicked shall be silent in darkness; for by strength shall no man prevail.'),
 (200724,8,9,2,10,'The adversaries of the LORD shall be broken to pieces; out of heaven shall he thunder upon them: the LORD shall judge the ends of the earth; and he shall give strength unto his king, and exalt the horn of his anointed.'),
 (200725,8,9,2,11,'And Elkanah went to Ramah to his house. And the child did minister unto the LORD before Eli the priest.'),
 (200726,8,9,2,12,'Now the sons of Eli [were] sons of Belial; they knew not the LORD.'),
@@ -7446,8 +7308,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (200770,8,9,3,20,'And all Israel from Dan even to Beersheba knew that Samuel [was] established [to be] a prophet of the LORD.'),
 (200771,8,9,3,21,'And the LORD appeared again in Shiloh: for the LORD revealed himself to Samuel in Shiloh by the word of the LORD.'),
 (200772,8,9,4,1,'And the word of Samuel came to all Israel. Now Israel went out against the Philistines to battle, and pitched beside Ebenezer: and the Philistines pitched in Aphek.'),
-(200773,8,9,4,2,'And the Philistines put themselves in array against Israel: and when they joined battle, Israel was smitten before the Philistines: and they slew of the army in the field about four thousand men.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(200773,8,9,4,2,'And the Philistines put themselves in array against Israel: and when they joined battle, Israel was smitten before the Philistines: and they slew of the army in the field about four thousand men.'),
 (200774,8,9,4,3,'And when the people were come into the camp, the elders of Israel said, Wherefore hath the LORD smitten us to day before the Philistines? Let us fetch the ark of the covenant of the LORD out of Shiloh unto us, that, when it cometh among us, it may save us out of the hand of our enemies.'),
 (200775,8,9,4,4,'So the people sent to Shiloh, that they might bring from thence the ark of the covenant of the LORD of hosts, which dwelleth [between] the cherubims: and the two sons of Eli, Hophni and Phinehas, [were] there with the ark of the covenant of God.'),
 (200776,8,9,4,5,'And when the ark of the covenant of the LORD came into the camp, all Israel shouted with a great shout, so that the earth rang again.'),
@@ -7497,8 +7358,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (200820,8,9,6,15,'And the Levites took down the ark of the LORD, and the coffer that [was] with it, wherein the jewels of gold [were], and put [them] on the great stone: and the men of Bethshemesh offered burnt offerings and sacrificed sacrifices the same day unto the LORD.'),
 (200821,8,9,6,16,'And when the five lords of the Philistines had seen [it], they returned to Ekron the same day.'),
 (200822,8,9,6,17,'And these [are] the golden emerods which the Philistines returned [for] a trespass offering unto the LORD; for Ashdod one, for Gaza one, for Askelon one, for Gath one, for Ekron one;'),
-(200823,8,9,6,18,'And the golden mice, [according to] the number of all the cities of the Philistines [belonging] to the five lords, [both] of fenced cities, and of country villages, even unto the great [stone of] Abel, whereon they set down the ark of the LORD: [which stone remaineth] unto this day in the field of Joshua, the Bethshemite.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(200823,8,9,6,18,'And the golden mice, [according to] the number of all the cities of the Philistines [belonging] to the five lords, [both] of fenced cities, and of country villages, even unto the great [stone of] Abel, whereon they set down the ark of the LORD: [which stone remaineth] unto this day in the field of Joshua, the Bethshemite.'),
 (200824,8,9,6,19,'And he smote the men of Bethshemesh, because they had looked into the ark of the LORD, even he smote of the people fifty thousand and threescore and ten men: and the people lamented, because the LORD had smitten [many] of the people with a great slaughter.'),
 (200825,8,9,6,20,'And the men of Bethshemesh said, Who is able to stand before this holy LORD God? and to whom shall he go up from us?'),
 (200826,8,9,6,21,'And they sent messengers to the inhabitants of Kirjathjearim, saying, The Philistines have brought again the ark of the LORD; come ye down, [and] fetch it up to you.'),
@@ -7548,8 +7408,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (200870,8,9,9,5,'[And] when they were come to the land of Zuph, Saul said to his servant that [was] with him, Come, and let us return; lest my father leave [caring] for the asses, and take thought for us.'),
 (200871,8,9,9,6,'And he said unto him, Behold now, [there is] in this city a man of God, and [he is] an honourable man; all that he saith cometh surely to pass: now let us go thither; peradventure he can shew us our way that we should go.'),
 (200872,8,9,9,7,'Then said Saul to his servant, But, behold, [if] we go, what shall we bring the man? for the bread is spent in our vessels, and [there is] not a present to bring to the man of God: what have we?'),
-(200873,8,9,9,8,'And the servant answered Saul again, and said, Behold, I have here at hand the fourth part of a shekel of silver: [that] will I give to the man of God, to tell us our way.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(200873,8,9,9,8,'And the servant answered Saul again, and said, Behold, I have here at hand the fourth part of a shekel of silver: [that] will I give to the man of God, to tell us our way.'),
 (200874,8,9,9,9,'(Beforetime in Israel, when a man went to inquire of God, thus he spake, Come, and let us go to the seer: for [he that is] now [called] a Prophet was beforetime called a Seer.)'),
 (200875,8,9,9,10,'Then said Saul to his servant, Well said; come, let us go. So they went unto the city where the man of God [was].'),
 (200876,8,9,9,11,'[And] as they went up the hill to the city, they found young maidens going out to draw water, and said unto them, Is the seer here?'),
@@ -7599,8 +7458,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (200920,8,9,11,1,'Then Nahash the Ammonite came up, and encamped against Jabeshgilead: and all the men of Jabesh said unto Nahash, Make a covenant with us, and we will serve thee.'),
 (200921,8,9,11,2,'And Nahash the Ammonite answered them, On this [condition] will I make [a covenant] with you, that I may thrust out all your right eyes, and lay it [for] a reproach upon all Israel.'),
 (200922,8,9,11,3,'And the elders of Jabesh said unto him, Give us seven days'' respite, that we may send messengers unto all the coasts of Israel: and then, if [there be] no man to save us, we will come out to thee.'),
-(200923,8,9,11,4,'Then came the messengers to Gibeah of Saul, and told the tidings in the ears of the people: and all the people lifted up their voices, and wept.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(200923,8,9,11,4,'Then came the messengers to Gibeah of Saul, and told the tidings in the ears of the people: and all the people lifted up their voices, and wept.'),
 (200924,8,9,11,5,'And, behold, Saul came after the herd out of the field; and Saul said, What [aileth] the people that they weep? And they told him the tidings of the men of Jabesh.'),
 (200925,8,9,11,6,'And the Spirit of God came upon Saul when he heard those tidings, and his anger was kindled greatly.'),
 (200926,8,9,11,7,'And he took a yoke of oxen, and hewed them in pieces, and sent [them] throughout all the coasts of Israel by the hands of messengers, saying, Whosoever cometh not forth after Saul and after Samuel, so shall it be done unto his oxen. And the fear of the LORD fell on the people, and they came out with one consent.'),
@@ -7650,8 +7508,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (200970,8,9,13,11,'And Samuel said, What hast thou done? And Saul said, Because I saw that the people were scattered from me, and [that] thou camest not within the days appointed, and [that] the Philistines gathered themselves together at Michmash;'),
 (200971,8,9,13,12,'Therefore said I, The Philistines will come down now upon me to Gilgal, and I have not made supplication unto the LORD: I forced myself therefore, and offered a burnt offering.'),
 (200972,8,9,13,13,'And Samuel said to Saul, Thou hast done foolishly: thou hast not kept the commandment of the LORD thy God, which he commanded thee: for now would the LORD have established thy kingdom upon Israel for ever.'),
-(200973,8,9,13,14,'But now thy kingdom shall not continue: the LORD hath sought him a man after his own heart, and the LORD hath commanded him [to be] captain over his people, because thou hast not kept [that] which the LORD commanded thee.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(200973,8,9,13,14,'But now thy kingdom shall not continue: the LORD hath sought him a man after his own heart, and the LORD hath commanded him [to be] captain over his people, because thou hast not kept [that] which the LORD commanded thee.'),
 (200974,8,9,13,15,'And Samuel arose, and gat him up from Gilgal unto Gibeah of Benjamin. And Saul numbered the people [that were] present with him, about six hundred men.'),
 (200975,8,9,13,16,'And Saul, and Jonathan his son, and the people [that were] present with them, abode in Gibeah of Benjamin: but the Philistines encamped in Michmash.'),
 (200976,8,9,13,17,'And the spoilers came out of the camp of the Philistines in three companies: one company turned unto the way [that leadeth to] Ophrah, unto the land of Shual:'),
@@ -7701,8 +7558,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (201020,8,9,14,38,'And Saul said, Draw ye near hither, all the chief of the people: and know and see wherein this sin hath been this day.'),
 (201021,8,9,14,39,'For, [as] the LORD liveth, which saveth Israel, though it be in Jonathan my son, he shall surely die. But [there was] not a man among all the people [that] answered him.'),
 (201022,8,9,14,40,'Then said he unto all Israel, Be ye on one side, and I and Jonathan my son will be on the other side. And the people said unto Saul, Do what seemeth good unto thee.'),
-(201023,8,9,14,41,'Therefore Saul said unto the LORD God of Israel, Give a perfect [lot]. And Saul and Jonathan were taken: but the people escaped.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(201023,8,9,14,41,'Therefore Saul said unto the LORD God of Israel, Give a perfect [lot]. And Saul and Jonathan were taken: but the people escaped.'),
 (201024,8,9,14,42,'And Saul said, Cast [lots] between me and Jonathan my son. And Jonathan was taken.'),
 (201025,8,9,14,43,'Then Saul said to Jonathan, Tell me what thou hast done. And Jonathan told him, and said, I did but taste a little honey with the end of the rod that [was] in mine hand, [and], lo, I must die.'),
 (201026,8,9,14,44,'And Saul answered, God do so and more also: for thou shalt surely die, Jonathan.'),
@@ -7752,8 +7608,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (201070,8,9,16,1,'And the LORD said unto Samuel, How long wilt thou mourn for Saul, seeing I have rejected him from reigning over Israel? fill thine horn with oil, and go, I will send thee to Jesse the Bethlehemite: for I have provided me a king among his sons.'),
 (201071,8,9,16,2,'And Samuel said, How can I go? if Saul hear [it], he will kill me. And the LORD said, Take an heifer with thee, and say, I am come to sacrifice to the LORD.'),
 (201072,8,9,16,3,'And call Jesse to the sacrifice, and I will shew thee what thou shalt do: and thou shalt anoint unto me [him] whom I name unto thee.'),
-(201073,8,9,16,4,'And Samuel did that which the LORD spake, and came to Bethlehem. And the elders of the town trembled at his coming, and said, Comest thou peaceably?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(201073,8,9,16,4,'And Samuel did that which the LORD spake, and came to Bethlehem. And the elders of the town trembled at his coming, and said, Comest thou peaceably?'),
 (201074,8,9,16,5,'And he said, Peaceably: I am come to sacrifice unto the LORD: sanctify yourselves, and come with me to the sacrifice. And he sanctified Jesse and his sons, and called them to the sacrifice.'),
 (201075,8,9,16,6,'And it came to pass, when they were come, that he looked on Eliab, and said, Surely the LORD''s anointed [is] before him.'),
 (201076,8,9,16,7,'But the LORD said unto Samuel, Look not on his countenance, or on the height of his stature; because I have refused him: for [the LORD seeth] not as man seeth; for man looketh on the outward appearance, but the LORD looketh on the heart.'),
@@ -7803,8 +7658,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (201120,8,9,17,28,'And Eliab his eldest brother heard when he spake unto the men; and Eliab''s anger was kindled against David, and he said, Why camest thou down hither? and with whom hast thou left those few sheep in the wilderness? I know thy pride, and the naughtiness of thine heart; for thou art come down that thou mightest see the battle.'),
 (201121,8,9,17,29,'And David said, What have I now done? [Is there] not a cause?'),
 (201122,8,9,17,30,'And he turned from him toward another, and spake after the same manner: and the people answered him again after the former manner.'),
-(201123,8,9,17,31,'And when the words were heard which David spake, they rehearsed [them] before Saul: and he sent for him.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(201123,8,9,17,31,'And when the words were heard which David spake, they rehearsed [them] before Saul: and he sent for him.'),
 (201124,8,9,17,32,'And David said to Saul, Let no man''s heart fail because of him; thy servant will go and fight with this Philistine.'),
 (201125,8,9,17,33,'And Saul said to David, Thou art not able to go against this Philistine to fight with him: for thou [art but] a youth, and he a man of war from his youth.'),
 (201126,8,9,17,34,'And David said unto Saul, Thy servant kept his father''s sheep, and there came a lion, and a bear, and took a lamb out of the flock:'),
@@ -7854,8 +7708,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (201170,8,9,18,20,'And Michal Saul''s daughter loved David: and they told Saul, and the thing pleased him.'),
 (201171,8,9,18,21,'And Saul said, I will give him her, that she may be a snare to him, and that the hand of the Philistines may be against him. Wherefore Saul said to David, Thou shalt this day be my son in law in [the one of] the twain.'),
 (201172,8,9,18,22,'And Saul commanded his servants, [saying], Commune with David secretly, and say, Behold, the king hath delight in thee, and all his servants love thee: now therefore be the king''s son in law.'),
-(201173,8,9,18,23,'And Saul''s servants spake those words in the ears of David. And David said, Seemeth it to you [a] light [thing] to be a king''s son in law, seeing that I [am] a poor man, and lightly esteemed?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(201173,8,9,18,23,'And Saul''s servants spake those words in the ears of David. And David said, Seemeth it to you [a] light [thing] to be a king''s son in law, seeing that I [am] a poor man, and lightly esteemed?'),
 (201174,8,9,18,24,'And the servants of Saul told him, saying, On this manner spake David.'),
 (201175,8,9,18,25,'And Saul said, Thus shall ye say to David, The king desireth not any dowry, but an hundred foreskins of the Philistines, to be avenged of the king''s enemies. But Saul thought to make David fall by the hand of the Philistines.'),
 (201176,8,9,18,26,'And when his servants told David these words, it pleased David well to be the king''s son in law: and the days were not expired.'),
@@ -7905,8 +7758,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (201220,8,9,20,16,'So Jonathan made [a covenant] with the house of David, [saying], Let the LORD even require [it] at the hand of David''s enemies.'),
 (201221,8,9,20,17,'And Jonathan caused David to swear again, because he loved him: for he loved him as he loved his own soul.'),
 (201222,8,9,20,18,'Then Jonathan said to David, To morrow [is] the new moon: and thou shalt be missed, because thy seat will be empty.'),
-(201223,8,9,20,19,'And [when] thou hast stayed three days, [then] thou shalt go down quickly, and come to the place where thou didst hide thyself when the business was [in hand], and shalt remain by the stone Ezel.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(201223,8,9,20,19,'And [when] thou hast stayed three days, [then] thou shalt go down quickly, and come to the place where thou didst hide thyself when the business was [in hand], and shalt remain by the stone Ezel.'),
 (201224,8,9,20,20,'And I will shoot three arrows on the side [thereof], as though I shot at a mark.'),
 (201225,8,9,20,21,'And, behold, I will send a lad, [saying], Go, find out the arrows. If I expressly say unto the lad, Behold, the arrows [are] on this side of thee, take them; then come thou: for [there is] peace to thee, and no hurt; [as] the LORD liveth.'),
 (201226,8,9,20,22,'But if I say thus unto the young man, Behold, the arrows [are] beyond thee; go thy way: for the LORD hath sent thee away.'),
@@ -7956,8 +7808,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (201270,8,9,22,9,'Then answered Doeg the Edomite, which was set over the servants of Saul, and said, I saw the son of Jesse coming to Nob, to Ahimelech the son of Ahitub.'),
 (201271,8,9,22,10,'And he inquired of the LORD for him, and gave him victuals, and gave him the sword of Goliath the Philistine.'),
 (201272,8,9,22,11,'Then the king sent to call Ahimelech the priest, the son of Ahitub, and all his father''s house, the priests that [were] in Nob: and they came all of them to the king.'),
-(201273,8,9,22,12,'And Saul said, Hear now, thou son of Ahitub. And he answered, Here I [am], my lord.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(201273,8,9,22,12,'And Saul said, Hear now, thou son of Ahitub. And he answered, Here I [am], my lord.'),
 (201274,8,9,22,13,'And Saul said unto him, Why have ye conspired against me, thou and the son of Jesse, in that thou hast given him bread, and a sword, and hast inquired of God for him, that he should rise against me, to lie in wait, as at this day?'),
 (201275,8,9,22,14,'Then Ahimelech answered the king, and said, And who [is so] faithful among all thy servants as David, which is the king''s son in law, and goeth at thy bidding, and is honourable in thine house?'),
 (201276,8,9,22,15,'Did I then begin to inquire of God for him? be it far from me: let not the king impute [any] thing unto his servant, [nor] to all the house of my father: for thy servant knew nothing of all this, less or more.'),
@@ -8007,8 +7858,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (201320,8,9,24,7,'So David stayed his servants with these words, and suffered them not to rise against Saul. But Saul rose up out of the cave, and went on [his] way.'),
 (201321,8,9,24,8,'David also arose afterward, and went out of the cave, and cried after Saul, saying, My lord the king. And when Saul looked behind him, David stooped with his face to the earth, and bowed himself.'),
 (201322,8,9,24,9,'And David said to Saul, Wherefore hearest thou men''s words, saying, Behold, David seeketh thy hurt?'),
-(201323,8,9,24,10,'Behold, this day thine eyes have seen how that the LORD had delivered thee to day into mine hand in the cave: and [some] bade [me] kill thee: but [mine eye] spared thee; and I said, I will not put forth mine hand against my lord; for he [is] the LORD''s anointed.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(201323,8,9,24,10,'Behold, this day thine eyes have seen how that the LORD had delivered thee to day into mine hand in the cave: and [some] bade [me] kill thee: but [mine eye] spared thee; and I said, I will not put forth mine hand against my lord; for he [is] the LORD''s anointed.'),
 (201324,8,9,24,11,'Moreover, my father, see, yea, see the skirt of thy robe in my hand: for in that I cut off the skirt of thy robe, and killed thee not, know thou and see that [there is] neither evil nor transgression in mine hand, and I have not sinned against thee; yet thou huntest my soul to take it.'),
 (201325,8,9,24,12,'The LORD judge between me and thee, and the LORD avenge me of thee: but mine hand shall not be upon thee.'),
 (201326,8,9,24,13,'As saith the proverb of the ancients, Wickedness proceedeth from the wicked: but mine hand shall not be upon thee.'),
@@ -8058,8 +7908,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (201370,8,9,25,35,'So David received of her hand [that] which she had brought him, and said unto her, Go up in peace to thine house; see, I have hearkened to thy voice, and have accepted thy person.'),
 (201371,8,9,25,36,'And Abigail came to Nabal; and, behold, he held a feast in his house, like the feast of a king; and Nabal''s heart [was] merry within him, for he [was] very drunken: wherefore she told him nothing, less or more, until the morning light.'),
 (201372,8,9,25,37,'But it came to pass in the morning, when the wine was gone out of Nabal, and his wife had told him these things, that his heart died within him, and he became [as] a stone.'),
-(201373,8,9,25,38,'And it came to pass about ten days [after], that the LORD smote Nabal, that he died.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(201373,8,9,25,38,'And it came to pass about ten days [after], that the LORD smote Nabal, that he died.'),
 (201374,8,9,25,39,'And when David heard that Nabal was dead, he said, Blessed [be] the LORD, that hath pleaded the cause of my reproach from the hand of Nabal, and hath kept his servant from evil: for the LORD hath returned the wickedness of Nabal upon his own head. And David sent and communed with Abigail, to take her to him to wife.'),
 (201375,8,9,25,40,'And when the servants of David were come to Abigail to Carmel, they spake unto her, saying, David sent us unto thee, to take thee to him to wife.'),
 (201376,8,9,25,41,'And she arose, and bowed herself on [her] face to the earth, and said, Behold, [let] thine handmaid [be] a servant to wash the feet of the servants of my lord.'),
@@ -8109,8 +7958,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (201420,8,9,28,4,'And the Philistines gathered themselves together, and came and pitched in Shunem: and Saul gathered all Israel together, and they pitched in Gilboa.'),
 (201421,8,9,28,5,'And when Saul saw the host of the Philistines, he was afraid, and his heart greatly trembled.'),
 (201422,8,9,28,6,'And when Saul inquired of the LORD, the LORD answered him not, neither by dreams, nor by Urim, nor by prophets.'),
-(201423,8,9,28,7,'Then said Saul unto his servants, Seek me a woman that hath a familiar spirit, that I may go to her, and inquire of her. And his servants said to him, Behold, [there is] a woman that hath a familiar spirit at Endor.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(201423,8,9,28,7,'Then said Saul unto his servants, Seek me a woman that hath a familiar spirit, that I may go to her, and inquire of her. And his servants said to him, Behold, [there is] a woman that hath a familiar spirit at Endor.'),
 (201424,8,9,28,8,'And Saul disguised himself, and put on other raiment, and he went, and two men with him, and they came to the woman by night: and he said, I pray thee, divine unto me by the familiar spirit, and bring me [him] up, whom I shall name unto thee.'),
 (201425,8,9,28,9,'And the woman said unto him, Behold, thou knowest what Saul hath done, how he hath cut off those that have familiar spirits, and the wizards, out of the land: wherefore then layest thou a snare for my life, to cause me to die?'),
 (201426,8,9,28,10,'And Saul sware to her by the LORD, saying, [As] the LORD liveth, there shall no punishment happen to thee for this thing.'),
@@ -8211,8 +8059,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (201520,8,10,1,24,'Ye daughters of Israel, weep over Saul, who clothed you in scarlet, with [other] delights, who put on ornaments of gold upon your apparel.'),
 (201521,8,10,1,25,'How are the mighty fallen in the midst of the battle! O Jonathan, [thou wast] slain in thine high places.'),
 (201522,8,10,1,26,'I am distressed for thee, my brother Jonathan: very pleasant hast thou been unto me: thy love to me was wonderful, passing the love of women.'),
-(201523,8,10,1,27,'How are the mighty fallen, and the weapons of war perished!');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(201523,8,10,1,27,'How are the mighty fallen, and the weapons of war perished!'),
 (201524,8,10,2,1,'And it came to pass after this, that David inquired of the LORD, saying, Shall I go up into any of the cities of Judah? And the LORD said unto him, Go up. And David said, Whither shall I go up? And he said, Unto Hebron.'),
 (201525,8,10,2,2,'So David went up thither, and his two wives also, Ahinoam the Jezreelitess, and Abigail Nabal''s wife the Carmelite.'),
 (201526,8,10,2,3,'And his men that [were] with him did David bring up, every man with his household: and they dwelt in the cities of Hebron.'),
@@ -8262,8 +8109,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (201570,8,10,3,15,'And Ishbosheth sent, and took her from [her] husband, [even] from Phaltiel the son of Laish.'),
 (201571,8,10,3,16,'And her husband went with her along weeping behind her to Bahurim. Then said Abner unto him, Go, return. And he returned.'),
 (201572,8,10,3,17,'And Abner had communication with the elders of Israel, saying, Ye sought for David in times past [to be] king over you:'),
-(201573,8,10,3,18,'Now then do [it]: for the LORD hath spoken of David, saying, By the hand of my servant David I will save my people Israel out of the hand of the Philistines, and out of the hand of all their enemies.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(201573,8,10,3,18,'Now then do [it]: for the LORD hath spoken of David, saying, By the hand of my servant David I will save my people Israel out of the hand of the Philistines, and out of the hand of all their enemies.'),
 (201574,8,10,3,19,'And Abner also spake in the ears of Benjamin: and Abner went also to speak in the ears of David in Hebron all that seemed good to Israel, and that seemed good to the whole house of Benjamin.'),
 (201575,8,10,3,20,'So Abner came to David to Hebron, and twenty men with him. And David made Abner and the men that [were] with him a feast.'),
 (201576,8,10,3,21,'And Abner said unto David, I will arise and go, and will gather all Israel unto my lord the king, that they may make a league with thee, and that thou mayest reign over all that thine heart desireth. And David sent Abner away; and he went in peace.'),
@@ -8313,8 +8159,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (201620,8,10,5,14,'And these [be] the names of those that were born unto him in Jerusalem; Shammua, and Shobab, and Nathan, and Solomon,'),
 (201621,8,10,5,15,'Ibhar also, and Elishua, and Nepheg, and Japhia,'),
 (201622,8,10,5,16,'And Elishama, and Eliada, and Eliphalet.'),
-(201623,8,10,5,17,'But when the Philistines heard that they had anointed David king over Israel, all the Philistines came up to seek David; and David heard [of it], and went down to the hold.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(201623,8,10,5,17,'But when the Philistines heard that they had anointed David king over Israel, all the Philistines came up to seek David; and David heard [of it], and went down to the hold.'),
 (201624,8,10,5,18,'The Philistines also came and spread themselves in the valley of Rephaim.'),
 (201625,8,10,5,19,'And David inquired of the LORD, saying, Shall I go up to the Philistines? wilt thou deliver them into mine hand? And the LORD said unto David, Go up: for I will doubtless deliver the Philistines into thine hand.'),
 (201626,8,10,5,20,'And David came to Baalperazim, and David smote them there, and said, The LORD hath broken forth upon mine enemies before me, as the breach of waters. Therefore he called the name of that place Baalperazim.'),
@@ -8364,8 +8209,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (201670,8,10,7,16,'And thine house and thy kingdom shall be established for ever before thee: thy throne shall be established for ever.'),
 (201671,8,10,7,17,'According to all these words, and according to all this vision, so did Nathan speak unto David.'),
 (201672,8,10,7,18,'Then went king David in, and sat before the LORD, and he said, Who [am] I, O Lord GOD? and what [is] my house, that thou hast brought me hitherto?'),
-(201673,8,10,7,19,'And this was yet a small thing in thy sight, O Lord GOD; but thou hast spoken also of thy servant''s house for a great while to come. And [is] this the manner of man, O Lord GOD?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(201673,8,10,7,19,'And this was yet a small thing in thy sight, O Lord GOD; but thou hast spoken also of thy servant''s house for a great while to come. And [is] this the manner of man, O Lord GOD?'),
 (201674,8,10,7,20,'And what can David say more unto thee? for thou, Lord GOD, knowest thy servant.'),
 (201675,8,10,7,21,'For thy word''s sake, and according to thine own heart, hast thou done all these great things, to make thy servant know [them].'),
 (201676,8,10,7,22,'Wherefore thou art great, O LORD God: for [there is] none like thee, neither [is there any] God beside thee, according to all that we have heard with our ears.'),
@@ -8415,8 +8259,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (201720,8,10,10,6,'And when the children of Ammon saw that they stank before David, the children of Ammon sent and hired the Syrians of Bethrehob, and the Syrians of Zoba, twenty thousand footmen, and of king Maacah a thousand men, and of Ishtob twelve thousand men.'),
 (201721,8,10,10,7,'And when David heard of [it], he sent Joab, and all the host of the mighty men.'),
 (201722,8,10,10,8,'And the children of Ammon came out, and put the battle in array at the entering in of the gate: and the Syrians of Zoba, and of Rehob, and Ishtob, and Maacah, [were] by themselves in the field.'),
-(201723,8,10,10,9,'When Joab saw that the front of the battle was against him before and behind, he chose of all the choice [men] of Israel, and put [them] in array against the Syrians:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(201723,8,10,10,9,'When Joab saw that the front of the battle was against him before and behind, he chose of all the choice [men] of Israel, and put [them] in array against the Syrians:'),
 (201724,8,10,10,10,'And the rest of the people he delivered into the hand of Abishai his brother, that he might put [them] in array against the children of Ammon.'),
 (201725,8,10,10,11,'And he said, If the Syrians be too strong for me, then thou shalt help me: but if the children of Ammon be too strong for thee, then I will come and help thee.'),
 (201726,8,10,10,12,'Be of good courage, and let us play the men for our people, and for the cities of our God: and the LORD do that which seemeth him good.'),
@@ -8466,8 +8309,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (201770,8,10,12,10,'Now therefore the sword shall never depart from thine house; because thou hast despised me, and hast taken the wife of Uriah the Hittite to be thy wife.'),
 (201771,8,10,12,11,'Thus saith the LORD, Behold, I will raise up evil against thee out of thine own house, and I will take thy wives before thine eyes, and give [them] unto thy neighbour, and he shall lie with thy wives in the sight of this sun.'),
 (201772,8,10,12,12,'For thou didst [it] secretly: but I will do this thing before all Israel, and before the sun.'),
-(201773,8,10,12,13,'And David said unto Nathan, I have sinned against the LORD. And Nathan said unto David, The LORD also hath put away thy sin; thou shalt not die.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(201773,8,10,12,13,'And David said unto Nathan, I have sinned against the LORD. And Nathan said unto David, The LORD also hath put away thy sin; thou shalt not die.'),
 (201774,8,10,12,14,'Howbeit, because by this deed thou hast given great occasion to the enemies of the LORD to blaspheme, the child also [that is] born unto thee shall surely die.'),
 (201775,8,10,12,15,'And Nathan departed unto his house. And the LORD struck the child that Uriah''s wife bare unto David, and it was very sick.'),
 (201776,8,10,12,16,'David therefore besought God for the child; and David fasted, and went in, and lay all night upon the earth.'),
@@ -8517,8 +8359,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (201820,8,10,13,29,'And the servants of Absalom did unto Amnon as Absalom had commanded. Then all the king''s sons arose, and every man gat him up upon his mule, and fled.'),
 (201821,8,10,13,30,'And it came to pass, while they were in the way, that tidings came to David, saying, Absalom hath slain all the king''s sons, and there is not one of them left.'),
 (201822,8,10,13,31,'Then the king arose, and tare his garments, and lay on the earth; and all his servants stood by with their clothes rent.'),
-(201823,8,10,13,32,'And Jonadab, the son of Shimeah David''s brother, answered and said, Let not my lord suppose [that] they have slain all the young men the king''s sons; for Amnon only is dead: for by the appointment of Absalom this hath been determined from the day that he forced his sister Tamar.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(201823,8,10,13,32,'And Jonadab, the son of Shimeah David''s brother, answered and said, Let not my lord suppose [that] they have slain all the young men the king''s sons; for Amnon only is dead: for by the appointment of Absalom this hath been determined from the day that he forced his sister Tamar.'),
 (201824,8,10,13,33,'Now therefore let not my lord the king take the thing to his heart, to think that all the king''s sons are dead: for Amnon only is dead.'),
 (201825,8,10,13,34,'But Absalom fled. And the young man that kept the watch lifted up his eyes, and looked, and, behold, there came much people by the way of the hill side behind him.'),
 (201826,8,10,13,35,'And Jonadab said unto the king, Behold, the king''s sons come: as thy servant said, so it is.'),
@@ -8568,8 +8409,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (201870,8,10,15,7,'And it came to pass after forty years, that Absalom said unto the king, I pray thee, let me go and pay my vow, which I have vowed unto the LORD, in Hebron.'),
 (201871,8,10,15,8,'For thy servant vowed a vow while I abode at Geshur in Syria, saying, If the LORD shall bring me again indeed to Jerusalem, then I will serve the LORD.'),
 (201872,8,10,15,9,'And the king said unto him, Go in peace. So he arose, and went to Hebron.'),
-(201873,8,10,15,10,'But Absalom sent spies throughout all the tribes of Israel, saying, As soon as ye hear the sound of the trumpet, then ye shall say, Absalom reigneth in Hebron.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(201873,8,10,15,10,'But Absalom sent spies throughout all the tribes of Israel, saying, As soon as ye hear the sound of the trumpet, then ye shall say, Absalom reigneth in Hebron.'),
 (201874,8,10,15,11,'And with Absalom went two hundred men out of Jerusalem, [that were] called; and they went in their simplicity, and they knew not any thing.'),
 (201875,8,10,15,12,'And Absalom sent for Ahithophel the Gilonite, David''s counseller, from his city, [even] from Giloh, while he offered sacrifices. And the conspiracy was strong; for the people increased continually with Absalom.'),
 (201876,8,10,15,13,'And there came a messenger to David, saying, The hearts of the men of Israel are after Absalom.'),
@@ -8619,8 +8459,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (201920,8,10,16,20,'Then said Absalom to Ahithophel, Give counsel among you what we shall do.'),
 (201921,8,10,16,21,'And Ahithophel said unto Absalom, Go in unto thy father''s concubines, which he hath left to keep the house; and all Israel shall hear that thou art abhorred of thy father: then shall the hands of all that [are] with thee be strong.'),
 (201922,8,10,16,22,'So they spread Absalom a tent upon the top of the house; and Absalom went in unto his father''s concubines in the sight of all Israel.'),
-(201923,8,10,16,23,'And the counsel of Ahithophel, which he counselled in those days, [was] as if a man had inquired at the oracle of God: so [was] all the counsel of Ahithophel both with David and with Absalom.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(201923,8,10,16,23,'And the counsel of Ahithophel, which he counselled in those days, [was] as if a man had inquired at the oracle of God: so [was] all the counsel of Ahithophel both with David and with Absalom.'),
 (201924,8,10,17,1,'Moreover Ahithophel said unto Absalom, Let me now choose out twelve thousand men, and I will arise and pursue after David this night:'),
 (201925,8,10,17,2,'And I will come upon him while he [is] weary and weak handed, and will make him afraid: and all the people that [are] with him shall flee; and I will smite the king only:'),
 (201926,8,10,17,3,'And I will bring back all the people unto thee: the man whom thou seekest [is] as if all returned: [so] all the people shall be in peace.'),
@@ -8670,8 +8509,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (201970,8,10,18,18,'Now Absalom in his lifetime had taken and reared up for himself a pillar, which [is] in the king''s dale: for he said, I have no son to keep my name in remembrance: and he called the pillar after his own name: and it is called unto this day, Absalom''s place.'),
 (201971,8,10,18,19,'Then said Ahimaaz the son of Zadok, Let me now run, and bear the king tidings, how that the LORD hath avenged him of his enemies.'),
 (201972,8,10,18,20,'And Joab said unto him, Thou shalt not bear tidings this day, but thou shalt bear tidings another day: but this day thou shalt bear no tidings, because the king''s son is dead.'),
-(201973,8,10,18,21,'Then said Joab to Cushi, Go tell the king what thou hast seen. And Cushi bowed himself unto Joab, and ran.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(201973,8,10,18,21,'Then said Joab to Cushi, Go tell the king what thou hast seen. And Cushi bowed himself unto Joab, and ran.'),
 (201974,8,10,18,22,'Then said Ahimaaz the son of Zadok yet again to Joab, But howsoever, let me, I pray thee, also run after Cushi. And Joab said, Wherefore wilt thou run, my son, seeing that thou hast no tidings ready?'),
 (201975,8,10,18,23,'But howsoever, [said he], let me run. And he said unto him, Run. Then Ahimaaz ran by the way of the plain, and overran Cushi.'),
 (201976,8,10,18,24,'And David sat between the two gates: and the watchman went up to the roof over the gate unto the wall, and lifted up his eyes, and looked, and behold a man running alone.'),
@@ -8721,8 +8559,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (202020,8,10,19,35,'I [am] this day fourscore years old: [and] can I discern between good and evil? can thy servant taste what I eat or what I drink? can I hear any more the voice of singing men and singing women? wherefore then should thy servant be yet a burden unto my lord the king?'),
 (202021,8,10,19,36,'Thy servant will go a little way over Jordan with the king: and why should the king recompense it me with such a reward?'),
 (202022,8,10,19,37,'Let thy servant, I pray thee, turn back again, that I may die in mine own city, [and be buried] by the grave of my father and of my mother. But behold thy servant Chimham; let him go over with my lord the king; and do to him what shall seem good unto thee.'),
-(202023,8,10,19,38,'And the king answered, Chimham shall go over with me, and I will do to him that which shall seem good unto thee: and whatsoever thou shalt require of me, [that] will I do for thee.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(202023,8,10,19,38,'And the king answered, Chimham shall go over with me, and I will do to him that which shall seem good unto thee: and whatsoever thou shalt require of me, [that] will I do for thee.'),
 (202024,8,10,19,39,'And all the people went over Jordan. And when the king was come over, the king kissed Barzillai, and blessed him; and he returned unto his own place.'),
 (202025,8,10,19,40,'Then the king went on to Gilgal, and Chimham went on with him: and all the people of Judah conducted the king, and also half the people of Israel.'),
 (202026,8,10,19,41,'And, behold, all the men of Israel came to the king, and said unto the king, Why have our brethren the men of Judah stolen thee away, and have brought the king, and his household, and all David''s men with him, over Jordan?'),
@@ -8772,8 +8609,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (202070,8,10,21,16,'And Ishbibenob, which [was] of the sons of the giant, the weight of whose spear [weighed] three hundred [shekels] of brass in weight, he being girded with a new [sword], thought to have slain David.'),
 (202071,8,10,21,17,'But Abishai the son of Zeruiah succoured him, and smote the Philistine, and killed him. Then the men of David sware unto him, saying, Thou shalt go no more out with us to battle, that thou quench not the light of Israel.'),
 (202072,8,10,21,18,'And it came to pass after this, that there was again a battle with the Philistines at Gob: then Sibbechai the Hushathite slew Saph, which [was] of the sons of the giant.'),
-(202073,8,10,21,19,'And there was again a battle in Gob with the Philistines, where Elhanan the son of Jaareoregim, a Bethlehemite, slew [the brother of] Goliath the Gittite, the staff of whose spear [was] like a weaver''s beam.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(202073,8,10,21,19,'And there was again a battle in Gob with the Philistines, where Elhanan the son of Jaareoregim, a Bethlehemite, slew [the brother of] Goliath the Gittite, the staff of whose spear [was] like a weaver''s beam.'),
 (202074,8,10,21,20,'And there was yet a battle in Gath, where was a man of [great] stature, that had on every hand six fingers, and on every foot six toes, four and twenty in number; and he also was born to the giant.'),
 (202075,8,10,21,21,'And when he defied Israel, Jonathan the son of Shimea the brother of David slew him.'),
 (202076,8,10,21,22,'These four were born to the giant in Gath, and fell by the hand of David, and by the hand of his servants.'),
@@ -8823,8 +8659,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (202120,8,10,22,44,'Thou also hast delivered me from the strivings of my people, thou hast kept me [to be] head of the heathen: a people [which] I knew not shall serve me.'),
 (202121,8,10,22,45,'Strangers shall submit themselves unto me: as soon as they hear, they shall be obedient unto me.'),
 (202122,8,10,22,46,'Strangers shall fade away, and they shall be afraid out of their close places.'),
-(202123,8,10,22,47,'The LORD liveth; and blessed [be] my rock; and exalted be the God of the rock of my salvation.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(202123,8,10,22,47,'The LORD liveth; and blessed [be] my rock; and exalted be the God of the rock of my salvation.'),
 (202124,8,10,22,48,'It [is] God that avengeth me, and that bringeth down the people under me,'),
 (202125,8,10,22,49,'And that bringeth me forth from mine enemies: thou also hast lifted me up on high above them that rose up against me: thou hast delivered me from the violent man.'),
 (202126,8,10,22,50,'Therefore I will give thanks unto thee, O LORD, among the heathen, and I will sing praises unto thy name.'),
@@ -8874,8 +8709,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (202170,8,10,24,4,'Notwithstanding the king''s word prevailed against Joab, and against the captains of the host. And Joab and the captains of the host went out from the presence of the king, to number the people of Israel.'),
 (202171,8,10,24,5,'And they passed over Jordan, and pitched in Aroer, on the right side of the city that [lieth] in the midst of the river of Gad, and toward Jazer:'),
 (202172,8,10,24,6,'Then they came to Gilead, and to the land of Tahtimhodshi; and they came to Danjaan, and about to Zidon,'),
-(202173,8,10,24,7,'And came to the strong hold of Tyre, and to all the cities of the Hivites, and of the Canaanites: and they went out to the south of Judah, [even] to Beersheba.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(202173,8,10,24,7,'And came to the strong hold of Tyre, and to all the cities of the Hivites, and of the Canaanites: and they went out to the south of Judah, [even] to Beersheba.'),
 (202174,8,10,24,8,'So when they had gone through all the land, they came to Jerusalem at the end of nine months and twenty days.'),
 (202175,8,10,24,9,'And Joab gave up the sum of the number of the people unto the king: and there were in Israel eight hundred thousand valiant men that drew the sword; and the men of Judah [were] five hundred thousand men.'),
 (202176,8,10,24,10,'And David''s heart smote him after that he had numbered the people. And David said unto the LORD, I have sinned greatly in that I have done: and now, I beseech thee, O LORD, take away the iniquity of thy servant; for I have done very foolishly.'),
@@ -8925,8 +8759,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (202220,8,11,1,29,'And the king sware, and said, [As] the LORD liveth, that hath redeemed my soul out of all distress,'),
 (202221,8,11,1,30,'Even as I sware unto thee by the LORD God of Israel, saying, Assuredly Solomon thy son shall reign after me, and he shall sit upon my throne in my stead; even so will I certainly do this day.'),
 (202222,8,11,1,31,'Then Bathsheba bowed with [her] face to the earth, and did reverence to the king, and said, Let my lord king David live for ever.'),
-(202223,8,11,1,32,'And king David said, Call me Zadok the priest, and Nathan the prophet, and Benaiah the son of Jehoiada. And they came before the king.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(202223,8,11,1,32,'And king David said, Call me Zadok the priest, and Nathan the prophet, and Benaiah the son of Jehoiada. And they came before the king.'),
 (202224,8,11,1,33,'The king also said unto them, Take with you the servants of your lord, and cause Solomon my son to ride upon mine own mule, and bring him down to Gihon:'),
 (202225,8,11,1,34,'And let Zadok the priest and Nathan the prophet anoint him there king over Israel: and blow ye with the trumpet, and say, God save king Solomon.'),
 (202226,8,11,1,35,'Then ye shall come up after him, that he may come and sit upon my throne; for he shall be king in my stead: and I have appointed him to be ruler over Israel and over Judah.'),
@@ -8976,8 +8809,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (202270,8,11,2,26,'And unto Abiathar the priest said the king, Get thee to Anathoth, unto thine own fields; for thou [art] worthy of death: but I will not at this time put thee to death, because thou barest the ark of the Lord GOD before David my father, and because thou hast been afflicted in all wherein my father was afflicted.'),
 (202271,8,11,2,27,'So Solomon thrust out Abiathar from being priest unto the LORD; that he might fulfil the word of the LORD, which he spake concerning the house of Eli in Shiloh.'),
 (202272,8,11,2,28,'Then tidings came to Joab: for Joab had turned after Adonijah, though he turned not after Absalom. And Joab fled unto the tabernacle of the LORD, and caught hold on the horns of the altar.'),
-(202273,8,11,2,29,'And it was told king Solomon that Joab was fled unto the tabernacle of the LORD; and, behold, [he is] by the altar. Then Solomon sent Benaiah the son of Jehoiada, saying, Go, fall upon him.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(202273,8,11,2,29,'And it was told king Solomon that Joab was fled unto the tabernacle of the LORD; and, behold, [he is] by the altar. Then Solomon sent Benaiah the son of Jehoiada, saying, Go, fall upon him.'),
 (202274,8,11,2,30,'And Benaiah came to the tabernacle of the LORD, and said unto him, Thus saith the king, Come forth. And he said, Nay; but I will die here. And Benaiah brought the king word again, saying, Thus said Joab, and thus he answered me.'),
 (202275,8,11,2,31,'And the king said unto him, Do as he hath said, and fall upon him, and bury him; that thou mayest take away the innocent blood, which Joab shed, from me, and from the house of my father.'),
 (202276,8,11,2,32,'And the LORD shall return his blood upon his own head, who fell upon two men more righteous and better than he, and slew them with the sword, my father David not knowing [thereof, to wit], Abner the son of Ner, captain of the host of Israel, and Amasa the son of Jether, captain of the host of Judah.'),
@@ -9027,8 +8859,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (202320,8,11,4,2,'And these [were] the princes which he had; Azariah the son of Zadok the priest,'),
 (202321,8,11,4,3,'Elihoreph and Ahiah, the sons of Shisha, scribes; Jehoshaphat the son of Ahilud, the recorder.'),
 (202322,8,11,4,4,'And Benaiah the son of Jehoiada [was] over the host: and Zadok and Abiathar [were] the priests:'),
-(202323,8,11,4,5,'And Azariah the son of Nathan [was] over the officers: and Zabud the son of Nathan [was] principal officer, [and] the king''s friend:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(202323,8,11,4,5,'And Azariah the son of Nathan [was] over the officers: and Zabud the son of Nathan [was] principal officer, [and] the king''s friend:'),
 (202324,8,11,4,6,'And Ahishar [was] over the household: and Adoniram the son of Abda [was] over the tribute.'),
 (202325,8,11,4,7,'And Solomon had twelve officers over all Israel, which provided victuals for the king and his household: each man his month in a year made provision.'),
 (202326,8,11,4,8,'And these [are] their names: The son of Hur, in mount Ephraim:'),
@@ -9078,8 +8909,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (202370,8,11,5,18,'And Solomon''s builders and Hiram''s builders did hew [them], and the stonesquarers: so they prepared timber and stones to build the house.'),
 (202371,8,11,6,1,'And it came to pass in the four hundred and eightieth year after the children of Israel were come out of the land of Egypt, in the fourth year of Solomon''s reign over Israel, in the month Zif, which [is] the second month, that he began to build the house of the LORD.'),
 (202372,8,11,6,2,'And the house which king Solomon built for the LORD, the length thereof [was] threescore cubits, and the breadth thereof twenty [cubits], and the height thereof thirty cubits.'),
-(202373,8,11,6,3,'And the porch before the temple of the house, twenty cubits [was] the length thereof, according to the breadth of the house; [and] ten cubits [was] the breadth thereof before the house.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(202373,8,11,6,3,'And the porch before the temple of the house, twenty cubits [was] the length thereof, according to the breadth of the house; [and] ten cubits [was] the breadth thereof before the house.'),
 (202374,8,11,6,4,'And for the house he made windows of narrow lights.'),
 (202375,8,11,6,5,'And against the wall of the house he built chambers round about, [against] the walls of the house round about, [both] of the temple and of the oracle: and he made chambers round about:'),
 (202376,8,11,6,6,'The nethermost chamber [was] five cubits broad, and the middle [was] six cubits broad, and the third [was] seven cubits broad: for without [in the wall] of the house he made narrowed rests round about, that [the beams] should not be fastened in the walls of the house.'),
@@ -9129,8 +8959,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (202420,8,11,7,12,'And the great court round about [was] with three rows of hewed stones, and a row of cedar beams, both for the inner court of the house of the LORD, and for the porch of the house.'),
 (202421,8,11,7,13,'And king Solomon sent and fetched Hiram out of Tyre.'),
 (202422,8,11,7,14,'He [was] a widow''s son of the tribe of Naphtali, and his father [was] a man of Tyre, a worker in brass: and he was filled with wisdom, and understanding, and cunning to work all works in brass. And he came to king Solomon, and wrought all his work.'),
-(202423,8,11,7,15,'For he cast two pillars of brass, of eighteen cubits high apiece: and a line of twelve cubits did compass either of them about.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(202423,8,11,7,15,'For he cast two pillars of brass, of eighteen cubits high apiece: and a line of twelve cubits did compass either of them about.'),
 (202424,8,11,7,16,'And he made two chapiters [of] molten brass, to set upon the tops of the pillars: the height of the one chapiter [was] five cubits, and the height of the other chapiter [was] five cubits:'),
 (202425,8,11,7,17,'[And] nets of checker work, and wreaths of chain work, for the chapiters which [were] upon the top of the pillars; seven for the one chapiter, and seven for the other chapiter.'),
 (202426,8,11,7,18,'And he made the pillars, and two rows round about upon the one network, to cover the chapiters that [were] upon the top, with pomegranates: and so did he for the other chapiter.'),
@@ -9231,8 +9060,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (202520,8,11,8,61,'Let your heart therefore be perfect with the LORD our God, to walk in his statutes, and to keep his commandments, as at this day.'),
 (202521,8,11,8,62,'And the king, and all Israel with him, offered sacrifice before the LORD.'),
 (202522,8,11,8,63,'And Solomon offered a sacrifice of peace offerings, which he offered unto the LORD, two and twenty thousand oxen, and an hundred and twenty thousand sheep. So the king and all the children of Israel dedicated the house of the LORD.'),
-(202523,8,11,8,64,'The same day did the king hallow the middle of the court that [was] before the house of the LORD: for there he offered burnt offerings, and meat offerings, and the fat of the peace offerings: because the brasen altar that [was] before the LORD [was] too little to receive the burnt offerings, and meat offerings, and the fat of the peace offerings.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(202523,8,11,8,64,'The same day did the king hallow the middle of the court that [was] before the house of the LORD: for there he offered burnt offerings, and meat offerings, and the fat of the peace offerings: because the brasen altar that [was] before the LORD [was] too little to receive the burnt offerings, and meat offerings, and the fat of the peace offerings.'),
 (202524,8,11,8,65,'And at that time Solomon held a feast, and all Israel with him, a great congregation, from the entering in of Hamath unto the river of Egypt, before the LORD our God, seven days and seven days, [even] fourteen days.'),
 (202525,8,11,8,66,'On the eighth day he sent the people away: and they blessed the king, and went unto their tents joyful and glad of heart for all the goodness that the LORD had done for David his servant, and for Israel his people.'),
 (202526,8,11,9,1,'And it came to pass, when Solomon had finished the building of the house of the LORD, and the king''s house, and all Solomon''s desire which he was pleased to do,'),
@@ -9282,8 +9110,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (202570,8,11,10,17,'And [he made] three hundred shields [of] beaten gold; three pound of gold went to one shield: and the king put them in the house of the forest of Lebanon.'),
 (202571,8,11,10,18,'Moreover the king made a great throne of ivory, and overlaid it with the best gold.'),
 (202572,8,11,10,19,'The throne had six steps, and the top of the throne [was] round behind: and [there were] stays on either side on the place of the seat, and two lions stood beside the stays.'),
-(202573,8,11,10,20,'And twelve lions stood there on the one side and on the other upon the six steps: there was not the like made in any kingdom.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(202573,8,11,10,20,'And twelve lions stood there on the one side and on the other upon the six steps: there was not the like made in any kingdom.'),
 (202574,8,11,10,21,'And all king Solomon''s drinking vessels [were of] gold, and all the vessels of the house of the forest of Lebanon [were of] pure gold; none [were of] silver: it was nothing accounted of in the days of Solomon.'),
 (202575,8,11,10,22,'For the king had at sea a navy of Tharshish with the navy of Hiram: once in three years came the navy of Tharshish, bringing gold, and silver, ivory, and apes, and peacocks.'),
 (202576,8,11,10,23,'So king Solomon exceeded all the kings of the earth for riches and for wisdom.'),
@@ -9333,8 +9160,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (202620,8,11,11,38,'And it shall be, if thou wilt hearken unto all that I command thee, and wilt walk in my ways, and do [that is] right in my sight, to keep my statutes and my commandments, as David my servant did; that I will be with thee, and build thee a sure house, as I built for David, and will give Israel unto thee.'),
 (202621,8,11,11,39,'And I will for this afflict the seed of David, but not for ever.'),
 (202622,8,11,11,40,'Solomon sought therefore to kill Jeroboam. And Jeroboam arose, and fled into Egypt, unto Shishak king of Egypt, and was in Egypt until the death of Solomon.'),
-(202623,8,11,11,41,'And the rest of the acts of Solomon, and all that he did, and his wisdom, [are] they not written in the book of the acts of Solomon?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(202623,8,11,11,41,'And the rest of the acts of Solomon, and all that he did, and his wisdom, [are] they not written in the book of the acts of Solomon?'),
 (202624,8,11,11,42,'And the time that Solomon reigned in Jerusalem over all Israel [was] forty years.'),
 (202625,8,11,11,43,'And Solomon slept with his fathers, and was buried in the city of David his father: and Rehoboam his son reigned in his stead.'),
 (202626,8,11,12,1,'And Rehoboam went to Shechem: for all Israel were come to Shechem to make him king.'),
@@ -9384,8 +9210,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (202670,8,11,13,12,'And their father said unto them, What way went he? For his sons had seen what way the man of God went, which came from Judah.'),
 (202671,8,11,13,13,'And he said unto his sons, Saddle me the ass. So they saddled him the ass: and he rode thereon,'),
 (202672,8,11,13,14,'And went after the man of God, and found him sitting under an oak: and he said unto him, [Art] thou the man of God that camest from Judah? And he said, I [am].'),
-(202673,8,11,13,15,'Then he said unto him, Come home with me, and eat bread.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(202673,8,11,13,15,'Then he said unto him, Come home with me, and eat bread.'),
 (202674,8,11,13,16,'And he said, I may not return with thee, nor go in with thee: neither will I eat bread nor drink water with thee in this place:'),
 (202675,8,11,13,17,'For it was said to me by the word of the LORD, Thou shalt eat no bread nor drink water there, nor turn again to go by the way that thou camest.'),
 (202676,8,11,13,18,'He said unto him, I [am] a prophet also as thou [art]; and an angel spake unto me by the word of the LORD, saying, Bring him back with thee into thine house, that he may eat bread and drink water. [But] he lied unto him.'),
@@ -9435,8 +9260,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (202720,8,11,14,28,'And it was [so], when the king went into the house of the LORD, that the guard bare them, and brought them back into the guard chamber.'),
 (202721,8,11,14,29,'Now the rest of the acts of Rehoboam, and all that he did, [are] they not written in the book of the chronicles of the kings of Judah?'),
 (202722,8,11,14,30,'And there was war between Rehoboam and Jeroboam all [their] days.'),
-(202723,8,11,14,31,'And Rehoboam slept with his fathers, and was buried with his fathers in the city of David. And his mother''s name [was] Naamah an Ammonitess. And Abijam his son reigned in his stead.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(202723,8,11,14,31,'And Rehoboam slept with his fathers, and was buried with his fathers in the city of David. And his mother''s name [was] Naamah an Ammonitess. And Abijam his son reigned in his stead.'),
 (202724,8,11,15,1,'Now in the eighteenth year of king Jeroboam the son of Nebat reigned Abijam over Judah.'),
 (202725,8,11,15,2,'Three years reigned he in Jerusalem. And his mother''s name [was] Maachah, the daughter of Abishalom.'),
 (202726,8,11,15,3,'And he walked in all the sins of his father, which he had done before him: and his heart was not perfect with the LORD his God, as the heart of David his father.'),
@@ -9486,8 +9310,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (202770,8,11,16,13,'For all the sins of Baasha, and the sins of Elah his son, by which they sinned, and by which they made Israel to sin, in provoking the LORD God of Israel to anger with their vanities.'),
 (202771,8,11,16,14,'Now the rest of the acts of Elah, and all that he did, [are] they not written in the book of the chronicles of the kings of Israel?'),
 (202772,8,11,16,15,'In the twenty and seventh year of Asa king of Judah did Zimri reign seven days in Tirzah. And the people [were] encamped against Gibbethon, which [belonged] to the Philistines.'),
-(202773,8,11,16,16,'And the people [that were] encamped heard say, Zimri hath conspired, and hath also slain the king: wherefore all Israel made Omri, the captain of the host, king over Israel that day in the camp.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(202773,8,11,16,16,'And the people [that were] encamped heard say, Zimri hath conspired, and hath also slain the king: wherefore all Israel made Omri, the captain of the host, king over Israel that day in the camp.'),
 (202774,8,11,16,17,'And Omri went up from Gibbethon, and all Israel with him, and they besieged Tirzah.'),
 (202775,8,11,16,18,'And it came to pass, when Zimri saw that the city was taken, that he went into the palace of the king''s house, and burnt the king''s house over him with fire, and died,'),
 (202776,8,11,16,19,'For his sins which he sinned in doing evil in the sight of the LORD, in walking in the way of Jeroboam, and in his sin which he did, to make Israel to sin.'),
@@ -9537,8 +9360,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (202820,8,11,18,5,'And Ahab said unto Obadiah, Go into the land, unto all fountains of water, and unto all brooks: peradventure we may find grass to save the horses and mules alive, that we lose not all the beasts.'),
 (202821,8,11,18,6,'So they divided the land between them to pass throughout it: Ahab went one way by himself, and Obadiah went another way by himself.'),
 (202822,8,11,18,7,'And as Obadiah was in the way, behold, Elijah met him: and he knew him, and fell on his face, and said, [Art] thou that my lord Elijah?'),
-(202823,8,11,18,8,'And he answered him, I [am]: go, tell thy lord, Behold, Elijah [is here].');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(202823,8,11,18,8,'And he answered him, I [am]: go, tell thy lord, Behold, Elijah [is here].'),
 (202824,8,11,18,9,'And he said, What have I sinned, that thou wouldest deliver thy servant into the hand of Ahab, to slay me?'),
 (202825,8,11,18,10,'[As] the LORD thy God liveth, there is no nation or kingdom, whither my lord hath not sent to seek thee: and when they said, [He is] not [there]; he took an oath of the kingdom and nation, that they found thee not.'),
 (202826,8,11,18,11,'And now thou sayest, Go, tell thy lord, Behold, Elijah [is here].'),
@@ -9588,8 +9410,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (202870,8,11,19,9,'And he came thither unto a cave, and lodged there; and, behold, the word of the LORD [came] to him, and he said unto him, What doest thou here, Elijah?'),
 (202871,8,11,19,10,'And he said, I have been very jealous for the LORD God of hosts: for the children of Israel have forsaken thy covenant, thrown down thine altars, and slain thy prophets with the sword; and I, [even] I only, am left; and they seek my life, to take it away.'),
 (202872,8,11,19,11,'And he said, Go forth, and stand upon the mount before the LORD. And, behold, the LORD passed by, and a great and strong wind rent the mountains, and brake in pieces the rocks before the LORD; [but] the LORD [was] not in the wind: and after the wind an earthquake; [but] the LORD [was] not in the earthquake:'),
-(202873,8,11,19,12,'And after the earthquake a fire; [but] the LORD [was] not in the fire: and after the fire a still small voice.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(202873,8,11,19,12,'And after the earthquake a fire; [but] the LORD [was] not in the fire: and after the fire a still small voice.'),
 (202874,8,11,19,13,'And it was [so], when Elijah heard [it], that he wrapped his face in his mantle, and went out, and stood in the entering in of the cave. And, behold, [there came] a voice unto him, and said, What doest thou here, Elijah?'),
 (202875,8,11,19,14,'And he said, I have been very jealous for the LORD God of hosts: because the children of Israel have forsaken thy covenant, thrown down thine altars, and slain thy prophets with the sword; and I, [even] I only, am left; and they seek my life, to take it away.'),
 (202876,8,11,19,15,'And the LORD said unto him, Go, return on thy way to the wilderness of Damascus: and when thou comest, anoint Hazael [to be] king over Syria:'),
@@ -9639,8 +9460,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (202920,8,11,20,38,'So the prophet departed, and waited for the king by the way, and disguised himself with ashes upon his face.'),
 (202921,8,11,20,39,'And as the king passed by, he cried unto the king: and he said, Thy servant went out into the midst of the battle; and, behold, a man turned aside, and brought a man unto me, and said, Keep this man: if by any means he be missing, then shall thy life be for his life, or else thou shalt pay a talent of silver.'),
 (202922,8,11,20,40,'And as thy servant was busy here and there, he was gone. And the king of Israel said unto him, So [shall] thy judgment [be]; thyself hast decided [it].'),
-(202923,8,11,20,41,'And he hasted, and took the ashes away from his face; and the king of Israel discerned him that he [was] of the prophets.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(202923,8,11,20,41,'And he hasted, and took the ashes away from his face; and the king of Israel discerned him that he [was] of the prophets.'),
 (202924,8,11,20,42,'And he said unto him, Thus saith the LORD, Because thou hast let go out of [thy] hand a man whom I appointed to utter destruction, therefore thy life shall go for his life, and thy people for his people.'),
 (202925,8,11,20,43,'And the king of Israel went to his house heavy and displeased, and came to Samaria.'),
 (202926,8,11,21,1,'And it came to pass after these things, [that] Naboth the Jezreelite had a vineyard, which [was] in Jezreel, hard by the palace of Ahab king of Samaria.'),
@@ -9690,8 +9510,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (202970,8,11,22,16,'And the king said unto him, How many times shall I adjure thee that thou tell me nothing but [that which is] true in the name of the LORD?'),
 (202971,8,11,22,17,'And he said, I saw all Israel scattered upon the hills, as sheep that have not a shepherd: and the LORD said, These have no master: let them return every man to his house in peace.'),
 (202972,8,11,22,18,'And the king of Israel said unto Jehoshaphat, Did I not tell thee that he would prophesy no good concerning me, but evil?'),
-(202973,8,11,22,19,'And he said, Hear thou therefore the word of the LORD: I saw the LORD sitting on his throne, and all the host of heaven standing by him on his right hand and on his left.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(202973,8,11,22,19,'And he said, Hear thou therefore the word of the LORD: I saw the LORD sitting on his throne, and all the host of heaven standing by him on his right hand and on his left.'),
 (202974,8,11,22,20,'And the LORD said, Who shall persuade Ahab, that he may go up and fall at Ramothgilead? And one said on this manner, and another said on that manner.'),
 (202975,8,11,22,21,'And there came forth a spirit, and stood before the LORD, and said, I will persuade him.'),
 (202976,8,11,22,22,'And the LORD said unto him, Wherewith? And he said, I will go forth, and I will be a lying spirit in the mouth of all his prophets. And he said, Thou shalt persuade [him], and prevail also: go forth, and do so.'),
@@ -9741,8 +9560,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (203020,8,12,1,13,'And he sent again a captain of the third fifty with his fifty. And the third captain of fifty went up, and came and fell on his knees before Elijah, and besought him, and said unto him, O man of God, I pray thee, let my life, and the life of these fifty thy servants, be precious in thy sight.'),
 (203021,8,12,1,14,'Behold, there came fire down from heaven, and burnt up the two captains of the former fifties with their fifties: therefore let my life now be precious in thy sight.'),
 (203022,8,12,1,15,'And the angel of the LORD said unto Elijah, Go down with him: be not afraid of him. And he arose, and went down with him unto the king.'),
-(203023,8,12,1,16,'And he said unto him, Thus saith the LORD, Forasmuch as thou hast sent messengers to inquire of Baalzebub the god of Ekron, [is it] not because [there is] no God in Israel to inquire of his word? therefore thou shalt not come down off that bed on which thou art gone up, but shalt surely die.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(203023,8,12,1,16,'And he said unto him, Thus saith the LORD, Forasmuch as thou hast sent messengers to inquire of Baalzebub the god of Ekron, [is it] not because [there is] no God in Israel to inquire of his word? therefore thou shalt not come down off that bed on which thou art gone up, but shalt surely die.'),
 (203024,8,12,1,17,'So he died according to the word of the LORD which Elijah had spoken. And Jehoram reigned in his stead in the second year of Jehoram the son of Jehoshaphat king of Judah; because he had no son.'),
 (203025,8,12,1,18,'Now the rest of the acts of Ahaziah which he did, [are] they not written in the book of the chronicles of the kings of Israel?'),
 (203026,8,12,2,1,'And it came to pass, when the LORD would take up Elijah into heaven by a whirlwind, that Elijah went with Elisha from Gilgal.'),
@@ -9792,8 +9610,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (203070,8,12,3,20,'And it came to pass in the morning, when the meat offering was offered, that, behold, there came water by the way of Edom, and the country was filled with water.'),
 (203071,8,12,3,21,'And when all the Moabites heard that the kings were come up to fight against them, they gathered all that were able to put on armour, and upward, and stood in the border.'),
 (203072,8,12,3,22,'And they rose up early in the morning, and the sun shone upon the water, and the Moabites saw the water on the other side [as] red as blood:'),
-(203073,8,12,3,23,'And they said, This [is] blood: the kings are surely slain, and they have smitten one another: now therefore, Moab, to the spoil.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(203073,8,12,3,23,'And they said, This [is] blood: the kings are surely slain, and they have smitten one another: now therefore, Moab, to the spoil.'),
 (203074,8,12,3,24,'And when they came to the camp of Israel, the Israelites rose up and smote the Moabites, so that they fled before them: but they went forward smiting the Moabites, even in [their] country.'),
 (203075,8,12,3,25,'And they beat down the cities, and on every good piece of land cast every man his stone, and filled it; and they stopped all the wells of water, and felled all the good trees: only in Kirharaseth left they the stones thereof; howbeit the slingers went about [it], and smote it.'),
 (203076,8,12,3,26,'And when the king of Moab saw that the battle was too sore for him, he took with him seven hundred men that drew swords, to break through [even] unto the king of Edom: but they could not.'),
@@ -9843,8 +9660,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (203120,8,12,4,43,'And his servitor said, What, should I set this before an hundred men? He said again, Give the people, that they may eat: for thus saith the LORD, They shall eat, and shall leave [thereof].'),
 (203121,8,12,4,44,'So he set [it] before them, and they did eat, and left [thereof], according to the word of the LORD.'),
 (203122,8,12,5,1,'Now Naaman, captain of the host of the king of Syria, was a great man with his master, and honourable, because by him the LORD had given deliverance unto Syria: he was also a mighty man in valour, [but he was] a leper.'),
-(203123,8,12,5,2,'And the Syrians had gone out by companies, and had brought away captive out of the land of Israel a little maid; and she waited on Naaman''s wife.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(203123,8,12,5,2,'And the Syrians had gone out by companies, and had brought away captive out of the land of Israel a little maid; and she waited on Naaman''s wife.'),
 (203124,8,12,5,3,'And she said unto her mistress, Would God my lord [were] with the prophet that [is] in Samaria! for he would recover him of his leprosy.'),
 (203125,8,12,5,4,'And [one] went in, and told his lord, saying, Thus and thus said the maid that [is] of the land of Israel.'),
 (203126,8,12,5,5,'And the king of Syria said, Go to, go, and I will send a letter unto the king of Israel. And he departed, and took with him ten talents of silver, and six thousand [pieces] of gold, and ten changes of raiment.'),
@@ -9894,8 +9710,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (203170,8,12,6,22,'And he answered, Thou shalt not smite [them]: wouldest thou smite those whom thou hast taken captive with thy sword and with thy bow? set bread and water before them, that they may eat and drink, and go to their master.'),
 (203171,8,12,6,23,'And he prepared great provision for them: and when they had eaten and drunk, he sent them away, and they went to their master. So the bands of Syria came no more into the land of Israel.'),
 (203172,8,12,6,24,'And it came to pass after this, that Benhadad king of Syria gathered all his host, and went up, and besieged Samaria.'),
-(203173,8,12,6,25,'And there was a great famine in Samaria: and, behold, they besieged it, until an ass''s head was [sold] for fourscore [pieces] of silver, and the fourth part of a cab of dove''s dung for five [pieces] of silver.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(203173,8,12,6,25,'And there was a great famine in Samaria: and, behold, they besieged it, until an ass''s head was [sold] for fourscore [pieces] of silver, and the fourth part of a cab of dove''s dung for five [pieces] of silver.'),
 (203174,8,12,6,26,'And as the king of Israel was passing by upon the wall, there cried a woman unto him, saying, Help, my lord, O king.'),
 (203175,8,12,6,27,'And he said, If the LORD do not help thee, whence shall I help thee? out of the barnfloor, or out of the winepress?'),
 (203176,8,12,6,28,'And the king said unto her, What aileth thee? And she answered, This woman said unto me, Give thy son, that we may eat him to day, and we will eat my son to morrow.'),
@@ -9945,8 +9760,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (203220,8,12,8,19,'Yet the LORD would not destroy Judah for David his servant''s sake, as he promised him to give him alway a light, [and] to his children.'),
 (203221,8,12,8,20,'In his days Edom revolted from under the hand of Judah, and made a king over themselves.'),
 (203222,8,12,8,21,'So Joram went over to Zair, and all the chariots with him: and he rose by night, and smote the Edomites which compassed him about, and the captains of the chariots: and the people fled into their tents.'),
-(203223,8,12,8,22,'Yet Edom revolted from under the hand of Judah unto this day. Then Libnah revolted at the same time.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(203223,8,12,8,22,'Yet Edom revolted from under the hand of Judah unto this day. Then Libnah revolted at the same time.'),
 (203224,8,12,8,23,'And the rest of the acts of Joram, and all that he did, [are] they not written in the book of the chronicles of the kings of Judah?'),
 (203225,8,12,8,24,'And Joram slept with his fathers, and was buried with his fathers in the city of David: and Ahaziah his son reigned in his stead.'),
 (203226,8,12,8,25,'In the twelfth year of Joram the son of Ahab king of Israel did Ahaziah the son of Jehoram king of Judah begin to reign.'),
@@ -9996,8 +9810,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (203270,8,12,10,3,'Look even out the best and meetest of your master''s sons, and set [him] on his father''s throne, and fight for your master''s house.'),
 (203271,8,12,10,4,'But they were exceedingly afraid, and said, Behold, two kings stood not before him: how then shall we stand?'),
 (203272,8,12,10,5,'And he that [was] over the house, and he that [was] over the city, the elders also, and the bringers up [of the children], sent to Jehu, saying, We [are] thy servants, and will do all that thou shalt bid us; we will not make any king: do thou [that which is] good in thine eyes.'),
-(203273,8,12,10,6,'Then he wrote a letter the second time to them, saying, If ye [be] mine, and [if] ye will hearken unto my voice, take ye the heads of the men your master''s sons, and come to me to Jezreel by to morrow this time. Now the king''s sons, [being] seventy persons, [were] with the great men of the city, which brought them up.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(203273,8,12,10,6,'Then he wrote a letter the second time to them, saying, If ye [be] mine, and [if] ye will hearken unto my voice, take ye the heads of the men your master''s sons, and come to me to Jezreel by to morrow this time. Now the king''s sons, [being] seventy persons, [were] with the great men of the city, which brought them up.'),
 (203274,8,12,10,7,'And it came to pass, when the letter came to them, that they took the king''s sons, and slew seventy persons, and put their heads in baskets, and sent him [them] to Jezreel.'),
 (203275,8,12,10,8,'And there came a messenger, and told him, saying, They have brought the heads of the king''s sons. And he said, Lay ye them in two heaps at the entering in of the gate until the morning.'),
 (203276,8,12,10,9,'And it came to pass in the morning, that he went out, and stood, and said to all the people, Ye [be] righteous: behold, I conspired against my master, and slew him: but who slew all these?'),
@@ -10047,8 +9860,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (203320,8,12,11,17,'And Jehoiada made a covenant between the LORD and the king and the people, that they should be the LORD''s people; between the king also and the people.'),
 (203321,8,12,11,18,'And all the people of the land went into the house of Baal, and brake it down; his altars and his images brake they in pieces thoroughly, and slew Mattan the priest of Baal before the altars. And the priest appointed officers over the house of the LORD.'),
 (203322,8,12,11,19,'And he took the rulers over hundreds, and the captains, and the guard, and all the people of the land; and they brought down the king from the house of the LORD, and came by the way of the gate of the guard to the king''s house. And he sat on the throne of the kings.'),
-(203323,8,12,11,20,'And all the people of the land rejoiced, and the city was in quiet: and they slew Athaliah with the sword [beside] the king''s house.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(203323,8,12,11,20,'And all the people of the land rejoiced, and the city was in quiet: and they slew Athaliah with the sword [beside] the king''s house.'),
 (203324,8,12,11,21,'Seven years old [was] Jehoash when he began to reign.'),
 (203325,8,12,12,1,'In the seventh year of Jehu Jehoash began to reign; and forty years reigned he in Jerusalem. And his mother''s name [was] Zibiah of Beersheba.'),
 (203326,8,12,12,2,'And Jehoash did [that which was] right in the sight of the LORD all his days wherein Jehoiada the priest instructed him.'),
@@ -10098,8 +9910,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (203370,8,12,13,25,'And Jehoash the son of Jehoahaz took again out of the hand of Benhadad the son of Hazael the cities, which he had taken out of the hand of Jehoahaz his father by war. Three times did Joash beat him, and recovered the cities of Israel.'),
 (203371,8,12,14,1,'In the second year of Joash son of Jehoahaz king of Israel reigned Amaziah the son of Joash king of Judah.'),
 (203372,8,12,14,2,'He was twenty and five years old when he began to reign, and reigned twenty and nine years in Jerusalem. And his mother''s name [was] Jehoaddan of Jerusalem.'),
-(203373,8,12,14,3,'And he did [that which was] right in the sight of the LORD, yet not like David his father: he did according to all things as Joash his father did.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(203373,8,12,14,3,'And he did [that which was] right in the sight of the LORD, yet not like David his father: he did according to all things as Joash his father did.'),
 (203374,8,12,14,4,'Howbeit the high places were not taken away: as yet the people did sacrifice and burnt incense on the high places.'),
 (203375,8,12,14,5,'And it came to pass, as soon as the kingdom was confirmed in his hand, that he slew his servants which had slain the king his father.'),
 (203376,8,12,14,6,'But the children of the murderers he slew not: according unto that which is written in the book of the law of Moses, wherein the LORD commanded, saying, The fathers shall not be put to death for the children, nor the children be put to death for the fathers; but every man shall be put to death for his own sin.'),
@@ -10149,8 +9960,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (203420,8,12,15,21,'And the rest of the acts of Menahem, and all that he did, [are] they not written in the book of the chronicles of the kings of Israel?'),
 (203421,8,12,15,22,'And Menahem slept with his fathers; and Pekahiah his son reigned in his stead.'),
 (203422,8,12,15,23,'In the fiftieth year of Azariah king of Judah Pekahiah the son of Menahem began to reign over Israel in Samaria, [and reigned] two years.'),
-(203423,8,12,15,24,'And he did [that which was] evil in the sight of the LORD: he departed not from the sins of Jeroboam the son of Nebat, who made Israel to sin.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(203423,8,12,15,24,'And he did [that which was] evil in the sight of the LORD: he departed not from the sins of Jeroboam the son of Nebat, who made Israel to sin.'),
 (203424,8,12,15,25,'But Pekah the son of Remaliah, a captain of his, conspired against him, and smote him in Samaria, in the palace of the king''s house, with Argob and Arieh, and with him fifty men of the Gileadites: and he killed him, and reigned in his room.'),
 (203425,8,12,15,26,'And the rest of the acts of Pekahiah, and all that he did, behold, they [are] written in the book of the chronicles of the kings of Israel.'),
 (203426,8,12,15,27,'In the two and fiftieth year of Azariah king of Judah Pekah the son of Remaliah began to reign over Israel in Samaria, [and reigned] twenty years.'),
@@ -10251,8 +10061,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (203520,8,12,18,22,'But if ye say unto me, We trust in the LORD our God: [is] not that he, whose high places and whose altars Hezekiah hath taken away, and hath said to Judah and Jerusalem, Ye shall worship before this altar in Jerusalem?'),
 (203521,8,12,18,23,'Now therefore, I pray thee, give pledges to my lord the king of Assyria, and I will deliver thee two thousand horses, if thou be able on thy part to set riders upon them.'),
 (203522,8,12,18,24,'How then wilt thou turn away the face of one captain of the least of my master''s servants, and put thy trust on Egypt for chariots and for horsemen?'),
-(203523,8,12,18,25,'Am I now come up without the LORD against this place to destroy it? The LORD said to me, Go up against this land, and destroy it.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(203523,8,12,18,25,'Am I now come up without the LORD against this place to destroy it? The LORD said to me, Go up against this land, and destroy it.'),
 (203524,8,12,18,26,'Then said Eliakim the son of Hilkiah, and Shebna, and Joah, unto Rabshakeh, Speak, I pray thee, to thy servants in the Syrian language; for we understand [it]: and talk not with us in the Jews'' language in the ears of the people that [are] on the wall.'),
 (203525,8,12,18,27,'But Rabshakeh said unto them, Hath my master sent me to thy master, and to thee, to speak these words? [hath he] not [sent me] to the men which sit on the wall, that they may eat their own dung, and drink their own piss with you?'),
 (203526,8,12,18,28,'Then Rabshakeh stood and cried with a loud voice in the Jews'' language, and spake, saying, Hear the word of the great king, the king of Assyria:'),
@@ -10302,8 +10111,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (203570,8,12,19,35,'And it came to pass that night, that the angel of the LORD went out, and smote in the camp of the Assyrians an hundred fourscore and five thousand: and when they arose early in the morning, behold, they [were] all dead corpses.'),
 (203571,8,12,19,36,'So Sennacherib king of Assyria departed, and went and returned, and dwelt at Nineveh.'),
 (203572,8,12,19,37,'And it came to pass, as he was worshipping in the house of Nisroch his god, that Adrammelech and Sharezer his sons smote him with the sword: and they escaped into the land of Armenia. And Esarhaddon his son reigned in his stead.'),
-(203573,8,12,20,1,'In those days was Hezekiah sick unto death. And the prophet Isaiah the son of Amoz came to him, and said unto him, Thus saith the LORD, Set thine house in order; for thou shalt die, and not live.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(203573,8,12,20,1,'In those days was Hezekiah sick unto death. And the prophet Isaiah the son of Amoz came to him, and said unto him, Thus saith the LORD, Set thine house in order; for thou shalt die, and not live.'),
 (203574,8,12,20,2,'Then he turned his face to the wall, and prayed unto the LORD, saying,'),
 (203575,8,12,20,3,'I beseech thee, O LORD, remember now how I have walked before thee in truth and with a perfect heart, and have done [that which is] good in thy sight. And Hezekiah wept sore.'),
 (203576,8,12,20,4,'And it came to pass, afore Isaiah was gone out into the middle court, that the word of the LORD came to him, saying,'),
@@ -10353,8 +10161,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (203620,8,12,22,1,'Josiah [was] eight years old when he began to reign, and he reigned thirty and one years in Jerusalem. And his mother''s name [was] Jedidah, the daughter of Adaiah of Boscath.'),
 (203621,8,12,22,2,'And he did [that which was] right in the sight of the LORD, and walked in all the way of David his father, and turned not aside to the right hand or to the left.'),
 (203622,8,12,22,3,'And it came to pass in the eighteenth year of king Josiah, [that] the king sent Shaphan the son of Azaliah, the son of Meshullam, the scribe, to the house of the LORD, saying,'),
-(203623,8,12,22,4,'Go up to Hilkiah the high priest, that he may sum the silver which is brought into the house of the LORD, which the keepers of the door have gathered of the people:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(203623,8,12,22,4,'Go up to Hilkiah the high priest, that he may sum the silver which is brought into the house of the LORD, which the keepers of the door have gathered of the people:'),
 (203624,8,12,22,5,'And let them deliver it into the hand of the doers of the work, that have the oversight of the house of the LORD: and let them give it to the doers of the work which [is] in the house of the LORD, to repair the breaches of the house,'),
 (203625,8,12,22,6,'Unto carpenters, and builders, and masons, and to buy timber and hewn stone to repair the house.'),
 (203626,8,12,22,7,'Howbeit there was no reckoning made with them of the money that was delivered into their hand, because they dealt faithfully.'),
@@ -10404,8 +10211,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (203670,8,12,23,31,'Jehoahaz [was] twenty and three years old when he began to reign; and he reigned three months in Jerusalem. And his mother''s name [was] Hamutal, the daughter of Jeremiah of Libnah.'),
 (203671,8,12,23,32,'And he did [that which was] evil in the sight of the LORD, according to all that his fathers had done.'),
 (203672,8,12,23,33,'And Pharaohnechoh put him in bands at Riblah in the land of Hamath, that he might not reign in Jerusalem; and put the land to a tribute of an hundred talents of silver, and a talent of gold.'),
-(203673,8,12,23,34,'And Pharaohnechoh made Eliakim the son of Josiah king in the room of Josiah his father, and turned his name to Jehoiakim, and took Jehoahaz away: and he came to Egypt, and died there.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(203673,8,12,23,34,'And Pharaohnechoh made Eliakim the son of Josiah king in the room of Josiah his father, and turned his name to Jehoiakim, and took Jehoahaz away: and he came to Egypt, and died there.'),
 (203674,8,12,23,35,'And Jehoiakim gave the silver and the gold to Pharaoh; but he taxed the land to give the money according to the commandment of Pharaoh: he exacted the silver and the gold of the people of the land, of every one according to his taxation, to give [it] unto Pharaohnechoh.'),
 (203675,8,12,23,36,'Jehoiakim [was] twenty and five years old when he began to reign; and he reigned eleven years in Jerusalem. And his mother''s name [was] Zebudah, the daughter of Pedaiah of Rumah.'),
 (203676,8,12,23,37,'And he did [that which was] evil in the sight of the LORD, according to all that his fathers had done.'),
@@ -10455,8 +10261,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (203720,8,12,25,24,'And Gedaliah sware to them, and to their men, and said unto them, Fear not to be the servants of the Chaldees: dwell in the land, and serve the king of Babylon; and it shall be well with you.'),
 (203721,8,12,25,25,'But it came to pass in the seventh month, that Ishmael the son of Nethaniah, the son of Elishama, of the seed royal, came, and ten men with him, and smote Gedaliah, that he died, and the Jews and the Chaldees that were with him at Mizpah.'),
 (203722,8,12,25,26,'And all the people, both small and great, and the captains of the armies, arose, and came to Egypt: for they were afraid of the Chaldees.'),
-(203723,8,12,25,27,'And it came to pass in the seven and thirtieth year of the captivity of Jehoiachin king of Judah, in the twelfth month, on the seven and twentieth [day] of the month, [that] Evilmerodach king of Babylon in the year that he began to reign did lift up the head of Jehoiachin king of Judah out of prison;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(203723,8,12,25,27,'And it came to pass in the seven and thirtieth year of the captivity of Jehoiachin king of Judah, in the twelfth month, on the seven and twentieth [day] of the month, [that] Evilmerodach king of Babylon in the year that he began to reign did lift up the head of Jehoiachin king of Judah out of prison;'),
 (203724,8,12,25,28,'And he spake kindly to him, and set his throne above the throne of the kings that [were] with him in Babylon;'),
 (203725,8,12,25,29,'And changed his prison garments: and he did eat bread continually before him all the days of his life.'),
 (203726,8,12,25,30,'And his allowance [was] a continual allowance given him of the king, a daily rate for every day, all the days of his life.'),
@@ -10506,8 +10311,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (203770,8,13,1,44,'And when Bela was dead, Jobab the son of Zerah of Bozrah reigned in his stead.'),
 (203771,8,13,1,45,'And when Jobab was dead, Husham of the land of the Temanites reigned in his stead.'),
 (203772,8,13,1,46,'And when Husham was dead, Hadad the son of Bedad, which smote Midian in the field of Moab, reigned in his stead: and the name of his city [was] Avith.'),
-(203773,8,13,1,47,'And when Hadad was dead, Samlah of Masrekah reigned in his stead.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(203773,8,13,1,47,'And when Hadad was dead, Samlah of Masrekah reigned in his stead.'),
 (203774,8,13,1,48,'And when Samlah was dead, Shaul of Rehoboth by the river reigned in his stead.'),
 (203775,8,13,1,49,'And when Shaul was dead, Baalhanan the son of Achbor reigned in his stead.'),
 (203776,8,13,1,50,'And when Baalhanan was dead, Hadad reigned in his stead: and the name of his city [was] Pai; and his wife''s name [was] Mehetabel, the daughter of Matred, the daughter of Mezahab.'),
@@ -10557,8 +10361,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (203820,8,13,2,40,'And Eleasah begat Sisamai, and Sisamai begat Shallum,'),
 (203821,8,13,2,41,'And Shallum begat Jekamiah, and Jekamiah begat Elishama.'),
 (203822,8,13,2,42,'Now the sons of Caleb the brother of Jerahmeel [were], Mesha his firstborn, which [was] the father of Ziph; and the sons of Mareshah the father of Hebron.'),
-(203823,8,13,2,43,'And the sons of Hebron; Korah, and Tappuah, and Rekem, and Shema.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(203823,8,13,2,43,'And the sons of Hebron; Korah, and Tappuah, and Rekem, and Shema.'),
 (203824,8,13,2,44,'And Shema begat Raham, the father of Jorkoam: and Rekem begat Shammai.'),
 (203825,8,13,2,45,'And the son of Shammai [was] Maon: and Maon [was] the father of Bethzur.'),
 (203826,8,13,2,46,'And Ephah, Caleb''s concubine, bare Haran, and Moza, and Gazez: and Haran begat Gazez.'),
@@ -10608,8 +10411,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (203870,8,13,4,11,'And Chelub the brother of Shuah begat Mehir, which [was] the father of Eshton.'),
 (203871,8,13,4,12,'And Eshton begat Bethrapha, and Paseah, and Tehinnah the father of Irnahash. These [are] the men of Rechah.'),
 (203872,8,13,4,13,'And the sons of Kenaz; Othniel, and Seraiah: and the sons of Othniel; Hathath.'),
-(203873,8,13,4,14,'And Meonothai begat Ophrah: and Seraiah begat Joab, the father of the valley of Charashim; for they were craftsmen.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(203873,8,13,4,14,'And Meonothai begat Ophrah: and Seraiah begat Joab, the father of the valley of Charashim; for they were craftsmen.'),
 (203874,8,13,4,15,'And the sons of Caleb the son of Jephunneh; Iru, Elah, and Naam: and the sons of Elah, even Kenaz.'),
 (203875,8,13,4,16,'And the sons of Jehaleleel; Ziph, and Ziphah, Tiria, and Asareel.'),
 (203876,8,13,4,17,'And the sons of Ezra [were], Jether, and Mered, and Epher, and Jalon: and she bare Miriam, and Shammai, and Ishbah the father of Eshtemoa.'),
@@ -10659,8 +10461,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (203920,8,13,5,18,'The sons of Reuben, and the Gadites, and half the tribe of Manasseh, of valiant men, men able to bear buckler and sword, and to shoot with bow, and skilful in war, [were] four and forty thousand seven hundred and threescore, that went out to the war.'),
 (203921,8,13,5,19,'And they made war with the Hagarites, with Jetur, and Nephish, and Nodab.'),
 (203922,8,13,5,20,'And they were helped against them, and the Hagarites were delivered into their hand, and all that [were] with them: for they cried to God in the battle, and he was intreated of them; because they put their trust in him.'),
-(203923,8,13,5,21,'And they took away their cattle; of their camels fifty thousand, and of sheep two hundred and fifty thousand, and of asses two thousand, and of men an hundred thousand.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(203923,8,13,5,21,'And they took away their cattle; of their camels fifty thousand, and of sheep two hundred and fifty thousand, and of asses two thousand, and of men an hundred thousand.'),
 (203924,8,13,5,22,'For there fell down many slain, because the war [was] of God. And they dwelt in their steads until the captivity.'),
 (203925,8,13,5,23,'And the children of the half tribe of Manasseh dwelt in the land: they increased from Bashan unto Baalhermon and Senir, and unto mount Hermon.'),
 (203926,8,13,5,24,'And these [were] the heads of the house of their fathers, even Epher, and Ishi, and Eliel, and Azriel, and Jeremiah, and Hodaviah, and Jahdiel, mighty men of valour, famous men, [and] heads of the house of their fathers.'),
@@ -10710,8 +10511,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (203970,8,13,6,42,'The son of Ethan, the son of Zimmah, the son of Shimei,'),
 (203971,8,13,6,43,'The son of Jahath, the son of Gershom, the son of Levi.'),
 (203972,8,13,6,44,'And their brethren the sons of Merari [stood] on the left hand: Ethan the son of Kishi, the son of Abdi, the son of Malluch,'),
-(203973,8,13,6,45,'The son of Hashabiah, the son of Amaziah, the son of Hilkiah,');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(203973,8,13,6,45,'The son of Hashabiah, the son of Amaziah, the son of Hilkiah,'),
 (203974,8,13,6,46,'The son of Amzi, the son of Bani, the son of Shamer,'),
 (203975,8,13,6,47,'The son of Mahli, the son of Mushi, the son of Merari, the son of Levi.'),
 (203976,8,13,6,48,'Their brethren also the Levites [were] appointed unto all manner of service of the tabernacle of the house of God.'),
@@ -10761,8 +10561,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (204020,8,13,7,11,'All these the sons of Jediael, by the heads of their fathers, mighty men of valour, [were] seventeen thousand and two hundred [soldiers], fit to go out for war [and] battle.'),
 (204021,8,13,7,12,'Shuppim also, and Huppim, the children of Ir, [and] Hushim, the sons of Aher.'),
 (204022,8,13,7,13,'The sons of Naphtali; Jahziel, and Guni, and Jezer, and Shallum, the sons of Bilhah.'),
-(204023,8,13,7,14,'The sons of Manasseh; Ashriel, whom she bare: ([but] his concubine the Aramitess bare Machir the father of Gilead:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(204023,8,13,7,14,'The sons of Manasseh; Ashriel, whom she bare: ([but] his concubine the Aramitess bare Machir the father of Gilead:'),
 (204024,8,13,7,15,'And Machir took to wife [the sister] of Huppim and Shuppim, whose sister''s name [was] Maachah;) and the name of the second [was] Zelophehad: and Zelophehad had daughters.'),
 (204025,8,13,7,16,'And Maachah the wife of Machir bare a son, and she called his name Peresh; and the name of his brother [was] Sheresh; and his sons [were] Ulam and Rakem.'),
 (204026,8,13,7,17,'And the sons of Ulam; Bedan. These [were] the sons of Gilead, the son of Machir, the son of Manasseh.'),
@@ -10812,8 +10611,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (204070,8,13,8,21,'And Adaiah, and Beraiah, and Shimrath, the sons of Shimhi;'),
 (204071,8,13,8,22,'And Ishpan, and Heber, and Eliel,'),
 (204072,8,13,8,23,'And Abdon, and Zichri, and Hanan,'),
-(204073,8,13,8,24,'And Hananiah, and Elam, and Antothijah,');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(204073,8,13,8,24,'And Hananiah, and Elam, and Antothijah,'),
 (204074,8,13,8,25,'And Iphedeiah, and Penuel, the sons of Shashak;'),
 (204075,8,13,8,26,'And Shamsherai, and Shehariah, and Athaliah,'),
 (204076,8,13,8,27,'And Jaresiah, and Eliah, and Zichri, the sons of Jeroham.'),
@@ -10863,8 +10661,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (204120,8,13,9,31,'And Mattithiah, [one] of the Levites, who [was] the firstborn of Shallum the Korahite, had the set office over the things that were made in the pans.'),
 (204121,8,13,9,32,'And [other] of their brethren, of the sons of the Kohathites, [were] over the shewbread, to prepare [it] every sabbath.'),
 (204122,8,13,9,33,'And these [are] the singers, chief of the fathers of the Levites, [who remaining] in the chambers [were] free: for they were employed in [that] work day and night.'),
-(204123,8,13,9,34,'These chief fathers of the Levites [were] chief throughout their generations; these dwelt at Jerusalem.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(204123,8,13,9,34,'These chief fathers of the Levites [were] chief throughout their generations; these dwelt at Jerusalem.'),
 (204124,8,13,9,35,'And in Gibeon dwelt the father of Gibeon, Jehiel, whose wife''s name [was] Maachah:'),
 (204125,8,13,9,36,'And his firstborn son Abdon, then Zur, and Kish, and Baal, and Ner, and Nadab,'),
 (204126,8,13,9,37,'And Gedor, and Ahio, and Zechariah, and Mikloth.'),
@@ -10914,8 +10711,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (204170,8,13,11,23,'And he slew an Egyptian, a man of [great] stature, five cubits high; and in the Egyptian''s hand [was] a spear like a weaver''s beam; and he went down to him with a staff, and plucked the spear out of the Egyptian''s hand, and slew him with his own spear.'),
 (204171,8,13,11,24,'These [things] did Benaiah the son of Jehoiada, and had the name among the three mighties.'),
 (204172,8,13,11,25,'Behold, he was honourable among the thirty, but attained not to the [first] three: and David set him over his guard.'),
-(204173,8,13,11,26,'Also the valiant men of the armies [were], Asahel the brother of Joab, Elhanan the son of Dodo of Bethlehem,');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(204173,8,13,11,26,'Also the valiant men of the armies [were], Asahel the brother of Joab, Elhanan the son of Dodo of Bethlehem,'),
 (204174,8,13,11,27,'Shammoth the Harorite, Helez the Pelonite,'),
 (204175,8,13,11,28,'Ira the son of Ikkesh the Tekoite, Abiezer the Antothite,'),
 (204176,8,13,11,29,'Sibbecai the Hushathite, Ilai the Ahohite,'),
@@ -10965,8 +10761,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (204220,8,13,12,26,'Of the children of Levi four thousand and six hundred.'),
 (204221,8,13,12,27,'And Jehoiada [was] the leader of the Aaronites, and with him [were] three thousand and seven hundred;'),
 (204222,8,13,12,28,'And Zadok, a young man mighty of valour, and of his father''s house twenty and two captains.'),
-(204223,8,13,12,29,'And of the children of Benjamin, the kindred of Saul, three thousand: for hitherto the greatest part of them had kept the ward of the house of Saul.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(204223,8,13,12,29,'And of the children of Benjamin, the kindred of Saul, three thousand: for hitherto the greatest part of them had kept the ward of the house of Saul.'),
 (204224,8,13,12,30,'And of the children of Ephraim twenty thousand and eight hundred, mighty men of valour, famous throughout the house of their fathers.'),
 (204225,8,13,12,31,'And of the half tribe of Manasseh eighteen thousand, which were expressed by name, to come and make David king.'),
 (204226,8,13,12,32,'And of the children of Issachar, [which were men] that had understanding of the times, to know what Israel ought to do; the heads of them [were] two hundred; and all their brethren [were] at their commandment.'),
@@ -11016,8 +10811,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (204270,8,13,15,5,'Of the sons of Kohath; Uriel the chief, and his brethren an hundred and twenty:'),
 (204271,8,13,15,6,'Of the sons of Merari; Asaiah the chief, and his brethren two hundred and twenty:'),
 (204272,8,13,15,7,'Of the sons of Gershom; Joel the chief, and his brethren an hundred and thirty:'),
-(204273,8,13,15,8,'Of the sons of Elizaphan; Shemaiah the chief, and his brethren two hundred:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(204273,8,13,15,8,'Of the sons of Elizaphan; Shemaiah the chief, and his brethren two hundred:'),
 (204274,8,13,15,9,'Of the sons of Hebron; Eliel the chief, and his brethren fourscore:'),
 (204275,8,13,15,10,'Of the sons of Uzziel; Amminadab the chief, and his brethren an hundred and twelve.'),
 (204276,8,13,15,11,'And David called for Zadok and Abiathar the priests, and for the Levites, for Uriel, Asaiah, and Joel, Shemaiah, and Eliel, and Amminadab,'),
@@ -11067,8 +10861,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (204320,8,13,16,26,'For all the gods of the people [are] idols: but the LORD made the heavens.'),
 (204321,8,13,16,27,'Glory and honour [are] in his presence; strength and gladness [are] in his place.'),
 (204322,8,13,16,28,'Give unto the LORD, ye kindreds of the people, give unto the LORD glory and strength.'),
-(204323,8,13,16,29,'Give unto the LORD the glory [due] unto his name: bring an offering, and come before him: worship the LORD in the beauty of holiness.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(204323,8,13,16,29,'Give unto the LORD the glory [due] unto his name: bring an offering, and come before him: worship the LORD in the beauty of holiness.'),
 (204324,8,13,16,30,'Fear before him, all the earth: the world also shall be stable, that it be not moved.'),
 (204325,8,13,16,31,'Let the heavens be glad, and let the earth rejoice: and let [men] say among the nations, The LORD reigneth.'),
 (204326,8,13,16,32,'Let the sea roar, and the fulness thereof: let the fields rejoice, and all that [is] therein.'),
@@ -11118,8 +10911,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (204370,8,13,18,6,'Then David put [garrisons] in Syriadamascus; and the Syrians became David''s servants, [and] brought gifts. Thus the LORD preserved David whithersoever he went.'),
 (204371,8,13,18,7,'And David took the shields of gold that were on the servants of Hadarezer, and brought them to Jerusalem.'),
 (204372,8,13,18,8,'Likewise from Tibhath, and from Chun, cities of Hadarezer, brought David very much brass, wherewith Solomon made the brasen sea, and the pillars, and the vessels of brass.'),
-(204373,8,13,18,9,'Now when Tou king of Hamath heard how David had smitten all the host of Hadarezer king of Zobah;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(204373,8,13,18,9,'Now when Tou king of Hamath heard how David had smitten all the host of Hadarezer king of Zobah;'),
 (204374,8,13,18,10,'He sent Hadoram his son to king David, to inquire of his welfare, and to congratulate him, because he had fought against Hadarezer, and smitten him; (for Hadarezer had war with Tou;) and [with him] all manner of vessels of gold and silver and brass.'),
 (204375,8,13,18,11,'Them also king David dedicated unto the LORD, with the silver and the gold that he brought from all [these] nations; from Edom, and from Moab, and from the children of Ammon, and from the Philistines, and from Amalek.'),
 (204376,8,13,18,12,'Moreover Abishai the son of Zeruiah slew of the Edomites in the valley of salt eighteen thousand.'),
@@ -11169,8 +10961,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (204420,8,13,21,12,'Either three years'' famine; or three months to be destroyed before thy foes, while that the sword of thine enemies overtaketh [thee]; or else three days the sword of the LORD, even the pestilence, in the land, and the angel of the LORD destroying throughout all the coasts of Israel. Now therefore advise thyself what word I shall bring again to him that sent me.'),
 (204421,8,13,21,13,'And David said unto Gad, I am in a great strait: let me fall now into the hand of the LORD; for very great [are] his mercies: but let me not fall into the hand of man.'),
 (204422,8,13,21,14,'So the LORD sent pestilence upon Israel: and there fell of Israel seventy thousand men.'),
-(204423,8,13,21,15,'And God sent an angel unto Jerusalem to destroy it: and as he was destroying, the LORD beheld, and he repented him of the evil, and said to the angel that destroyed, It is enough, stay now thine hand. And the angel of the LORD stood by the threshingfloor of Ornan the Jebusite.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(204423,8,13,21,15,'And God sent an angel unto Jerusalem to destroy it: and as he was destroying, the LORD beheld, and he repented him of the evil, and said to the angel that destroyed, It is enough, stay now thine hand. And the angel of the LORD stood by the threshingfloor of Ornan the Jebusite.'),
 (204424,8,13,21,16,'And David lifted up his eyes, and saw the angel of the LORD stand between the earth and the heaven, having a drawn sword in his hand stretched out over Jerusalem. Then David and the elders [of Israel, who were] clothed in sackcloth, fell upon their faces.'),
 (204425,8,13,21,17,'And David said unto God, [Is it] not I [that] commanded the people to be numbered? even I it is that have sinned and done evil indeed; but [as for] these sheep, what have they done? let thine hand, I pray thee, O LORD my God, be on me, and on my father''s house; but not on thy people, that they should be plagued.'),
 (204426,8,13,21,18,'Then the angel of the LORD commanded Gad to say to David, that David should go up, and set up an altar unto the LORD in the threshingfloor of Ornan the Jebusite.'),
@@ -11271,8 +11062,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (204520,8,13,24,31,'These likewise cast lots over against their brethren the sons of Aaron in the presence of David the king, and Zadok, and Ahimelech, and the chief of the fathers of the priests and Levites, even the principal fathers over against their younger brethren.'),
 (204521,8,13,25,1,'Moreover David and the captains of the host separated to the service of the sons of Asaph, and of Heman, and of Jeduthun, who should prophesy with harps, with psalteries, and with cymbals: and the number of the workmen according to their service was:'),
 (204522,8,13,25,2,'Of the sons of Asaph; Zaccur, and Joseph, and Nethaniah, and Asarelah, the sons of Asaph under the hands of Asaph, which prophesied according to the order of the king.'),
-(204523,8,13,25,3,'Of Jeduthun: the sons of Jeduthun; Gedaliah, and Zeri, and Jeshaiah, Hashabiah, and Mattithiah, six, under the hands of their father Jeduthun, who prophesied with a harp, to give thanks and to praise the LORD.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(204523,8,13,25,3,'Of Jeduthun: the sons of Jeduthun; Gedaliah, and Zeri, and Jeshaiah, Hashabiah, and Mattithiah, six, under the hands of their father Jeduthun, who prophesied with a harp, to give thanks and to praise the LORD.'),
 (204524,8,13,25,4,'Of Heman: the sons of Heman; Bukkiah, Mattaniah, Uzziel, Shebuel, and Jerimoth, Hananiah, Hanani, Eliathah, Giddalti, and Romamtiezer, Joshbekashah, Mallothi, Hothir, [and] Mahazioth:'),
 (204525,8,13,25,5,'All these [were] the sons of Heman the king''s seer in the words of God, to lift up the horn. And God gave to Heman fourteen sons and three daughters.'),
 (204526,8,13,25,6,'All these [were] under the hands of their father for song [in] the house of the LORD, with cymbals, psalteries, and harps, for the service of the house of God, according to the king''s order to Asaph, Jeduthun, and Heman.'),
@@ -11322,8 +11112,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (204570,8,13,26,19,'These [are] the divisions of the porters among the sons of Kore, and among the sons of Merari.'),
 (204571,8,13,26,20,'And of the Levites, Ahijah [was] over the treasures of the house of God, and over the treasures of the dedicated things.'),
 (204572,8,13,26,21,'[As concerning] the sons of Laadan; the sons of the Gershonite Laadan, chief fathers, [even] of Laadan the Gershonite, [were] Jehieli.'),
-(204573,8,13,26,22,'The sons of Jehieli; Zetham, and Joel his brother, [which were] over the treasures of the house of the LORD.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(204573,8,13,26,22,'The sons of Jehieli; Zetham, and Joel his brother, [which were] over the treasures of the house of the LORD.'),
 (204574,8,13,26,23,'Of the Amramites, [and] the Izharites, the Hebronites, [and] the Uzzielites:'),
 (204575,8,13,26,24,'And Shebuel the son of Gershom, the son of Moses, [was] ruler of the treasures.'),
 (204576,8,13,26,25,'And his brethren by Eliezer; Rehabiah his son, and Jeshaiah his son, and Joram his son, and Zichri his son, and Shelomith his son.'),
@@ -11373,8 +11162,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (204620,8,13,28,3,'But God said unto me, Thou shalt not build an house for my name, because thou [hast been] a man of war, and hast shed blood.'),
 (204621,8,13,28,4,'Howbeit the LORD God of Israel chose me before all the house of my father to be king over Israel for ever: for he hath chosen Judah [to be] the ruler; and of the house of Judah, the house of my father; and among the sons of my father he liked me to make [me] king over all Israel:'),
 (204622,8,13,28,5,'And of all my sons, (for the LORD hath given me many sons,) he hath chosen Solomon my son to sit upon the throne of the kingdom of the LORD over Israel.'),
-(204623,8,13,28,6,'And he said unto me, Solomon thy son, he shall build my house and my courts: for I have chosen him [to be] my son, and I will be his father.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(204623,8,13,28,6,'And he said unto me, Solomon thy son, he shall build my house and my courts: for I have chosen him [to be] my son, and I will be his father.'),
 (204624,8,13,28,7,'Moreover I will establish his kingdom for ever, if he be constant to do my commandments and my judgments, as at this day.'),
 (204625,8,13,28,8,'Now therefore in the sight of all Israel the congregation of the LORD, and in the audience of our God, keep and seek for all the commandments of the LORD your God: that ye may possess this good land, and leave [it] for an inheritance for your children after you for ever.'),
 (204626,8,13,28,9,'And thou, Solomon my son, know thou the God of thy father, and serve him with a perfect heart and with a willing mind: for the LORD searcheth all hearts, and understandeth all the imaginations of the thoughts: if thou seek him, he will be found of thee; but if thou forsake him, he will cast thee off for ever.'),
@@ -11424,8 +11212,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (204670,8,14,1,2,'Then Solomon spake unto all Israel, to the captains of thousands and of hundreds, and to the judges, and to every governor in all Israel, the chief of the fathers.'),
 (204671,8,14,1,3,'So Solomon, and all the congregation with him, went to the high place that [was] at Gibeon; for there was the tabernacle of the congregation of God, which Moses the servant of the LORD had made in the wilderness.'),
 (204672,8,14,1,4,'But the ark of God had David brought up from Kirjathjearim to [the place which] David had prepared for it: for he had pitched a tent for it at Jerusalem.'),
-(204673,8,14,1,5,'Moreover the brasen altar, that Bezaleel the son of Uri, the son of Hur, had made, he put before the tabernacle of the LORD: and Solomon and the congregation sought unto it.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(204673,8,14,1,5,'Moreover the brasen altar, that Bezaleel the son of Uri, the son of Hur, had made, he put before the tabernacle of the LORD: and Solomon and the congregation sought unto it.'),
 (204674,8,14,1,6,'And Solomon went up thither to the brasen altar before the LORD, which [was] at the tabernacle of the congregation, and offered a thousand burnt offerings upon it.'),
 (204675,8,14,1,7,'In that night did God appear unto Solomon, and said unto him, Ask what I shall give thee.'),
 (204676,8,14,1,8,'And Solomon said unto God, Thou hast shewed great mercy unto David my father, and hast made me to reign in his stead.'),
@@ -11475,8 +11262,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (204720,8,14,3,17,'And he reared up the pillars before the temple, one on the right hand, and the other on the left; and called the name of that on the right hand Jachin, and the name of that on the left Boaz.'),
 (204721,8,14,4,1,'Moreover he made an altar of brass, twenty cubits the length thereof, and twenty cubits the breadth thereof, and ten cubits the height thereof.'),
 (204722,8,14,4,2,'Also he made a molten sea of ten cubits from brim to brim, round in compass, and five cubits the height thereof; and a line of thirty cubits did compass it round about.'),
-(204723,8,14,4,3,'And under it [was] the similitude of oxen, which did compass it round about: ten in a cubit, compassing the sea round about. Two rows of oxen [were] cast, when it was cast.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(204723,8,14,4,3,'And under it [was] the similitude of oxen, which did compass it round about: ten in a cubit, compassing the sea round about. Two rows of oxen [were] cast, when it was cast.'),
 (204724,8,14,4,4,'It stood upon twelve oxen, three looking toward the north, and three looking toward the west, and three looking toward the south, and three looking toward the east: and the sea [was set] above upon them, and all their hinder parts [were] inward.'),
 (204725,8,14,4,5,'And the thickness of it [was] an handbreadth, and the brim of it like the work of the brim of a cup, with flowers of lilies; [and] it received and held three thousand baths.'),
 (204726,8,14,4,6,'He made also ten lavers, and put five on the right hand, and five on the left, to wash in them: such things as they offered for the burnt offering they washed in them; but the sea [was] for the priests to wash in.'),
@@ -11526,8 +11312,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (204770,8,14,6,14,'And said, O LORD God of Israel, [there is] no God like thee in the heaven, nor in the earth; which keepest covenant, and [shewest] mercy unto thy servants, that walk before thee with all their hearts:'),
 (204771,8,14,6,15,'Thou which hast kept with thy servant David my father that which thou hast promised him; and spakest with thy mouth, and hast fulfilled [it] with thine hand, as [it is] this day.'),
 (204772,8,14,6,16,'Now therefore, O LORD God of Israel, keep with thy servant David my father that which thou hast promised him, saying, There shall not fail thee a man in my sight to sit upon the throne of Israel; yet so that thy children take heed to their way to walk in my law, as thou hast walked before me.'),
-(204773,8,14,6,17,'Now then, O LORD God of Israel, let thy word be verified, which thou hast spoken unto thy servant David.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(204773,8,14,6,17,'Now then, O LORD God of Israel, let thy word be verified, which thou hast spoken unto thy servant David.'),
 (204774,8,14,6,18,'But will God in very deed dwell with men on the earth? behold, heaven and the heaven of heavens cannot contain thee; how much less this house which I have built!'),
 (204775,8,14,6,19,'Have respect therefore to the prayer of thy servant, and to his supplication, O LORD my God, to hearken unto the cry and the prayer which thy servant prayeth before thee:'),
 (204776,8,14,6,20,'That thine eyes may be open upon this house day and night, upon the place whereof thou hast said that thou wouldest put thy name there; to hearken unto the prayer which thy servant prayeth toward this place.'),
@@ -11577,8 +11362,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (204820,8,14,7,22,'And it shall be answered, Because they forsook the LORD God of their fathers, which brought them forth out of the land of Egypt, and laid hold on other gods, and worshipped them, and served them: therefore hath he brought all this evil upon them.'),
 (204821,8,14,8,1,'And it came to pass at the end of twenty years, wherein Solomon had built the house of the LORD, and his own house,'),
 (204822,8,14,8,2,'That the cities which Huram had restored to Solomon, Solomon built them, and caused the children of Israel to dwell there.'),
-(204823,8,14,8,3,'And Solomon went to Hamathzobah, and prevailed against it.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(204823,8,14,8,3,'And Solomon went to Hamathzobah, and prevailed against it.'),
 (204824,8,14,8,4,'And he built Tadmor in the wilderness, and all the store cities, which he built in Hamath.'),
 (204825,8,14,8,5,'Also he built Bethhoron the upper, and Bethhoron the nether, fenced cities, with walls, gates, and bars;'),
 (204826,8,14,8,6,'And Baalath, and all the store cities that Solomon had, and all the chariot cities, and the cities of the horsemen, and all that Solomon desired to build in Jerusalem, and in Lebanon, and throughout all the land of his dominion.'),
@@ -11628,8 +11412,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (204870,8,14,10,1,'And Rehoboam went to Shechem: for to Shechem were all Israel come to make him king.'),
 (204871,8,14,10,2,'And it came to pass, when Jeroboam the son of Nebat, who [was] in Egypt, whither he had fled from the presence of Solomon the king, heard [it], that Jeroboam returned out of Egypt.'),
 (204872,8,14,10,3,'And they sent and called him. So Jeroboam and all Israel came and spake to Rehoboam, saying,'),
-(204873,8,14,10,4,'Thy father made our yoke grievous: now therefore ease thou somewhat the grievous servitude of thy father, and his heavy yoke that he put upon us, and we will serve thee.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(204873,8,14,10,4,'Thy father made our yoke grievous: now therefore ease thou somewhat the grievous servitude of thy father, and his heavy yoke that he put upon us, and we will serve thee.'),
 (204874,8,14,10,5,'And he said unto them, Come again unto me after three days. And the people departed.'),
 (204875,8,14,10,6,'And king Rehoboam took counsel with the old men that had stood before Solomon his father while he yet lived, saying, What counsel give ye [me] to return answer to this people?'),
 (204876,8,14,10,7,'And they spake unto him, saying, If thou be kind to this people, and please them, and speak good words to them, they will be thy servants for ever.'),
@@ -11679,8 +11462,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (204920,8,14,12,9,'So Shishak king of Egypt came up against Jerusalem, and took away the treasures of the house of the LORD, and the treasures of the king''s house; he took all: he carried away also the shields of gold which Solomon had made.'),
 (204921,8,14,12,10,'Instead of which king Rehoboam made shields of brass, and committed [them] to the hands of the chief of the guard, that kept the entrance of the king''s house.'),
 (204922,8,14,12,11,'And when the king entered into the house of the LORD, the guard came and fetched them, and brought them again into the guard chamber.'),
-(204923,8,14,12,12,'And when he humbled himself, the wrath of the LORD turned from him, that he would not destroy [him] altogether: and also in Judah things went well.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(204923,8,14,12,12,'And when he humbled himself, the wrath of the LORD turned from him, that he would not destroy [him] altogether: and also in Judah things went well.'),
 (204924,8,14,12,13,'So king Rehoboam strengthened himself in Jerusalem, and reigned: for Rehoboam [was] one and forty years old when he began to reign, and he reigned seventeen years in Jerusalem, the city which the LORD had chosen out of all the tribes of Israel, to put his name there. And his mother''s name [was] Naamah an Ammonitess.'),
 (204925,8,14,12,14,'And he did evil, because he prepared not his heart to seek the LORD.'),
 (204926,8,14,12,15,'Now the acts of Rehoboam, first and last, [are] they not written in the book of Shemaiah the prophet, and of Iddo the seer concerning genealogies? And [there were] wars between Rehoboam and Jeroboam continually.'),
@@ -11730,8 +11512,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (204970,8,14,15,6,'And nation was destroyed of nation, and city of city: for God did vex them with all adversity.'),
 (204971,8,14,15,7,'Be ye strong therefore, and let not your hands be weak: for your work shall be rewarded.'),
 (204972,8,14,15,8,'And when Asa heard these words, and the prophecy of Oded the prophet, he took courage, and put away the abominable idols out of all the land of Judah and Benjamin, and out of the cities which he had taken from mount Ephraim, and renewed the altar of the LORD, that [was] before the porch of the LORD.'),
-(204973,8,14,15,9,'And he gathered all Judah and Benjamin, and the strangers with them out of Ephraim and Manasseh, and out of Simeon: for they fell to him out of Israel in abundance, when they saw that the LORD his God [was] with him.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(204973,8,14,15,9,'And he gathered all Judah and Benjamin, and the strangers with them out of Ephraim and Manasseh, and out of Simeon: for they fell to him out of Israel in abundance, when they saw that the LORD his God [was] with him.'),
 (204974,8,14,15,10,'So they gathered themselves together at Jerusalem in the third month, in the fifteenth year of the reign of Asa.'),
 (204975,8,14,15,11,'And they offered unto the LORD the same time, of the spoil [which] they had brought, seven hundred oxen and seven thousand sheep.'),
 (204976,8,14,15,12,'And they entered into a covenant to seek the LORD God of their fathers with all their heart and with all their soul;'),
@@ -11781,8 +11562,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (205020,8,14,18,4,'And Jehoshaphat said unto the king of Israel, Inquire, I pray thee, at the word of the LORD to day.'),
 (205021,8,14,18,5,'Therefore the king of Israel gathered together of prophets four hundred men, and said unto them, Shall we go to Ramothgilead to battle, or shall I forbear? And they said, Go up; for God will deliver [it] into the king''s hand.'),
 (205022,8,14,18,6,'But Jehoshaphat said, [Is there] not here a prophet of the LORD besides, that we might inquire of him?'),
-(205023,8,14,18,7,'And the king of Israel said unto Jehoshaphat, [There is] yet one man, by whom we may inquire of the LORD: but I hate him; for he never prophesied good unto me, but always evil: the same [is] Micaiah the son of Imla. And Jehoshaphat said, Let not the king say so.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(205023,8,14,18,7,'And the king of Israel said unto Jehoshaphat, [There is] yet one man, by whom we may inquire of the LORD: but I hate him; for he never prophesied good unto me, but always evil: the same [is] Micaiah the son of Imla. And Jehoshaphat said, Let not the king say so.'),
 (205024,8,14,18,8,'And the king of Israel called for one [of his] officers, and said, Fetch quickly Micaiah the son of Imla.'),
 (205025,8,14,18,9,'And the king of Israel and Jehoshaphat king of Judah sat either of them on his throne, clothed in [their] robes, and they sat in a void place at the entering in of the gate of Samaria; and all the prophets prophesied before them.'),
 (205026,8,14,18,10,'And Zedekiah the son of Chenaanah had made him horns of iron, and said, Thus saith the LORD, With these thou shalt push Syria until they be consumed.'),
@@ -11832,8 +11612,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (205070,8,14,20,9,'If, [when] evil cometh upon us, [as] the sword, judgment, or pestilence, or famine, we stand before this house, and in thy presence, (for thy name [is] in this house,) and cry unto thee in our affliction, then thou wilt hear and help.'),
 (205071,8,14,20,10,'And now, behold, the children of Ammon and Moab and mount Seir, whom thou wouldest not let Israel invade, when they came out of the land of Egypt, but they turned from them, and destroyed them not;'),
 (205072,8,14,20,11,'Behold, [I say, how] they reward us, to come to cast us out of thy possession, which thou hast given us to inherit.'),
-(205073,8,14,20,12,'O our God, wilt thou not judge them? for we have no might against this great company that cometh against us; neither know we what to do: but our eyes [are] upon thee.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(205073,8,14,20,12,'O our God, wilt thou not judge them? for we have no might against this great company that cometh against us; neither know we what to do: but our eyes [are] upon thee.'),
 (205074,8,14,20,13,'And all Judah stood before the LORD, with their little ones, their wives, and their children.'),
 (205075,8,14,20,14,'Then upon Jahaziel the son of Zechariah, the son of Benaiah, the son of Jeiel, the son of Mattaniah, a Levite of the sons of Asaph, came the Spirit of the LORD in the midst of the congregation;'),
 (205076,8,14,20,15,'And he said, Hearken ye, all Judah, and ye inhabitants of Jerusalem, and thou king Jehoshaphat, Thus saith the LORD unto you, Be not afraid nor dismayed by reason of this great multitude; for the battle [is] not yours, but God''s.'),
@@ -11883,8 +11662,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (205120,8,14,22,2,'Forty and two years old [was] Ahaziah when he began to reign, and he reigned one year in Jerusalem. His mother''s name also [was] Athaliah the daughter of Omri.'),
 (205121,8,14,22,3,'He also walked in the ways of the house of Ahab: for his mother was his counseller to do wickedly.'),
 (205122,8,14,22,4,'Wherefore he did evil in the sight of the LORD like the house of Ahab: for they were his counsellers after the death of his father to his destruction.'),
-(205123,8,14,22,5,'He walked also after their counsel, and went with Jehoram the son of Ahab king of Israel to war against Hazael king of Syria at Ramothgilead: and the Syrians smote Joram.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(205123,8,14,22,5,'He walked also after their counsel, and went with Jehoram the son of Ahab king of Israel to war against Hazael king of Syria at Ramothgilead: and the Syrians smote Joram.'),
 (205124,8,14,22,6,'And he returned to be healed in Jezreel because of the wounds which were given him at Ramah, when he fought with Hazael king of Syria. And Azariah the son of Jehoram king of Judah went down to see Jehoram the son of Ahab at Jezreel, because he was sick.'),
 (205125,8,14,22,7,'And the destruction of Ahaziah was of God by coming to Joram: for when he was come, he went out with Jehoram against Jehu the son of Nimshi, whom the LORD had anointed to cut off the house of Ahab.'),
 (205126,8,14,22,8,'And it came to pass, that, when Jehu was executing judgment upon the house of Ahab, and found the princes of Judah, and the sons of the brethren of Ahaziah, that ministered to Ahaziah, he slew them.'),
@@ -11934,8 +11712,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (205170,8,14,24,19,'Yet he sent prophets to them, to bring them again unto the LORD; and they testified against them: but they would not give ear.'),
 (205171,8,14,24,20,'And the Spirit of God came upon Zechariah the son of Jehoiada the priest, which stood above the people, and said unto them, Thus saith God, Why transgress ye the commandments of the LORD, that ye cannot prosper? because ye have forsaken the LORD, he hath also forsaken you.'),
 (205172,8,14,24,21,'And they conspired against him, and stoned him with stones at the commandment of the king in the court of the house of the LORD.'),
-(205173,8,14,24,22,'Thus Joash the king remembered not the kindness which Jehoiada his father had done to him, but slew his son. And when he died, he said, The LORD look upon [it], and require [it].');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(205173,8,14,24,22,'Thus Joash the king remembered not the kindness which Jehoiada his father had done to him, but slew his son. And when he died, he said, The LORD look upon [it], and require [it].'),
 (205174,8,14,24,23,'And it came to pass at the end of the year, [that] the host of Syria came up against him: and they came to Judah and Jerusalem, and destroyed all the princes of the people from among the people, and sent all the spoil of them unto the king of Damascus.'),
 (205175,8,14,24,24,'For the army of the Syrians came with a small company of men, and the LORD delivered a very great host into their hand, because they had forsaken the LORD God of their fathers. So they executed judgment against Joash.'),
 (205176,8,14,24,25,'And when they were departed from him, (for they left him in great diseases,) his own servants conspired against him for the blood of the sons of Jehoiada the priest, and slew him on his bed, and he died: and they buried him in the city of David, but they buried him not in the sepulchres of the kings.'),
@@ -11985,8 +11762,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (205220,8,14,26,14,'And Uzziah prepared for them throughout all the host shields, and spears, and helmets, and habergeons, and bows, and slings [to cast] stones.'),
 (205221,8,14,26,15,'And he made in Jerusalem engines, invented by cunning men, to be on the towers and upon the bulwarks, to shoot arrows and great stones withal. And his name spread far abroad; for he was marvellously helped, till he was strong.'),
 (205222,8,14,26,16,'But when he was strong, his heart was lifted up to [his] destruction: for he transgressed against the LORD his God, and went into the temple of the LORD to burn incense upon the altar of incense.'),
-(205223,8,14,26,17,'And Azariah the priest went in after him, and with him fourscore priests of the LORD, [that were] valiant men:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(205223,8,14,26,17,'And Azariah the priest went in after him, and with him fourscore priests of the LORD, [that were] valiant men:'),
 (205224,8,14,26,18,'And they withstood Uzziah the king, and said unto him, [It appertaineth] not unto thee, Uzziah, to burn incense unto the LORD, but to the priests the sons of Aaron, that are consecrated to burn incense: go out of the sanctuary; for thou hast trespassed; neither [shall it be] for thine honour from the LORD God.'),
 (205225,8,14,26,19,'Then Uzziah was wroth, and [had] a censer in his hand to burn incense: and while he was wroth with the priests, the leprosy even rose up in his forehead before the priests in the house of the LORD, from beside the incense altar.'),
 (205226,8,14,26,20,'And Azariah the chief priest, and all the priests, looked upon him, and, behold, he [was] leprous in his forehead, and they thrust him out from thence; yea, himself hasted also to go out, because the LORD had smitten him.'),
@@ -12036,8 +11812,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (205270,8,14,29,5,'And said unto them, Hear me, ye Levites, sanctify now yourselves, and sanctify the house of the LORD God of your fathers, and carry forth the filthiness out of the holy [place].'),
 (205271,8,14,29,6,'For our fathers have trespassed, and done [that which was] evil in the eyes of the LORD our God, and have forsaken him, and have turned away their faces from the habitation of the LORD, and turned [their] backs.'),
 (205272,8,14,29,7,'Also they have shut up the doors of the porch, and put out the lamps, and have not burned incense nor offered burnt offerings in the holy [place] unto the God of Israel.'),
-(205273,8,14,29,8,'Wherefore the wrath of the LORD was upon Judah and Jerusalem, and he hath delivered them to trouble, to astonishment, and to hissing, as ye see with your eyes.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(205273,8,14,29,8,'Wherefore the wrath of the LORD was upon Judah and Jerusalem, and he hath delivered them to trouble, to astonishment, and to hissing, as ye see with your eyes.'),
 (205274,8,14,29,9,'For, lo, our fathers have fallen by the sword, and our sons and our daughters and our wives [are] in captivity for this.'),
 (205275,8,14,29,10,'Now [it is] in mine heart to make a covenant with the LORD God of Israel, that his fierce wrath may turn away from us.'),
 (205276,8,14,29,11,'My sons, be not now negligent: for the LORD hath chosen you to stand before him, to serve him, and that ye should minister unto him, and burn incense.'),
@@ -12087,8 +11862,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (205320,8,14,30,19,'[That] prepareth his heart to seek God, the LORD God of his fathers, though [he be] not [cleansed] according to the purification of the sanctuary.'),
 (205321,8,14,30,20,'And the LORD hearkened to Hezekiah, and healed the people.'),
 (205322,8,14,30,21,'And the children of Israel that were present at Jerusalem kept the feast of unleavened bread seven days with great gladness: and the Levites and the priests praised the LORD day by day, [singing] with loud instruments unto the LORD.'),
-(205323,8,14,30,22,'And Hezekiah spake comfortably unto all the Levites that taught the good knowledge of the LORD: and they did eat throughout the feast seven days, offering peace offerings, and making confession to the LORD God of their fathers.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(205323,8,14,30,22,'And Hezekiah spake comfortably unto all the Levites that taught the good knowledge of the LORD: and they did eat throughout the feast seven days, offering peace offerings, and making confession to the LORD God of their fathers.'),
 (205324,8,14,30,23,'And the whole assembly took counsel to keep other seven days: and they kept [other] seven days with gladness.'),
 (205325,8,14,30,24,'For Hezekiah king of Judah did give to the congregation a thousand bullocks and seven thousand sheep; and the princes gave to the congregation a thousand bullocks and ten thousand sheep: and a great number of priests sanctified themselves.'),
 (205326,8,14,30,25,'And all the congregation of Judah, with the priests and the Levites, and all the congregation that came out of Israel, and the strangers that came out of the land of Israel, and that dwelt in Judah, rejoiced.'),
@@ -12138,8 +11912,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (205370,8,14,32,21,'And the LORD sent an angel, which cut off all the mighty men of valour, and the leaders and captains in the camp of the king of Assyria. So he returned with shame of face to his own land. And when he was come into the house of his god, they that came forth of his own bowels slew him there with the sword.'),
 (205371,8,14,32,22,'Thus the LORD saved Hezekiah and the inhabitants of Jerusalem from the hand of Sennacherib the king of Assyria, and from the hand of all [other], and guided them on every side.'),
 (205372,8,14,32,23,'And many brought gifts unto the LORD to Jerusalem, and presents to Hezekiah king of Judah: so that he was magnified in the sight of all nations from thenceforth.'),
-(205373,8,14,32,24,'In those days Hezekiah was sick to the death, and prayed unto the LORD: and he spake unto him, and he gave him a sign.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(205373,8,14,32,24,'In those days Hezekiah was sick to the death, and prayed unto the LORD: and he spake unto him, and he gave him a sign.'),
 (205374,8,14,32,25,'But Hezekiah rendered not again according to the benefit [done] unto him; for his heart was lifted up: therefore there was wrath upon him, and upon Judah and Jerusalem.'),
 (205375,8,14,32,26,'Notwithstanding Hezekiah humbled himself for the pride of his heart, [both] he and the inhabitants of Jerusalem, so that the wrath of the LORD came not upon them in the days of Hezekiah.'),
 (205376,8,14,32,27,'And Hezekiah had exceeding much riches and honour: and he made himself treasuries for silver, and for gold, and for precious stones, and for spices, and for shields, and for all manner of pleasant jewels;'),
@@ -12189,8 +11962,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (205420,8,14,34,13,'Also [they were] over the bearers of burdens, and [were] overseers of all that wrought the work in any manner of service: and of the Levites [there were] scribes, and officers, and porters.'),
 (205421,8,14,34,14,'And when they brought out the money that was brought into the house of the LORD, Hilkiah the priest found a book of the law of the LORD [given] by Moses.'),
 (205422,8,14,34,15,'And Hilkiah answered and said to Shaphan the scribe, I have found the book of the law in the house of the LORD. And Hilkiah delivered the book to Shaphan.'),
-(205423,8,14,34,16,'And Shaphan carried the book to the king, and brought the king word back again, saying, All that was committed to thy servants, they do [it].');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(205423,8,14,34,16,'And Shaphan carried the book to the king, and brought the king word back again, saying, All that was committed to thy servants, they do [it].'),
 (205424,8,14,34,17,'And they have gathered together the money that was found in the house of the LORD, and have delivered it into the hand of the overseers, and to the hand of the workmen.'),
 (205425,8,14,34,18,'Then Shaphan the scribe told the king, saying, Hilkiah the priest hath given me a book. And Shaphan read it before the king.'),
 (205426,8,14,34,19,'And it came to pass, when the king had heard the words of the law, that he rent his clothes.'),
@@ -12291,8 +12063,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (205520,8,15,2,19,'The children of Hashum, two hundred twenty and three.'),
 (205521,8,15,2,20,'The children of Gibbar, ninety and five.'),
 (205522,8,15,2,21,'The children of Bethlehem, an hundred twenty and three.'),
-(205523,8,15,2,22,'The men of Netophah, fifty and six.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(205523,8,15,2,22,'The men of Netophah, fifty and six.'),
 (205524,8,15,2,23,'The men of Anathoth, an hundred twenty and eight.'),
 (205525,8,15,2,24,'The children of Azmaveth, forty and two.'),
 (205526,8,15,2,25,'The children of Kirjatharim, Chephirah, and Beeroth, seven hundred and forty and three.'),
@@ -12342,8 +12113,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (205570,8,15,2,69,'They gave after their ability unto the treasure of the work threescore and one thousand drams of gold, and five thousand pound of silver, and one hundred priests'' garments.'),
 (205571,8,15,2,70,'So the priests, and the Levites, and [some] of the people, and the singers, and the porters, and the Nethinims, dwelt in their cities, and all Israel in their cities.'),
 (205572,8,15,3,1,'And when the seventh month was come, and the children of Israel [were] in the cities, the people gathered themselves together as one man to Jerusalem.'),
-(205573,8,15,3,2,'Then stood up Jeshua the son of Jozadak, and his brethren the priests, and Zerubbabel the son of Shealtiel, and his brethren, and builded the altar of the God of Israel, to offer burnt offerings thereon, as [it is] written in the law of Moses the man of God.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(205573,8,15,3,2,'Then stood up Jeshua the son of Jozadak, and his brethren the priests, and Zerubbabel the son of Shealtiel, and his brethren, and builded the altar of the God of Israel, to offer burnt offerings thereon, as [it is] written in the law of Moses the man of God.'),
 (205574,8,15,3,3,'And they set the altar upon his bases; for fear [was] upon them because of the people of those countries: and they offered burnt offerings thereon unto the LORD, [even] burnt offerings morning and evening.'),
 (205575,8,15,3,4,'They kept also the feast of tabernacles, as [it is] written, and [offered] the daily burnt offerings by number, according to the custom, as the duty of every day required;'),
 (205576,8,15,3,5,'And afterward [offered] the continual burnt offering, both of the new moons, and of all the set feasts of the LORD that were consecrated, and of every one that willingly offered a freewill offering unto the LORD.'),
@@ -12393,8 +12163,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (205620,8,15,5,12,'But after that our fathers had provoked the God of heaven unto wrath, he gave them into the hand of Nebuchadnezzar the king of Babylon, the Chaldean, who destroyed this house, and carried the people away into Babylon.'),
 (205621,8,15,5,13,'But in the first year of Cyrus the king of Babylon [the same] king Cyrus made a decree to build this house of God.'),
 (205622,8,15,5,14,'And the vessels also of gold and silver of the house of God, which Nebuchadnezzar took out of the temple that [was] in Jerusalem, and brought them into the temple of Babylon, those did Cyrus the king take out of the temple of Babylon, and they were delivered unto [one], whose name [was] Sheshbazzar, whom he had made governor;'),
-(205623,8,15,5,15,'And said unto him, Take these vessels, go, carry them into the temple that [is] in Jerusalem, and let the house of God be builded in his place.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(205623,8,15,5,15,'And said unto him, Take these vessels, go, carry them into the temple that [is] in Jerusalem, and let the house of God be builded in his place.'),
 (205624,8,15,5,16,'Then came the same Sheshbazzar, [and] laid the foundation of the house of God which [is] in Jerusalem: and since that time even until now hath it been in building, and [yet] it is not finished.'),
 (205625,8,15,5,17,'Now therefore, if [it seem] good to the king, let there be search made in the king''s treasure house, which [is] there at Babylon, whether it be [so], that a decree was made of Cyrus the king to build this house of God at Jerusalem, and let the king send his pleasure to us concerning this matter.'),
 (205626,8,15,6,1,'Then Darius the king made a decree, and search was made in the house of the rolls, where the treasures were laid up in Babylon.'),
@@ -12444,8 +12213,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (205670,8,15,7,23,'Whatsoever is commanded by the God of heaven, let it be diligently done for the house of the God of heaven: for why should there be wrath against the realm of the king and his sons?'),
 (205671,8,15,7,24,'Also we certify you, that touching any of the priests and Levites, singers, porters, Nethinims, or ministers of this house of God, it shall not be lawful to impose toll, tribute, or custom, upon them.'),
 (205672,8,15,7,25,'And thou, Ezra, after the wisdom of thy God, that [is] in thine hand, set magistrates and judges, which may judge all the people that [are] beyond the river, all such as know the laws of thy God; and teach ye them that know [them] not.'),
-(205673,8,15,7,26,'And whosoever will not do the law of thy God, and the law of the king, let judgment be executed speedily upon him, whether [it be] unto death, or to banishment, or to confiscation of goods, or to imprisonment.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(205673,8,15,7,26,'And whosoever will not do the law of thy God, and the law of the king, let judgment be executed speedily upon him, whether [it be] unto death, or to banishment, or to confiscation of goods, or to imprisonment.'),
 (205674,8,15,7,27,'Blessed [be] the LORD God of our fathers, which hath put [such a thing] as this in the king''s heart, to beautify the house of the LORD which [is] in Jerusalem:'),
 (205675,8,15,7,28,'And hath extended mercy unto me before the king, and his counsellers, and before all the king''s mighty princes. And I was strengthened as the hand of the LORD my God [was] upon me, and I gathered together out of Israel chief men to go up with me.'),
 (205676,8,15,8,1,'These [are] now the chief of their fathers, and [this is] the genealogy of them that went up with me from Babylon, in the reign of Artaxerxes the king.'),
@@ -12495,8 +12263,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (205720,8,15,9,9,'For we [were] bondmen; yet our God hath not forsaken us in our bondage, but hath extended mercy unto us in the sight of the kings of Persia, to give us a reviving, to set up the house of our God, and to repair the desolations thereof, and to give us a wall in Judah and in Jerusalem.'),
 (205721,8,15,9,10,'And now, O our God, what shall we say after this? for we have forsaken thy commandments,'),
 (205722,8,15,9,11,'Which thou hast commanded by thy servants the prophets, saying, The land, unto which ye go to possess it, is an unclean land with the filthiness of the people of the lands, with their abominations, which have filled it from one end to another with their uncleanness.'),
-(205723,8,15,9,12,'Now therefore give not your daughters unto their sons, neither take their daughters unto your sons, nor seek their peace or their wealth for ever: that ye may be strong, and eat the good of the land, and leave [it] for an inheritance to your children for ever.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(205723,8,15,9,12,'Now therefore give not your daughters unto their sons, neither take their daughters unto your sons, nor seek their peace or their wealth for ever: that ye may be strong, and eat the good of the land, and leave [it] for an inheritance to your children for ever.'),
 (205724,8,15,9,13,'And after all that is come upon us for our evil deeds, and for our great trespass, seeing that thou our God hast punished us less than our iniquities [deserve], and hast given us [such] deliverance as this;'),
 (205725,8,15,9,14,'Should we again break thy commandments, and join in affinity with the people of these abominations? wouldest not thou be angry with us till thou hadst consumed [us], so that [there should be] no remnant nor escaping?'),
 (205726,8,15,9,15,'O LORD God of Israel, thou [art] righteous: for we remain yet escaped, as [it is] this day: behold, we [are] before thee in our trespasses: for we cannot stand before thee because of this.'),
@@ -12546,8 +12313,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (205770,8,15,10,44,'All these had taken strange wives: and [some] of them had wives by whom they had children.'),
 (205771,8,16,1,1,'The words of Nehemiah the son of Hachaliah. And it came to pass in the month Chisleu, in the twentieth year, as I was in Shushan the palace,'),
 (205772,8,16,1,2,'That Hanani, one of my brethren, came, he and [certain] men of Judah; and I asked them concerning the Jews that had escaped, which were left of the captivity, and concerning Jerusalem.'),
-(205773,8,16,1,3,'And they said unto me, The remnant that are left of the captivity there in the province [are] in great affliction and reproach: the wall of Jerusalem also [is] broken down, and the gates thereof are burned with fire.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(205773,8,16,1,3,'And they said unto me, The remnant that are left of the captivity there in the province [are] in great affliction and reproach: the wall of Jerusalem also [is] broken down, and the gates thereof are burned with fire.'),
 (205774,8,16,1,4,'And it came to pass, when I heard these words, that I sat down and wept, and mourned [certain] days, and fasted, and prayed before the God of heaven,'),
 (205775,8,16,1,5,'And said, I beseech thee, O LORD God of heaven, the great and terrible God, that keepeth covenant and mercy for them that love him and observe his commandments:'),
 (205776,8,16,1,6,'Let thine ear now be attentive, and thine eyes open, that thou mayest hear the prayer of thy servant, which I pray before thee now, day and night, for the children of Israel thy servants, and confess the sins of the children of Israel, which we have sinned against thee: both I and my father''s house have sinned.'),
@@ -12597,8 +12363,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (205820,8,16,3,19,'And next to him repaired Ezer the son of Jeshua, the ruler of Mizpah, another piece over against the going up to the armoury at the turning [of the wall].'),
 (205821,8,16,3,20,'After him Baruch the son of Zabbai earnestly repaired the other piece, from the turning [of the wall] unto the door of the house of Eliashib the high priest.'),
 (205822,8,16,3,21,'After him repaired Meremoth the son of Urijah the son of Koz another piece, from the door of the house of Eliashib even to the end of the house of Eliashib.'),
-(205823,8,16,3,22,'And after him repaired the priests, the men of the plain.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(205823,8,16,3,22,'And after him repaired the priests, the men of the plain.'),
 (205824,8,16,3,23,'After him repaired Benjamin and Hashub over against their house. After him repaired Azariah the son of Maaseiah the son of Ananiah by his house.'),
 (205825,8,16,3,24,'After him repaired Binnui the son of Henadad another piece, from the house of Azariah unto the turning [of the wall], even unto the corner.'),
 (205826,8,16,3,25,'Palal the son of Uzai, over against the turning [of the wall], and the tower which lieth out from the king''s high house, that [was] by the court of the prison. After him Pedaiah the son of Parosh.'),
@@ -12648,8 +12413,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (205870,8,16,5,14,'Moreover from the time that I was appointed to be their governor in the land of Judah, from the twentieth year even unto the two and thirtieth year of Artaxerxes the king, [that is], twelve years, I and my brethren have not eaten the bread of the governor.'),
 (205871,8,16,5,15,'But the former governors that [had been] before me were chargeable unto the people, and had taken of them bread and wine, beside forty shekels of silver; yea, even their servants bare rule over the people: but so did not I, because of the fear of God.'),
 (205872,8,16,5,16,'Yea, also I continued in the work of this wall, neither bought we any land: and all my servants [were] gathered thither unto the work.'),
-(205873,8,16,5,17,'Moreover [there were] at my table an hundred and fifty of the Jews and rulers, beside those that came unto us from among the heathen that [are] about us.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(205873,8,16,5,17,'Moreover [there were] at my table an hundred and fifty of the Jews and rulers, beside those that came unto us from among the heathen that [are] about us.'),
 (205874,8,16,5,18,'Now [that] which was prepared [for me] daily [was] one ox [and] six choice sheep; also fowls were prepared for me, and once in ten days store of all sorts of wine: yet for all this required not I the bread of the governor, because the bondage was heavy upon this people.'),
 (205875,8,16,5,19,'Think upon me, my God, for good, [according] to all that I have done for this people.'),
 (205876,8,16,6,1,'Now it came to pass, when Sanballat, and Tobiah, and Geshem the Arabian, and the rest of our enemies, heard that I had builded the wall, and [that] there was no breach left therein; (though at that time I had not set up the doors upon the gates;)'),
@@ -12699,8 +12463,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (205920,8,16,7,26,'The men of Bethlehem and Netophah, an hundred fourscore and eight.'),
 (205921,8,16,7,27,'The men of Anathoth, an hundred twenty and eight.'),
 (205922,8,16,7,28,'The men of Bethazmaveth, forty and two.'),
-(205923,8,16,7,29,'The men of Kirjathjearim, Chephirah, and Beeroth, seven hundred forty and three.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(205923,8,16,7,29,'The men of Kirjathjearim, Chephirah, and Beeroth, seven hundred forty and three.'),
 (205924,8,16,7,30,'The men of Ramah and Geba, six hundred twenty and one.'),
 (205925,8,16,7,31,'The men of Michmas, an hundred and twenty and two.'),
 (205926,8,16,7,32,'The men of Bethel and Ai, an hundred twenty and three.'),
@@ -12750,8 +12513,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (205970,8,16,8,3,'And he read therein before the street that [was] before the water gate from the morning until midday, before the men and the women, and those that could understand; and the ears of all the people [were attentive] unto the book of the law.'),
 (205971,8,16,8,4,'And Ezra the scribe stood upon a pulpit of wood, which they had made for the purpose; and beside him stood Mattithiah, and Shema, and Anaiah, and Urijah, and Hilkiah, and Maaseiah, on his right hand; and on his left hand, Pedaiah, and Mishael, and Malchiah, and Hashum, and Hashbadana, Zechariah, [and] Meshullam.'),
 (205972,8,16,8,5,'And Ezra opened the book in the sight of all the people; (for he was above all the people;) and when he opened it, all the people stood up:'),
-(205973,8,16,8,6,'And Ezra blessed the LORD, the great God. And all the people answered, Amen, Amen, with lifting up their hands: and they bowed their heads, and worshipped the LORD with [their] faces to the ground.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(205973,8,16,8,6,'And Ezra blessed the LORD, the great God. And all the people answered, Amen, Amen, with lifting up their hands: and they bowed their heads, and worshipped the LORD with [their] faces to the ground.'),
 (205974,8,16,8,7,'Also Jeshua, and Bani, and Sherebiah, Jamin, Akkub, Shabbethai, Hodijah, Maaseiah, Kelita, Azariah, Jozabad, Hanan, Pelaiah, and the Levites, caused the people to understand the law: and the people [stood] in their place.'),
 (205975,8,16,8,8,'So they read in the book in the law of God distinctly, and gave the sense, and caused [them] to understand the reading.'),
 (205976,8,16,8,9,'And Nehemiah, which [is] the Tirshatha, and Ezra the priest the scribe, and the Levites that taught the people, said unto all the people, This day [is] holy unto the LORD your God; mourn not, nor weep. For all the people wept, when they heard the words of the law.'),
@@ -12801,8 +12563,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (206020,8,16,9,35,'For they have not served thee in their kingdom, and in thy great goodness that thou gavest them, and in the large and fat land which thou gavest before them, neither turned they from their wicked works.'),
 (206021,8,16,9,36,'Behold, we [are] servants this day, and [for] the land that thou gavest unto our fathers to eat the fruit thereof and the good thereof, behold, we [are] servants in it:'),
 (206022,8,16,9,37,'And it yieldeth much increase unto the kings whom thou hast set over us because of our sins: also they have dominion over our bodies, and over our cattle, at their pleasure, and we [are] in great distress.'),
-(206023,8,16,9,38,'And because of all this we make a sure [covenant], and write [it]; and our princes, Levites, [and] priests, seal [unto it].');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(206023,8,16,9,38,'And because of all this we make a sure [covenant], and write [it]; and our princes, Levites, [and] priests, seal [unto it].'),
 (206024,8,16,10,1,'Now those that sealed [were], Nehemiah, the Tirshatha, the son of Hachaliah, and Zidkijah,'),
 (206025,8,16,10,2,'Seraiah, Azariah, Jeremiah,'),
 (206026,8,16,10,3,'Pashur, Amariah, Malchijah,'),
@@ -12852,8 +12613,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (206070,8,16,11,8,'And after him Gabbai, Sallai, nine hundred twenty and eight.'),
 (206071,8,16,11,9,'And Joel the son of Zichri [was] their overseer: and Judah the son of Senuah [was] second over the city.'),
 (206072,8,16,11,10,'Of the priests: Jedaiah the son of Joiarib, Jachin.'),
-(206073,8,16,11,11,'Seraiah the son of Hilkiah, the son of Meshullam, the son of Zadok, the son of Meraioth, the son of Ahitub, [was] the ruler of the house of God.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(206073,8,16,11,11,'Seraiah the son of Hilkiah, the son of Meshullam, the son of Zadok, the son of Meraioth, the son of Ahitub, [was] the ruler of the house of God.'),
 (206074,8,16,11,12,'And their brethren that did the work of the house [were] eight hundred twenty and two: and Adaiah the son of Jeroham, the son of Pelaliah, the son of Amzi, the son of Zechariah, the son of Pashur, the son of Malchiah,'),
 (206075,8,16,11,13,'And his brethren, chief of the fathers, two hundred forty and two: and Amashai the son of Azareel, the son of Ahasai, the son of Meshillemoth, the son of Immer,'),
 (206076,8,16,11,14,'And their brethren, mighty men of valour, an hundred twenty and eight: and their overseer [was] Zabdiel, the son of [one of] the great men.'),
@@ -12903,8 +12663,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (206120,8,16,12,22,'The Levites in the days of Eliashib, Joiada, and Johanan, and Jaddua, [were] recorded chief of the fathers: also the priests, to the reign of Darius the Persian.'),
 (206121,8,16,12,23,'The sons of Levi, the chief of the fathers, [were] written in the book of the chronicles, even until the days of Johanan the son of Eliashib.'),
 (206122,8,16,12,24,'And the chief of the Levites: Hashabiah, Sherebiah, and Jeshua the son of Kadmiel, with their brethren over against them, to praise [and] to give thanks, according to the commandment of David the man of God, ward over against ward.'),
-(206123,8,16,12,25,'Mattaniah, and Bakbukiah, Obadiah, Meshullam, Talmon, Akkub, [were] porters keeping the ward at the thresholds of the gates.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(206123,8,16,12,25,'Mattaniah, and Bakbukiah, Obadiah, Meshullam, Talmon, Akkub, [were] porters keeping the ward at the thresholds of the gates.'),
 (206124,8,16,12,26,'These [were] in the days of Joiakim the son of Jeshua, the son of Jozadak, and in the days of Nehemiah the governor, and of Ezra the priest, the scribe.'),
 (206125,8,16,12,27,'And at the dedication of the wall of Jerusalem they sought the Levites out of all their places, to bring them to Jerusalem, to keep the dedication with gladness, both with thanksgivings, and with singing, [with] cymbals, psalteries, and with harps.'),
 (206126,8,16,12,28,'And the sons of the singers gathered themselves together, both out of the plain country round about Jerusalem, and from the villages of Netophathi;'),
@@ -12954,8 +12713,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (206170,8,16,13,25,'And I contended with them, and cursed them, and smote certain of them, and plucked off their hair, and made them swear by God, [saying], Ye shall not give your daughters unto their sons, nor take their daughters unto your sons, or for yourselves.'),
 (206171,8,16,13,26,'Did not Solomon king of Israel sin by these things? yet among many nations was there no king like him, who was beloved of his God, and God made him king over all Israel: nevertheless even him did outlandish women cause to sin.'),
 (206172,8,16,13,27,'Shall we then hearken unto you to do all this great evil, to transgress against our God in marrying strange wives?'),
-(206173,8,16,13,28,'And [one] of the sons of Joiada, the son of Eliashib the high priest, [was] son in law to Sanballat the Horonite: therefore I chased him from me.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(206173,8,16,13,28,'And [one] of the sons of Joiada, the son of Eliashib the high priest, [was] son in law to Sanballat the Horonite: therefore I chased him from me.'),
 (206174,8,16,13,29,'Remember them, O my God, because they have defiled the priesthood, and the covenant of the priesthood, and of the Levites.'),
 (206175,8,16,13,30,'Thus cleansed I them from all strangers, and appointed the wards of the priests and the Levites, every one in his business;'),
 (206176,8,16,13,31,'And for the wood offering, at times appointed, and for the firstfruits. Remember me, O my God, for good.'),
@@ -13005,8 +12763,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (206220,8,17,2,22,'And the thing was known to Mordecai, who told [it] unto Esther the queen; and Esther certified the king [thereof] in Mordecai''s name.'),
 (206221,8,17,2,23,'And when inquisition was made of the matter, it was found out; therefore they were both hanged on a tree: and it was written in the book of the chronicles before the king.'),
 (206222,8,17,3,1,'After these things did king Ahasuerus promote Haman the son of Hammedatha the Agagite, and advanced him, and set his seat above all the princes that [were] with him.'),
-(206223,8,17,3,2,'And all the king''s servants, that [were] in the king''s gate, bowed, and reverenced Haman: for the king had so commanded concerning him. But Mordecai bowed not, nor did [him] reverence.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(206223,8,17,3,2,'And all the king''s servants, that [were] in the king''s gate, bowed, and reverenced Haman: for the king had so commanded concerning him. But Mordecai bowed not, nor did [him] reverence.'),
 (206224,8,17,3,3,'Then the king''s servants, which [were] in the king''s gate, said unto Mordecai, Why transgressest thou the king''s commandment?'),
 (206225,8,17,3,4,'Now it came to pass, when they spake daily unto him, and he hearkened not unto them, that they told Haman, to see whether Mordecai''s matters would stand: for he had told them that he [was] a Jew.'),
 (206226,8,17,3,5,'And when Haman saw that Mordecai bowed not, nor did him reverence, then was Haman full of wrath.'),
@@ -13056,8 +12813,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (206270,8,17,6,3,'And the king said, What honour and dignity hath been done to Mordecai for this? Then said the king''s servants that ministered unto him, There is nothing done for him.'),
 (206271,8,17,6,4,'And the king said, Who [is] in the court? Now Haman was come into the outward court of the king''s house, to speak unto the king to hang Mordecai on the gallows that he had prepared for him.'),
 (206272,8,17,6,5,'And the king''s servants said unto him, Behold, Haman standeth in the court. And the king said, Let him come in.'),
-(206273,8,17,6,6,'So Haman came in. And the king said unto him, What shall be done unto the man whom the king delighteth to honour? Now Haman thought in his heart, To whom would the king delight to do honour more than to myself?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(206273,8,17,6,6,'So Haman came in. And the king said unto him, What shall be done unto the man whom the king delighteth to honour? Now Haman thought in his heart, To whom would the king delight to do honour more than to myself?'),
 (206274,8,17,6,7,'And Haman answered the king, For the man whom the king delighteth to honour,'),
 (206275,8,17,6,8,'Let the royal apparel be brought which the king [useth] to wear, and the horse that the king rideth upon, and the crown royal which is set upon his head:'),
 (206276,8,17,6,9,'And let this apparel and horse be delivered to the hand of one of the king''s most noble princes, that they may array the man [withal] whom the king delighteth to honour, and bring him on horseback through the street of the city, and proclaim before him, Thus shall it be done to the man whom the king delighteth to honour.'),
@@ -13107,8 +12863,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (206320,8,17,9,12,'And the king said unto Esther the queen, The Jews have slain and destroyed five hundred men in Shushan the palace, and the ten sons of Haman; what have they done in the rest of the king''s provinces? now what [is] thy petition? and it shall be granted thee: or what [is] thy request further? and it shall be done.'),
 (206321,8,17,9,13,'Then said Esther, If it please the king, let it be granted to the Jews which [are] in Shushan to do to morrow also according unto this day''s decree, and let Haman''s ten sons be hanged upon the gallows.'),
 (206322,8,17,9,14,'And the king commanded it so to be done: and the decree was given at Shushan; and they hanged Haman''s ten sons.'),
-(206323,8,17,9,15,'For the Jews that [were] in Shushan gathered themselves together on the fourteenth day also of the month Adar, and slew three hundred men at Shushan; but on the prey they laid not their hand.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(206323,8,17,9,15,'For the Jews that [were] in Shushan gathered themselves together on the fourteenth day also of the month Adar, and slew three hundred men at Shushan; but on the prey they laid not their hand.'),
 (206324,8,17,9,16,'But the other Jews that [were] in the king''s provinces gathered themselves together, and stood for their lives, and had rest from their enemies, and slew of their foes seventy and five thousand, but they laid not their hands on the prey,'),
 (206325,8,17,9,17,'On the thirteenth day of the month Adar; and on the fourteenth day of the same rested they, and made it a day of feasting and gladness.'),
 (206326,8,17,9,18,'But the Jews that [were] at Shushan assembled together on the thirteenth [day] thereof, and on the fourteenth thereof; and on the fifteenth [day] of the same they rested, and made it a day of feasting and gladness.'),
@@ -13158,8 +12913,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (206370,8,18,2,5,'But put forth thine hand now, and touch his bone and his flesh, and he will curse thee to thy face.'),
 (206371,8,18,2,6,'And the LORD said unto Satan, Behold, he [is] in thine hand; but save his life.'),
 (206372,8,18,2,7,'So went Satan forth from the presence of the LORD, and smote Job with sore boils from the sole of his foot unto his crown.'),
-(206373,8,18,2,8,'And he took him a potsherd to scrape himself withal; and he sat down among the ashes.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(206373,8,18,2,8,'And he took him a potsherd to scrape himself withal; and he sat down among the ashes.'),
 (206374,8,18,2,9,'Then said his wife unto him, Dost thou still retain thine integrity? curse God, and die.'),
 (206375,8,18,2,10,'But he said unto her, Thou speakest as one of the foolish women speaketh. What? shall we receive good at the hand of God, and shall we not receive evil? In all this did not Job sin with his lips.'),
 (206376,8,18,2,11,'Now when Job''s three friends heard of all this evil that was come upon him, they came every one from his own place; Eliphaz the Temanite, and Bildad the Shuhite, and Zophar the Naamathite: for they had made an appointment together to come to mourn with him and to comfort him.'),
@@ -13209,8 +12963,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (206420,8,18,4,16,'It stood still, but I could not discern the form thereof: an image [was] before mine eyes, [there was] silence, and I heard a voice, [saying],'),
 (206421,8,18,4,17,'Shall mortal man be more just than God? shall a man be more pure than his maker?'),
 (206422,8,18,4,18,'Behold, he put no trust in his servants; and his angels he charged with folly:'),
-(206423,8,18,4,19,'How much less [in] them that dwell in houses of clay, whose foundation [is] in the dust, [which] are crushed before the moth?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(206423,8,18,4,19,'How much less [in] them that dwell in houses of clay, whose foundation [is] in the dust, [which] are crushed before the moth?'),
 (206424,8,18,4,20,'They are destroyed from morning to evening: they perish for ever without any regarding [it].'),
 (206425,8,18,4,21,'Doth not their excellency [which is] in them go away? they die, even without wisdom.'),
 (206426,8,18,5,1,'Call now, if there be any that will answer thee; and to which of the saints wilt thou turn?'),
@@ -13311,8 +13064,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (206520,8,18,8,17,'His roots are wrapped about the heap, [and] seeth the place of stones.'),
 (206521,8,18,8,18,'If he destroy him from his place, then [it] shall deny him, [saying], I have not seen thee.'),
 (206522,8,18,8,19,'Behold, this [is] the joy of his way, and out of the earth shall others grow.'),
-(206523,8,18,8,20,'Behold, God will not cast away a perfect [man], neither will he help the evil doers:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(206523,8,18,8,20,'Behold, God will not cast away a perfect [man], neither will he help the evil doers:'),
 (206524,8,18,8,21,'Till he fill thy mouth with laughing, and thy lips with rejoicing.'),
 (206525,8,18,8,22,'They that hate thee shall be clothed with shame; and the dwelling place of the wicked shall come to nought.'),
 (206526,8,18,9,1,'Then Job answered and said,'),
@@ -13362,8 +13114,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (206570,8,18,10,10,'Hast thou not poured me out as milk, and curdled me like cheese?'),
 (206571,8,18,10,11,'Thou hast clothed me with skin and flesh, and hast fenced me with bones and sinews.'),
 (206572,8,18,10,12,'Thou hast granted me life and favour, and thy visitation hath preserved my spirit.'),
-(206573,8,18,10,13,'And these [things] hast thou hid in thine heart: I know that this [is] with thee.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(206573,8,18,10,13,'And these [things] hast thou hid in thine heart: I know that this [is] with thee.'),
 (206574,8,18,10,14,'If I sin, then thou markest me, and thou wilt not acquit me from mine iniquity.'),
 (206575,8,18,10,15,'If I be wicked, woe unto me; and [if] I be righteous, [yet] will I not lift up my head. [I am] full of confusion; therefore see thou mine affliction;'),
 (206576,8,18,10,16,'For it increaseth. Thou huntest me as a fierce lion: and again thou shewest thyself marvellous upon me.'),
@@ -13413,8 +13164,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (206620,8,18,12,18,'He looseth the bond of kings, and girdeth their loins with a girdle.'),
 (206621,8,18,12,19,'He leadeth princes away spoiled, and overthroweth the mighty.'),
 (206622,8,18,12,20,'He removeth away the speech of the trusty, and taketh away the understanding of the aged.'),
-(206623,8,18,12,21,'He poureth contempt upon princes, and weakeneth the strength of the mighty.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(206623,8,18,12,21,'He poureth contempt upon princes, and weakeneth the strength of the mighty.'),
 (206624,8,18,12,22,'He discovereth deep things out of darkness, and bringeth out to light the shadow of death.'),
 (206625,8,18,12,23,'He increaseth the nations, and destroyeth them: he enlargeth the nations, and straiteneth them [again].'),
 (206626,8,18,12,24,'He taketh away the heart of the chief of the people of the earth, and causeth them to wander in a wilderness [where there is] no way.'),
@@ -13464,8 +13214,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (206670,8,18,14,15,'Thou shalt call, and I will answer thee: thou wilt have a desire to the work of thine hands.'),
 (206671,8,18,14,16,'For now thou numberest my steps: dost thou not watch over my sin?'),
 (206672,8,18,14,17,'My transgression [is] sealed up in a bag, and thou sewest up mine iniquity.'),
-(206673,8,18,14,18,'And surely the mountain falling cometh to nought, and the rock is removed out of his place.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(206673,8,18,14,18,'And surely the mountain falling cometh to nought, and the rock is removed out of his place.'),
 (206674,8,18,14,19,'The waters wear the stones: thou washest away the things which grow [out] of the dust of the earth; and thou destroyest the hope of man.'),
 (206675,8,18,14,20,'Thou prevailest for ever against him, and he passeth: thou changest his countenance, and sendest him away.'),
 (206676,8,18,14,21,'His sons come to honour, and he knoweth [it] not; and they are brought low, but he perceiveth [it] not of them.'),
@@ -13515,8 +13264,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (206720,8,18,16,8,'And thou hast filled me with wrinkles, [which] is a witness [against me]: and my leanness rising up in me beareth witness to my face.'),
 (206721,8,18,16,9,'He teareth [me] in his wrath, who hateth me: he gnasheth upon me with his teeth; mine enemy sharpeneth his eyes upon me.'),
 (206722,8,18,16,10,'They have gaped upon me with their mouth; they have smitten me upon the cheek reproachfully; they have gathered themselves together against me.'),
-(206723,8,18,16,11,'God hath delivered me to the ungodly, and turned me over into the hands of the wicked.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(206723,8,18,16,11,'God hath delivered me to the ungodly, and turned me over into the hands of the wicked.'),
 (206724,8,18,16,12,'I was at ease, but he hath broken me asunder: he hath also taken [me] by my neck, and shaken me to pieces, and set me up for his mark.'),
 (206725,8,18,16,13,'His archers compass me round about, he cleaveth my reins asunder, and doth not spare; he poureth out my gall upon the ground.'),
 (206726,8,18,16,14,'He breaketh me with breach upon breach, he runneth upon me like a giant.'),
@@ -13566,8 +13314,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (206770,8,18,18,20,'They that come after [him] shall be astonied at his day, as they that went before were affrighted.'),
 (206771,8,18,18,21,'Surely such [are] the dwellings of the wicked, and this [is] the place [of him that] knoweth not God.'),
 (206772,8,18,19,1,'Then Job answered and said,'),
-(206773,8,18,19,2,'How long will ye vex my soul, and break me in pieces with words?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(206773,8,18,19,2,'How long will ye vex my soul, and break me in pieces with words?'),
 (206774,8,18,19,3,'These ten times have ye reproached me: ye are not ashamed [that] ye make yourselves strange to me.'),
 (206775,8,18,19,4,'And be it indeed [that] I have erred, mine error remaineth with myself.'),
 (206776,8,18,19,5,'If indeed ye will magnify [yourselves] against me, and plead against me my reproach:'),
@@ -13617,8 +13364,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (206820,8,18,20,20,'Surely he shall not feel quietness in his belly, he shall not save of that which he desired.'),
 (206821,8,18,20,21,'There shall none of his meat be left; therefore shall no man look for his goods.'),
 (206822,8,18,20,22,'In the fulness of his sufficiency he shall be in straits: every hand of the wicked shall come upon him.'),
-(206823,8,18,20,23,'[When] he is about to fill his belly, [God] shall cast the fury of his wrath upon him, and shall rain [it] upon him while he is eating.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(206823,8,18,20,23,'[When] he is about to fill his belly, [God] shall cast the fury of his wrath upon him, and shall rain [it] upon him while he is eating.'),
 (206824,8,18,20,24,'He shall flee from the iron weapon, [and] the bow of steel shall strike him through.'),
 (206825,8,18,20,25,'It is drawn, and cometh out of the body; yea, the glittering sword cometh out of his gall: terrors [are] upon him.'),
 (206826,8,18,20,26,'All darkness [shall be] hid in his secret places: a fire not blown shall consume him; it shall go ill with him that is left in his tabernacle.'),
@@ -13668,8 +13414,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (206870,8,18,22,7,'Thou hast not given water to the weary to drink, and thou hast withholden bread from the hungry.'),
 (206871,8,18,22,8,'But [as for] the mighty man, he had the earth; and the honourable man dwelt in it.'),
 (206872,8,18,22,9,'Thou hast sent widows away empty, and the arms of the fatherless have been broken.'),
-(206873,8,18,22,10,'Therefore snares [are] round about thee, and sudden fear troubleth thee;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(206873,8,18,22,10,'Therefore snares [are] round about thee, and sudden fear troubleth thee;'),
 (206874,8,18,22,11,'Or darkness, [that] thou canst not see; and abundance of waters cover thee.'),
 (206875,8,18,22,12,'[Is] not God in the height of heaven? and behold the height of the stars, how high they are!'),
 (206876,8,18,22,13,'And thou sayest, How doth God know? can he judge through the dark cloud?'),
@@ -13719,8 +13464,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (206920,8,18,24,10,'They cause [him] to go naked without clothing, and they take away the sheaf [from] the hungry;'),
 (206921,8,18,24,11,'[Which] make oil within their walls, [and] tread [their] winepresses, and suffer thirst.'),
 (206922,8,18,24,12,'Men groan from out of the city, and the soul of the wounded crieth out: yet God layeth not folly [to them].'),
-(206923,8,18,24,13,'They are of those that rebel against the light; they know not the ways thereof, nor abide in the paths thereof.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(206923,8,18,24,13,'They are of those that rebel against the light; they know not the ways thereof, nor abide in the paths thereof.'),
 (206924,8,18,24,14,'The murderer rising with the light killeth the poor and needy, and in the night is as a thief.'),
 (206925,8,18,24,15,'The eye also of the adulterer waiteth for the twilight, saying, No eye shall see me: and disguiseth [his] face.'),
 (206926,8,18,24,16,'In the dark they dig through houses, [which] they had marked for themselves in the daytime: they know not the light.'),
@@ -13770,8 +13514,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (206970,8,18,27,15,'Those that remain of him shall be buried in death: and his widows shall not weep.'),
 (206971,8,18,27,16,'Though he heap up silver as the dust, and prepare raiment as the clay;'),
 (206972,8,18,27,17,'He may prepare [it], but the just shall put [it] on, and the innocent shall divide the silver.'),
-(206973,8,18,27,18,'He buildeth his house as a moth, and as a booth [that] the keeper maketh.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(206973,8,18,27,18,'He buildeth his house as a moth, and as a booth [that] the keeper maketh.'),
 (206974,8,18,27,19,'The rich man shall lie down, but he shall not be gathered: he openeth his eyes, and he [is] not.'),
 (206975,8,18,27,20,'Terrors take hold on him as waters, a tempest stealeth him away in the night.'),
 (206976,8,18,27,21,'The east wind carrieth him away, and he departeth: and as a storm hurleth him out of his place.'),
@@ -13821,8 +13564,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (207020,8,18,29,14,'I put on righteousness, and it clothed me: my judgment [was] as a robe and a diadem.'),
 (207021,8,18,29,15,'I was eyes to the blind, and feet [was] I to the lame.'),
 (207022,8,18,29,16,'I [was] a father to the poor: and the cause [which] I knew not I searched out.'),
-(207023,8,18,29,17,'And I brake the jaws of the wicked, and plucked the spoil out of his teeth.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(207023,8,18,29,17,'And I brake the jaws of the wicked, and plucked the spoil out of his teeth.'),
 (207024,8,18,29,18,'Then I said, I shall die in my nest, and I shall multiply [my] days as the sand.'),
 (207025,8,18,29,19,'My root [was] spread out by the waters, and the dew lay all night upon my branch.'),
 (207026,8,18,29,20,'My glory [was] fresh in me, and my bow was renewed in my hand.'),
@@ -13872,8 +13614,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (207070,8,18,31,8,'[Then] let me sow, and let another eat; yea, let my offspring be rooted out.'),
 (207071,8,18,31,9,'If mine heart have been deceived by a woman, or [if] I have laid wait at my neighbour''s door;'),
 (207072,8,18,31,10,'[Then] let my wife grind unto another, and let others bow down upon her.'),
-(207073,8,18,31,11,'For this [is] an heinous crime; yea, it [is] an iniquity [to be punished by] the judges.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(207073,8,18,31,11,'For this [is] an heinous crime; yea, it [is] an iniquity [to be punished by] the judges.'),
 (207074,8,18,31,12,'For it [is] a fire [that] consumeth to destruction, and would root out all mine increase.'),
 (207075,8,18,31,13,'If I did despise the cause of my manservant or of my maidservant, when they contended with me;'),
 (207076,8,18,31,14,'What then shall I do when God riseth up? and when he visiteth, what shall I answer him?'),
@@ -13923,8 +13664,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (207120,8,18,32,18,'For I am full of matter, the spirit within me constraineth me.'),
 (207121,8,18,32,19,'Behold, my belly [is] as wine [which] hath no vent; it is ready to burst like new bottles.'),
 (207122,8,18,32,20,'I will speak, that I may be refreshed: I will open my lips and answer.'),
-(207123,8,18,32,21,'Let me not, I pray you, accept any man''s person, neither let me give flattering titles unto man.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(207123,8,18,32,21,'Let me not, I pray you, accept any man''s person, neither let me give flattering titles unto man.'),
 (207124,8,18,32,22,'For I know not to give flattering titles; [in so doing] my maker would soon take me away.'),
 (207125,8,18,33,1,'Wherefore, Job, I pray thee, hear my speeches, and hearken to all my words.'),
 (207126,8,18,33,2,'Behold, now I have opened my mouth, my tongue hath spoken in my mouth.'),
@@ -13974,8 +13714,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (207170,8,18,34,13,'Who hath given him a charge over the earth? or who hath disposed the whole world?'),
 (207171,8,18,34,14,'If he set his heart upon man, [if] he gather unto himself his spirit and his breath;'),
 (207172,8,18,34,15,'All flesh shall perish together, and man shall turn again unto dust.'),
-(207173,8,18,34,16,'If now [thou hast] understanding, hear this: hearken to the voice of my words.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(207173,8,18,34,16,'If now [thou hast] understanding, hear this: hearken to the voice of my words.'),
 (207174,8,18,34,17,'Shall even he that hateth right govern? and wilt thou condemn him that is most just?'),
 (207175,8,18,34,18,'[Is it fit] to say to a king, [Thou art] wicked? [and] to princes, [Ye are] ungodly?'),
 (207176,8,18,34,19,'[How much less to him] that accepteth not the persons of princes, nor regardeth the rich more than the poor? for they all [are] the work of his hands.'),
@@ -14025,8 +13764,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (207220,8,18,36,10,'He openeth also their ear to discipline, and commandeth that they return from iniquity.'),
 (207221,8,18,36,11,'If they obey and serve [him], they shall spend their days in prosperity, and their years in pleasures.'),
 (207222,8,18,36,12,'But if they obey not, they shall perish by the sword, and they shall die without knowledge.'),
-(207223,8,18,36,13,'But the hypocrites in heart heap up wrath: they cry not when he bindeth them.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(207223,8,18,36,13,'But the hypocrites in heart heap up wrath: they cry not when he bindeth them.'),
 (207224,8,18,36,14,'They die in youth, and their life [is] among the unclean.'),
 (207225,8,18,36,15,'He delivereth the poor in his affliction, and openeth their ears in oppression.'),
 (207226,8,18,36,16,'Even so would he have removed thee out of the strait [into] a broad place, where [there is] no straitness; and that which should be set on thy table [should be] full of fatness.'),
@@ -14076,8 +13814,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (207270,8,18,38,3,'Gird up now thy loins like a man; for I will demand of thee, and answer thou me.'),
 (207271,8,18,38,4,'Where wast thou when I laid the foundations of the earth? declare, if thou hast understanding.'),
 (207272,8,18,38,5,'Who hath laid the measures thereof, if thou knowest? or who hath stretched the line upon it?'),
-(207273,8,18,38,6,'Whereupon are the foundations thereof fastened? or who laid the corner stone thereof;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(207273,8,18,38,6,'Whereupon are the foundations thereof fastened? or who laid the corner stone thereof;'),
 (207274,8,18,38,7,'When the morning stars sang together, and all the sons of God shouted for joy?'),
 (207275,8,18,38,8,'Or [who] shut up the sea with doors, when it brake forth, [as if] it had issued out of the womb?'),
 (207276,8,18,38,9,'When I made the cloud the garment thereof, and thick darkness a swaddlingband for it,'),
@@ -14127,8 +13864,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (207320,8,18,39,12,'Wilt thou believe him, that he will bring home thy seed, and gather [it into] thy barn?'),
 (207321,8,18,39,13,'[Gavest thou] the goodly wings unto the peacocks? or wings and feathers unto the ostrich?'),
 (207322,8,18,39,14,'Which leaveth her eggs in the earth, and warmeth them in dust,'),
-(207323,8,18,39,15,'And forgetteth that the foot may crush them, or that the wild beast may break them.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(207323,8,18,39,15,'And forgetteth that the foot may crush them, or that the wild beast may break them.'),
 (207324,8,18,39,16,'She is hardened against her young ones, as though [they were] not hers: her labour is in vain without fear;'),
 (207325,8,18,39,17,'Because God hath deprived her of wisdom, neither hath he imparted to her understanding.'),
 (207326,8,18,39,18,'What time she lifteth up herself on high, she scorneth the horse and his rider.'),
@@ -14178,8 +13914,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (207370,8,18,41,8,'Lay thine hand upon him, remember the battle, do no more.'),
 (207371,8,18,41,9,'Behold, the hope of him is in vain: shall not [one] be cast down even at the sight of him?'),
 (207372,8,18,41,10,'None [is so] fierce that dare stir him up: who then is able to stand before me?'),
-(207373,8,18,41,11,'Who hath prevented me, that I should repay [him? whatsoever is] under the whole heaven is mine.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(207373,8,18,41,11,'Who hath prevented me, that I should repay [him? whatsoever is] under the whole heaven is mine.'),
 (207374,8,18,41,12,'I will not conceal his parts, nor his power, nor his comely proportion.'),
 (207375,8,18,41,13,'Who can discover the face of his garment? [or] who can come [to him] with his double bridle?'),
 (207376,8,18,41,14,'Who can open the doors of his face? his teeth [are] terrible round about.'),
@@ -14229,8 +13964,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (207420,8,19,2,1,'Why do the heathen rage, and the people imagine a vain thing?'),
 (207421,8,19,2,2,'The kings of the earth set themselves, and the rulers take counsel together, against the LORD, and against his anointed, [saying],'),
 (207422,8,19,2,3,'Let us break their bands asunder, and cast away their cords from us.'),
-(207423,8,19,2,4,'He that sitteth in the heavens shall laugh: the Lord shall have them in derision.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(207423,8,19,2,4,'He that sitteth in the heavens shall laugh: the Lord shall have them in derision.'),
 (207424,8,19,2,5,'Then shall he speak unto them in his wrath, and vex them in his sore displeasure.'),
 (207425,8,19,2,6,'Yet have I set my king upon my holy hill of Zion.'),
 (207426,8,19,2,7,'I will declare the decree: the LORD hath said unto me, Thou [art] my Son; this day have I begotten thee.'),
@@ -14331,8 +14065,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (207520,8,19,10,5,'His ways are always grievous; thy judgments [are] far above out of his sight: [as for] all his enemies, he puffeth at them.'),
 (207521,8,19,10,6,'He hath said in his heart, I shall not be moved: for [I shall] never [be] in adversity.'),
 (207522,8,19,10,7,'His mouth is full of cursing and deceit and fraud: under his tongue [is] mischief and vanity.'),
-(207523,8,19,10,8,'He sitteth in the lurking places of the villages: in the secret places doth he murder the innocent: his eyes are privily set against the poor.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(207523,8,19,10,8,'He sitteth in the lurking places of the villages: in the secret places doth he murder the innocent: his eyes are privily set against the poor.'),
 (207524,8,19,10,9,'He lieth in wait secretly as a lion in his den: he lieth in wait to catch the poor: he doth catch the poor, when he draweth him into his net.'),
 (207525,8,19,10,10,'He croucheth, [and] humbleth himself, that the poor may fall by his strong ones.'),
 (207526,8,19,10,11,'He hath said in his heart, God hath forgotten: he hideth his face; he will never see [it].'),
@@ -14382,8 +14115,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (207570,8,19,16,4,'Their sorrows shall be multiplied [that] hasten [after] another [god]: their drink offerings of blood will I not offer, nor take up their names into my lips.'),
 (207571,8,19,16,5,'The LORD [is] the portion of mine inheritance and of my cup: thou maintainest my lot.'),
 (207572,8,19,16,6,'The lines are fallen unto me in pleasant [places]; yea, I have a goodly heritage.'),
-(207573,8,19,16,7,'I will bless the LORD, who hath given me counsel: my reins also instruct me in the night seasons.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(207573,8,19,16,7,'I will bless the LORD, who hath given me counsel: my reins also instruct me in the night seasons.'),
 (207574,8,19,16,8,'I have set the LORD always before me: because [he is] at my right hand, I shall not be moved.'),
 (207575,8,19,16,9,'Therefore my heart is glad, and my glory rejoiceth: my flesh also shall rest in hope.'),
 (207576,8,19,16,10,'For thou wilt not leave my soul in hell; neither wilt thou suffer thine Holy One to see corruption.'),
@@ -14433,8 +14165,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (207620,8,19,18,28,'For thou wilt light my candle: the LORD my God will enlighten my darkness.'),
 (207621,8,19,18,29,'For by thee I have run through a troop; and by my God have I leaped over a wall.'),
 (207622,8,19,18,30,'[As for] God, his way [is] perfect: the word of the LORD is tried: he [is] a buckler to all those that trust in him.'),
-(207623,8,19,18,31,'For who [is] God save the LORD? or who [is] a rock save our God?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(207623,8,19,18,31,'For who [is] God save the LORD? or who [is] a rock save our God?'),
 (207624,8,19,18,32,'[It is] God that girdeth me with strength, and maketh my way perfect.'),
 (207625,8,19,18,33,'He maketh my feet like hinds'' [feet], and setteth me upon my high places.'),
 (207626,8,19,18,34,'He teacheth my hands to war, so that a bow of steel is broken by mine arms.'),
@@ -14484,8 +14215,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (207670,8,19,21,5,'His glory [is] great in thy salvation: honour and majesty hast thou laid upon him.'),
 (207671,8,19,21,6,'For thou hast made him most blessed for ever: thou hast made him exceeding glad with thy countenance.'),
 (207672,8,19,21,7,'For the king trusteth in the LORD, and through the mercy of the most High he shall not be moved.'),
-(207673,8,19,21,8,'Thine hand shall find out all thine enemies: thy right hand shall find out those that hate thee.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(207673,8,19,21,8,'Thine hand shall find out all thine enemies: thy right hand shall find out those that hate thee.'),
 (207674,8,19,21,9,'Thou shalt make them as a fiery oven in the time of thine anger: the LORD shall swallow them up in his wrath, and the fire shall devour them.'),
 (207675,8,19,21,10,'Their fruit shalt thou destroy from the earth, and their seed from among the children of men.'),
 (207676,8,19,21,11,'For they intended evil against thee: they imagined a mischievous device, [which] they are not able [to perform].'),
@@ -14535,8 +14265,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (207720,8,19,24,5,'He shall receive the blessing from the LORD, and righteousness from the God of his salvation.'),
 (207721,8,19,24,6,'This [is] the generation of them that seek him, that seek thy face, O Jacob. Selah.'),
 (207722,8,19,24,7,'Lift up your heads, O ye gates; and be ye lift up, ye everlasting doors; and the King of glory shall come in.'),
-(207723,8,19,24,8,'Who [is] this King of glory? The LORD strong and mighty, the LORD mighty in battle.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(207723,8,19,24,8,'Who [is] this King of glory? The LORD strong and mighty, the LORD mighty in battle.'),
 (207724,8,19,24,9,'Lift up your heads, O ye gates; even lift [them] up, ye everlasting doors; and the King of glory shall come in.'),
 (207725,8,19,24,10,'Who is this King of glory? The LORD of hosts, he [is] the King of glory. Selah.'),
 (207726,8,19,25,1,'<<[A Psalm] of David.>> Unto thee, O LORD, do I lift up my soul.'),
@@ -14586,8 +14315,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (207770,8,19,27,11,'Teach me thy way, O LORD, and lead me in a plain path, because of mine enemies.'),
 (207771,8,19,27,12,'Deliver me not over unto the will of mine enemies: for false witnesses are risen up against me, and such as breathe out cruelty.'),
 (207772,8,19,27,13,'[I had fainted], unless I had believed to see the goodness of the LORD in the land of the living.'),
-(207773,8,19,27,14,'Wait on the LORD: be of good courage, and he shall strengthen thine heart: wait, I say, on the LORD.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(207773,8,19,27,14,'Wait on the LORD: be of good courage, and he shall strengthen thine heart: wait, I say, on the LORD.'),
 (207774,8,19,28,1,'<<[A Psalm] of David.>> Unto thee will I cry, O LORD my rock; be not silent to me: lest, [if] thou be silent to me, I become like them that go down into the pit.'),
 (207775,8,19,28,2,'Hear the voice of my supplications, when I cry unto thee, when I lift up my hands toward thy holy oracle.'),
 (207776,8,19,28,3,'Draw me not away with the wicked, and with the workers of iniquity, which speak peace to their neighbours, but mischief [is] in their hearts.'),
@@ -14637,8 +14365,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (207820,8,19,31,15,'My times [are] in thy hand: deliver me from the hand of mine enemies, and from them that persecute me.'),
 (207821,8,19,31,16,'Make thy face to shine upon thy servant: save me for thy mercies'' sake.'),
 (207822,8,19,31,17,'Let me not be ashamed, O LORD; for I have called upon thee: let the wicked be ashamed, [and] let them be silent in the grave.'),
-(207823,8,19,31,18,'Let the lying lips be put to silence; which speak grievous things proudly and contemptuously against the righteous.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(207823,8,19,31,18,'Let the lying lips be put to silence; which speak grievous things proudly and contemptuously against the righteous.'),
 (207824,8,19,31,19,'[Oh] how great [is] thy goodness, which thou hast laid up for them that fear thee; [which] thou hast wrought for them that trust in thee before the sons of men!'),
 (207825,8,19,31,20,'Thou shalt hide them in the secret of thy presence from the pride of man: thou shalt keep them secretly in a pavilion from the strife of tongues.'),
 (207826,8,19,31,21,'Blessed [be] the LORD: for he hath shewed me his marvellous kindness in a strong city.'),
@@ -14688,8 +14415,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (207870,8,19,34,8,'O taste and see that the LORD [is] good: blessed [is] the man [that] trusteth in him.'),
 (207871,8,19,34,9,'O fear the LORD, ye his saints: for [there is] no want to them that fear him.'),
 (207872,8,19,34,10,'The young lions do lack, and suffer hunger: but they that seek the LORD shall not want any good [thing].'),
-(207873,8,19,34,11,'Come, ye children, hearken unto me: I will teach you the fear of the LORD.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(207873,8,19,34,11,'Come, ye children, hearken unto me: I will teach you the fear of the LORD.'),
 (207874,8,19,34,12,'What man [is he that] desireth life, [and] loveth [many] days, that he may see good?'),
 (207875,8,19,34,13,'Keep thy tongue from evil, and thy lips from speaking guile.'),
 (207876,8,19,34,14,'Depart from evil, and do good; seek peace, and pursue it.'),
@@ -14739,8 +14465,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (207920,8,19,36,8,'They shall be abundantly satisfied with the fatness of thy house; and thou shalt make them drink of the river of thy pleasures.'),
 (207921,8,19,36,9,'For with thee [is] the fountain of life: in thy light shall we see light.'),
 (207922,8,19,36,10,'O continue thy lovingkindness unto them that know thee; and thy righteousness to the upright in heart.'),
-(207923,8,19,36,11,'Let not the foot of pride come against me, and let not the hand of the wicked remove me.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(207923,8,19,36,11,'Let not the foot of pride come against me, and let not the hand of the wicked remove me.'),
 (207924,8,19,36,12,'There are the workers of iniquity fallen: they are cast down, and shall not be able to rise.'),
 (207925,8,19,37,1,'<<[A Psalm] of David.>> Fret not thyself because of evildoers, neither be thou envious against the workers of iniquity.'),
 (207926,8,19,37,2,'For they shall soon be cut down like the grass, and wither as the green herb.'),
@@ -14790,8 +14515,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (207970,8,19,38,6,'I am troubled; I am bowed down greatly; I go mourning all the day long.'),
 (207971,8,19,38,7,'For my loins are filled with a loathsome [disease]: and [there is] no soundness in my flesh.'),
 (207972,8,19,38,8,'I am feeble and sore broken: I have roared by reason of the disquietness of my heart.'),
-(207973,8,19,38,9,'Lord, all my desire [is] before thee; and my groaning is not hid from thee.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(207973,8,19,38,9,'Lord, all my desire [is] before thee; and my groaning is not hid from thee.'),
 (207974,8,19,38,10,'My heart panteth, my strength faileth me: as for the light of mine eyes, it also is gone from me.'),
 (207975,8,19,38,11,'My lovers and my friends stand aloof from my sore; and my kinsmen stand afar off.'),
 (207976,8,19,38,12,'They also that seek after my life lay snares [for me]: and they that seek my hurt speak mischievous things, and imagine deceits all the day long.'),
@@ -14841,8 +14565,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (208020,8,19,41,4,'I said, LORD, be merciful unto me: heal my soul; for I have sinned against thee.'),
 (208021,8,19,41,5,'Mine enemies speak evil of me, When shall he die, and his name perish?'),
 (208022,8,19,41,6,'And if he come to see [me], he speaketh vanity: his heart gathereth iniquity to itself; [when] he goeth abroad, he telleth [it].'),
-(208023,8,19,41,7,'All that hate me whisper together against me: against me do they devise my hurt.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(208023,8,19,41,7,'All that hate me whisper together against me: against me do they devise my hurt.'),
 (208024,8,19,41,8,'An evil disease, [say they], cleaveth fast unto him: and [now] that he lieth he shall rise up no more.'),
 (208025,8,19,41,9,'Yea, mine own familiar friend, in whom I trusted, which did eat of my bread, hath lifted up [his] heel against me.'),
 (208026,8,19,41,10,'But thou, O LORD, be merciful unto me, and raise me up, that I may requite them.'),
@@ -14892,8 +14615,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (208070,8,19,44,25,'For our soul is bowed down to the dust: our belly cleaveth unto the earth.'),
 (208071,8,19,44,26,'Arise for our help, and redeem us for thy mercies'' sake.'),
 (208072,8,19,45,1,'<<To the chief Musician upon Shoshannim, for the sons of Korah, Maschil, A Song of loves.>> My heart is inditing a good matter: I speak of the things which I have made touching the king: my tongue [is] the pen of a ready writer.'),
-(208073,8,19,45,2,'Thou art fairer than the children of men: grace is poured into thy lips: therefore God hath blessed thee for ever.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(208073,8,19,45,2,'Thou art fairer than the children of men: grace is poured into thy lips: therefore God hath blessed thee for ever.'),
 (208074,8,19,45,3,'Gird thy sword upon [thy] thigh, O [most] mighty, with thy glory and thy majesty.'),
 (208075,8,19,45,4,'And in thy majesty ride prosperously because of truth and meekness [and] righteousness; and thy right hand shall teach thee terrible things.'),
 (208076,8,19,45,5,'Thine arrows [are] sharp in the heart of the king''s enemies; [whereby] the people fall under thee.'),
@@ -14943,8 +14665,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (208120,8,19,48,12,'Walk about Zion, and go round about her: tell the towers thereof.'),
 (208121,8,19,48,13,'Mark ye well her bulwarks, consider her palaces; that ye may tell [it] to the generation following.'),
 (208122,8,19,48,14,'For this God [is] our God for ever and ever: he will be our guide [even] unto death.'),
-(208123,8,19,49,1,'<<To the chief Musician, A Psalm for the sons of Korah.>> Hear this, all [ye] people; give ear, all [ye] inhabitants of the world:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(208123,8,19,49,1,'<<To the chief Musician, A Psalm for the sons of Korah.>> Hear this, all [ye] people; give ear, all [ye] inhabitants of the world:'),
 (208124,8,19,49,2,'Both low and high, rich and poor, together.'),
 (208125,8,19,49,3,'My mouth shall speak of wisdom; and the meditation of my heart [shall be] of understanding.'),
 (208126,8,19,49,4,'I will incline mine ear to a parable: I will open my dark saying upon the harp.'),
@@ -14994,8 +14715,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (208170,8,19,51,5,'Behold, I was shapen in iniquity; and in sin did my mother conceive me.'),
 (208171,8,19,51,6,'Behold, thou desirest truth in the inward parts: and in the hidden [part] thou shalt make me to know wisdom.'),
 (208172,8,19,51,7,'Purge me with hyssop, and I shall be clean: wash me, and I shall be whiter than snow.'),
-(208173,8,19,51,8,'Make me to hear joy and gladness; [that] the bones [which] thou hast broken may rejoice.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(208173,8,19,51,8,'Make me to hear joy and gladness; [that] the bones [which] thou hast broken may rejoice.'),
 (208174,8,19,51,9,'Hide thy face from my sins, and blot out all mine iniquities.'),
 (208175,8,19,51,10,'Create in me a clean heart, O God; and renew a right spirit within me.'),
 (208176,8,19,51,11,'Cast me not away from thy presence; and take not thy holy spirit from me.'),
@@ -15045,8 +14765,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (208220,8,19,55,14,'We took sweet counsel together, [and] walked unto the house of God in company.'),
 (208221,8,19,55,15,'Let death seize upon them, [and] let them go down quick into hell: for wickedness [is] in their dwellings, [and] among them.'),
 (208222,8,19,55,16,'As for me, I will call upon God; and the LORD shall save me.'),
-(208223,8,19,55,17,'Evening, and morning, and at noon, will I pray, and cry aloud: and he shall hear my voice.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(208223,8,19,55,17,'Evening, and morning, and at noon, will I pray, and cry aloud: and he shall hear my voice.'),
 (208224,8,19,55,18,'He hath delivered my soul in peace from the battle [that was] against me: for there were many with me.'),
 (208225,8,19,55,19,'God shall hear, and afflict them, even he that abideth of old. Selah. Because they have no changes, therefore they fear not God.'),
 (208226,8,19,55,20,'He hath put forth his hands against such as be at peace with him: he hath broken his covenant.'),
@@ -15096,8 +14815,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (208270,8,19,59,6,'They return at evening: they make a noise like a dog, and go round about the city.'),
 (208271,8,19,59,7,'Behold, they belch out with their mouth: swords [are] in their lips: for who, [say they], doth hear?'),
 (208272,8,19,59,8,'But thou, O LORD, shalt laugh at them; thou shalt have all the heathen in derision.'),
-(208273,8,19,59,9,'[Because of] his strength will I wait upon thee: for God [is] my defence.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(208273,8,19,59,9,'[Because of] his strength will I wait upon thee: for God [is] my defence.'),
 (208274,8,19,59,10,'The God of my mercy shall prevent me: God shall let me see [my desire] upon mine enemies.'),
 (208275,8,19,59,11,'Slay them not, lest my people forget: scatter them by thy power; and bring them down, O Lord our shield.'),
 (208276,8,19,59,12,'[For] the sin of their mouth [and] the words of their lips let them even be taken in their pride: and for cursing and lying [which] they speak.'),
@@ -15147,8 +14865,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (208320,8,19,63,7,'Because thou hast been my help, therefore in the shadow of thy wings will I rejoice.'),
 (208321,8,19,63,8,'My soul followeth hard after thee: thy right hand upholdeth me.'),
 (208322,8,19,63,9,'But those [that] seek my soul, to destroy [it], shall go into the lower parts of the earth.'),
-(208323,8,19,63,10,'They shall fall by the sword: they shall be a portion for foxes.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(208323,8,19,63,10,'They shall fall by the sword: they shall be a portion for foxes.'),
 (208324,8,19,63,11,'But the king shall rejoice in God; every one that sweareth by him shall glory: but the mouth of them that speak lies shall be stopped.'),
 (208325,8,19,64,1,'<<To the chief Musician, A Psalm of David.>> Hear my voice, O God, in my prayer: preserve my life from fear of the enemy.'),
 (208326,8,19,64,2,'Hide me from the secret counsel of the wicked; from the insurrection of the workers of iniquity:'),
@@ -15198,8 +14915,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (208370,8,19,67,3,'Let the people praise thee, O God; let all the people praise thee.'),
 (208371,8,19,67,4,'O let the nations be glad and sing for joy: for thou shalt judge the people righteously, and govern the nations upon earth. Selah.'),
 (208372,8,19,67,5,'Let the people praise thee, O God; let all the people praise thee.'),
-(208373,8,19,67,6,'[Then] shall the earth yield her increase; [and] God, [even] our own God, shall bless us.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(208373,8,19,67,6,'[Then] shall the earth yield her increase; [and] God, [even] our own God, shall bless us.'),
 (208374,8,19,67,7,'God shall bless us; and all the ends of the earth shall fear him.'),
 (208375,8,19,68,1,'<<To the chief Musician, A Psalm [or] Song of David.>> Let God arise, let his enemies be scattered: let them also that hate him flee before him.'),
 (208376,8,19,68,2,'As smoke is driven away, [so] drive [them] away: as wax melteth before the fire, [so] let the wicked perish at the presence of God.'),
@@ -15249,8 +14965,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (208420,8,19,69,11,'I made sackcloth also my garment; and I became a proverb to them.'),
 (208421,8,19,69,12,'They that sit in the gate speak against me; and I [was] the song of the drunkards.'),
 (208422,8,19,69,13,'But as for me, my prayer [is] unto thee, O LORD, [in] an acceptable time: O God, in the multitude of thy mercy hear me, in the truth of thy salvation.'),
-(208423,8,19,69,14,'Deliver me out of the mire, and let me not sink: let me be delivered from them that hate me, and out of the deep waters.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(208423,8,19,69,14,'Deliver me out of the mire, and let me not sink: let me be delivered from them that hate me, and out of the deep waters.'),
 (208424,8,19,69,15,'Let not the waterflood overflow me, neither let the deep swallow me up, and let not the pit shut her mouth upon me.'),
 (208425,8,19,69,16,'Hear me, O LORD; for thy lovingkindness [is] good: turn unto me according to the multitude of thy tender mercies.'),
 (208426,8,19,69,17,'And hide not thy face from thy servant; for I am in trouble: hear me speedily.'),
@@ -15351,8 +15066,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (208520,8,19,73,26,'My flesh and my heart faileth: [but] God [is] the strength of my heart, and my portion for ever.'),
 (208521,8,19,73,27,'For, lo, they that are far from thee shall perish: thou hast destroyed all them that go a whoring from thee.'),
 (208522,8,19,73,28,'But [it is] good for me to draw near to God: I have put my trust in the Lord GOD, that I may declare all thy works.'),
-(208523,8,19,74,1,'<<Maschil of Asaph.>> O God, why hast thou cast [us] off for ever? [why] doth thine anger smoke against the sheep of thy pasture?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(208523,8,19,74,1,'<<Maschil of Asaph.>> O God, why hast thou cast [us] off for ever? [why] doth thine anger smoke against the sheep of thy pasture?'),
 (208524,8,19,74,2,'Remember thy congregation, [which] thou hast purchased of old; the rod of thine inheritance, [which] thou hast redeemed; this mount Zion, wherein thou hast dwelt.'),
 (208525,8,19,74,3,'Lift up thy feet unto the perpetual desolations; [even] all [that] the enemy hath done wickedly in the sanctuary.'),
 (208526,8,19,74,4,'Thine enemies roar in the midst of thy congregations; they set up their ensigns [for] signs.'),
@@ -15402,8 +15116,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (208570,8,19,77,3,'I remembered God, and was troubled: I complained, and my spirit was overwhelmed. Selah.'),
 (208571,8,19,77,4,'Thou holdest mine eyes waking: I am so troubled that I cannot speak.'),
 (208572,8,19,77,5,'I have considered the days of old, the years of ancient times.'),
-(208573,8,19,77,6,'I call to remembrance my song in the night: I commune with mine own heart: and my spirit made diligent search.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(208573,8,19,77,6,'I call to remembrance my song in the night: I commune with mine own heart: and my spirit made diligent search.'),
 (208574,8,19,77,7,'Will the Lord cast off for ever? and will he be favourable no more?'),
 (208575,8,19,77,8,'Is his mercy clean gone for ever? doth [his] promise fail for evermore?'),
 (208576,8,19,77,9,'Hath God forgotten to be gracious? hath he in anger shut up his tender mercies? Selah.'),
@@ -15453,8 +15166,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (208620,8,19,78,33,'Therefore their days did he consume in vanity, and their years in trouble.'),
 (208621,8,19,78,34,'When he slew them, then they sought him: and they returned and inquired early after God.'),
 (208622,8,19,78,35,'And they remembered that God [was] their rock, and the high God their redeemer.'),
-(208623,8,19,78,36,'Nevertheless they did flatter him with their mouth, and they lied unto him with their tongues.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(208623,8,19,78,36,'Nevertheless they did flatter him with their mouth, and they lied unto him with their tongues.'),
 (208624,8,19,78,37,'For their heart was not right with him, neither were they stedfast in his covenant.'),
 (208625,8,19,78,38,'But he, [being] full of compassion, forgave [their] iniquity, and destroyed [them] not: yea, many a time turned he his anger away, and did not stir up all his wrath.'),
 (208626,8,19,78,39,'For he remembered that they [were but] flesh; a wind that passeth away, and cometh not again.'),
@@ -15504,8 +15216,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (208670,8,19,79,11,'Let the sighing of the prisoner come before thee; according to the greatness of thy power preserve thou those that are appointed to die;'),
 (208671,8,19,79,12,'And render unto our neighbours sevenfold into their bosom their reproach, wherewith they have reproached thee, O Lord.'),
 (208672,8,19,79,13,'So we thy people and sheep of thy pasture will give thee thanks for ever: we will shew forth thy praise to all generations.'),
-(208673,8,19,80,1,'<<To the chief Musician upon ShoshannimEduth, A Psalm of Asaph.>> Give ear, O Shepherd of Israel, thou that leadest Joseph like a flock; thou that dwellest [between] the cherubims, shine forth.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(208673,8,19,80,1,'<<To the chief Musician upon ShoshannimEduth, A Psalm of Asaph.>> Give ear, O Shepherd of Israel, thou that leadest Joseph like a flock; thou that dwellest [between] the cherubims, shine forth.'),
 (208674,8,19,80,2,'Before Ephraim and Benjamin and Manasseh stir up thy strength, and come [and] save us.'),
 (208675,8,19,80,3,'Turn us again, O God, and cause thy face to shine; and we shall be saved.'),
 (208676,8,19,80,4,'O LORD God of hosts, how long wilt thou be angry against the prayer of thy people?'),
@@ -15555,8 +15266,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (208720,8,19,83,5,'For they have consulted together with one consent: they are confederate against thee:'),
 (208721,8,19,83,6,'The tabernacles of Edom, and the Ishmaelites; of Moab, and the Hagarenes;'),
 (208722,8,19,83,7,'Gebal, and Ammon, and Amalek; the Philistines with the inhabitants of Tyre;'),
-(208723,8,19,83,8,'Assur also is joined with them: they have holpen the children of Lot. Selah.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(208723,8,19,83,8,'Assur also is joined with them: they have holpen the children of Lot. Selah.'),
 (208724,8,19,83,9,'Do unto them as [unto] the Midianites; as [to] Sisera, as [to] Jabin, at the brook of Kison:'),
 (208725,8,19,83,10,'[Which] perished at Endor: they became [as] dung for the earth.'),
 (208726,8,19,83,11,'Make their nobles like Oreb, and like Zeeb: yea, all their princes as Zebah, and as Zalmunna:'),
@@ -15606,8 +15316,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (208770,8,19,86,12,'I will praise thee, O Lord my God, with all my heart: and I will glorify thy name for evermore.'),
 (208771,8,19,86,13,'For great [is] thy mercy toward me: and thou hast delivered my soul from the lowest hell.'),
 (208772,8,19,86,14,'O God, the proud are risen against me, and the assemblies of violent [men] have sought after my soul; and have not set thee before them.'),
-(208773,8,19,86,15,'But thou, O Lord, [art] a God full of compassion, and gracious, longsuffering, and plenteous in mercy and truth.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(208773,8,19,86,15,'But thou, O Lord, [art] a God full of compassion, and gracious, longsuffering, and plenteous in mercy and truth.'),
 (208774,8,19,86,16,'O turn unto me, and have mercy upon me; give thy strength unto thy servant, and save the son of thine handmaid.'),
 (208775,8,19,86,17,'Shew me a token for good; that they which hate me may see [it], and be ashamed: because thou, LORD, hast holpen me, and comforted me.'),
 (208776,8,19,87,1,'<<A Psalm [or] Song for the sons of Korah.>> His foundation [is] in the holy mountains.'),
@@ -15657,8 +15366,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (208820,8,19,89,20,'I have found David my servant; with my holy oil have I anointed him:'),
 (208821,8,19,89,21,'With whom my hand shall be established: mine arm also shall strengthen him.'),
 (208822,8,19,89,22,'The enemy shall not exact upon him; nor the son of wickedness afflict him.'),
-(208823,8,19,89,23,'And I will beat down his foes before his face, and plague them that hate him.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(208823,8,19,89,23,'And I will beat down his foes before his face, and plague them that hate him.'),
 (208824,8,19,89,24,'But my faithfulness and my mercy [shall be] with him: and in my name shall his horn be exalted.'),
 (208825,8,19,89,25,'I will set his hand also in the sea, and his right hand in the rivers.'),
 (208826,8,19,89,26,'He shall cry unto me, Thou [art] my father, my God, and the rock of my salvation.'),
@@ -15708,8 +15416,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (208870,8,19,91,1,'He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty.'),
 (208871,8,19,91,2,'I will say of the LORD, [He is] my refuge and my fortress: my God; in him will I trust.'),
 (208872,8,19,91,3,'Surely he shall deliver thee from the snare of the fowler, [and] from the noisome pestilence.'),
-(208873,8,19,91,4,'He shall cover thee with his feathers, and under his wings shalt thou trust: his truth [shall be thy] shield and buckler.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(208873,8,19,91,4,'He shall cover thee with his feathers, and under his wings shalt thou trust: his truth [shall be thy] shield and buckler.'),
 (208874,8,19,91,5,'Thou shalt not be afraid for the terror by night; [nor] for the arrow [that] flieth by day;'),
 (208875,8,19,91,6,'[Nor] for the pestilence [that] walketh in darkness; [nor] for the destruction [that] wasteth at noonday.'),
 (208876,8,19,91,7,'A thousand shall fall at thy side, and ten thousand at thy right hand; [but] it shall not come nigh thee.'),
@@ -15759,8 +15466,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (208920,8,19,94,15,'But judgment shall return unto righteousness: and all the upright in heart shall follow it.'),
 (208921,8,19,94,16,'Who will rise up for me against the evildoers? [or] who will stand up for me against the workers of iniquity?'),
 (208922,8,19,94,17,'Unless the LORD [had been] my help, my soul had almost dwelt in silence.'),
-(208923,8,19,94,18,'When I said, My foot slippeth; thy mercy, O LORD, held me up.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(208923,8,19,94,18,'When I said, My foot slippeth; thy mercy, O LORD, held me up.'),
 (208924,8,19,94,19,'In the multitude of my thoughts within me thy comforts delight my soul.'),
 (208925,8,19,94,20,'Shall the throne of iniquity have fellowship with thee, which frameth mischief by a law?'),
 (208926,8,19,94,21,'They gather themselves together against the soul of the righteous, and condemn the innocent blood.'),
@@ -15810,8 +15516,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (208970,8,19,98,6,'With trumpets and sound of cornet make a joyful noise before the LORD, the King.'),
 (208971,8,19,98,7,'Let the sea roar, and the fulness thereof; the world, and they that dwell therein.'),
 (208972,8,19,98,8,'Let the floods clap [their] hands: let the hills be joyful together'),
-(208973,8,19,98,9,'Before the LORD; for he cometh to judge the earth: with righteousness shall he judge the world, and the people with equity.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(208973,8,19,98,9,'Before the LORD; for he cometh to judge the earth: with righteousness shall he judge the world, and the people with equity.'),
 (208974,8,19,99,1,'The LORD reigneth; let the people tremble: he sitteth [between] the cherubims; let the earth be moved.'),
 (208975,8,19,99,2,'The LORD [is] great in Zion; and he [is] high above all the people.'),
 (208976,8,19,99,3,'Let them praise thy great and terrible name; [for] it [is] holy.'),
@@ -15861,8 +15566,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (209020,8,19,102,25,'Of old hast thou laid the foundation of the earth: and the heavens [are] the work of thy hands.'),
 (209021,8,19,102,26,'They shall perish, but thou shalt endure: yea, all of them shall wax old like a garment; as a vesture shalt thou change them, and they shall be changed:'),
 (209022,8,19,102,27,'But thou [art] the same, and thy years shall have no end.'),
-(209023,8,19,102,28,'The children of thy servants shall continue, and their seed shall be established before thee.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(209023,8,19,102,28,'The children of thy servants shall continue, and their seed shall be established before thee.'),
 (209024,8,19,103,1,'<<[A Psalm] of David.>> Bless the LORD, O my soul: and all that is within me, [bless] his holy name.'),
 (209025,8,19,103,2,'Bless the LORD, O my soul, and forget not all his benefits:'),
 (209026,8,19,103,3,'Who forgiveth all thine iniquities; who healeth all thy diseases;'),
@@ -15912,8 +15616,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (209070,8,19,104,25,'[So is] this great and wide sea, wherein [are] things creeping innumerable, both small and great beasts.'),
 (209071,8,19,104,26,'There go the ships: [there is] that leviathan, [whom] thou hast made to play therein.'),
 (209072,8,19,104,27,'These wait all upon thee; that thou mayest give [them] their meat in due season.'),
-(209073,8,19,104,28,'[That] thou givest them they gather: thou openest thine hand, they are filled with good.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(209073,8,19,104,28,'[That] thou givest them they gather: thou openest thine hand, they are filled with good.'),
 (209074,8,19,104,29,'Thou hidest thy face, they are troubled: thou takest away their breath, they die, and return to their dust.'),
 (209075,8,19,104,30,'Thou sendest forth thy spirit, they are created: and thou renewest the face of the earth.'),
 (209076,8,19,104,31,'The glory of the LORD shall endure for ever: the LORD shall rejoice in his works.'),
@@ -15963,8 +15666,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (209120,8,19,105,40,'[The people] asked, and he brought quails, and satisfied them with the bread of heaven.'),
 (209121,8,19,105,41,'He opened the rock, and the waters gushed out; they ran in the dry places [like] a river.'),
 (209122,8,19,105,42,'For he remembered his holy promise, [and] Abraham his servant.'),
-(209123,8,19,105,43,'And he brought forth his people with joy, [and] his chosen with gladness:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(209123,8,19,105,43,'And he brought forth his people with joy, [and] his chosen with gladness:'),
 (209124,8,19,105,44,'And gave them the lands of the heathen: and they inherited the labour of the people;'),
 (209125,8,19,105,45,'That they might observe his statutes, and keep his laws. Praise ye the LORD.'),
 (209126,8,19,106,1,'Praise ye the LORD. O give thanks unto the LORD; for [he is] good: for his mercy [endureth] for ever.'),
@@ -16014,8 +15716,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (209170,8,19,106,45,'And he remembered for them his covenant, and repented according to the multitude of his mercies.'),
 (209171,8,19,106,46,'He made them also to be pitied of all those that carried them captives.'),
 (209172,8,19,106,47,'Save us, O LORD our God, and gather us from among the heathen, to give thanks unto thy holy name, [and] to triumph in thy praise.'),
-(209173,8,19,106,48,'Blessed [be] the LORD God of Israel from everlasting to everlasting: and let all the people say, Amen. Praise ye the LORD.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(209173,8,19,106,48,'Blessed [be] the LORD God of Israel from everlasting to everlasting: and let all the people say, Amen. Praise ye the LORD.'),
 (209174,8,19,107,1,'O give thanks unto the LORD, for [he is] good: for his mercy [endureth] for ever.'),
 (209175,8,19,107,2,'Let the redeemed of the LORD say [so], whom he hath redeemed from the hand of the enemy;'),
 (209176,8,19,107,3,'And gathered them out of the lands, from the east, and from the west, from the north, and from the south.'),
@@ -16065,8 +15766,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (209220,8,19,108,4,'For thy mercy [is] great above the heavens: and thy truth [reacheth] unto the clouds.'),
 (209221,8,19,108,5,'Be thou exalted, O God, above the heavens: and thy glory above all the earth;'),
 (209222,8,19,108,6,'That thy beloved may be delivered: save [with] thy right hand, and answer me.'),
-(209223,8,19,108,7,'God hath spoken in his holiness; I will rejoice, I will divide Shechem, and mete out the valley of Succoth.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(209223,8,19,108,7,'God hath spoken in his holiness; I will rejoice, I will divide Shechem, and mete out the valley of Succoth.'),
 (209224,8,19,108,8,'Gilead [is] mine; Manasseh [is] mine; Ephraim also [is] the strength of mine head; Judah [is] my lawgiver;'),
 (209225,8,19,108,9,'Moab [is] my washpot; over Edom will I cast out my shoe; over Philistia will I triumph.'),
 (209226,8,19,108,10,'Who will bring me into the strong city? who will lead me into Edom?'),
@@ -16116,8 +15816,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (209270,8,19,111,3,'His work [is] honourable and glorious: and his righteousness endureth for ever.'),
 (209271,8,19,111,4,'He hath made his wonderful works to be remembered: the LORD [is] gracious and full of compassion.'),
 (209272,8,19,111,5,'He hath given meat unto them that fear him: he will ever be mindful of his covenant.'),
-(209273,8,19,111,6,'He hath shewed his people the power of his works, that he may give them the heritage of the heathen.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(209273,8,19,111,6,'He hath shewed his people the power of his works, that he may give them the heritage of the heathen.'),
 (209274,8,19,111,7,'The works of his hands [are] verity and judgment; all his commandments [are] sure.'),
 (209275,8,19,111,8,'They stand fast for ever and ever, [and are] done in truth and uprightness.'),
 (209276,8,19,111,9,'He sent redemption unto his people: he hath commanded his covenant for ever: holy and reverend [is] his name.'),
@@ -16167,8 +15866,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (209320,8,19,115,16,'The heaven, [even] the heavens, [are] the LORD''s: but the earth hath he given to the children of men.'),
 (209321,8,19,115,17,'The dead praise not the LORD, neither any that go down into silence.'),
 (209322,8,19,115,18,'But we will bless the LORD from this time forth and for evermore. Praise the LORD.'),
-(209323,8,19,116,1,'I love the LORD, because he hath heard my voice [and] my supplications.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(209323,8,19,116,1,'I love the LORD, because he hath heard my voice [and] my supplications.'),
 (209324,8,19,116,2,'Because he hath inclined his ear unto me, therefore will I call upon [him] as long as I live.'),
 (209325,8,19,116,3,'The sorrows of death compassed me, and the pains of hell gat hold upon me: I found trouble and sorrow.'),
 (209326,8,19,116,4,'Then called I upon the name of the LORD; O LORD, I beseech thee, deliver my soul.'),
@@ -16218,8 +15916,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (209370,8,19,118,27,'God [is] the LORD, which hath shewed us light: bind the sacrifice with cords, [even] unto the horns of the altar.'),
 (209371,8,19,118,28,'Thou [art] my God, and I will praise thee: [thou art] my God, I will exalt thee.'),
 (209372,8,19,118,29,'O give thanks unto the LORD; for [he is] good: for his mercy [endureth] for ever.'),
-(209373,8,19,119,1,'ALEPH. Blessed [are] the undefiled in the way, who walk in the law of the LORD.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(209373,8,19,119,1,'ALEPH. Blessed [are] the undefiled in the way, who walk in the law of the LORD.'),
 (209374,8,19,119,2,'Blessed [are] they that keep his testimonies, [and that] seek him with the whole heart.'),
 (209375,8,19,119,3,'They also do no iniquity: they walk in his ways.'),
 (209376,8,19,119,4,'Thou hast commanded [us] to keep thy precepts diligently.'),
@@ -16269,8 +15966,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (209420,8,19,119,48,'My hands also will I lift up unto thy commandments, which I have loved; and I will meditate in thy statutes.'),
 (209421,8,19,119,49,'ZAIN. Remember the word unto thy servant, upon which thou hast caused me to hope.'),
 (209422,8,19,119,50,'This [is] my comfort in my affliction: for thy word hath quickened me.'),
-(209423,8,19,119,51,'The proud have had me greatly in derision: [yet] have I not declined from thy law.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(209423,8,19,119,51,'The proud have had me greatly in derision: [yet] have I not declined from thy law.'),
 (209424,8,19,119,52,'I remembered thy judgments of old, O LORD; and have comforted myself.'),
 (209425,8,19,119,53,'Horror hath taken hold upon me because of the wicked that forsake thy law.'),
 (209426,8,19,119,54,'Thy statutes have been my songs in the house of my pilgrimage.'),
@@ -16371,8 +16067,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (209520,8,19,119,148,'Mine eyes prevent the [night] watches, that I might meditate in thy word.'),
 (209521,8,19,119,149,'Hear my voice according unto thy lovingkindness: O LORD, quicken me according to thy judgment.'),
 (209522,8,19,119,150,'They draw nigh that follow after mischief: they are far from thy law.'),
-(209523,8,19,119,151,'Thou [art] near, O LORD; and all thy commandments [are] truth.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(209523,8,19,119,151,'Thou [art] near, O LORD; and all thy commandments [are] truth.'),
 (209524,8,19,119,152,'Concerning thy testimonies, I have known of old that thou hast founded them for ever.'),
 (209525,8,19,119,153,'RESH. Consider mine affliction, and deliver me: for I do not forget thy law.'),
 (209526,8,19,119,154,'Plead my cause, and deliver me: quicken me according to thy word.'),
@@ -16422,8 +16117,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (209570,8,19,122,7,'Peace be within thy walls, [and] prosperity within thy palaces.'),
 (209571,8,19,122,8,'For my brethren and companions'' sakes, I will now say, Peace [be] within thee.'),
 (209572,8,19,122,9,'Because of the house of the LORD our God I will seek thy good.'),
-(209573,8,19,123,1,'<<A Song of degrees.>> Unto thee lift I up mine eyes, O thou that dwellest in the heavens.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(209573,8,19,123,1,'<<A Song of degrees.>> Unto thee lift I up mine eyes, O thou that dwellest in the heavens.'),
 (209574,8,19,123,2,'Behold, as the eyes of servants [look] unto the hand of their masters, [and] as the eyes of a maiden unto the hand of her mistress; so our eyes [wait] upon the LORD our God, until that he have mercy upon us.'),
 (209575,8,19,123,3,'Have mercy upon us, O LORD, have mercy upon us: for we are exceedingly filled with contempt.'),
 (209576,8,19,123,4,'Our soul is exceedingly filled with the scorning of those that are at ease, [and] with the contempt of the proud.'),
@@ -16473,8 +16167,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (209620,8,19,130,6,'My soul [waiteth] for the Lord more than they that watch for the morning: [I say, more than] they that watch for the morning.'),
 (209621,8,19,130,7,'Let Israel hope in the LORD: for with the LORD [there is] mercy, and with him [is] plenteous redemption.'),
 (209622,8,19,130,8,'And he shall redeem Israel from all his iniquities.'),
-(209623,8,19,131,1,'<<A Song of degrees of David.>> LORD, my heart is not haughty, nor mine eyes lofty: neither do I exercise myself in great matters, or in things too high for me.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(209623,8,19,131,1,'<<A Song of degrees of David.>> LORD, my heart is not haughty, nor mine eyes lofty: neither do I exercise myself in great matters, or in things too high for me.'),
 (209624,8,19,131,2,'Surely I have behaved and quieted myself, as a child that is weaned of his mother: my soul [is] even as a weaned child.'),
 (209625,8,19,131,3,'Let Israel hope in the LORD from henceforth and for ever.'),
 (209626,8,19,132,1,'<<A Song of degrees.>> LORD, remember David, [and] all his afflictions:'),
@@ -16524,8 +16217,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (209670,8,19,135,21,'Blessed be the LORD out of Zion, which dwelleth at Jerusalem. Praise ye the LORD.'),
 (209671,8,19,136,1,'O give thanks unto the LORD; for [he is] good: for his mercy [endureth] for ever.'),
 (209672,8,19,136,2,'O give thanks unto the God of gods: for his mercy [endureth] for ever.'),
-(209673,8,19,136,3,'O give thanks to the Lord of lords: for his mercy [endureth] for ever.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(209673,8,19,136,3,'O give thanks to the Lord of lords: for his mercy [endureth] for ever.'),
 (209674,8,19,136,4,'To him who alone doeth great wonders: for his mercy [endureth] for ever.'),
 (209675,8,19,136,5,'To him that by wisdom made the heavens: for his mercy [endureth] for ever.'),
 (209676,8,19,136,6,'To him that stretched out the earth above the waters: for his mercy [endureth] for ever.'),
@@ -16575,8 +16267,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (209720,8,19,139,7,'Whither shall I go from thy spirit? or whither shall I flee from thy presence?'),
 (209721,8,19,139,8,'If I ascend up into heaven, thou [art] there: if I make my bed in hell, behold, thou [art there].'),
 (209722,8,19,139,9,'[If] I take the wings of the morning, [and] dwell in the uttermost parts of the sea;'),
-(209723,8,19,139,10,'Even there shall thy hand lead me, and thy right hand shall hold me.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(209723,8,19,139,10,'Even there shall thy hand lead me, and thy right hand shall hold me.'),
 (209724,8,19,139,11,'If I say, Surely the darkness shall cover me; even the night shall be light about me.'),
 (209725,8,19,139,12,'Yea, the darkness hideth not from thee; but the night shineth as the day: the darkness and the light [are] both alike [to thee].'),
 (209726,8,19,139,13,'For thou hast possessed my reins: thou hast covered me in my mother''s womb.'),
@@ -16626,8 +16317,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (209770,8,19,143,3,'For the enemy hath persecuted my soul; he hath smitten my life down to the ground; he hath made me to dwell in darkness, as those that have been long dead.'),
 (209771,8,19,143,4,'Therefore is my spirit overwhelmed within me; my heart within me is desolate.'),
 (209772,8,19,143,5,'I remember the days of old; I meditate on all thy works; I muse on the work of thy hands.'),
-(209773,8,19,143,6,'I stretch forth my hands unto thee: my soul [thirsteth] after thee, as a thirsty land. Selah.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(209773,8,19,143,6,'I stretch forth my hands unto thee: my soul [thirsteth] after thee, as a thirsty land. Selah.'),
 (209774,8,19,143,7,'Hear me speedily, O LORD: my spirit faileth: hide not thy face from me, lest I be like unto them that go down into the pit.'),
 (209775,8,19,143,8,'Cause me to hear thy lovingkindness in the morning; for in thee do I trust: cause me to know the way wherein I should walk; for I lift up my soul unto thee.'),
 (209776,8,19,143,9,'Deliver me, O LORD, from mine enemies: I flee unto thee to hide me.'),
@@ -16677,8 +16367,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (209820,8,19,146,5,'Happy [is he] that [hath] the God of Jacob for his help, whose hope [is] in the LORD his God:'),
 (209821,8,19,146,6,'Which made heaven, and earth, the sea, and all that therein [is]: which keepeth truth for ever:'),
 (209822,8,19,146,7,'Which executeth judgment for the oppressed: which giveth food to the hungry. The LORD looseth the prisoners:'),
-(209823,8,19,146,8,'The LORD openeth [the eyes of] the blind: the LORD raiseth them that are bowed down: the LORD loveth the righteous:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(209823,8,19,146,8,'The LORD openeth [the eyes of] the blind: the LORD raiseth them that are bowed down: the LORD loveth the righteous:'),
 (209824,8,19,146,9,'The LORD preserveth the strangers; he relieveth the fatherless and widow: but the way of the wicked he turneth upside down.'),
 (209825,8,19,146,10,'The LORD shall reign for ever, [even] thy God, O Zion, unto all generations. Praise ye the LORD.'),
 (209826,8,19,147,1,'Praise ye the LORD: for [it is] good to sing praises unto our God; for [it is] pleasant; [and] praise is comely.'),
@@ -16728,8 +16417,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (209870,8,19,150,2,'Praise him for his mighty acts: praise him according to his excellent greatness.'),
 (209871,8,19,150,3,'Praise him with the sound of the trumpet: praise him with the psaltery and harp.'),
 (209872,8,19,150,4,'Praise him with the timbrel and dance: praise him with stringed instruments and organs.'),
-(209873,8,19,150,5,'Praise him upon the loud cymbals: praise him upon the high sounding cymbals.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(209873,8,19,150,5,'Praise him upon the loud cymbals: praise him upon the high sounding cymbals.'),
 (209874,8,19,150,6,'Let every thing that hath breath praise the LORD. Praise ye the LORD.'),
 (209875,8,20,1,1,'The proverbs of Solomon the son of David, king of Israel;'),
 (209876,8,20,1,2,'To know wisdom and instruction; to perceive the words of understanding;'),
@@ -16779,8 +16467,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (209920,8,20,2,13,'Who leave the paths of uprightness, to walk in the ways of darkness;'),
 (209921,8,20,2,14,'Who rejoice to do evil, [and] delight in the frowardness of the wicked;'),
 (209922,8,20,2,15,'Whose ways [are] crooked, and [they] froward in their paths:'),
-(209923,8,20,2,16,'To deliver thee from the strange woman, [even] from the stranger [which] flattereth with her words;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(209923,8,20,2,16,'To deliver thee from the strange woman, [even] from the stranger [which] flattereth with her words;'),
 (209924,8,20,2,17,'Which forsaketh the guide of her youth, and forgetteth the covenant of her God.'),
 (209925,8,20,2,18,'For her house inclineth unto death, and her paths unto the dead.'),
 (209926,8,20,2,19,'None that go unto her return again, neither take they hold of the paths of life.'),
@@ -16830,8 +16517,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (209970,8,20,4,6,'Forsake her not, and she shall preserve thee: love her, and she shall keep thee.'),
 (209971,8,20,4,7,'Wisdom [is] the principal thing; [therefore] get wisdom: and with all thy getting get understanding.'),
 (209972,8,20,4,8,'Exalt her, and she shall promote thee: she shall bring thee to honour, when thou dost embrace her.'),
-(209973,8,20,4,9,'She shall give to thine head an ornament of grace: a crown of glory shall she deliver to thee.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(209973,8,20,4,9,'She shall give to thine head an ornament of grace: a crown of glory shall she deliver to thee.'),
 (209974,8,20,4,10,'Hear, O my son, and receive my sayings; and the years of thy life shall be many.'),
 (209975,8,20,4,11,'I have taught thee in the way of wisdom; I have led thee in right paths.'),
 (209976,8,20,4,12,'When thou goest, thy steps shall not be straitened; and when thou runnest, thou shalt not stumble.'),
@@ -16881,8 +16567,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (210020,8,20,6,6,'Go to the ant, thou sluggard; consider her ways, and be wise:'),
 (210021,8,20,6,7,'Which having no guide, overseer, or ruler,'),
 (210022,8,20,6,8,'Provideth her meat in the summer, [and] gathereth her food in the harvest.'),
-(210023,8,20,6,9,'How long wilt thou sleep, O sluggard? when wilt thou arise out of thy sleep?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(210023,8,20,6,9,'How long wilt thou sleep, O sluggard? when wilt thou arise out of thy sleep?'),
 (210024,8,20,6,10,'[Yet] a little sleep, a little slumber, a little folding of the hands to sleep:'),
 (210025,8,20,6,11,'So shall thy poverty come as one that travelleth, and thy want as an armed man.'),
 (210026,8,20,6,12,'A naughty person, a wicked man, walketh with a froward mouth.'),
@@ -16932,8 +16617,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (210070,8,20,7,21,'With her much fair speech she caused him to yield, with the flattering of her lips she forced him.'),
 (210071,8,20,7,22,'He goeth after her straightway, as an ox goeth to the slaughter, or as a fool to the correction of the stocks;'),
 (210072,8,20,7,23,'Till a dart strike through his liver; as a bird hasteth to the snare, and knoweth not that it [is] for his life.'),
-(210073,8,20,7,24,'Hearken unto me now therefore, O ye children, and attend to the words of my mouth.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(210073,8,20,7,24,'Hearken unto me now therefore, O ye children, and attend to the words of my mouth.'),
 (210074,8,20,7,25,'Let not thine heart decline to her ways, go not astray in her paths.'),
 (210075,8,20,7,26,'For she hath cast down many wounded: yea, many strong [men] have been slain by her.'),
 (210076,8,20,7,27,'Her house [is] the way to hell, going down to the chambers of death.'),
@@ -16983,8 +16667,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (210120,8,20,9,8,'Reprove not a scorner, lest he hate thee: rebuke a wise man, and he will love thee.'),
 (210121,8,20,9,9,'Give [instruction] to a wise [man], and he will be yet wiser: teach a just [man], and he will increase in learning.'),
 (210122,8,20,9,10,'The fear of the LORD [is] the beginning of wisdom: and the knowledge of the holy [is] understanding.'),
-(210123,8,20,9,11,'For by me thy days shall be multiplied, and the years of thy life shall be increased.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(210123,8,20,9,11,'For by me thy days shall be multiplied, and the years of thy life shall be increased.'),
 (210124,8,20,9,12,'If thou be wise, thou shalt be wise for thyself: but [if] thou scornest, thou alone shalt bear [it].'),
 (210125,8,20,9,13,'A foolish woman [is] clamorous: [she is] simple, and knoweth nothing.'),
 (210126,8,20,9,14,'For she sitteth at the door of her house, on a seat in the high places of the city,'),
@@ -17034,8 +16717,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (210170,8,20,11,8,'The righteous is delivered out of trouble, and the wicked cometh in his stead.'),
 (210171,8,20,11,9,'An hypocrite with [his] mouth destroyeth his neighbour: but through knowledge shall the just be delivered.'),
 (210172,8,20,11,10,'When it goeth well with the righteous, the city rejoiceth: and when the wicked perish, [there is] shouting.'),
-(210173,8,20,11,11,'By the blessing of the upright the city is exalted: but it is overthrown by the mouth of the wicked.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(210173,8,20,11,11,'By the blessing of the upright the city is exalted: but it is overthrown by the mouth of the wicked.'),
 (210174,8,20,11,12,'He that is void of wisdom despiseth his neighbour: but a man of understanding holdeth his peace.'),
 (210175,8,20,11,13,'A talebearer revealeth secrets: but he that is of a faithful spirit concealeth the matter.'),
 (210176,8,20,11,14,'Where no counsel [is], the people fall: but in the multitude of counsellers [there is] safety.'),
@@ -17085,8 +16767,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (210220,8,20,12,27,'The slothful [man] roasteth not that which he took in hunting: but the substance of a diligent man [is] precious.'),
 (210221,8,20,12,28,'In the way of righteousness [is] life; and [in] the pathway [thereof there is] no death.'),
 (210222,8,20,13,1,'A wise son [heareth] his father''s instruction: but a scorner heareth not rebuke.'),
-(210223,8,20,13,2,'A man shall eat good by the fruit of [his] mouth: but the soul of the transgressors [shall eat] violence.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(210223,8,20,13,2,'A man shall eat good by the fruit of [his] mouth: but the soul of the transgressors [shall eat] violence.'),
 (210224,8,20,13,3,'He that keepeth his mouth keepeth his life: [but] he that openeth wide his lips shall have destruction.'),
 (210225,8,20,13,4,'The soul of the sluggard desireth, and [hath] nothing: but the soul of the diligent shall be made fat.'),
 (210226,8,20,13,5,'A righteous [man] hateth lying: but a wicked [man] is loathsome, and cometh to shame.'),
@@ -17136,8 +16817,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (210270,8,20,14,24,'The crown of the wise [is] their riches: [but] the foolishness of fools [is] folly.'),
 (210271,8,20,14,25,'A true witness delivereth souls: but a deceitful [witness] speaketh lies.'),
 (210272,8,20,14,26,'In the fear of the LORD [is] strong confidence: and his children shall have a place of refuge.'),
-(210273,8,20,14,27,'The fear of the LORD [is] a fountain of life, to depart from the snares of death.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(210273,8,20,14,27,'The fear of the LORD [is] a fountain of life, to depart from the snares of death.'),
 (210274,8,20,14,28,'In the multitude of people [is] the king''s honour: but in the want of people [is] the destruction of the prince.'),
 (210275,8,20,14,29,'[He that is] slow to wrath [is] of great understanding: but [he that is] hasty of spirit exalteth folly.'),
 (210276,8,20,14,30,'A sound heart [is] the life of the flesh: but envy the rottenness of the bones.'),
@@ -17187,8 +16867,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (210320,8,20,16,6,'By mercy and truth iniquity is purged: and by the fear of the LORD [men] depart from evil.'),
 (210321,8,20,16,7,'When a man''s ways please the LORD, he maketh even his enemies to be at peace with him.'),
 (210322,8,20,16,8,'Better [is] a little with righteousness than great revenues without right.'),
-(210323,8,20,16,9,'A man''s heart deviseth his way: but the LORD directeth his steps.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(210323,8,20,16,9,'A man''s heart deviseth his way: but the LORD directeth his steps.'),
 (210324,8,20,16,10,'A divine sentence [is] in the lips of the king: his mouth transgresseth not in judgment.'),
 (210325,8,20,16,11,'A just weight and balance [are] the LORD''s: all the weights of the bag [are] his work.'),
 (210326,8,20,16,12,'[It is] an abomination to kings to commit wickedness: for the throne is established by righteousness.'),
@@ -17238,8 +16917,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (210370,8,20,17,23,'A wicked [man] taketh a gift out of the bosom to pervert the ways of judgment.'),
 (210371,8,20,17,24,'Wisdom [is] before him that hath understanding; but the eyes of a fool [are] in the ends of the earth.'),
 (210372,8,20,17,25,'A foolish son [is] a grief to his father, and bitterness to her that bare him.'),
-(210373,8,20,17,26,'Also to punish the just [is] not good, [nor] to strike princes for equity.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(210373,8,20,17,26,'Also to punish the just [is] not good, [nor] to strike princes for equity.'),
 (210374,8,20,17,27,'He that hath knowledge spareth his words: [and] a man of understanding is of an excellent spirit.'),
 (210375,8,20,17,28,'Even a fool, when he holdeth his peace, is counted wise: [and] he that shutteth his lips [is esteemed] a man of understanding.'),
 (210376,8,20,18,1,'Through desire a man, having separated himself, seeketh [and] intermeddleth with all wisdom.'),
@@ -17289,8 +16967,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (210420,8,20,19,21,'[There are] many devices in a man''s heart; nevertheless the counsel of the LORD, that shall stand.'),
 (210421,8,20,19,22,'The desire of a man [is] his kindness: and a poor man [is] better than a liar.'),
 (210422,8,20,19,23,'The fear of the LORD [tendeth] to life: and [he that hath it] shall abide satisfied; he shall not be visited with evil.'),
-(210423,8,20,19,24,'A slothful [man] hideth his hand in [his] bosom, and will not so much as bring it to his mouth again.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(210423,8,20,19,24,'A slothful [man] hideth his hand in [his] bosom, and will not so much as bring it to his mouth again.'),
 (210424,8,20,19,25,'Smite a scorner, and the simple will beware: and reprove one that hath understanding, [and] he will understand knowledge.'),
 (210425,8,20,19,26,'He that wasteth [his] father, [and] chaseth away [his] mother, [is] a son that causeth shame, and bringeth reproach.'),
 (210426,8,20,19,27,'Cease, my son, to hear the instruction [that causeth] to err from the words of knowledge.'),
@@ -17391,8 +17068,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (210520,8,20,23,2,'And put a knife to thy throat, if thou [be] a man given to appetite.'),
 (210521,8,20,23,3,'Be not desirous of his dainties: for they [are] deceitful meat.'),
 (210522,8,20,23,4,'Labour not to be rich: cease from thine own wisdom.'),
-(210523,8,20,23,5,'Wilt thou set thine eyes upon that which is not? for [riches] certainly make themselves wings; they fly away as an eagle toward heaven.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(210523,8,20,23,5,'Wilt thou set thine eyes upon that which is not? for [riches] certainly make themselves wings; they fly away as an eagle toward heaven.'),
 (210524,8,20,23,6,'Eat thou not the bread of [him that hath] an evil eye, neither desire thou his dainty meats:'),
 (210525,8,20,23,7,'For as he thinketh in his heart, so [is] he: Eat and drink, saith he to thee; but his heart [is] not with thee.'),
 (210526,8,20,23,8,'The morsel [which] thou hast eaten shalt thou vomit up, and lose thy sweet words.'),
@@ -17442,8 +17118,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (210570,8,20,24,17,'Rejoice not when thine enemy falleth, and let not thine heart be glad when he stumbleth:'),
 (210571,8,20,24,18,'Lest the LORD see [it], and it displease him, and he turn away his wrath from him.'),
 (210572,8,20,24,19,'Fret not thyself because of evil [men], neither be thou envious at the wicked;'),
-(210573,8,20,24,20,'For there shall be no reward to the evil [man]; the candle of the wicked shall be put out.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(210573,8,20,24,20,'For there shall be no reward to the evil [man]; the candle of the wicked shall be put out.'),
 (210574,8,20,24,21,'My son, fear thou the LORD and the king: [and] meddle not with them that are given to change:'),
 (210575,8,20,24,22,'For their calamity shall rise suddenly; and who knoweth the ruin of them both?'),
 (210576,8,20,24,23,'These [things] also [belong] to the wise. [It is] not good to have respect of persons in judgment.'),
@@ -17493,8 +17168,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (210620,8,20,26,5,'Answer a fool according to his folly, lest he be wise in his own conceit.'),
 (210621,8,20,26,6,'He that sendeth a message by the hand of a fool cutteth off the feet, [and] drinketh damage.'),
 (210622,8,20,26,7,'The legs of the lame are not equal: so [is] a parable in the mouth of fools.'),
-(210623,8,20,26,8,'As he that bindeth a stone in a sling, so [is] he that giveth honour to a fool.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(210623,8,20,26,8,'As he that bindeth a stone in a sling, so [is] he that giveth honour to a fool.'),
 (210624,8,20,26,9,'[As] a thorn goeth up into the hand of a drunkard, so [is] a parable in the mouth of fools.'),
 (210625,8,20,26,10,'The great [God] that formed all [things] both rewardeth the fool, and rewardeth transgressors.'),
 (210626,8,20,26,11,'As a dog returneth to his vomit, [so] a fool returneth to his folly.'),
@@ -17544,8 +17218,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (210670,8,20,27,27,'And [thou shalt have] goats'' milk enough for thy food, for the food of thy household, and [for] the maintenance for thy maidens.'),
 (210671,8,20,28,1,'The wicked flee when no man pursueth: but the righteous are bold as a lion.'),
 (210672,8,20,28,2,'For the transgression of a land many [are] the princes thereof: but by a man of understanding [and] knowledge the state [thereof] shall be prolonged.'),
-(210673,8,20,28,3,'A poor man that oppresseth the poor [is like] a sweeping rain which leaveth no food.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(210673,8,20,28,3,'A poor man that oppresseth the poor [is like] a sweeping rain which leaveth no food.'),
 (210674,8,20,28,4,'They that forsake the law praise the wicked: but such as keep the law contend with them.'),
 (210675,8,20,28,5,'Evil men understand not judgment: but they that seek the LORD understand all [things].'),
 (210676,8,20,28,6,'Better [is] the poor that walketh in his uprightness, than [he that is] perverse [in his] ways, though he [be] rich.'),
@@ -17595,8 +17268,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (210720,8,20,29,22,'An angry man stirreth up strife, and a furious man aboundeth in transgression.'),
 (210721,8,20,29,23,'A man''s pride shall bring him low: but honour shall uphold the humble in spirit.'),
 (210722,8,20,29,24,'Whoso is partner with a thief hateth his own soul: he heareth cursing, and bewrayeth [it] not.'),
-(210723,8,20,29,25,'The fear of man bringeth a snare: but whoso putteth his trust in the LORD shall be safe.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(210723,8,20,29,25,'The fear of man bringeth a snare: but whoso putteth his trust in the LORD shall be safe.'),
 (210724,8,20,29,26,'Many seek the ruler''s favour; but [every] man''s judgment [cometh] from the LORD.'),
 (210725,8,20,29,27,'An unjust man [is] an abomination to the just: and [he that is] upright in the way [is] abomination to the wicked.'),
 (210726,8,20,30,1,'The words of Agur the son of Jakeh, [even] the prophecy: the man spake unto Ithiel, even unto Ithiel and Ucal,'),
@@ -17646,8 +17318,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (210770,8,20,31,12,'She will do him good and not evil all the days of her life.'),
 (210771,8,20,31,13,'She seeketh wool, and flax, and worketh willingly with her hands.'),
 (210772,8,20,31,14,'She is like the merchants'' ships; she bringeth her food from afar.'),
-(210773,8,20,31,15,'She riseth also while it is yet night, and giveth meat to her household, and a portion to her maidens.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(210773,8,20,31,15,'She riseth also while it is yet night, and giveth meat to her household, and a portion to her maidens.'),
 (210774,8,20,31,16,'She considereth a field, and buyeth it: with the fruit of her hands she planteth a vineyard.'),
 (210775,8,20,31,17,'She girdeth her loins with strength, and strengtheneth her arms.'),
 (210776,8,20,31,18,'She perceiveth that her merchandise [is] good: her candle goeth not out by night.'),
@@ -17697,8 +17368,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (210820,8,21,2,13,'Then I saw that wisdom excelleth folly, as far as light excelleth darkness.'),
 (210821,8,21,2,14,'The wise man''s eyes [are] in his head; but the fool walketh in darkness: and I myself perceived also that one event happeneth to them all.'),
 (210822,8,21,2,15,'Then said I in my heart, As it happeneth to the fool, so it happeneth even to me; and why was I then more wise? Then I said in my heart, that this also [is] vanity.'),
-(210823,8,21,2,16,'For [there is] no remembrance of the wise more than of the fool for ever; seeing that which now [is] in the days to come shall all be forgotten. And how dieth the wise [man]? as the fool.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(210823,8,21,2,16,'For [there is] no remembrance of the wise more than of the fool for ever; seeing that which now [is] in the days to come shall all be forgotten. And how dieth the wise [man]? as the fool.'),
 (210824,8,21,2,17,'Therefore I hated life; because the work that is wrought under the sun [is] grievous unto me: for all [is] vanity and vexation of spirit.'),
 (210825,8,21,2,18,'Yea, I hated all my labour which I had taken under the sun: because I should leave it unto the man that shall be after me.'),
 (210826,8,21,2,19,'And who knoweth whether he shall be a wise [man] or a fool? yet shall he have rule over all my labour wherein I have laboured, and wherein I have shewed myself wise under the sun. This [is] also vanity.'),
@@ -17748,8 +17418,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (210870,8,21,4,15,'I considered all the living which walk under the sun, with the second child that shall stand up in his stead.'),
 (210871,8,21,4,16,'[There is] no end of all the people, [even] of all that have been before them: they also that come after shall not rejoice in him. Surely this also [is] vanity and vexation of spirit.'),
 (210872,8,21,5,1,'Keep thy foot when thou goest to the house of God, and be more ready to hear, than to give the sacrifice of fools: for they consider not that they do evil.'),
-(210873,8,21,5,2,'Be not rash with thy mouth, and let not thine heart be hasty to utter [any] thing before God: for God [is] in heaven, and thou upon earth: therefore let thy words be few.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(210873,8,21,5,2,'Be not rash with thy mouth, and let not thine heart be hasty to utter [any] thing before God: for God [is] in heaven, and thou upon earth: therefore let thy words be few.'),
 (210874,8,21,5,3,'For a dream cometh through the multitude of business; and a fool''s voice [is known] by multitude of words.'),
 (210875,8,21,5,4,'When thou vowest a vow unto God, defer not to pay it; for [he hath] no pleasure in fools: pay that which thou hast vowed.'),
 (210876,8,21,5,5,'Better [is it] that thou shouldest not vow, than that thou shouldest vow and not pay.'),
@@ -17799,8 +17468,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (210920,8,21,7,17,'Be not over much wicked, neither be thou foolish: why shouldest thou die before thy time?'),
 (210921,8,21,7,18,'[It is] good that thou shouldest take hold of this; yea, also from this withdraw not thine hand: for he that feareth God shall come forth of them all.'),
 (210922,8,21,7,19,'Wisdom strengtheneth the wise more than ten mighty [men] which are in the city.'),
-(210923,8,21,7,20,'For [there is] not a just man upon earth, that doeth good, and sinneth not.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(210923,8,21,7,20,'For [there is] not a just man upon earth, that doeth good, and sinneth not.'),
 (210924,8,21,7,21,'Also take no heed unto all words that are spoken; lest thou hear thy servant curse thee:'),
 (210925,8,21,7,22,'For oftentimes also thine own heart knoweth that thou thyself likewise hast cursed others.'),
 (210926,8,21,7,23,'All this have I proved by wisdom: I said, I will be wise; but it [was] far from me.'),
@@ -17850,8 +17518,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (210970,8,21,10,3,'Yea also, when he that is a fool walketh by the way, his wisdom faileth [him], and he saith to every one [that] he [is] a fool.'),
 (210971,8,21,10,4,'If the spirit of the ruler rise up against thee, leave not thy place; for yielding pacifieth great offences.'),
 (210972,8,21,10,5,'There is an evil [which] I have seen under the sun, as an error [which] proceedeth from the ruler:'),
-(210973,8,21,10,6,'Folly is set in great dignity, and the rich sit in low place.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(210973,8,21,10,6,'Folly is set in great dignity, and the rich sit in low place.'),
 (210974,8,21,10,7,'I have seen servants upon horses, and princes walking as servants upon the earth.'),
 (210975,8,21,10,8,'He that diggeth a pit shall fall into it; and whoso breaketh an hedge, a serpent shall bite him.'),
 (210976,8,21,10,9,'Whoso removeth stones shall be hurt therewith; [and] he that cleaveth wood shall be endangered thereby.'),
@@ -17901,8 +17568,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (211020,8,22,1,9,'I have compared thee, O my love, to a company of horses in Pharaoh''s chariots.'),
 (211021,8,22,1,10,'Thy cheeks are comely with rows [of jewels], thy neck with chains [of gold].'),
 (211022,8,22,1,11,'We will make thee borders of gold with studs of silver.'),
-(211023,8,22,1,12,'While the king [sitteth] at his table, my spikenard sendeth forth the smell thereof.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(211023,8,22,1,12,'While the king [sitteth] at his table, my spikenard sendeth forth the smell thereof.'),
 (211024,8,22,1,13,'A bundle of myrrh [is] my wellbeloved unto me; he shall lie all night betwixt my breasts.'),
 (211025,8,22,1,14,'My beloved [is] unto me [as] a cluster of camphire in the vineyards of Engedi.'),
 (211026,8,22,1,15,'Behold, thou [art] fair, my love; behold, thou [art] fair; thou [hast] doves'' eyes.'),
@@ -17952,8 +17618,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (211070,8,22,4,14,'Spikenard and saffron; calamus and cinnamon, with all trees of frankincense; myrrh and aloes, with all the chief spices:'),
 (211071,8,22,4,15,'A fountain of gardens, a well of living waters, and streams from Lebanon.'),
 (211072,8,22,4,16,'Awake, O north wind; and come, thou south; blow upon my garden, [that] the spices thereof may flow out. Let my beloved come into his garden, and eat his pleasant fruits.'),
-(211073,8,22,5,1,'I am come into my garden, my sister, [my] spouse: I have gathered my myrrh with my spice; I have eaten my honeycomb with my honey; I have drunk my wine with my milk: eat, O friends; drink, yea, drink abundantly, O beloved.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(211073,8,22,5,1,'I am come into my garden, my sister, [my] spouse: I have gathered my myrrh with my spice; I have eaten my honeycomb with my honey; I have drunk my wine with my milk: eat, O friends; drink, yea, drink abundantly, O beloved.'),
 (211074,8,22,5,2,'I sleep, but my heart waketh: [it is] the voice of my beloved that knocketh, [saying], Open to me, my sister, my love, my dove, my undefiled: for my head is filled with dew, [and] my locks with the drops of the night.'),
 (211075,8,22,5,3,'I have put off my coat; how shall I put it on? I have washed my feet; how shall I defile them?'),
 (211076,8,22,5,4,'My beloved put in his hand by the hole [of the door], and my bowels were moved for him.'),
@@ -18003,8 +17668,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (211120,8,22,8,6,'Set me as a seal upon thine heart, as a seal upon thine arm: for love [is] strong as death; jealousy [is] cruel as the grave: the coals thereof [are] coals of fire, [which hath] a most vehement flame.'),
 (211121,8,22,8,7,'Many waters cannot quench love, neither can the floods drown it: if a man would give all the substance of his house for love, it would utterly be contemned.'),
 (211122,8,22,8,8,'We have a little sister, and she hath no breasts: what shall we do for our sister in the day when she shall be spoken for?'),
-(211123,8,22,8,9,'If she [be] a wall, we will build upon her a palace of silver: and if she [be] a door, we will inclose her with boards of cedar.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(211123,8,22,8,9,'If she [be] a wall, we will build upon her a palace of silver: and if she [be] a door, we will inclose her with boards of cedar.'),
 (211124,8,22,8,10,'I [am] a wall, and my breasts like towers: then was I in his eyes as one that found favour.'),
 (211125,8,22,8,11,'Solomon had a vineyard at Baalhamon; he let out the vineyard unto keepers; every one for the fruit thereof was to bring a thousand [pieces] of silver.'),
 (211126,8,22,8,12,'My vineyard, which [is] mine, [is] before me: thou, O Solomon, [must have] a thousand, and those that keep the fruit thereof two hundred.'),
@@ -18054,8 +17718,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (211170,8,23,2,11,'The lofty looks of man shall be humbled, and the haughtiness of men shall be bowed down, and the LORD alone shall be exalted in that day.'),
 (211171,8,23,2,12,'For the day of the LORD of hosts [shall be] upon every [one that is] proud and lofty, and upon every [one that is] lifted up; and he shall be brought low:'),
 (211172,8,23,2,13,'And upon all the cedars of Lebanon, [that are] high and lifted up, and upon all the oaks of Bashan,'),
-(211173,8,23,2,14,'And upon all the high mountains, and upon all the hills [that are] lifted up,');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(211173,8,23,2,14,'And upon all the high mountains, and upon all the hills [that are] lifted up,'),
 (211174,8,23,2,15,'And upon every high tower, and upon every fenced wall,'),
 (211175,8,23,2,16,'And upon all the ships of Tarshish, and upon all pleasant pictures.'),
 (211176,8,23,2,17,'And the loftiness of man shall be bowed down, and the haughtiness of men shall be made low: and the LORD alone shall be exalted in that day.'),
@@ -18105,8 +17768,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (211220,8,23,5,7,'For the vineyard of the LORD of hosts [is] the house of Israel, and the men of Judah his pleasant plant: and he looked for judgment, but behold oppression; for righteousness, but behold a cry.'),
 (211221,8,23,5,8,'Woe unto them that join house to house, [that] lay field to field, till [there be] no place, that they may be placed alone in the midst of the earth!'),
 (211222,8,23,5,9,'In mine ears [said] the LORD of hosts, Of a truth many houses shall be desolate, [even] great and fair, without inhabitant.'),
-(211223,8,23,5,10,'Yea, ten acres of vineyard shall yield one bath, and the seed of an homer shall yield an ephah.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(211223,8,23,5,10,'Yea, ten acres of vineyard shall yield one bath, and the seed of an homer shall yield an ephah.'),
 (211224,8,23,5,11,'Woe unto them that rise up early in the morning, [that] they may follow strong drink; that continue until night, [till] wine inflame them!'),
 (211225,8,23,5,12,'And the harp, and the viol, the tabret, and pipe, and wine, are in their feasts: but they regard not the work of the LORD, neither consider the operation of his hands.'),
 (211226,8,23,5,13,'Therefore my people are gone into captivity, because [they have] no knowledge: and their honourable men [are] famished, and their multitude dried up with thirst.'),
@@ -18156,8 +17818,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (211270,8,23,7,14,'Therefore the Lord himself shall give you a sign; Behold, a virgin shall conceive, and bear a son, and shall call his name Immanuel.'),
 (211271,8,23,7,15,'Butter and honey shall he eat, that he may know to refuse the evil, and choose the good.'),
 (211272,8,23,7,16,'For before the child shall know to refuse the evil, and choose the good, the land that thou abhorrest shall be forsaken of both her kings.'),
-(211273,8,23,7,17,'The LORD shall bring upon thee, and upon thy people, and upon thy father''s house, days that have not come, from the day that Ephraim departed from Judah; [even] the king of Assyria.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(211273,8,23,7,17,'The LORD shall bring upon thee, and upon thy people, and upon thy father''s house, days that have not come, from the day that Ephraim departed from Judah; [even] the king of Assyria.'),
 (211274,8,23,7,18,'And it shall come to pass in that day, [that] the LORD shall hiss for the fly that [is] in the uttermost part of the rivers of Egypt, and for the bee that [is] in the land of Assyria.'),
 (211275,8,23,7,19,'And they shall come, and shall rest all of them in the desolate valleys, and in the holes of the rocks, and upon all thorns, and upon all bushes.'),
 (211276,8,23,7,20,'In the same day shall the Lord shave with a rasor that is hired, [namely], by them beyond the river, by the king of Assyria, the head, and the hair of the feet: and it shall also consume the beard.'),
@@ -18207,8 +17868,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (211320,8,23,9,17,'Therefore the Lord shall have no joy in their young men, neither shall have mercy on their fatherless and widows: for every one [is] an hypocrite and an evildoer, and every mouth speaketh folly. For all this his anger is not turned away, but his hand [is] stretched out still.'),
 (211321,8,23,9,18,'For wickedness burneth as the fire: it shall devour the briers and thorns, and shall kindle in the thickets of the forest, and they shall mount up [like] the lifting up of smoke.'),
 (211322,8,23,9,19,'Through the wrath of the LORD of hosts is the land darkened, and the people shall be as the fuel of the fire: no man shall spare his brother.'),
-(211323,8,23,9,20,'And he shall snatch on the right hand, and be hungry; and he shall eat on the left hand, and they shall not be satisfied: they shall eat every man the flesh of his own arm:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(211323,8,23,9,20,'And he shall snatch on the right hand, and be hungry; and he shall eat on the left hand, and they shall not be satisfied: they shall eat every man the flesh of his own arm:'),
 (211324,8,23,9,21,'Manasseh, Ephraim; and Ephraim, Manasseh: [and] they together [shall be] against Judah. For all this his anger is not turned away, but his hand [is] stretched out still.'),
 (211325,8,23,10,1,'Woe unto them that decree unrighteous decrees, and that write grievousness [which] they have prescribed;'),
 (211326,8,23,10,2,'To turn aside the needy from judgment, and to take away the right from the poor of my people, that widows may be their prey, and [that] they may rob the fatherless!'),
@@ -18258,8 +17918,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (211370,8,23,11,12,'And he shall set up an ensign for the nations, and shall assemble the outcasts of Israel, and gather together the dispersed of Judah from the four corners of the earth.'),
 (211371,8,23,11,13,'The envy also of Ephraim shall depart, and the adversaries of Judah shall be cut off: Ephraim shall not envy Judah, and Judah shall not vex Ephraim.'),
 (211372,8,23,11,14,'But they shall fly upon the shoulders of the Philistines toward the west; they shall spoil them of the east together: they shall lay their hand upon Edom and Moab; and the children of Ammon shall obey them.'),
-(211373,8,23,11,15,'And the LORD shall utterly destroy the tongue of the Egyptian sea; and with his mighty wind shall he shake his hand over the river, and shall smite it in the seven streams, and make [men] go over dryshod.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(211373,8,23,11,15,'And the LORD shall utterly destroy the tongue of the Egyptian sea; and with his mighty wind shall he shake his hand over the river, and shall smite it in the seven streams, and make [men] go over dryshod.'),
 (211374,8,23,11,16,'And there shall be an highway for the remnant of his people, which shall be left, from Assyria; like as it was to Israel in the day that he came up out of the land of Egypt.'),
 (211375,8,23,12,1,'And in that day thou shalt say, O LORD, I will praise thee: though thou wast angry with me, thine anger is turned away, and thou comfortedst me.'),
 (211376,8,23,12,2,'Behold, God [is] my salvation; I will trust, and not be afraid: for the LORD JEHOVAH [is] my strength and [my] song; he also is become my salvation.'),
@@ -18309,8 +17968,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (211420,8,23,14,18,'All the kings of the nations, [even] all of them, lie in glory, every one in his own house.'),
 (211421,8,23,14,19,'But thou art cast out of thy grave like an abominable branch, [and as] the raiment of those that are slain, thrust through with a sword, that go down to the stones of the pit; as a carcase trodden under feet.'),
 (211422,8,23,14,20,'Thou shalt not be joined with them in burial, because thou hast destroyed thy land, [and] slain thy people: the seed of evildoers shall never be renowned.'),
-(211423,8,23,14,21,'Prepare slaughter for his children for the iniquity of their fathers; that they do not rise, nor possess the land, nor fill the face of the world with cities.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(211423,8,23,14,21,'Prepare slaughter for his children for the iniquity of their fathers; that they do not rise, nor possess the land, nor fill the face of the world with cities.'),
 (211424,8,23,14,22,'For I will rise up against them, saith the LORD of hosts, and cut off from Babylon the name, and remnant, and son, and nephew, saith the LORD.'),
 (211425,8,23,14,23,'I will also make it a possession for the bittern, and pools of water: and I will sweep it with the besom of destruction, saith the LORD of hosts.'),
 (211426,8,23,14,24,'The LORD of hosts hath sworn, saying, Surely as I have thought, so shall it come to pass; and as I have purposed, [so] shall it stand:'),
@@ -18411,8 +18069,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (211520,8,23,21,11,'The burden of Dumah. He calleth to me out of Seir, Watchman, what of the night? Watchman, what of the night?'),
 (211521,8,23,21,12,'The watchman said, The morning cometh, and also the night: if ye will inquire, inquire ye: return, come.'),
 (211522,8,23,21,13,'The burden upon Arabia. In the forest in Arabia shall ye lodge, O ye travelling companies of Dedanim.'),
-(211523,8,23,21,14,'The inhabitants of the land of Tema brought water to him that was thirsty, they prevented with their bread him that fled.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(211523,8,23,21,14,'The inhabitants of the land of Tema brought water to him that was thirsty, they prevented with their bread him that fled.'),
 (211524,8,23,21,15,'For they fled from the swords, from the drawn sword, and from the bent bow, and from the grievousness of war.'),
 (211525,8,23,21,16,'For thus hath the Lord said unto me, Within a year, according to the years of an hireling, and all the glory of Kedar shall fail:'),
 (211526,8,23,21,17,'And the residue of the number of archers, the mighty men of the children of Kedar, shall be diminished: for the LORD God of Israel hath spoken [it].'),
@@ -18462,8 +18119,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (211570,8,23,24,1,'Behold, the LORD maketh the earth empty, and maketh it waste, and turneth it upside down, and scattereth abroad the inhabitants thereof.'),
 (211571,8,23,24,2,'And it shall be, as with the people, so with the priest; as with the servant, so with his master; as with the maid, so with her mistress; as with the buyer, so with the seller; as with the lender, so with the borrower; as with the taker of usury, so with the giver of usury to him.'),
 (211572,8,23,24,3,'The land shall be utterly emptied, and utterly spoiled: for the LORD hath spoken this word.'),
-(211573,8,23,24,4,'The earth mourneth [and] fadeth away, the world languisheth [and] fadeth away, the haughty people of the earth do languish.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(211573,8,23,24,4,'The earth mourneth [and] fadeth away, the world languisheth [and] fadeth away, the haughty people of the earth do languish.'),
 (211574,8,23,24,5,'The earth also is defiled under the inhabitants thereof; because they have transgressed the laws, changed the ordinance, broken the everlasting covenant.'),
 (211575,8,23,24,6,'Therefore hath the curse devoured the earth, and they that dwell therein are desolate: therefore the inhabitants of the earth are burned, and few men left.'),
 (211576,8,23,24,7,'The new wine mourneth, the vine languisheth, all the merryhearted do sigh.'),
@@ -18513,8 +18169,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (211620,8,23,26,16,'LORD, in trouble have they visited thee, they poured out a prayer [when] thy chastening [was] upon them.'),
 (211621,8,23,26,17,'Like as a woman with child, [that] draweth near the time of her delivery, is in pain, [and] crieth out in her pangs; so have we been in thy sight, O LORD.'),
 (211622,8,23,26,18,'We have been with child, we have been in pain, we have as it were brought forth wind; we have not wrought any deliverance in the earth; neither have the inhabitants of the world fallen.'),
-(211623,8,23,26,19,'Thy dead [men] shall live, [together with] my dead body shall they arise. Awake and sing, ye that dwell in dust: for thy dew [is as] the dew of herbs, and the earth shall cast out the dead.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(211623,8,23,26,19,'Thy dead [men] shall live, [together with] my dead body shall they arise. Awake and sing, ye that dwell in dust: for thy dew [is as] the dew of herbs, and the earth shall cast out the dead.'),
 (211624,8,23,26,20,'Come, my people, enter thou into thy chambers, and shut thy doors about thee: hide thyself as it were for a little moment, until the indignation be overpast.'),
 (211625,8,23,26,21,'For, behold, the LORD cometh out of his place to punish the inhabitants of the earth for their iniquity: the earth also shall disclose her blood, and shall no more cover her slain.'),
 (211626,8,23,27,1,'In that day the LORD with his sore and great and strong sword shall punish leviathan the piercing serpent, even leviathan that crooked serpent; and he shall slay the dragon that [is] in the sea.'),
@@ -18564,8 +18219,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (211670,8,23,29,3,'And I will camp against thee round about, and will lay siege against thee with a mount, and I will raise forts against thee.'),
 (211671,8,23,29,4,'And thou shalt be brought down, [and] shalt speak out of the ground, and thy speech shall be low out of the dust, and thy voice shall be, as of one that hath a familiar spirit, out of the ground, and thy speech shall whisper out of the dust.'),
 (211672,8,23,29,5,'Moreover the multitude of thy strangers shall be like small dust, and the multitude of the terrible ones [shall be] as chaff that passeth away: yea, it shall be at an instant suddenly.'),
-(211673,8,23,29,6,'Thou shalt be visited of the LORD of hosts with thunder, and with earthquake, and great noise, with storm and tempest, and the flame of devouring fire.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(211673,8,23,29,6,'Thou shalt be visited of the LORD of hosts with thunder, and with earthquake, and great noise, with storm and tempest, and the flame of devouring fire.'),
 (211674,8,23,29,7,'And the multitude of all the nations that fight against Ariel, even all that fight against her and her munition, and that distress her, shall be as a dream of a night vision.'),
 (211675,8,23,29,8,'It shall even be as when an hungry [man] dreameth, and, behold, he eateth; but he awaketh, and his soul is empty: or as when a thirsty man dreameth, and, behold, he drinketh; but he awaketh, and, behold, [he is] faint, and his soul hath appetite: so shall the multitude of all the nations be, that fight against mount Zion.'),
 (211676,8,23,29,9,'Stay yourselves, and wonder; cry ye out, and cry: they are drunken, but not with wine; they stagger, but not with strong drink.'),
@@ -18615,8 +18269,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (211720,8,23,30,29,'Ye shall have a song, as in the night [when] a holy solemnity is kept; and gladness of heart, as when one goeth with a pipe to come into the mountain of the LORD, to the mighty One of Israel.'),
 (211721,8,23,30,30,'And the LORD shall cause his glorious voice to be heard, and shall shew the lighting down of his arm, with the indignation of [his] anger, and [with] the flame of a devouring fire, [with] scattering, and tempest, and hailstones.'),
 (211722,8,23,30,31,'For through the voice of the LORD shall the Assyrian be beaten down, [which] smote with a rod.'),
-(211723,8,23,30,32,'And [in] every place where the grounded staff shall pass, which the LORD shall lay upon him, [it] shall be with tabrets and harps: and in battles of shaking will he fight with it.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(211723,8,23,30,32,'And [in] every place where the grounded staff shall pass, which the LORD shall lay upon him, [it] shall be with tabrets and harps: and in battles of shaking will he fight with it.'),
 (211724,8,23,30,33,'For Tophet [is] ordained of old; yea, for the king it is prepared; he hath made [it] deep [and] large: the pile thereof [is] fire and much wood; the breath of the LORD, like a stream of brimstone, doth kindle it.'),
 (211725,8,23,31,1,'Woe to them that go down to Egypt for help; and stay on horses, and trust in chariots, because [they are] many; and in horsemen, because they are very strong; but they look not unto the Holy One of Israel, neither seek the LORD!'),
 (211726,8,23,31,2,'Yet he also [is] wise, and will bring evil, and will not call back his words: but will arise against the house of the evildoers, and against the help of them that work iniquity.'),
@@ -18666,8 +18319,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (211770,8,23,33,17,'Thine eyes shall see the king in his beauty: they shall behold the land that is very far off.'),
 (211771,8,23,33,18,'Thine heart shall meditate terror. Where [is] the scribe? where [is] the receiver? where [is] he that counted the towers?'),
 (211772,8,23,33,19,'Thou shalt not see a fierce people, a people of a deeper speech than thou canst perceive; of a stammering tongue, [that thou canst] not understand.'),
-(211773,8,23,33,20,'Look upon Zion, the city of our solemnities: thine eyes shall see Jerusalem a quiet habitation, a tabernacle [that] shall not be taken down; not one of the stakes thereof shall ever be removed, neither shall any of the cords thereof be broken.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(211773,8,23,33,20,'Look upon Zion, the city of our solemnities: thine eyes shall see Jerusalem a quiet habitation, a tabernacle [that] shall not be taken down; not one of the stakes thereof shall ever be removed, neither shall any of the cords thereof be broken.'),
 (211774,8,23,33,21,'But there the glorious LORD [will be] unto us a place of broad rivers [and] streams; wherein shall go no galley with oars, neither shall gallant ship pass thereby.'),
 (211775,8,23,33,22,'For the LORD [is] our judge, the LORD [is] our lawgiver, the LORD [is] our king; he will save us.'),
 (211776,8,23,33,23,'Thy tacklings are loosed; they could not well strengthen their mast, they could not spread the sail: then is the prey of a great spoil divided; the lame take the prey.'),
@@ -18717,8 +18369,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (211820,8,23,36,16,'Hearken not to Hezekiah: for thus saith the king of Assyria, Make [an agreement] with me [by] a present, and come out to me: and eat ye every one of his vine, and every one of his fig tree, and drink ye every one the waters of his own cistern;'),
 (211821,8,23,36,17,'Until I come and take you away to a land like your own land, a land of corn and wine, a land of bread and vineyards.'),
 (211822,8,23,36,18,'[Beware] lest Hezekiah persuade you, saying, The LORD will deliver us. Hath any of the gods of the nations delivered his land out of the hand of the king of Assyria?'),
-(211823,8,23,36,19,'Where [are] the gods of Hamath and Arphad? where [are] the gods of Sepharvaim? and have they delivered Samaria out of my hand?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(211823,8,23,36,19,'Where [are] the gods of Hamath and Arphad? where [are] the gods of Sepharvaim? and have they delivered Samaria out of my hand?'),
 (211824,8,23,36,20,'Who [are they] among all the gods of these lands, that have delivered their land out of my hand, that the LORD should deliver Jerusalem out of my hand?'),
 (211825,8,23,36,21,'But they held their peace, and answered him not a word: for the king''s commandment was, saying, Answer him not.'),
 (211826,8,23,36,22,'Then came Eliakim, the son of Hilkiah, that [was] over the household, and Shebna the scribe, and Joah, the son of Asaph, the recorder, to Hezekiah with [their] clothes rent, and told him the words of Rabshakeh.'),
@@ -18768,8 +18419,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (211870,8,23,38,6,'And I will deliver thee and this city out of the hand of the king of Assyria: and I will defend this city.'),
 (211871,8,23,38,7,'And this [shall be] a sign unto thee from the LORD, that the LORD will do this thing that he hath spoken;'),
 (211872,8,23,38,8,'Behold, I will bring again the shadow of the degrees, which is gone down in the sun dial of Ahaz, ten degrees backward. So the sun returned ten degrees, by which degrees it was gone down.'),
-(211873,8,23,38,9,'The writing of Hezekiah king of Judah, when he had been sick, and was recovered of his sickness:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(211873,8,23,38,9,'The writing of Hezekiah king of Judah, when he had been sick, and was recovered of his sickness:'),
 (211874,8,23,38,10,'I said in the cutting off of my days, I shall go to the gates of the grave: I am deprived of the residue of my years.'),
 (211875,8,23,38,11,'I said, I shall not see the LORD, [even] the LORD, in the land of the living: I shall behold man no more with the inhabitants of the world.'),
 (211876,8,23,38,12,'Mine age is departed, and is removed from me as a shepherd''s tent: I have cut off like a weaver my life: he will cut me off with pining sickness: from day [even] to night wilt thou make an end of me.'),
@@ -18819,8 +18469,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (211920,8,23,40,26,'Lift up your eyes on high, and behold who hath created these [things], that bringeth out their host by number: he calleth them all by names by the greatness of his might, for that [he is] strong in power; not one faileth.'),
 (211921,8,23,40,27,'Why sayest thou, O Jacob, and speakest, O Israel, My way is hid from the LORD, and my judgment is passed over from my God?'),
 (211922,8,23,40,28,'Hast thou not known? hast thou not heard, [that] the everlasting God, the LORD, the Creator of the ends of the earth, fainteth not, neither is weary? [there is] no searching of his understanding.'),
-(211923,8,23,40,29,'He giveth power to the faint; and to [them that have] no might he increaseth strength.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(211923,8,23,40,29,'He giveth power to the faint; and to [them that have] no might he increaseth strength.'),
 (211924,8,23,40,30,'Even the youths shall faint and be weary, and the young men shall utterly fall:'),
 (211925,8,23,40,31,'But they that wait upon the LORD shall renew [their] strength; they shall mount up with wings as eagles; they shall run, and not be weary; [and] they shall walk, and not faint.'),
 (211926,8,23,41,1,'Keep silence before me, O islands; and let the people renew [their] strength: let them come near; then let them speak: let us come near together to judgment.'),
@@ -18870,8 +18519,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (211970,8,23,42,16,'And I will bring the blind by a way [that] they knew not; I will lead them in paths [that] they have not known: I will make darkness light before them, and crooked things straight. These things will I do unto them, and not forsake them.'),
 (211971,8,23,42,17,'They shall be turned back, they shall be greatly ashamed, that trust in graven images, that say to the molten images, Ye [are] our gods.'),
 (211972,8,23,42,18,'Hear, ye deaf; and look, ye blind, that ye may see.'),
-(211973,8,23,42,19,'Who [is] blind, but my servant? or deaf, as my messenger [that] I sent? who [is] blind as [he that is] perfect, and blind as the LORD''s servant?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(211973,8,23,42,19,'Who [is] blind, but my servant? or deaf, as my messenger [that] I sent? who [is] blind as [he that is] perfect, and blind as the LORD''s servant?'),
 (211974,8,23,42,20,'Seeing many things, but thou observest not; opening the ears, but he heareth not.'),
 (211975,8,23,42,21,'The LORD is well pleased for his righteousness'' sake; he will magnify the law, and make [it] honourable.'),
 (211976,8,23,42,22,'But this [is] a people robbed and spoiled; [they are] all of them snared in holes, and they are hid in prison houses: they are for a prey, and none delivereth; for a spoil, and none saith, Restore.'),
@@ -18921,8 +18569,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (212020,8,23,44,13,'The carpenter stretcheth out [his] rule; he marketh it out with a line; he fitteth it with planes, and he marketh it out with the compass, and maketh it after the figure of a man, according to the beauty of a man; that it may remain in the house.'),
 (212021,8,23,44,14,'He heweth him down cedars, and taketh the cypress and the oak, which he strengtheneth for himself among the trees of the forest: he planteth an ash, and the rain doth nourish [it].'),
 (212022,8,23,44,15,'Then shall it be for a man to burn: for he will take thereof, and warm himself; yea, he kindleth [it], and baketh bread; yea, he maketh a god, and worshippeth [it]; he maketh it a graven image, and falleth down thereto.'),
-(212023,8,23,44,16,'He burneth part thereof in the fire; with part thereof he eateth flesh; he roasteth roast, and is satisfied: yea, he warmeth [himself], and saith, Aha, I am warm, I have seen the fire:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(212023,8,23,44,16,'He burneth part thereof in the fire; with part thereof he eateth flesh; he roasteth roast, and is satisfied: yea, he warmeth [himself], and saith, Aha, I am warm, I have seen the fire:'),
 (212024,8,23,44,17,'And the residue thereof he maketh a god, [even] his graven image: he falleth down unto it, and worshippeth [it], and prayeth unto it, and saith, Deliver me; for thou [art] my god.'),
 (212025,8,23,44,18,'They have not known nor understood: for he hath shut their eyes, that they cannot see; [and] their hearts, that they cannot understand.'),
 (212026,8,23,44,19,'And none considereth in his heart, neither [is there] knowledge nor understanding to say, I have burned part of it in the fire; yea, also I have baked bread upon the coals thereof; I have roasted flesh, and eaten [it]: and shall I make the residue thereof an abomination? shall I fall down to the stock of a tree?'),
@@ -18972,8 +18619,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (212070,8,23,46,10,'Declaring the end from the beginning, and from ancient times [the things] that are not [yet] done, saying, My counsel shall stand, and I will do all my pleasure:'),
 (212071,8,23,46,11,'Calling a ravenous bird from the east, the man that executeth my counsel from a far country: yea, I have spoken [it], I will also bring it to pass; I have purposed [it], I will also do it.'),
 (212072,8,23,46,12,'Hearken unto me, ye stouthearted, that [are] far from righteousness:'),
-(212073,8,23,46,13,'I bring near my righteousness; it shall not be far off, and my salvation shall not tarry: and I will place salvation in Zion for Israel my glory.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(212073,8,23,46,13,'I bring near my righteousness; it shall not be far off, and my salvation shall not tarry: and I will place salvation in Zion for Israel my glory.'),
 (212074,8,23,47,1,'Come down, and sit in the dust, O virgin daughter of Babylon, sit on the ground: [there is] no throne, O daughter of the Chaldeans: for thou shalt no more be called tender and delicate.'),
 (212075,8,23,47,2,'Take the millstones, and grind meal: uncover thy locks, make bare the leg, uncover the thigh, pass over the rivers.'),
 (212076,8,23,47,3,'Thy nakedness shall be uncovered, yea, thy shame shall be seen: I will take vengeance, and I will not meet [thee as] a man.'),
@@ -19023,8 +18669,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (212120,8,23,49,10,'They shall not hunger nor thirst; neither shall the heat nor sun smite them: for he that hath mercy on them shall lead them, even by the springs of water shall he guide them.'),
 (212121,8,23,49,11,'And I will make all my mountains a way, and my highways shall be exalted.'),
 (212122,8,23,49,12,'Behold, these shall come from far: and, lo, these from the north and from the west; and these from the land of Sinim.'),
-(212123,8,23,49,13,'Sing, O heavens; and be joyful, O earth; and break forth into singing, O mountains: for the LORD hath comforted his people, and will have mercy upon his afflicted.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(212123,8,23,49,13,'Sing, O heavens; and be joyful, O earth; and break forth into singing, O mountains: for the LORD hath comforted his people, and will have mercy upon his afflicted.'),
 (212124,8,23,49,14,'But Zion said, The LORD hath forsaken me, and my Lord hath forgotten me.'),
 (212125,8,23,49,15,'Can a woman forget her sucking child, that she should not have compassion on the son of her womb? yea, they may forget, yet will I not forget thee.'),
 (212126,8,23,49,16,'Behold, I have graven thee upon the palms of [my] hands; thy walls [are] continually before me.'),
@@ -19074,8 +18719,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (212170,8,23,51,23,'But I will put it into the hand of them that afflict thee; which have said to thy soul, Bow down, that we may go over: and thou hast laid thy body as the ground, and as the street, to them that went over.'),
 (212171,8,23,52,1,'Awake, awake; put on thy strength, O Zion; put on thy beautiful garments, O Jerusalem, the holy city: for henceforth there shall no more come into thee the uncircumcised and the unclean.'),
 (212172,8,23,52,2,'Shake thyself from the dust; arise, [and] sit down, O Jerusalem: loose thyself from the bands of thy neck, O captive daughter of Zion.'),
-(212173,8,23,52,3,'For thus saith the LORD, Ye have sold yourselves for nought; and ye shall be redeemed without money.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(212173,8,23,52,3,'For thus saith the LORD, Ye have sold yourselves for nought; and ye shall be redeemed without money.'),
 (212174,8,23,52,4,'For thus saith the Lord GOD, My people went down aforetime into Egypt to sojourn there; and the Assyrian oppressed them without cause.'),
 (212175,8,23,52,5,'Now therefore, what have I here, saith the LORD, that my people is taken away for nought? they that rule over them make them to howl, saith the LORD; and my name continually every day [is] blasphemed.'),
 (212176,8,23,52,6,'Therefore my people shall know my name: therefore [they shall know] in that day that I [am] he that doth speak: behold, [it is] I.'),
@@ -19125,8 +18769,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (212220,8,23,55,6,'Seek ye the LORD while he may be found, call ye upon him while he is near:'),
 (212221,8,23,55,7,'Let the wicked forsake his way, and the unrighteous man his thoughts: and let him return unto the LORD, and he will have mercy upon him; and to our God, for he will abundantly pardon.'),
 (212222,8,23,55,8,'For my thoughts [are] not your thoughts, neither [are] your ways my ways, saith the LORD.'),
-(212223,8,23,55,9,'For [as] the heavens are higher than the earth, so are my ways higher than your ways, and my thoughts than your thoughts.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(212223,8,23,55,9,'For [as] the heavens are higher than the earth, so are my ways higher than your ways, and my thoughts than your thoughts.'),
 (212224,8,23,55,10,'For as the rain cometh down, and the snow from heaven, and returneth not thither, but watereth the earth, and maketh it bring forth and bud, that it may give seed to the sower, and bread to the eater:'),
 (212225,8,23,55,11,'So shall my word be that goeth forth out of my mouth: it shall not return unto me void, but it shall accomplish that which I please, and it shall prosper [in the thing] whereto I sent it.'),
 (212226,8,23,55,12,'For ye shall go out with joy, and be led forth with peace: the mountains and the hills shall break forth before you into singing, and all the trees of the field shall clap [their] hands.'),
@@ -19176,8 +18819,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (212270,8,23,58,10,'And [if] thou draw out thy soul to the hungry, and satisfy the afflicted soul; then shall thy light rise in obscurity, and thy darkness [be] as the noonday:'),
 (212271,8,23,58,11,'And the LORD shall guide thee continually, and satisfy thy soul in drought, and make fat thy bones: and thou shalt be like a watered garden, and like a spring of water, whose waters fail not.'),
 (212272,8,23,58,12,'And [they that shall be] of thee shall build the old waste places: thou shalt raise up the foundations of many generations; and thou shalt be called, The repairer of the breach, The restorer of paths to dwell in.'),
-(212273,8,23,58,13,'If thou turn away thy foot from the sabbath, [from] doing thy pleasure on my holy day; and call the sabbath a delight, the holy of the LORD, honourable; and shalt honour him, not doing thine own ways, nor finding thine own pleasure, nor speaking [thine own] words:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(212273,8,23,58,13,'If thou turn away thy foot from the sabbath, [from] doing thy pleasure on my holy day; and call the sabbath a delight, the holy of the LORD, honourable; and shalt honour him, not doing thine own ways, nor finding thine own pleasure, nor speaking [thine own] words:'),
 (212274,8,23,58,14,'Then shalt thou delight thyself in the LORD; and I will cause thee to ride upon the high places of the earth, and feed thee with the heritage of Jacob thy father: for the mouth of the LORD hath spoken [it].'),
 (212275,8,23,59,1,'Behold, the LORD''s hand is not shortened, that it cannot save; neither his ear heavy, that it cannot hear:'),
 (212276,8,23,59,2,'But your iniquities have separated between you and your God, and your sins have hid [his] face from you, that he will not hear.'),
@@ -19227,8 +18869,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (212320,8,23,61,3,'To appoint unto them that mourn in Zion, to give unto them beauty for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness; that they might be called trees of righteousness, the planting of the LORD, that he might be glorified.'),
 (212321,8,23,61,4,'And they shall build the old wastes, they shall raise up the former desolations, and they shall repair the waste cities, the desolations of many generations.'),
 (212322,8,23,61,5,'And strangers shall stand and feed your flocks, and the sons of the alien [shall be] your plowmen and your vinedressers.'),
-(212323,8,23,61,6,'But ye shall be named the Priests of the LORD: [men] shall call you the Ministers of our God: ye shall eat the riches of the Gentiles, and in their glory shall ye boast yourselves.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(212323,8,23,61,6,'But ye shall be named the Priests of the LORD: [men] shall call you the Ministers of our God: ye shall eat the riches of the Gentiles, and in their glory shall ye boast yourselves.'),
 (212324,8,23,61,7,'For your shame [ye shall have] double; and [for] confusion they shall rejoice in their portion: therefore in their land they shall possess the double: everlasting joy shall be unto them.'),
 (212325,8,23,61,8,'For I the LORD love judgment, I hate robbery for burnt offering; and I will direct their work in truth, and I will make an everlasting covenant with them.'),
 (212326,8,23,61,9,'And their seed shall be known among the Gentiles, and their offspring among the people: all that see them shall acknowledge them, that they [are] the seed [which] the LORD hath blessed.'),
@@ -19278,8 +18919,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (212370,8,23,64,11,'Our holy and our beautiful house, where our fathers praised thee, is burned up with fire: and all our pleasant things are laid waste.'),
 (212371,8,23,64,12,'Wilt thou refrain thyself for these [things], O LORD? wilt thou hold thy peace, and afflict us very sore?'),
 (212372,8,23,65,1,'I am sought of [them that] asked not [for me]; I am found of [them that] sought me not: I said, Behold me, behold me, unto a nation [that] was not called by my name.'),
-(212373,8,23,65,2,'I have spread out my hands all the day unto a rebellious people, which walketh in a way [that was] not good, after their own thoughts;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(212373,8,23,65,2,'I have spread out my hands all the day unto a rebellious people, which walketh in a way [that was] not good, after their own thoughts;'),
 (212374,8,23,65,3,'A people that provoketh me to anger continually to my face; that sacrificeth in gardens, and burneth incense upon altars of brick;'),
 (212375,8,23,65,4,'Which remain among the graves, and lodge in the monuments, which eat swine''s flesh, and broth of abominable [things is in] their vessels;'),
 (212376,8,23,65,5,'Which say, Stand by thyself, come not near to me; for I am holier than thou. These [are] a smoke in my nose, a fire that burneth all the day.'),
@@ -19329,8 +18969,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (212420,8,23,66,24,'And they shall go forth, and look upon the carcases of the men that have transgressed against me: for their worm shall not die, neither shall their fire be quenched; and they shall be an abhorring unto all flesh.'),
 (212421,8,24,1,1,'The words of Jeremiah the son of Hilkiah, of the priests that [were] in Anathoth in the land of Benjamin:'),
 (212422,8,24,1,2,'To whom the word of the LORD came in the days of Josiah the son of Amon king of Judah, in the thirteenth year of his reign.'),
-(212423,8,24,1,3,'It came also in the days of Jehoiakim the son of Josiah king of Judah, unto the end of the eleventh year of Zedekiah the son of Josiah king of Judah, unto the carrying away of Jerusalem captive in the fifth month.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(212423,8,24,1,3,'It came also in the days of Jehoiakim the son of Josiah king of Judah, unto the end of the eleventh year of Zedekiah the son of Josiah king of Judah, unto the carrying away of Jerusalem captive in the fifth month.'),
 (212424,8,24,1,4,'Then the word of the LORD came unto me, saying,'),
 (212425,8,24,1,5,'Before I formed thee in the belly I knew thee; and before thou camest forth out of the womb I sanctified thee, [and] I ordained thee a prophet unto the nations.'),
 (212426,8,24,1,6,'Then said I, Ah, Lord GOD! behold, I cannot speak: for I [am] a child.'),
@@ -19431,8 +19070,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (212520,8,24,4,19,'My bowels, my bowels! I am pained at my very heart; my heart maketh a noise in me; I cannot hold my peace, because thou hast heard, O my soul, the sound of the trumpet, the alarm of war.'),
 (212521,8,24,4,20,'Destruction upon destruction is cried; for the whole land is spoiled: suddenly are my tents spoiled, [and] my curtains in a moment.'),
 (212522,8,24,4,21,'How long shall I see the standard, [and] hear the sound of the trumpet?'),
-(212523,8,24,4,22,'For my people [is] foolish, they have not known me; they [are] sottish children, and they have none understanding: they [are] wise to do evil, but to do good they have no knowledge.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(212523,8,24,4,22,'For my people [is] foolish, they have not known me; they [are] sottish children, and they have none understanding: they [are] wise to do evil, but to do good they have no knowledge.'),
 (212524,8,24,4,23,'I beheld the earth, and, lo, [it was] without form, and void; and the heavens, and they [had] no light.'),
 (212525,8,24,4,24,'I beheld the mountains, and, lo, they trembled, and all the hills moved lightly.'),
 (212526,8,24,4,25,'I beheld, and, lo, [there was] no man, and all the birds of the heavens were fled.'),
@@ -19482,8 +19120,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (212570,8,24,6,7,'As a fountain casteth out her waters, so she casteth out her wickedness: violence and spoil is heard in her; before me continually [is] grief and wounds.'),
 (212571,8,24,6,8,'Be thou instructed, O Jerusalem, lest my soul depart from thee; lest I make thee desolate, a land not inhabited.'),
 (212572,8,24,6,9,'Thus saith the LORD of hosts, They shall throughly glean the remnant of Israel as a vine: turn back thine hand as a grapegatherer into the baskets.'),
-(212573,8,24,6,10,'To whom shall I speak, and give warning, that they may hear? behold, their ear [is] uncircumcised, and they cannot hearken: behold, the word of the LORD is unto them a reproach; they have no delight in it.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(212573,8,24,6,10,'To whom shall I speak, and give warning, that they may hear? behold, their ear [is] uncircumcised, and they cannot hearken: behold, the word of the LORD is unto them a reproach; they have no delight in it.'),
 (212574,8,24,6,11,'Therefore I am full of the fury of the LORD; I am weary with holding in: I will pour it out upon the children abroad, and upon the assembly of young men together: for even the husband with the wife shall be taken, the aged with [him that is] full of days.'),
 (212575,8,24,6,12,'And their houses shall be turned unto others, [with their] fields and wives together: for I will stretch out my hand upon the inhabitants of the land, saith the LORD.'),
 (212576,8,24,6,13,'For from the least of them even unto the greatest of them every one [is] given to covetousness; and from the prophet even unto the priest every one dealeth falsely.'),
@@ -19533,8 +19170,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (212620,8,24,7,27,'Therefore thou shalt speak all these words unto them; but they will not hearken to thee: thou shalt also call unto them; but they will not answer thee.'),
 (212621,8,24,7,28,'But thou shalt say unto them, This [is] a nation that obeyeth not the voice of the LORD their God, nor receiveth correction: truth is perished, and is cut off from their mouth.'),
 (212622,8,24,7,29,'Cut off thine hair, [O Jerusalem], and cast [it] away, and take up a lamentation on high places; for the LORD hath rejected and forsaken the generation of his wrath.'),
-(212623,8,24,7,30,'For the children of Judah have done evil in my sight, saith the LORD: they have set their abominations in the house which is called by my name, to pollute it.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(212623,8,24,7,30,'For the children of Judah have done evil in my sight, saith the LORD: they have set their abominations in the house which is called by my name, to pollute it.'),
 (212624,8,24,7,31,'And they have built the high places of Tophet, which [is] in the valley of the son of Hinnom, to burn their sons and their daughters in the fire; which I commanded [them] not, neither came it into my heart.'),
 (212625,8,24,7,32,'Therefore, behold, the days come, saith the LORD, that it shall no more be called Tophet, nor the valley of the son of Hinnom, but the valley of slaughter: for they shall bury in Tophet, till there be no place.'),
 (212626,8,24,7,33,'And the carcases of this people shall be meat for the fowls of the heaven, and for the beasts of the earth; and none shall fray [them] away.'),
@@ -19584,8 +19220,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (212670,8,24,9,21,'For death is come up into our windows, [and] is entered into our palaces, to cut off the children from without, [and] the young men from the streets.'),
 (212671,8,24,9,22,'Speak, Thus saith the LORD, Even the carcases of men shall fall as dung upon the open field, and as the handful after the harvestman, and none shall gather [them].'),
 (212672,8,24,9,23,'Thus saith the LORD, Let not the wise [man] glory in his wisdom, neither let the mighty [man] glory in his might, let not the rich [man] glory in his riches:'),
-(212673,8,24,9,24,'But let him that glorieth glory in this, that he understandeth and knoweth me, that I [am] the LORD which exercise lovingkindness, judgment, and righteousness, in the earth: for in these [things] I delight, saith the LORD.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(212673,8,24,9,24,'But let him that glorieth glory in this, that he understandeth and knoweth me, that I [am] the LORD which exercise lovingkindness, judgment, and righteousness, in the earth: for in these [things] I delight, saith the LORD.'),
 (212674,8,24,9,25,'Behold, the days come, saith the LORD, that I will punish all [them which are] circumcised with the uncircumcised;'),
 (212675,8,24,9,26,'Egypt, and Judah, and Edom, and the children of Ammon, and Moab, and all [that are] in the utmost corners, that dwell in the wilderness: for all [these] nations [are] uncircumcised, and all the house of Israel [are] uncircumcised in the heart.'),
 (212676,8,24,10,1,'Hear ye the word which the LORD speaketh unto you, O house of Israel:'),
@@ -19635,8 +19270,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (212720,8,24,11,20,'But, O LORD of hosts, that judgest righteously, that triest the reins and the heart, let me see thy vengeance on them: for unto thee have I revealed my cause.'),
 (212721,8,24,11,21,'Therefore thus saith the LORD of the men of Anathoth, that seek thy life, saying, Prophesy not in the name of the LORD, that thou die not by our hand:'),
 (212722,8,24,11,22,'Therefore thus saith the LORD of hosts, Behold, I will punish them: the young men shall die by the sword; their sons and their daughters shall die by famine:'),
-(212723,8,24,11,23,'And there shall be no remnant of them: for I will bring evil upon the men of Anathoth, [even] the year of their visitation.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(212723,8,24,11,23,'And there shall be no remnant of them: for I will bring evil upon the men of Anathoth, [even] the year of their visitation.'),
 (212724,8,24,12,1,'Righteous [art] thou, O LORD, when I plead with thee: yet let me talk with thee of [thy] judgments: Wherefore doth the way of the wicked prosper? [wherefore] are all they happy that deal very treacherously?'),
 (212725,8,24,12,2,'Thou hast planted them, yea, they have taken root: they grow, yea, they bring forth fruit: thou [art] near in their mouth, and far from their reins.'),
 (212726,8,24,12,3,'But thou, O LORD, knowest me: thou hast seen me, and tried mine heart toward thee: pull them out like sheep for the slaughter, and prepare them for the day of slaughter.'),
@@ -19686,8 +19320,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (212770,8,24,14,3,'And their nobles have sent their little ones to the waters: they came to the pits, [and] found no water; they returned with their vessels empty; they were ashamed and confounded, and covered their heads.'),
 (212771,8,24,14,4,'Because the ground is chapt, for there was no rain in the earth, the plowmen were ashamed, they covered their heads.'),
 (212772,8,24,14,5,'Yea, the hind also calved in the field, and forsook [it], because there was no grass.'),
-(212773,8,24,14,6,'And the wild asses did stand in the high places, they snuffed up the wind like dragons; their eyes did fail, because [there was] no grass.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(212773,8,24,14,6,'And the wild asses did stand in the high places, they snuffed up the wind like dragons; their eyes did fail, because [there was] no grass.'),
 (212774,8,24,14,7,'O LORD, though our iniquities testify against us, do thou [it] for thy name''s sake: for our backslidings are many; we have sinned against thee.'),
 (212775,8,24,14,8,'O the hope of Israel, the saviour thereof in time of trouble, why shouldest thou be as a stranger in the land, and as a wayfaring man [that] turneth aside to tarry for a night?'),
 (212776,8,24,14,9,'Why shouldest thou be as a man astonied, as a mighty man [that] cannot save? yet thou, O LORD, [art] in the midst of us, and we are called by thy name; leave us not.'),
@@ -19737,8 +19370,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (212820,8,24,16,10,'And it shall come to pass, when thou shalt shew this people all these words, and they shall say unto thee, Wherefore hath the LORD pronounced all this great evil against us? or what [is] our iniquity? or what [is] our sin that we have committed against the LORD our God?'),
 (212821,8,24,16,11,'Then shalt thou say unto them, Because your fathers have forsaken me, saith the LORD, and have walked after other gods, and have served them, and have worshipped them, and have forsaken me, and have not kept my law;'),
 (212822,8,24,16,12,'And ye have done worse than your fathers; for, behold, ye walk every one after the imagination of his evil heart, that they may not hearken unto me:'),
-(212823,8,24,16,13,'Therefore will I cast you out of this land into a land that ye know not, [neither] ye nor your fathers; and there shall ye serve other gods day and night; where I will not shew you favour.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(212823,8,24,16,13,'Therefore will I cast you out of this land into a land that ye know not, [neither] ye nor your fathers; and there shall ye serve other gods day and night; where I will not shew you favour.'),
 (212824,8,24,16,14,'Therefore, behold, the days come, saith the LORD, that it shall no more be said, The LORD liveth, that brought up the children of Israel out of the land of Egypt;'),
 (212825,8,24,16,15,'But, The LORD liveth, that brought up the children of Israel from the land of the north, and from all the lands whither he had driven them: and I will bring them again into their land that I gave unto their fathers.'),
 (212826,8,24,16,16,'Behold, I will send for many fishers, saith the LORD, and they shall fish them; and after will I send for many hunters, and they shall hunt them from every mountain, and from every hill, and out of the holes of the rocks.'),
@@ -19788,8 +19420,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (212870,8,24,18,12,'And they said, There is no hope: but we will walk after our own devices, and we will every one do the imagination of his evil heart.'),
 (212871,8,24,18,13,'Therefore thus saith the LORD; Ask ye now among the heathen, who hath heard such things: the virgin of Israel hath done a very horrible thing.'),
 (212872,8,24,18,14,'Will [a man] leave the snow of Lebanon [which cometh] from the rock of the field? [or] shall the cold flowing waters that come from another place be forsaken?'),
-(212873,8,24,18,15,'Because my people hath forgotten me, they have burned incense to vanity, and they have caused them to stumble in their ways [from] the ancient paths, to walk in paths, [in] a way not cast up;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(212873,8,24,18,15,'Because my people hath forgotten me, they have burned incense to vanity, and they have caused them to stumble in their ways [from] the ancient paths, to walk in paths, [in] a way not cast up;'),
 (212874,8,24,18,16,'To make their land desolate, [and] a perpetual hissing; every one that passeth thereby shall be astonished, and wag his head.'),
 (212875,8,24,18,17,'I will scatter them as with an east wind before the enemy; I will shew them the back, and not the face, in the day of their calamity.'),
 (212876,8,24,18,18,'Then said they, Come, and let us devise devices against Jeremiah; for the law shall not perish from the priest, nor counsel from the wise, nor the word from the prophet. Come, and let us smite him with the tongue, and let us not give heed to any of his words.'),
@@ -19839,8 +19470,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (212920,8,24,21,6,'And I will smite the inhabitants of this city, both man and beast: they shall die of a great pestilence.'),
 (212921,8,24,21,7,'And afterward, saith the LORD, I will deliver Zedekiah king of Judah, and his servants, and the people, and such as are left in this city from the pestilence, from the sword, and from the famine, into the hand of Nebuchadrezzar king of Babylon, and into the hand of their enemies, and into the hand of those that seek their life: and he shall smite them with the edge of the sword; he shall not spare them, neither have pity, nor have mercy.'),
 (212922,8,24,21,8,'And unto this people thou shalt say, Thus saith the LORD; Behold, I set before you the way of life, and the way of death.'),
-(212923,8,24,21,9,'He that abideth in this city shall die by the sword, and by the famine, and by the pestilence: but he that goeth out, and falleth to the Chaldeans that besiege you, he shall live, and his life shall be unto him for a prey.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(212923,8,24,21,9,'He that abideth in this city shall die by the sword, and by the famine, and by the pestilence: but he that goeth out, and falleth to the Chaldeans that besiege you, he shall live, and his life shall be unto him for a prey.'),
 (212924,8,24,21,10,'For I have set my face against this city for evil, and not for good, saith the LORD: it shall be given into the hand of the king of Babylon, and he shall burn it with fire.'),
 (212925,8,24,21,11,'And touching the house of the king of Judah, [say], Hear ye the word of the LORD;'),
 (212926,8,24,21,12,'O house of David, thus saith the LORD; Execute judgment in the morning, and deliver [him that is] spoiled out of the hand of the oppressor, lest my fury go out like fire, and burn that none can quench [it], because of the evil of your doings.'),
@@ -19890,8 +19520,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (212970,8,24,23,12,'Wherefore their way shall be unto them as slippery [ways] in the darkness: they shall be driven on, and fall therein: for I will bring evil upon them, [even] the year of their visitation, saith the LORD.'),
 (212971,8,24,23,13,'And I have seen folly in the prophets of Samaria; they prophesied in Baal, and caused my people Israel to err.'),
 (212972,8,24,23,14,'I have seen also in the prophets of Jerusalem an horrible thing: they commit adultery, and walk in lies: they strengthen also the hands of evildoers, that none doth return from his wickedness: they are all of them unto me as Sodom, and the inhabitants thereof as Gomorrah.'),
-(212973,8,24,23,15,'Therefore thus saith the LORD of hosts concerning the prophets; Behold, I will feed them with wormwood, and make them drink the water of gall: for from the prophets of Jerusalem is profaneness gone forth into all the land.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(212973,8,24,23,15,'Therefore thus saith the LORD of hosts concerning the prophets; Behold, I will feed them with wormwood, and make them drink the water of gall: for from the prophets of Jerusalem is profaneness gone forth into all the land.'),
 (212974,8,24,23,16,'Thus saith the LORD of hosts, Hearken not unto the words of the prophets that prophesy unto you: they make you vain: they speak a vision of their own heart, [and] not out of the mouth of the LORD.'),
 (212975,8,24,23,17,'They say still unto them that despise me, The LORD hath said, Ye shall have peace; and they say unto every one that walketh after the imagination of his own heart, No evil shall come upon you.'),
 (212976,8,24,23,18,'For who hath stood in the counsel of the LORD, and hath perceived and heard his word? who hath marked his word, and heard [it]?'),
@@ -19941,8 +19570,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (213020,8,24,25,12,'And it shall come to pass, when seventy years are accomplished, [that] I will punish the king of Babylon, and that nation, saith the LORD, for their iniquity, and the land of the Chaldeans, and will make it perpetual desolations.'),
 (213021,8,24,25,13,'And I will bring upon that land all my words which I have pronounced against it, [even] all that is written in this book, which Jeremiah hath prophesied against all the nations.'),
 (213022,8,24,25,14,'For many nations and great kings shall serve themselves of them also: and I will recompense them according to their deeds, and according to the works of their own hands.'),
-(213023,8,24,25,15,'For thus saith the LORD God of Israel unto me; Take the wine cup of this fury at my hand, and cause all the nations, to whom I send thee, to drink it.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(213023,8,24,25,15,'For thus saith the LORD God of Israel unto me; Take the wine cup of this fury at my hand, and cause all the nations, to whom I send thee, to drink it.'),
 (213024,8,24,25,16,'And they shall drink, and be moved, and be mad, because of the sword that I will send among them.'),
 (213025,8,24,25,17,'Then took I the cup at the LORD''s hand, and made all the nations to drink, unto whom the LORD had sent me:'),
 (213026,8,24,25,18,'[To wit], Jerusalem, and the cities of Judah, and the kings thereof, and the princes thereof, to make them a desolation, an astonishment, an hissing, and a curse; as [it is] this day;'),
@@ -19992,8 +19620,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (213070,8,24,26,24,'Nevertheless the hand of Ahikam the son of Shaphan was with Jeremiah, that they should not give him into the hand of the people to put him to death.'),
 (213071,8,24,27,1,'In the beginning of the reign of Jehoiakim the son of Josiah king of Judah came this word unto Jeremiah from the LORD, saying,'),
 (213072,8,24,27,2,'Thus saith the LORD to me; Make thee bonds and yokes, and put them upon thy neck,'),
-(213073,8,24,27,3,'And send them to the king of Edom, and to the king of Moab, and to the king of the Ammonites, and to the king of Tyrus, and to the king of Zidon, by the hand of the messengers which come to Jerusalem unto Zedekiah king of Judah;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(213073,8,24,27,3,'And send them to the king of Edom, and to the king of Moab, and to the king of the Ammonites, and to the king of Tyrus, and to the king of Zidon, by the hand of the messengers which come to Jerusalem unto Zedekiah king of Judah;'),
 (213074,8,24,27,4,'And command them to say unto their masters, Thus saith the LORD of hosts, the God of Israel; Thus shall ye say unto your masters;'),
 (213075,8,24,27,5,'I have made the earth, the man and the beast that [are] upon the ground, by my great power and by my outstretched arm, and have given it unto whom it seemed meet unto me.'),
 (213076,8,24,27,6,'And now have I given all these lands into the hand of Nebuchadnezzar the king of Babylon, my servant; and the beasts of the field have I given him also to serve him.'),
@@ -20043,8 +19670,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (213120,8,24,29,11,'For I know the thoughts that I think toward you, saith the LORD, thoughts of peace, and not of evil, to give you an expected end.'),
 (213121,8,24,29,12,'Then shall ye call upon me, and ye shall go and pray unto me, and I will hearken unto you.'),
 (213122,8,24,29,13,'And ye shall seek me, and find [me], when ye shall search for me with all your heart.'),
-(213123,8,24,29,14,'And I will be found of you, saith the LORD: and I will turn away your captivity, and I will gather you from all the nations, and from all the places whither I have driven you, saith the LORD; and I will bring you again into the place whence I caused you to be carried away captive.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(213123,8,24,29,14,'And I will be found of you, saith the LORD: and I will turn away your captivity, and I will gather you from all the nations, and from all the places whither I have driven you, saith the LORD; and I will bring you again into the place whence I caused you to be carried away captive.'),
 (213124,8,24,29,15,'Because ye have said, The LORD hath raised us up prophets in Babylon;'),
 (213125,8,24,29,16,'[Know] that thus saith the LORD of the king that sitteth upon the throne of David, and of all the people that dwelleth in this city, [and] of your brethren that are not gone forth with you into captivity;'),
 (213126,8,24,29,17,'Thus saith the LORD of hosts; Behold, I will send upon them the sword, the famine, and the pestilence, and will make them like vile figs, that cannot be eaten, they are so evil.'),
@@ -20094,8 +19720,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (213170,8,24,31,5,'Thou shalt yet plant vines upon the mountains of Samaria: the planters shall plant, and shall eat [them] as common things.'),
 (213171,8,24,31,6,'For there shall be a day, [that] the watchmen upon the mount Ephraim shall cry, Arise ye, and let us go up to Zion unto the LORD our God.'),
 (213172,8,24,31,7,'For thus saith the LORD; Sing with gladness for Jacob, and shout among the chief of the nations: publish ye, praise ye, and say, O LORD, save thy people, the remnant of Israel.'),
-(213173,8,24,31,8,'Behold, I will bring them from the north country, and gather them from the coasts of the earth, [and] with them the blind and the lame, the woman with child and her that travaileth with child together: a great company shall return thither.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(213173,8,24,31,8,'Behold, I will bring them from the north country, and gather them from the coasts of the earth, [and] with them the blind and the lame, the woman with child and her that travaileth with child together: a great company shall return thither.'),
 (213174,8,24,31,9,'They shall come with weeping, and with supplications will I lead them: I will cause them to walk by the rivers of waters in a straight way, wherein they shall not stumble: for I am a father to Israel, and Ephraim [is] my firstborn.'),
 (213175,8,24,31,10,'Hear the word of the LORD, O ye nations, and declare [it] in the isles afar off, and say, He that scattered Israel will gather him, and keep him, as a shepherd [doth] his flock.'),
 (213176,8,24,31,11,'For the LORD hath redeemed Jacob, and ransomed him from the hand of [him that was] stronger than he.'),
@@ -20145,8 +19770,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (213220,8,24,32,15,'For thus saith the LORD of hosts, the God of Israel; Houses and fields and vineyards shall be possessed again in this land.'),
 (213221,8,24,32,16,'Now when I had delivered the evidence of the purchase unto Baruch the son of Neriah, I prayed unto the LORD, saying,'),
 (213222,8,24,32,17,'Ah Lord GOD! behold, thou hast made the heaven and the earth by thy great power and stretched out arm, [and] there is nothing too hard for thee:'),
-(213223,8,24,32,18,'Thou shewest lovingkindness unto thousands, and recompensest the iniquity of the fathers into the bosom of their children after them: the Great, the Mighty God, the LORD of hosts, [is] his name,');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(213223,8,24,32,18,'Thou shewest lovingkindness unto thousands, and recompensest the iniquity of the fathers into the bosom of their children after them: the Great, the Mighty God, the LORD of hosts, [is] his name,'),
 (213224,8,24,32,19,'Great in counsel, and mighty in work: for thine eyes [are] open upon all the ways of the sons of men: to give every one according to his ways, and according to the fruit of his doings:'),
 (213225,8,24,32,20,'Which hast set signs and wonders in the land of Egypt, [even] unto this day, and in Israel, and among [other] men; and hast made thee a name, as at this day;'),
 (213226,8,24,32,21,'And hast brought forth thy people Israel out of the land of Egypt with signs, and with wonders, and with a strong hand, and with a stretched out arm, and with great terror;'),
@@ -20196,8 +19820,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (213270,8,24,33,21,'[Then] may also my covenant be broken with David my servant, that he should not have a son to reign upon his throne; and with the Levites the priests, my ministers.'),
 (213271,8,24,33,22,'As the host of heaven cannot be numbered, neither the sand of the sea measured: so will I multiply the seed of David my servant, and the Levites that minister unto me.'),
 (213272,8,24,33,23,'Moreover the word of the LORD came to Jeremiah, saying,'),
-(213273,8,24,33,24,'Considerest thou not what this people have spoken, saying, The two families which the LORD hath chosen, he hath even cast them off? thus they have despised my people, that they should be no more a nation before them.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(213273,8,24,33,24,'Considerest thou not what this people have spoken, saying, The two families which the LORD hath chosen, he hath even cast them off? thus they have despised my people, that they should be no more a nation before them.'),
 (213274,8,24,33,25,'Thus saith the LORD; If my covenant [be] not with day and night, [and if] I have not appointed the ordinances of heaven and earth;'),
 (213275,8,24,33,26,'Then will I cast away the seed of Jacob, and David my servant, [so] that I will not take [any] of his seed [to be] rulers over the seed of Abraham, Isaac, and Jacob: for I will cause their captivity to return, and have mercy on them.'),
 (213276,8,24,34,1,'The word which came unto Jeremiah from the LORD, when Nebuchadnezzar king of Babylon, and all his army, and all the kingdoms of the earth of his dominion, and all the people, fought against Jerusalem, and against all the cities thereof, saying,'),
@@ -20247,8 +19870,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (213320,8,24,36,4,'Then Jeremiah called Baruch the son of Neriah: and Baruch wrote from the mouth of Jeremiah all the words of the LORD, which he had spoken unto him, upon a roll of a book.'),
 (213321,8,24,36,5,'And Jeremiah commanded Baruch, saying, I [am] shut up; I cannot go into the house of the LORD:'),
 (213322,8,24,36,6,'Therefore go thou, and read in the roll, which thou hast written from my mouth, the words of the LORD in the ears of the people in the LORD''s house upon the fasting day: and also thou shalt read them in the ears of all Judah that come out of their cities.'),
-(213323,8,24,36,7,'It may be they will present their supplication before the LORD, and will return every one from his evil way: for great [is] the anger and the fury that the LORD hath pronounced against this people.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(213323,8,24,36,7,'It may be they will present their supplication before the LORD, and will return every one from his evil way: for great [is] the anger and the fury that the LORD hath pronounced against this people.'),
 (213324,8,24,36,8,'And Baruch the son of Neriah did according to all that Jeremiah the prophet commanded him, reading in the book the words of the LORD in the LORD''s house.'),
 (213325,8,24,36,9,'And it came to pass in the fifth year of Jehoiakim the son of Josiah king of Judah, in the ninth month, [that] they proclaimed a fast before the LORD to all the people in Jerusalem, and to all the people that came from the cities of Judah unto Jerusalem.'),
 (213326,8,24,36,10,'Then read Baruch in the book the words of Jeremiah in the house of the LORD, in the chamber of Gemariah the son of Shaphan the scribe, in the higher court, at the entry of the new gate of the LORD''s house, in the ears of all the people.'),
@@ -20298,8 +19920,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (213370,8,24,38,1,'Then Shephatiah the son of Mattan, and Gedaliah the son of Pashur, and Jucal the son of Shelemiah, and Pashur the son of Malchiah, heard the words that Jeremiah had spoken unto all the people, saying,'),
 (213371,8,24,38,2,'Thus saith the LORD, He that remaineth in this city shall die by the sword, by the famine, and by the pestilence: but he that goeth forth to the Chaldeans shall live; for he shall have his life for a prey, and shall live.'),
 (213372,8,24,38,3,'Thus saith the LORD, This city shall surely be given into the hand of the king of Babylon''s army, which shall take it.'),
-(213373,8,24,38,4,'Therefore the princes said unto the king, We beseech thee, let this man be put to death: for thus he weakeneth the hands of the men of war that remain in this city, and the hands of all the people, in speaking such words unto them: for this man seeketh not the welfare of this people, but the hurt.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(213373,8,24,38,4,'Therefore the princes said unto the king, We beseech thee, let this man be put to death: for thus he weakeneth the hands of the men of war that remain in this city, and the hands of all the people, in speaking such words unto them: for this man seeketh not the welfare of this people, but the hurt.'),
 (213374,8,24,38,5,'Then Zedekiah the king said, Behold, he [is] in your hand: for the king [is] not [he that] can do [any] thing against you.'),
 (213375,8,24,38,6,'Then took they Jeremiah, and cast him into the dungeon of Malchiah the son of Hammelech, that [was] in the court of the prison: and they let down Jeremiah with cords. And in the dungeon [there was] no water, but mire: so Jeremiah sunk in the mire.'),
 (213376,8,24,38,7,'Now when Ebedmelech the Ethiopian, one of the eunuchs which was in the king''s house, heard that they had put Jeremiah in the dungeon; the king then sitting in the gate of Benjamin;'),
@@ -20349,8 +19970,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (213420,8,24,40,5,'Now while he was not yet gone back, [he said], Go back also to Gedaliah the son of Ahikam the son of Shaphan, whom the king of Babylon hath made governor over the cities of Judah, and dwell with him among the people: or go wheresoever it seemeth convenient unto thee to go. So the captain of the guard gave him victuals and a reward, and let him go.'),
 (213421,8,24,40,6,'Then went Jeremiah unto Gedaliah the son of Ahikam to Mizpah; and dwelt with him among the people that were left in the land.'),
 (213422,8,24,40,7,'Now when all the captains of the forces which [were] in the fields, [even] they and their men, heard that the king of Babylon had made Gedaliah the son of Ahikam governor in the land, and had committed unto him men, and women, and children, and of the poor of the land, of them that were not carried away captive to Babylon;'),
-(213423,8,24,40,8,'Then they came to Gedaliah to Mizpah, even Ishmael the son of Nethaniah, and Johanan and Jonathan the sons of Kareah, and Seraiah the son of Tanhumeth, and the sons of Ephai the Netophathite, and Jezaniah the son of a Maachathite, they and their men.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(213423,8,24,40,8,'Then they came to Gedaliah to Mizpah, even Ishmael the son of Nethaniah, and Johanan and Jonathan the sons of Kareah, and Seraiah the son of Tanhumeth, and the sons of Ephai the Netophathite, and Jezaniah the son of a Maachathite, they and their men.'),
 (213424,8,24,40,9,'And Gedaliah the son of Ahikam the son of Shaphan sware unto them and to their men, saying, Fear not to serve the Chaldeans: dwell in the land, and serve the king of Babylon, and it shall be well with you.'),
 (213425,8,24,40,10,'As for me, behold, I will dwell at Mizpah to serve the Chaldeans, which will come unto us: but ye, gather ye wine, and summer fruits, and oil, and put [them] in your vessels, and dwell in your cities that ye have taken.'),
 (213426,8,24,40,11,'Likewise when all the Jews that [were] in Moab, and among the Ammonites, and in Edom, and that [were] in all the countries, heard that the king of Babylon had left a remnant of Judah, and that he had set over them Gedaliah the son of Ahikam the son of Shaphan;'),
@@ -20451,8 +20071,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (213520,8,24,46,1,'The word of the LORD which came to Jeremiah the prophet against the Gentiles;'),
 (213521,8,24,46,2,'Against Egypt, against the army of Pharaohnecho king of Egypt, which was by the river Euphrates in Carchemish, which Nebuchadrezzar king of Babylon smote in the fourth year of Jehoiakim the son of Josiah king of Judah.'),
 (213522,8,24,46,3,'Order ye the buckler and shield, and draw near to battle.'),
-(213523,8,24,46,4,'Harness the horses; and get up, ye horsemen, and stand forth with [your] helmets; furbish the spears, [and] put on the brigandines.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(213523,8,24,46,4,'Harness the horses; and get up, ye horsemen, and stand forth with [your] helmets; furbish the spears, [and] put on the brigandines.'),
 (213524,8,24,46,5,'Wherefore have I seen them dismayed [and] turned away back? and their mighty ones are beaten down, and are fled apace, and look not back: [for] fear [was] round about, saith the LORD.'),
 (213525,8,24,46,6,'Let not the swift flee away, nor the mighty man escape; they shall stumble, and fall toward the north by the river Euphrates.'),
 (213526,8,24,46,7,'Who [is] this [that] cometh up as a flood, whose waters are moved as the rivers?'),
@@ -20502,8 +20121,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (213570,8,24,48,16,'The calamity of Moab [is] near to come, and his affliction hasteth fast.'),
 (213571,8,24,48,17,'All ye that are about him, bemoan him; and all ye that know his name, say, How is the strong staff broken, [and] the beautiful rod!'),
 (213572,8,24,48,18,'Thou daughter that dost inhabit Dibon, come down from [thy] glory, and sit in thirst; for the spoiler of Moab shall come upon thee, [and] he shall destroy thy strong holds.'),
-(213573,8,24,48,19,'O inhabitant of Aroer, stand by the way, and espy; ask him that fleeth, and her that escapeth, [and] say, What is done?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(213573,8,24,48,19,'O inhabitant of Aroer, stand by the way, and espy; ask him that fleeth, and her that escapeth, [and] say, What is done?'),
 (213574,8,24,48,20,'Moab is confounded; for it is broken down: howl and cry; tell ye it in Arnon, that Moab is spoiled,'),
 (213575,8,24,48,21,'And judgment is come upon the plain country; upon Holon, and upon Jahazah, and upon Mephaath,'),
 (213576,8,24,48,22,'And upon Dibon, and upon Nebo, and upon Bethdiblathaim,'),
@@ -20553,8 +20171,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (213620,8,24,49,19,'Behold, he shall come up like a lion from the swelling of Jordan against the habitation of the strong: but I will suddenly make him run away from her: and who [is] a chosen [man, that] I may appoint over her? for who [is] like me? and who will appoint me the time? and who [is] that shepherd that will stand before me?'),
 (213621,8,24,49,20,'Therefore hear the counsel of the LORD, that he hath taken against Edom; and his purposes, that he hath purposed against the inhabitants of Teman: Surely the least of the flock shall draw them out: surely he shall make their habitations desolate with them.'),
 (213622,8,24,49,21,'The earth is moved at the noise of their fall, at the cry the noise thereof was heard in the Red sea.'),
-(213623,8,24,49,22,'Behold, he shall come up and fly as the eagle, and spread his wings over Bozrah: and at that day shall the heart of the mighty men of Edom be as the heart of a woman in her pangs.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(213623,8,24,49,22,'Behold, he shall come up and fly as the eagle, and spread his wings over Bozrah: and at that day shall the heart of the mighty men of Edom be as the heart of a woman in her pangs.'),
 (213624,8,24,49,23,'Concerning Damascus. Hamath is confounded, and Arpad: for they have heard evil tidings: they are fainthearted; [there is] sorrow on the sea; it cannot be quiet.'),
 (213625,8,24,49,24,'Damascus is waxed feeble, [and] turneth herself to flee, and fear hath seized on [her]: anguish and sorrows have taken her, as a woman in travail.'),
 (213626,8,24,49,25,'How is the city of praise not left, the city of my joy!'),
@@ -20604,8 +20221,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (213670,8,24,50,30,'Therefore shall her young men fall in the streets, and all her men of war shall be cut off in that day, saith the LORD.'),
 (213671,8,24,50,31,'Behold, I [am] against thee, [O thou] most proud, saith the Lord GOD of hosts: for thy day is come, the time [that] I will visit thee.'),
 (213672,8,24,50,32,'And the most proud shall stumble and fall, and none shall raise him up: and I will kindle a fire in his cities, and it shall devour all round about him.'),
-(213673,8,24,50,33,'Thus saith the LORD of hosts; The children of Israel and the children of Judah [were] oppressed together: and all that took them captives held them fast; they refused to let them go.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(213673,8,24,50,33,'Thus saith the LORD of hosts; The children of Israel and the children of Judah [were] oppressed together: and all that took them captives held them fast; they refused to let them go.'),
 (213674,8,24,50,34,'Their Redeemer [is] strong; the LORD of hosts [is] his name: he shall throughly plead their cause, that he may give rest to the land, and disquiet the inhabitants of Babylon.'),
 (213675,8,24,50,35,'A sword [is] upon the Chaldeans, saith the LORD, and upon the inhabitants of Babylon, and upon her princes, and upon her wise [men].'),
 (213676,8,24,50,36,'A sword [is] upon the liars; and they shall dote: a sword [is] upon her mighty men; and they shall be dismayed.'),
@@ -20655,8 +20271,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (213720,8,24,51,34,'Nebuchadrezzar the king of Babylon hath devoured me, he hath crushed me, he hath made me an empty vessel, he hath swallowed me up like a dragon, he hath filled his belly with my delicates, he hath cast me out.'),
 (213721,8,24,51,35,'The violence done to me and to my flesh [be] upon Babylon, shall the inhabitant of Zion say; and my blood upon the inhabitants of Chaldea, shall Jerusalem say.'),
 (213722,8,24,51,36,'Therefore thus saith the LORD; Behold, I will plead thy cause, and take vengeance for thee; and I will dry up her sea, and make her springs dry.'),
-(213723,8,24,51,37,'And Babylon shall become heaps, a dwellingplace for dragons, an astonishment, and an hissing, without an inhabitant.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(213723,8,24,51,37,'And Babylon shall become heaps, a dwellingplace for dragons, an astonishment, and an hissing, without an inhabitant.'),
 (213724,8,24,51,38,'They shall roar together like lions: they shall yell as lions'' whelps.'),
 (213725,8,24,51,39,'In their heat I will make their feasts, and I will make them drunken, that they may rejoice, and sleep a perpetual sleep, and not wake, saith the LORD.'),
 (213726,8,24,51,40,'I will bring them down like lambs to the slaughter, like rams with he goats.'),
@@ -20706,8 +20321,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (213770,8,24,52,20,'The two pillars, one sea, and twelve brasen bulls that [were] under the bases, which king Solomon had made in the house of the LORD: the brass of all these vessels was without weight.'),
 (213771,8,24,52,21,'And [concerning] the pillars, the height of one pillar [was] eighteen cubits; and a fillet of twelve cubits did compass it; and the thickness thereof [was] four fingers: [it was] hollow.'),
 (213772,8,24,52,22,'And a chapiter of brass [was] upon it; and the height of one chapiter [was] five cubits, with network and pomegranates upon the chapiters round about, all [of] brass. The second pillar also and the pomegranates [were] like unto these.'),
-(213773,8,24,52,23,'And there were ninety and six pomegranates on a side; [and] all the pomegranates upon the network [were] an hundred round about.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(213773,8,24,52,23,'And there were ninety and six pomegranates on a side; [and] all the pomegranates upon the network [were] an hundred round about.'),
 (213774,8,24,52,24,'And the captain of the guard took Seraiah the chief priest, and Zephaniah the second priest, and the three keepers of the door:'),
 (213775,8,24,52,25,'He took also out of the city an eunuch, which had the charge of the men of war; and seven men of them that were near the king''s person, which were found in the city; and the principal scribe of the host, who mustered the people of the land; and threescore men of the people of the land, that were found in the midst of the city.'),
 (213776,8,24,52,26,'So Nebuzaradan the captain of the guard took them, and brought them to the king of Babylon to Riblah.'),
@@ -20757,8 +20371,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (213820,8,25,2,14,'Thy prophets have seen vain and foolish things for thee: and they have not discovered thine iniquity, to turn away thy captivity; but have seen for thee false burdens and causes of banishment.'),
 (213821,8,25,2,15,'All that pass by clap [their] hands at thee; they hiss and wag their head at the daughter of Jerusalem, [saying, Is] this the city that [men] call The perfection of beauty, The joy of the whole earth?'),
 (213822,8,25,2,16,'All thine enemies have opened their mouth against thee: they hiss and gnash the teeth: they say, We have swallowed [her] up: certainly this [is] the day that we looked for; we have found, we have seen [it].'),
-(213823,8,25,2,17,'The LORD hath done [that] which he had devised; he hath fulfilled his word that he had commanded in the days of old: he hath thrown down, and hath not pitied: and he hath caused [thine] enemy to rejoice over thee, he hath set up the horn of thine adversaries.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(213823,8,25,2,17,'The LORD hath done [that] which he had devised; he hath fulfilled his word that he had commanded in the days of old: he hath thrown down, and hath not pitied: and he hath caused [thine] enemy to rejoice over thee, he hath set up the horn of thine adversaries.'),
 (213824,8,25,2,18,'Their heart cried unto the Lord, O wall of the daughter of Zion, let tears run down like a river day and night: give thyself no rest; let not the apple of thine eye cease.'),
 (213825,8,25,2,19,'Arise, cry out in the night: in the beginning of the watches pour out thine heart like water before the face of the Lord: lift up thy hands toward him for the life of thy young children, that faint for hunger in the top of every street.'),
 (213826,8,25,2,20,'Behold, O LORD, and consider to whom thou hast done this. Shall the women eat their fruit, [and] children of a span long? shall the priest and the prophet be slain in the sanctuary of the Lord?'),
@@ -20808,8 +20421,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (213870,8,25,3,42,'We have transgressed and have rebelled: thou hast not pardoned.'),
 (213871,8,25,3,43,'Thou hast covered with anger, and persecuted us: thou hast slain, thou hast not pitied.'),
 (213872,8,25,3,44,'Thou hast covered thyself with a cloud, that [our] prayer should not pass through.'),
-(213873,8,25,3,45,'Thou hast made us [as] the offscouring and refuse in the midst of the people.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(213873,8,25,3,45,'Thou hast made us [as] the offscouring and refuse in the midst of the people.'),
 (213874,8,25,3,46,'All our enemies have opened their mouths against us.'),
 (213875,8,25,3,47,'Fear and a snare is come upon us, desolation and destruction.'),
 (213876,8,25,3,48,'Mine eye runneth down with rivers of water for the destruction of the daughter of my people.'),
@@ -20859,8 +20471,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (213920,8,25,5,4,'We have drunken our water for money; our wood is sold unto us.'),
 (213921,8,25,5,5,'Our necks [are] under persecution: we labour, [and] have no rest.'),
 (213922,8,25,5,6,'We have given the hand [to] the Egyptians, [and to] the Assyrians, to be satisfied with bread.'),
-(213923,8,25,5,7,'Our fathers have sinned, [and are] not; and we have borne their iniquities.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(213923,8,25,5,7,'Our fathers have sinned, [and are] not; and we have borne their iniquities.'),
 (213924,8,25,5,8,'Servants have ruled over us: [there is] none that doth deliver [us] out of their hand.'),
 (213925,8,25,5,9,'We gat our bread with [the peril of] our lives because of the sword of the wilderness.'),
 (213926,8,25,5,10,'Our skin was black like an oven because of the terrible famine.'),
@@ -20910,8 +20521,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (213970,8,26,2,4,'For [they are] impudent children and stiffhearted. I do send thee unto them; and thou shalt say unto them, Thus saith the Lord GOD.'),
 (213971,8,26,2,5,'And they, whether they will hear, or whether they will forbear, (for they [are] a rebellious house,) yet shall know that there hath been a prophet among them.'),
 (213972,8,26,2,6,'And thou, son of man, be not afraid of them, neither be afraid of their words, though briers and thorns [be] with thee, and thou dost dwell among scorpions: be not afraid of their words, nor be dismayed at their looks, though they [be] a rebellious house.'),
-(213973,8,26,2,7,'And thou shalt speak my words unto them, whether they will hear, or whether they will forbear: for they [are] most rebellious.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(213973,8,26,2,7,'And thou shalt speak my words unto them, whether they will hear, or whether they will forbear: for they [are] most rebellious.'),
 (213974,8,26,2,8,'But thou, son of man, hear what I say unto thee; Be not thou rebellious like that rebellious house: open thy mouth, and eat that I give thee.'),
 (213975,8,26,2,9,'And when I looked, behold, an hand [was] sent unto me; and, lo, a roll of a book [was] therein;'),
 (213976,8,26,2,10,'And he spread it before me; and it [was] written within and without: and [there was] written therein lamentations, and mourning, and woe.'),
@@ -20961,8 +20571,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (214020,8,26,4,17,'That they may want bread and water, and be astonied one with another, and consume away for their iniquity.'),
 (214021,8,26,5,1,'And thou, son of man, take thee a sharp knife, take thee a barber''s rasor, and cause [it] to pass upon thine head and upon thy beard: then take thee balances to weigh, and divide the [hair].'),
 (214022,8,26,5,2,'Thou shalt burn with fire a third part in the midst of the city, when the days of the siege are fulfilled: and thou shalt take a third part, [and] smite about it with a knife: and a third part thou shalt scatter in the wind; and I will draw out a sword after them.'),
-(214023,8,26,5,3,'Thou shalt also take thereof a few in number, and bind them in thy skirts.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(214023,8,26,5,3,'Thou shalt also take thereof a few in number, and bind them in thy skirts.'),
 (214024,8,26,5,4,'Then take of them again, and cast them into the midst of the fire, and burn them in the fire; [for] thereof shall a fire come forth into all the house of Israel.'),
 (214025,8,26,5,5,'Thus saith the Lord GOD; This [is] Jerusalem: I have set it in the midst of the nations and countries [that are] round about her.'),
 (214026,8,26,5,6,'And she hath changed my judgments into wickedness more than the nations, and my statutes more than the countries that [are] round about her: for they have refused my judgments and my statutes, they have not walked in them.'),
@@ -21012,8 +20621,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (214070,8,26,7,19,'They shall cast their silver in the streets, and their gold shall be removed: their silver and their gold shall not be able to deliver them in the day of the wrath of the LORD: they shall not satisfy their souls, neither fill their bowels: because it is the stumblingblock of their iniquity.'),
 (214071,8,26,7,20,'As for the beauty of his ornament, he set it in majesty: but they made the images of their abominations [and] of their detestable things therein: therefore have I set it far from them.'),
 (214072,8,26,7,21,'And I will give it into the hands of the strangers for a prey, and to the wicked of the earth for a spoil; and they shall pollute it.'),
-(214073,8,26,7,22,'My face will I turn also from them, and they shall pollute my secret [place]: for the robbers shall enter into it, and defile it.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(214073,8,26,7,22,'My face will I turn also from them, and they shall pollute my secret [place]: for the robbers shall enter into it, and defile it.'),
 (214074,8,26,7,23,'Make a chain: for the land is full of bloody crimes, and the city is full of violence.'),
 (214075,8,26,7,24,'Wherefore I will bring the worst of the heathen, and they shall possess their houses: I will also make the pomp of the strong to cease; and their holy places shall be defiled.'),
 (214076,8,26,7,25,'Destruction cometh; and they shall seek peace, and [there shall be] none.'),
@@ -21063,8 +20671,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (214120,8,26,10,13,'As for the wheels, it was cried unto them in my hearing, O wheel.'),
 (214121,8,26,10,14,'And every one had four faces: the first face [was] the face of a cherub, and the second face [was] the face of a man, and the third the face of a lion, and the fourth the face of an eagle.'),
 (214122,8,26,10,15,'And the cherubims were lifted up. This [is] the living creature that I saw by the river of Chebar.'),
-(214123,8,26,10,16,'And when the cherubims went, the wheels went by them: and when the cherubims lifted up their wings to mount up from the earth, the same wheels also turned not from beside them.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(214123,8,26,10,16,'And when the cherubims went, the wheels went by them: and when the cherubims lifted up their wings to mount up from the earth, the same wheels also turned not from beside them.'),
 (214124,8,26,10,17,'When they stood, [these] stood; and when they were lifted up, [these] lifted up themselves [also]: for the spirit of the living creature [was] in them.'),
 (214125,8,26,10,18,'Then the glory of the LORD departed from off the threshold of the house, and stood over the cherubims.'),
 (214126,8,26,10,19,'And the cherubims lifted up their wings, and mounted up from the earth in my sight: when they went out, the wheels also [were] beside them, and [every one] stood at the door of the east gate of the LORD''s house; and the glory of the God of Israel [was] over them above.'),
@@ -21114,8 +20721,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (214170,8,26,12,16,'But I will leave a few men of them from the sword, from the famine, and from the pestilence; that they may declare all their abominations among the heathen whither they come; and they shall know that I [am] the LORD.'),
 (214171,8,26,12,17,'Moreover the word of the LORD came to me, saying,'),
 (214172,8,26,12,18,'Son of man, eat thy bread with quaking, and drink thy water with trembling and with carefulness;'),
-(214173,8,26,12,19,'And say unto the people of the land, Thus saith the Lord GOD of the inhabitants of Jerusalem, [and] of the land of Israel; They shall eat their bread with carefulness, and drink their water with astonishment, that her land may be desolate from all that is therein, because of the violence of all them that dwell therein.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(214173,8,26,12,19,'And say unto the people of the land, Thus saith the Lord GOD of the inhabitants of Jerusalem, [and] of the land of Israel; They shall eat their bread with carefulness, and drink their water with astonishment, that her land may be desolate from all that is therein, because of the violence of all them that dwell therein.'),
 (214174,8,26,12,20,'And the cities that are inhabited shall be laid waste, and the land shall be desolate; and ye shall know that I [am] the LORD.'),
 (214175,8,26,12,21,'And the word of the LORD came unto me, saying,'),
 (214176,8,26,12,22,'Son of man, what [is] that proverb [that] ye have in the land of Israel, saying, The days are prolonged, and every vision faileth?'),
@@ -21165,8 +20771,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (214220,8,26,14,15,'If I cause noisome beasts to pass through the land, and they spoil it, so that it be desolate, that no man may pass through because of the beasts:'),
 (214221,8,26,14,16,'[Though] these three men [were] in it, [as] I live, saith the Lord GOD, they shall deliver neither sons nor daughters; they only shall be delivered, but the land shall be desolate.'),
 (214222,8,26,14,17,'Or [if] I bring a sword upon that land, and say, Sword, go through the land; so that I cut off man and beast from it:'),
-(214223,8,26,14,18,'Though these three men [were] in it, [as] I live, saith the Lord GOD, they shall deliver neither sons nor daughters, but they only shall be delivered themselves.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(214223,8,26,14,18,'Though these three men [were] in it, [as] I live, saith the Lord GOD, they shall deliver neither sons nor daughters, but they only shall be delivered themselves.'),
 (214224,8,26,14,19,'Or [if] I send a pestilence into that land, and pour out my fury upon it in blood, to cut off from it man and beast:'),
 (214225,8,26,14,20,'Though Noah, Daniel, and Job, [were] in it, [as] I live, saith the Lord GOD, they shall deliver neither son nor daughter; they shall [but] deliver their own souls by their righteousness.'),
 (214226,8,26,14,21,'For thus saith the Lord GOD; How much more when I send my four sore judgments upon Jerusalem, the sword, and the famine, and the noisome beast, and the pestilence, to cut off from it man and beast?'),
@@ -21216,8 +20821,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (214270,8,26,16,34,'And the contrary is in thee from [other] women in thy whoredoms, whereas none followeth thee to commit whoredoms: and in that thou givest a reward, and no reward is given unto thee, therefore thou art contrary.'),
 (214271,8,26,16,35,'Wherefore, O harlot, hear the word of the LORD:'),
 (214272,8,26,16,36,'Thus saith the Lord GOD; Because thy filthiness was poured out, and thy nakedness discovered through thy whoredoms with thy lovers, and with all the idols of thy abominations, and by the blood of thy children, which thou didst give unto them;'),
-(214273,8,26,16,37,'Behold, therefore I will gather all thy lovers, with whom thou hast taken pleasure, and all [them] that thou hast loved, with all [them] that thou hast hated; I will even gather them round about against thee, and will discover thy nakedness unto them, that they may see all thy nakedness.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(214273,8,26,16,37,'Behold, therefore I will gather all thy lovers, with whom thou hast taken pleasure, and all [them] that thou hast loved, with all [them] that thou hast hated; I will even gather them round about against thee, and will discover thy nakedness unto them, that they may see all thy nakedness.'),
 (214274,8,26,16,38,'And I will judge thee, as women that break wedlock and shed blood are judged; and I will give thee blood in fury and jealousy.'),
 (214275,8,26,16,39,'And I will also give thee into their hand, and they shall throw down thine eminent place, and shall break down thy high places: they shall strip thee also of thy clothes, and shall take thy fair jewels, and leave thee naked and bare.'),
 (214276,8,26,16,40,'They shall also bring up a company against thee, and they shall stone thee with stones, and thrust thee through with their swords.'),
@@ -21267,8 +20871,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (214320,8,26,17,21,'And all his fugitives with all his bands shall fall by the sword, and they that remain shall be scattered toward all winds: and ye shall know that I the LORD have spoken [it].'),
 (214321,8,26,17,22,'Thus saith the Lord GOD; I will also take of the highest branch of the high cedar, and will set [it]; I will crop off from the top of his young twigs a tender one, and will plant [it] upon an high mountain and eminent:'),
 (214322,8,26,17,23,'In the mountain of the height of Israel will I plant it: and it shall bring forth boughs, and bear fruit, and be a goodly cedar: and under it shall dwell all fowl of every wing; in the shadow of the branches thereof shall they dwell.'),
-(214323,8,26,17,24,'And all the trees of the field shall know that I the LORD have brought down the high tree, have exalted the low tree, have dried up the green tree, and have made the dry tree to flourish: I the LORD have spoken and have done [it].');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(214323,8,26,17,24,'And all the trees of the field shall know that I the LORD have brought down the high tree, have exalted the low tree, have dried up the green tree, and have made the dry tree to flourish: I the LORD have spoken and have done [it].'),
 (214324,8,26,18,1,'The word of the LORD came unto me again, saying,'),
 (214325,8,26,18,2,'What mean ye, that ye use this proverb concerning the land of Israel, saying, The fathers have eaten sour grapes, and the children''s teeth are set on edge?'),
 (214326,8,26,18,3,'[As] I live, saith the Lord GOD, ye shall not have [occasion] any more to use this proverb in Israel.'),
@@ -21318,8 +20921,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (214370,8,26,20,1,'And it came to pass in the seventh year, in the fifth [month], the tenth [day] of the month, [that] certain of the elders of Israel came to inquire of the LORD, and sat before me.'),
 (214371,8,26,20,2,'Then came the word of the LORD unto me, saying,'),
 (214372,8,26,20,3,'Son of man, speak unto the elders of Israel, and say unto them, Thus saith the Lord GOD; Are ye come to inquire of me? [As] I live, saith the Lord GOD, I will not be inquired of by you.'),
-(214373,8,26,20,4,'Wilt thou judge them, son of man, wilt thou judge [them]? cause them to know the abominations of their fathers:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(214373,8,26,20,4,'Wilt thou judge them, son of man, wilt thou judge [them]? cause them to know the abominations of their fathers:'),
 (214374,8,26,20,5,'And say unto them, Thus saith the Lord GOD; In the day when I chose Israel, and lifted up mine hand unto the seed of the house of Jacob, and made myself known unto them in the land of Egypt, when I lifted up mine hand unto them, saying, I [am] the LORD your God;'),
 (214375,8,26,20,6,'In the day [that] I lifted up mine hand unto them, to bring them forth of the land of Egypt into a land that I had espied for them, flowing with milk and honey, which [is] the glory of all lands:'),
 (214376,8,26,20,7,'Then said I unto them, Cast ye away every man the abominations of his eyes, and defile not yourselves with the idols of Egypt: I [am] the LORD your God.'),
@@ -21369,8 +20971,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (214420,8,26,21,2,'Son of man, set thy face toward Jerusalem, and drop [thy word] toward the holy places, and prophesy against the land of Israel,'),
 (214421,8,26,21,3,'And say to the land of Israel, Thus saith the LORD; Behold, I [am] against thee, and will draw forth my sword out of his sheath, and will cut off from thee the righteous and the wicked.'),
 (214422,8,26,21,4,'Seeing then that I will cut off from thee the righteous and the wicked, therefore shall my sword go forth out of his sheath against all flesh from the south to the north:'),
-(214423,8,26,21,5,'That all flesh may know that I the LORD have drawn forth my sword out of his sheath: it shall not return any more.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(214423,8,26,21,5,'That all flesh may know that I the LORD have drawn forth my sword out of his sheath: it shall not return any more.'),
 (214424,8,26,21,6,'Sigh therefore, thou son of man, with the breaking of [thy] loins; and with bitterness sigh before their eyes.'),
 (214425,8,26,21,7,'And it shall be, when they say unto thee, Wherefore sighest thou? that thou shalt answer, For the tidings; because it cometh: and every heart shall melt, and all hands shall be feeble, and every spirit shall faint, and all knees shall be weak [as] water: behold, it cometh, and shall be brought to pass, saith the Lord GOD.'),
 (214426,8,26,21,8,'Again the word of the LORD came unto me, saying,'),
@@ -21471,8 +21072,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (214520,8,26,23,39,'For when they had slain their children to their idols, then they came the same day into my sanctuary to profane it; and, lo, thus have they done in the midst of mine house.'),
 (214521,8,26,23,40,'And furthermore, that ye have sent for men to come from far, unto whom a messenger [was] sent; and, lo, they came: for whom thou didst wash thyself, paintedst thy eyes, and deckedst thyself with ornaments,'),
 (214522,8,26,23,41,'And satest upon a stately bed, and a table prepared before it, whereupon thou hast set mine incense and mine oil.'),
-(214523,8,26,23,42,'And a voice of a multitude being at ease [was] with her: and with the men of the common sort [were] brought Sabeans from the wilderness, which put bracelets upon their hands, and beautiful crowns upon their heads.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(214523,8,26,23,42,'And a voice of a multitude being at ease [was] with her: and with the men of the common sort [were] brought Sabeans from the wilderness, which put bracelets upon their hands, and beautiful crowns upon their heads.'),
 (214524,8,26,23,43,'Then said I unto [her that was] old in adulteries, Will they now commit whoredoms with her, and she [with them]?'),
 (214525,8,26,23,44,'Yet they went in unto her, as they go in unto a woman that playeth the harlot: so went they in unto Aholah and unto Aholibah, the lewd women.'),
 (214526,8,26,23,45,'And the righteous men, they shall judge them after the manner of adulteresses, and after the manner of women that shed blood; because they [are] adulteresses, and blood [is] in their hands.'),
@@ -21522,8 +21122,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (214570,8,26,25,13,'Therefore thus saith the Lord GOD; I will also stretch out mine hand upon Edom, and will cut off man and beast from it; and I will make it desolate from Teman; and they of Dedan shall fall by the sword.'),
 (214571,8,26,25,14,'And I will lay my vengeance upon Edom by the hand of my people Israel: and they shall do in Edom according to mine anger and according to my fury; and they shall know my vengeance, saith the Lord GOD.'),
 (214572,8,26,25,15,'Thus saith the Lord GOD; Because the Philistines have dealt by revenge, and have taken vengeance with a despiteful heart, to destroy [it] for the old hatred;'),
-(214573,8,26,25,16,'Therefore thus saith the Lord GOD; Behold, I will stretch out mine hand upon the Philistines, and I will cut off the Cherethims, and destroy the remnant of the sea coast.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(214573,8,26,25,16,'Therefore thus saith the Lord GOD; Behold, I will stretch out mine hand upon the Philistines, and I will cut off the Cherethims, and destroy the remnant of the sea coast.'),
 (214574,8,26,25,17,'And I will execute great vengeance upon them with furious rebukes; and they shall know that I [am] the LORD, when I shall lay my vengeance upon them.'),
 (214575,8,26,26,1,'And it came to pass in the eleventh year, in the first [day] of the month, [that] the word of the LORD came unto me, saying,'),
 (214576,8,26,26,2,'Son of man, because that Tyrus hath said against Jerusalem, Aha, she is broken [that was] the gates of the people: she is turned unto me: I shall be replenished, [now] she is laid waste:'),
@@ -21573,8 +21172,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (214620,8,26,27,25,'The ships of Tarshish did sing of thee in thy market: and thou wast replenished, and made very glorious in the midst of the seas.'),
 (214621,8,26,27,26,'Thy rowers have brought thee into great waters: the east wind hath broken thee in the midst of the seas.'),
 (214622,8,26,27,27,'Thy riches, and thy fairs, thy merchandise, thy mariners, and thy pilots, thy calkers, and the occupiers of thy merchandise, and all thy men of war, that [are] in thee, and in all thy company which [is] in the midst of thee, shall fall into the midst of the seas in the day of thy ruin.'),
-(214623,8,26,27,28,'The suburbs shall shake at the sound of the cry of thy pilots.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(214623,8,26,27,28,'The suburbs shall shake at the sound of the cry of thy pilots.'),
 (214624,8,26,27,29,'And all that handle the oar, the mariners, [and] all the pilots of the sea, shall come down from their ships, they shall stand upon the land;'),
 (214625,8,26,27,30,'And shall cause their voice to be heard against thee, and shall cry bitterly, and shall cast up dust upon their heads, they shall wallow themselves in the ashes:'),
 (214626,8,26,27,31,'And they shall make themselves utterly bald for thee, and gird them with sackcloth, and they shall weep for thee with bitterness of heart [and] bitter wailing.'),
@@ -21624,8 +21222,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (214670,8,26,29,13,'Yet thus saith the Lord GOD; At the end of forty years will I gather the Egyptians from the people whither they were scattered:'),
 (214671,8,26,29,14,'And I will bring again the captivity of Egypt, and will cause them to return [into] the land of Pathros, into the land of their habitation; and they shall be there a base kingdom.'),
 (214672,8,26,29,15,'It shall be the basest of the kingdoms; neither shall it exalt itself any more above the nations: for I will diminish them, that they shall no more rule over the nations.'),
-(214673,8,26,29,16,'And it shall be no more the confidence of the house of Israel, which bringeth [their] iniquity to remembrance, when they shall look after them: but they shall know that I [am] the Lord GOD.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(214673,8,26,29,16,'And it shall be no more the confidence of the house of Israel, which bringeth [their] iniquity to remembrance, when they shall look after them: but they shall know that I [am] the Lord GOD.'),
 (214674,8,26,29,17,'And it came to pass in the seven and twentieth year, in the first [month], in the first [day] of the month, the word of the LORD came unto me, saying,'),
 (214675,8,26,29,18,'Son of man, Nebuchadrezzar king of Babylon caused his army to serve a great service against Tyrus: every head [was] made bald, and every shoulder [was] peeled: yet had he no wages, nor his army, for Tyrus, for the service that he had served against it:'),
 (214676,8,26,29,19,'Therefore thus saith the Lord GOD; Behold, I will give the land of Egypt unto Nebuchadrezzar king of Babylon; and he shall take her multitude, and take her spoil, and take her prey; and it shall be the wages for his army.'),
@@ -21675,8 +21272,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (214720,8,26,31,16,'I made the nations to shake at the sound of his fall, when I cast him down to hell with them that descend into the pit: and all the trees of Eden, the choice and best of Lebanon, all that drink water, shall be comforted in the nether parts of the earth.'),
 (214721,8,26,31,17,'They also went down into hell with him unto [them that be] slain with the sword; and [they that were] his arm, [that] dwelt under his shadow in the midst of the heathen.'),
 (214722,8,26,31,18,'To whom art thou thus like in glory and in greatness among the trees of Eden? yet shalt thou be brought down with the trees of Eden unto the nether parts of the earth: thou shalt lie in the midst of the uncircumcised with [them that be] slain by the sword. This [is] Pharaoh and all his multitude, saith the Lord GOD.'),
-(214723,8,26,32,1,'And it came to pass in the twelfth year, in the twelfth month, in the first [day] of the month, [that] the word of the LORD came unto me, saying,');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(214723,8,26,32,1,'And it came to pass in the twelfth year, in the twelfth month, in the first [day] of the month, [that] the word of the LORD came unto me, saying,'),
 (214724,8,26,32,2,'Son of man, take up a lamentation for Pharaoh king of Egypt, and say unto him, Thou art like a young lion of the nations, and thou [art] as a whale in the seas: and thou camest forth with thy rivers, and troubledst the waters with thy feet, and fouledst their rivers.'),
 (214725,8,26,32,3,'Thus saith the Lord GOD; I will therefore spread out my net over thee with a company of many people; and they shall bring thee up in my net.'),
 (214726,8,26,32,4,'Then will I leave thee upon the land, I will cast thee forth upon the open field, and will cause all the fowls of the heaven to remain upon thee, and I will fill the beasts of the whole earth with thee.'),
@@ -21726,8 +21322,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (214770,8,26,33,16,'None of his sins that he hath committed shall be mentioned unto him: he hath done that which is lawful and right; he shall surely live.'),
 (214771,8,26,33,17,'Yet the children of thy people say, The way of the Lord is not equal: but as for them, their way is not equal.'),
 (214772,8,26,33,18,'When the righteous turneth from his righteousness, and committeth iniquity, he shall even die thereby.'),
-(214773,8,26,33,19,'But if the wicked turn from his wickedness, and do that which is lawful and right, he shall live thereby.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(214773,8,26,33,19,'But if the wicked turn from his wickedness, and do that which is lawful and right, he shall live thereby.'),
 (214774,8,26,33,20,'Yet ye say, The way of the Lord is not equal. O ye house of Israel, I will judge you every one after his ways.'),
 (214775,8,26,33,21,'And it came to pass in the twelfth year of our captivity, in the tenth [month], in the fifth [day] of the month, [that] one that had escaped out of Jerusalem came unto me, saying, The city is smitten.'),
 (214776,8,26,33,22,'Now the hand of the LORD was upon me in the evening, afore he that was escaped came; and had opened my mouth, until he came to me in the morning; and my mouth was opened, and I was no more dumb.'),
@@ -21777,8 +21372,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (214820,8,26,35,2,'Son of man, set thy face against mount Seir, and prophesy against it,'),
 (214821,8,26,35,3,'And say unto it, Thus saith the Lord GOD; Behold, O mount Seir, I [am] against thee, and I will stretch out mine hand against thee, and I will make thee most desolate.'),
 (214822,8,26,35,4,'I will lay thy cities waste, and thou shalt be desolate, and thou shalt know that I [am] the LORD.'),
-(214823,8,26,35,5,'Because thou hast had a perpetual hatred, and hast shed [the blood of] the children of Israel by the force of the sword in the time of their calamity, in the time [that their] iniquity [had] an end:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(214823,8,26,35,5,'Because thou hast had a perpetual hatred, and hast shed [the blood of] the children of Israel by the force of the sword in the time of their calamity, in the time [that their] iniquity [had] an end:'),
 (214824,8,26,35,6,'Therefore, [as] I live, saith the Lord GOD, I will prepare thee unto blood, and blood shall pursue thee: sith thou hast not hated blood, even blood shall pursue thee.'),
 (214825,8,26,35,7,'Thus will I make mount Seir most desolate, and cut off from it him that passeth out and him that returneth.'),
 (214826,8,26,35,8,'And I will fill his mountains with his slain [men]: in thy hills, and in thy valleys, and in all thy rivers, shall they fall that are slain with the sword.'),
@@ -21828,8 +21422,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (214870,8,26,36,37,'Thus saith the Lord GOD; I will yet [for] this be inquired of by the house of Israel, to do [it] for them; I will increase them with men like a flock.'),
 (214871,8,26,36,38,'As the holy flock, as the flock of Jerusalem in her solemn feasts; so shall the waste cities be filled with flocks of men: and they shall know that I [am] the LORD.'),
 (214872,8,26,37,1,'The hand of the LORD was upon me, and carried me out in the spirit of the LORD, and set me down in the midst of the valley which [was] full of bones,'),
-(214873,8,26,37,2,'And caused me to pass by them round about: and, behold, [there were] very many in the open valley; and, lo, [they were] very dry.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(214873,8,26,37,2,'And caused me to pass by them round about: and, behold, [there were] very many in the open valley; and, lo, [they were] very dry.'),
 (214874,8,26,37,3,'And he said unto me, Son of man, can these bones live? And I answered, O Lord GOD, thou knowest.'),
 (214875,8,26,37,4,'Again he said unto me, Prophesy upon these bones, and say unto them, O ye dry bones, hear the word of the LORD.'),
 (214876,8,26,37,5,'Thus saith the Lord GOD unto these bones; Behold, I will cause breath to enter into you, and ye shall live:'),
@@ -21879,8 +21472,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (214920,8,26,38,21,'And I will call for a sword against him throughout all my mountains, saith the Lord GOD: every man''s sword shall be against his brother.'),
 (214921,8,26,38,22,'And I will plead against him with pestilence and with blood; and I will rain upon him, and upon his bands, and upon the many people that [are] with him, an overflowing rain, and great hailstones, fire, and brimstone.'),
 (214922,8,26,38,23,'Thus will I magnify myself, and sanctify myself; and I will be known in the eyes of many nations, and they shall know that I [am] the LORD.'),
-(214923,8,26,39,1,'Therefore, thou son of man, prophesy against Gog, and say, Thus saith the Lord GOD; Behold, I [am] against thee, O Gog, the chief prince of Meshech and Tubal:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(214923,8,26,39,1,'Therefore, thou son of man, prophesy against Gog, and say, Thus saith the Lord GOD; Behold, I [am] against thee, O Gog, the chief prince of Meshech and Tubal:'),
 (214924,8,26,39,2,'And I will turn thee back, and leave but the sixth part of thee, and will cause thee to come up from the north parts, and will bring thee upon the mountains of Israel:'),
 (214925,8,26,39,3,'And I will smite thy bow out of thy left hand, and will cause thine arrows to fall out of thy right hand.'),
 (214926,8,26,39,4,'Thou shalt fall upon the mountains of Israel, thou, and all thy bands, and the people that [is] with thee: I will give thee unto the ravenous birds of every sort, and [to] the beasts of the field to be devoured.'),
@@ -21930,8 +21522,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (214970,8,26,40,19,'Then he measured the breadth from the forefront of the lower gate unto the forefront of the inner court without, an hundred cubits eastward and northward.'),
 (214971,8,26,40,20,'And the gate of the outward court that looked toward the north, he measured the length thereof, and the breadth thereof.'),
 (214972,8,26,40,21,'And the little chambers thereof [were] three on this side and three on that side; and the posts thereof and the arches thereof were after the measure of the first gate: the length thereof [was] fifty cubits, and the breadth five and twenty cubits.'),
-(214973,8,26,40,22,'And their windows, and their arches, and their palm trees, [were] after the measure of the gate that looketh toward the east; and they went up unto it by seven steps; and the arches thereof [were] before them.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(214973,8,26,40,22,'And their windows, and their arches, and their palm trees, [were] after the measure of the gate that looketh toward the east; and they went up unto it by seven steps; and the arches thereof [were] before them.'),
 (214974,8,26,40,23,'And the gate of the inner court [was] over against the gate toward the north, and toward the east; and he measured from gate to gate an hundred cubits.'),
 (214975,8,26,40,24,'After that he brought me toward the south, and behold a gate toward the south: and he measured the posts thereof and the arches thereof according to these measures.'),
 (214976,8,26,40,25,'And [there were] windows in it and in the arches thereof round about, like those windows: the length [was] fifty cubits, and the breadth five and twenty cubits.'),
@@ -21981,8 +21572,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (215020,8,26,41,20,'From the ground unto above the door [were] cherubims and palm trees made, and [on] the wall of the temple.'),
 (215021,8,26,41,21,'The posts of the temple [were] squared, [and] the face of the sanctuary; the appearance [of the one] as the appearance [of the other].'),
 (215022,8,26,41,22,'The altar of wood [was] three cubits high, and the length thereof two cubits; and the corners thereof, and the length thereof, and the walls thereof, [were] of wood: and he said unto me, This [is] the table that [is] before the LORD.'),
-(215023,8,26,41,23,'And the temple and the sanctuary had two doors.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(215023,8,26,41,23,'And the temple and the sanctuary had two doors.'),
 (215024,8,26,41,24,'And the doors had two leaves [apiece], two turning leaves; two [leaves] for the one door, and two leaves for the other [door].'),
 (215025,8,26,41,25,'And [there were] made on them, on the doors of the temple, cherubims and palm trees, like as [were] made upon the walls; and [there were] thick planks upon the face of the porch without.'),
 (215026,8,26,41,26,'And [there were] narrow windows and palm trees on the one side and on the other side, on the sides of the porch, and [upon] the side chambers of the house, and thick planks.'),
@@ -22032,8 +21622,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (215070,8,26,43,24,'And thou shalt offer them before the LORD, and the priests shall cast salt upon them, and they shall offer them up [for] a burnt offering unto the LORD.'),
 (215071,8,26,43,25,'Seven days shalt thou prepare every day a goat [for] a sin offering: they shall also prepare a young bullock, and a ram out of the flock, without blemish.'),
 (215072,8,26,43,26,'Seven days shall they purge the altar and purify it; and they shall consecrate themselves.'),
-(215073,8,26,43,27,'And when these days are expired, it shall be, [that] upon the eighth day, and [so] forward, the priests shall make your burnt offerings upon the altar, and your peace offerings; and I will accept you, saith the Lord GOD.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(215073,8,26,43,27,'And when these days are expired, it shall be, [that] upon the eighth day, and [so] forward, the priests shall make your burnt offerings upon the altar, and your peace offerings; and I will accept you, saith the Lord GOD.'),
 (215074,8,26,44,1,'Then he brought me back the way of the gate of the outward sanctuary which looketh toward the east; and it [was] shut.'),
 (215075,8,26,44,2,'Then said the LORD unto me; This gate shall be shut, it shall not be opened, and no man shall enter in by it; because the LORD, the God of Israel, hath entered in by it, therefore it shall be shut.'),
 (215076,8,26,44,3,'[It is] for the prince; the prince, he shall sit in it to eat bread before the LORD; he shall enter by the way of the porch of [that] gate, and shall go out by the way of the same.'),
@@ -22083,8 +21672,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (215120,8,26,45,16,'All the people of the land shall give this oblation for the prince in Israel.'),
 (215121,8,26,45,17,'And it shall be the prince''s part [to give] burnt offerings, and meat offerings, and drink offerings, in the feasts, and in the new moons, and in the sabbaths, in all solemnities of the house of Israel: he shall prepare the sin offering, and the meat offering, and the burnt offering, and the peace offerings, to make reconciliation for the house of Israel.'),
 (215122,8,26,45,18,'Thus saith the Lord GOD; In the first [month], in the first [day] of the month, thou shalt take a young bullock without blemish, and cleanse the sanctuary:'),
-(215123,8,26,45,19,'And the priest shall take of the blood of the sin offering, and put [it] upon the posts of the house, and upon the four corners of the settle of the altar, and upon the posts of the gate of the inner court.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(215123,8,26,45,19,'And the priest shall take of the blood of the sin offering, and put [it] upon the posts of the house, and upon the four corners of the settle of the altar, and upon the posts of the gate of the inner court.'),
 (215124,8,26,45,20,'And so thou shalt do the seventh [day] of the month for every one that erreth, and for [him that is] simple: so shall ye reconcile the house.'),
 (215125,8,26,45,21,'In the first [month], in the fourteenth day of the month, ye shall have the passover, a feast of seven days; unleavened bread shall be eaten.'),
 (215126,8,26,45,22,'And upon that day shall the prince prepare for himself and for all the people of the land a bullock [for] a sin offering.'),
@@ -22134,8 +21722,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (215170,8,26,47,17,'And the border from the sea shall be Hazarenan, the border of Damascus, and the north northward, and the border of Hamath. And [this is] the north side.'),
 (215171,8,26,47,18,'And the east side ye shall measure from Hauran, and from Damascus, and from Gilead, and from the land of Israel [by] Jordan, from the border unto the east sea. And [this is] the east side.'),
 (215172,8,26,47,19,'And the south side southward, from Tamar [even] to the waters of strife [in] Kadesh, the river to the great sea. And [this is] the south side southward.'),
-(215173,8,26,47,20,'The west side also [shall be] the great sea from the border, till a man come over against Hamath. This [is] the west side.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(215173,8,26,47,20,'The west side also [shall be] the great sea from the border, till a man come over against Hamath. This [is] the west side.'),
 (215174,8,26,47,21,'So shall ye divide this land unto you according to the tribes of Israel.'),
 (215175,8,26,47,22,'And it shall come to pass, [that] ye shall divide it by lot for an inheritance unto you, and to the strangers that sojourn among you, which shall beget children among you: and they shall be unto you as born in the country among the children of Israel; they shall have inheritance with you among the tribes of Israel.'),
 (215176,8,26,47,23,'And it shall come to pass, [that] in what tribe the stranger sojourneth, there shall ye give [him] his inheritance, saith the Lord GOD.'),
@@ -22185,8 +21772,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (215220,8,27,1,9,'Now God had brought Daniel into favour and tender love with the prince of the eunuchs.'),
 (215221,8,27,1,10,'And the prince of the eunuchs said unto Daniel, I fear my lord the king, who hath appointed your meat and your drink: for why should he see your faces worse liking than the children which [are] of your sort? then shall ye make [me] endanger my head to the king.'),
 (215222,8,27,1,11,'Then said Daniel to Melzar, whom the prince of the eunuchs had set over Daniel, Hananiah, Mishael, and Azariah,'),
-(215223,8,27,1,12,'Prove thy servants, I beseech thee, ten days; and let them give us pulse to eat, and water to drink.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(215223,8,27,1,12,'Prove thy servants, I beseech thee, ten days; and let them give us pulse to eat, and water to drink.'),
 (215224,8,27,1,13,'Then let our countenances be looked upon before thee, and the countenance of the children that eat of the portion of the king''s meat: and as thou seest, deal with thy servants.'),
 (215225,8,27,1,14,'So he consented to them in this matter, and proved them ten days.'),
 (215226,8,27,1,15,'And at the end of ten days their countenances appeared fairer and fatter in flesh than all the children which did eat the portion of the king''s meat.'),
@@ -22236,8 +21822,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (215270,8,27,2,38,'And wheresoever the children of men dwell, the beasts of the field and the fowls of the heaven hath he given into thine hand, and hath made thee ruler over them all. Thou [art] this head of gold.'),
 (215271,8,27,2,39,'And after thee shall arise another kingdom inferior to thee, and another third kingdom of brass, which shall bear rule over all the earth.'),
 (215272,8,27,2,40,'And the fourth kingdom shall be strong as iron: forasmuch as iron breaketh in pieces and subdueth all [things]: and as iron that breaketh all these, shall it break in pieces and bruise.'),
-(215273,8,27,2,41,'And whereas thou sawest the feet and toes, part of potters'' clay, and part of iron, the kingdom shall be divided; but there shall be in it of the strength of the iron, forasmuch as thou sawest the iron mixed with miry clay.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(215273,8,27,2,41,'And whereas thou sawest the feet and toes, part of potters'' clay, and part of iron, the kingdom shall be divided; but there shall be in it of the strength of the iron, forasmuch as thou sawest the iron mixed with miry clay.'),
 (215274,8,27,2,42,'And [as] the toes of the feet [were] part of iron, and part of clay, [so] the kingdom shall be partly strong, and partly broken.'),
 (215275,8,27,2,43,'And whereas thou sawest iron mixed with miry clay, they shall mingle themselves with the seed of men: but they shall not cleave one to another, even as iron is not mixed with clay.'),
 (215276,8,27,2,44,'And in the days of these kings shall the God of heaven set up a kingdom, which shall never be destroyed: and the kingdom shall not be left to other people, [but] it shall break in pieces and consume all these kingdoms, and it shall stand for ever.'),
@@ -22287,8 +21872,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (215320,8,27,4,9,'O Belteshazzar, master of the magicians, because I know that the spirit of the holy gods [is] in thee, and no secret troubleth thee, tell me the visions of my dream that I have seen, and the interpretation thereof.'),
 (215321,8,27,4,10,'Thus [were] the visions of mine head in my bed; I saw, and behold a tree in the midst of the earth, and the height thereof [was] great.'),
 (215322,8,27,4,11,'The tree grew, and was strong, and the height thereof reached unto heaven, and the sight thereof to the end of all the earth:'),
-(215323,8,27,4,12,'The leaves thereof [were] fair, and the fruit thereof much, and in it [was] meat for all: the beasts of the field had shadow under it, and the fowls of the heaven dwelt in the boughs thereof, and all flesh was fed of it.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(215323,8,27,4,12,'The leaves thereof [were] fair, and the fruit thereof much, and in it [was] meat for all: the beasts of the field had shadow under it, and the fowls of the heaven dwelt in the boughs thereof, and all flesh was fed of it.'),
 (215324,8,27,4,13,'I saw in the visions of my head upon my bed, and, behold, a watcher and an holy one came down from heaven;'),
 (215325,8,27,4,14,'He cried aloud, and said thus, Hew down the tree, and cut off his branches, shake off his leaves, and scatter his fruit: let the beasts get away from under it, and the fowls from his branches:'),
 (215326,8,27,4,15,'Nevertheless leave the stump of his roots in the earth, even with a band of iron and brass, in the tender grass of the field; and let it be wet with the dew of heaven, and [let] his portion [be] with the beasts in the grass of the earth:'),
@@ -22338,8 +21922,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (215370,8,27,5,22,'And thou his son, O Belshazzar, hast not humbled thine heart, though thou knewest all this;'),
 (215371,8,27,5,23,'But hast lifted up thyself against the Lord of heaven; and they have brought the vessels of his house before thee, and thou, and thy lords, thy wives, and thy concubines, have drunk wine in them; and thou hast praised the gods of silver, and gold, of brass, iron, wood, and stone, which see not, nor hear, nor know: and the God in whose hand thy breath [is], and whose [are] all thy ways, hast thou not glorified:'),
 (215372,8,27,5,24,'Then was the part of the hand sent from him; and this writing was written.'),
-(215373,8,27,5,25,'And this [is] the writing that was written, MENE, MENE, TEKEL, UPHARSIN.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(215373,8,27,5,25,'And this [is] the writing that was written, MENE, MENE, TEKEL, UPHARSIN.'),
 (215374,8,27,5,26,'This [is] the interpretation of the thing: MENE; God hath numbered thy kingdom, and finished it.'),
 (215375,8,27,5,27,'TEKEL; Thou art weighed in the balances, and art found wanting.'),
 (215376,8,27,5,28,'PERES; Thy kingdom is divided, and given to the Medes and Persians.'),
@@ -22389,8 +21972,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (215420,8,27,7,13,'I saw in the night visions, and, behold, [one] like the Son of man came with the clouds of heaven, and came to the Ancient of days, and they brought him near before him.'),
 (215421,8,27,7,14,'And there was given him dominion, and glory, and a kingdom, that all people, nations, and languages, should serve him: his dominion [is] an everlasting dominion, which shall not pass away, and his kingdom [that] which shall not be destroyed.'),
 (215422,8,27,7,15,'I Daniel was grieved in my spirit in the midst of [my] body, and the visions of my head troubled me.'),
-(215423,8,27,7,16,'I came near unto one of them that stood by, and asked him the truth of all this. So he told me, and made me know the interpretation of the things.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(215423,8,27,7,16,'I came near unto one of them that stood by, and asked him the truth of all this. So he told me, and made me know the interpretation of the things.'),
 (215424,8,27,7,17,'These great beasts, which are four, [are] four kings, [which] shall arise out of the earth.'),
 (215425,8,27,7,18,'But the saints of the most High shall take the kingdom, and possess the kingdom for ever, even for ever and ever.'),
 (215426,8,27,7,19,'Then I would know the truth of the fourth beast, which was diverse from all the others, exceeding dreadful, whose teeth [were of] iron, and his nails [of] brass; [which] devoured, brake in pieces, and stamped the residue with his feet;'),
@@ -22491,8 +22073,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (215520,8,27,11,10,'But his sons shall be stirred up, and shall assemble a multitude of great forces: and [one] shall certainly come, and overflow, and pass through: then shall he return, and be stirred up, [even] to his fortress.'),
 (215521,8,27,11,11,'And the king of the south shall be moved with choler, and shall come forth and fight with him, [even] with the king of the north: and he shall set forth a great multitude; but the multitude shall be given into his hand.'),
 (215522,8,27,11,12,'[And] when he hath taken away the multitude, his heart shall be lifted up; and he shall cast down [many] ten thousands: but he shall not be strengthened [by it].'),
-(215523,8,27,11,13,'For the king of the north shall return, and shall set forth a multitude greater than the former, and shall certainly come after certain years with a great army and with much riches.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(215523,8,27,11,13,'For the king of the north shall return, and shall set forth a multitude greater than the former, and shall certainly come after certain years with a great army and with much riches.'),
 (215524,8,27,11,14,'And in those times there shall many stand up against the king of the south: also the robbers of thy people shall exalt themselves to establish the vision; but they shall fall.'),
 (215525,8,27,11,15,'So the king of the north shall come, and cast up a mount, and take the most fenced cities: and the arms of the south shall not withstand, neither his chosen people, neither [shall there be any] strength to withstand.'),
 (215526,8,27,11,16,'But he that cometh against him shall do according to his own will, and none shall stand before him: and he shall stand in the glorious land, which by his hand shall be consumed.'),
@@ -22542,8 +22123,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (215570,8,28,1,2,'The beginning of the word of the LORD by Hosea. And the LORD said to Hosea, Go, take unto thee a wife of whoredoms and children of whoredoms: for the land hath committed great whoredom, [departing] from the LORD.'),
 (215571,8,28,1,3,'So he went and took Gomer the daughter of Diblaim; which conceived, and bare him a son.'),
 (215572,8,28,1,4,'And the LORD said unto him, Call his name Jezreel; for yet a little [while], and I will avenge the blood of Jezreel upon the house of Jehu, and will cause to cease the kingdom of the house of Israel.'),
-(215573,8,28,1,5,'And it shall come to pass at that day, that I will break the bow of Israel in the valley of Jezreel.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(215573,8,28,1,5,'And it shall come to pass at that day, that I will break the bow of Israel in the valley of Jezreel.'),
 (215574,8,28,1,6,'And she conceived again, and bare a daughter. And [God] said unto him, Call her name Loruhamah: for I will no more have mercy upon the house of Israel; but I will utterly take them away.'),
 (215575,8,28,1,7,'But I will have mercy upon the house of Judah, and will save them by the LORD their God, and will not save them by bow, nor by sword, nor by battle, by horses, nor by horsemen.'),
 (215576,8,28,1,8,'Now when she had weaned Loruhamah, she conceived, and bare a son.'),
@@ -22593,8 +22173,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (215620,8,28,4,13,'They sacrifice upon the tops of the mountains, and burn incense upon the hills, under oaks and poplars and elms, because the shadow thereof [is] good: therefore your daughters shall commit whoredom, and your spouses shall commit adultery.'),
 (215621,8,28,4,14,'I will not punish your daughters when they commit whoredom, nor your spouses when they commit adultery: for themselves are separated with whores, and they sacrifice with harlots: therefore the people [that] doth not understand shall fall.'),
 (215622,8,28,4,15,'Though thou, Israel, play the harlot, [yet] let not Judah offend; and come not ye unto Gilgal, neither go ye up to Bethaven, nor swear, The LORD liveth.'),
-(215623,8,28,4,16,'For Israel slideth back as a backsliding heifer: now the LORD will feed them as a lamb in a large place.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(215623,8,28,4,16,'For Israel slideth back as a backsliding heifer: now the LORD will feed them as a lamb in a large place.'),
 (215624,8,28,4,17,'Ephraim [is] joined to idols: let him alone.'),
 (215625,8,28,4,18,'Their drink is sour: they have committed whoredom continually: her rulers [with] shame do love, Give ye.'),
 (215626,8,28,4,19,'The wind hath bound her up in her wings, and they shall be ashamed because of their sacrifices.'),
@@ -22644,8 +22223,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (215670,8,28,8,2,'Israel shall cry unto me, My God, we know thee.'),
 (215671,8,28,8,3,'Israel hath cast off [the thing that is] good: the enemy shall pursue him.'),
 (215672,8,28,8,4,'They have set up kings, but not by me: they have made princes, and I knew [it] not: of their silver and their gold have they made them idols, that they may be cut off.'),
-(215673,8,28,8,5,'Thy calf, O Samaria, hath cast [thee] off; mine anger is kindled against them: how long [will it be] ere they attain to innocency?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(215673,8,28,8,5,'Thy calf, O Samaria, hath cast [thee] off; mine anger is kindled against them: how long [will it be] ere they attain to innocency?'),
 (215674,8,28,8,6,'For from Israel [was] it also: the workman made it; therefore it [is] not God: but the calf of Samaria shall be broken in pieces.'),
 (215675,8,28,8,7,'For they have sown the wind, and they shall reap the whirlwind: it hath no stalk: the bud shall yield no meal: if so be it yield, the strangers shall swallow it up.'),
 (215676,8,28,8,8,'Israel is swallowed up: now shall they be among the Gentiles as a vessel wherein [is] no pleasure.'),
@@ -22695,8 +22273,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (215720,8,28,11,6,'And the sword shall abide on his cities, and shall consume his branches, and devour [them], because of their own counsels.'),
 (215721,8,28,11,7,'And my people are bent to backsliding from me: though they called them to the most High, none at all would exalt [him].'),
 (215722,8,28,11,8,'How shall I give thee up, Ephraim? [how] shall I deliver thee, Israel? how shall I make thee as Admah? [how] shall I set thee as Zeboim? mine heart is turned within me, my repentings are kindled together.'),
-(215723,8,28,11,9,'I will not execute the fierceness of mine anger, I will not return to destroy Ephraim: for I [am] God, and not man; the Holy One in the midst of thee: and I will not enter into the city.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(215723,8,28,11,9,'I will not execute the fierceness of mine anger, I will not return to destroy Ephraim: for I [am] God, and not man; the Holy One in the midst of thee: and I will not enter into the city.'),
 (215724,8,28,11,10,'They shall walk after the LORD: he shall roar like a lion: when he shall roar, then the children shall tremble from the west.'),
 (215725,8,28,11,11,'They shall tremble as a bird out of Egypt, and as a dove out of the land of Assyria: and I will place them in their houses, saith the LORD.'),
 (215726,8,28,11,12,'Ephraim compasseth me about with lies, and the house of Israel with deceit: but Judah yet ruleth with God, and is faithful with the saints.'),
@@ -22746,8 +22323,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (215770,8,29,1,5,'Awake, ye drunkards, and weep; and howl, all ye drinkers of wine, because of the new wine; for it is cut off from your mouth.'),
 (215771,8,29,1,6,'For a nation is come up upon my land, strong, and without number, whose teeth [are] the teeth of a lion, and he hath the cheek teeth of a great lion.'),
 (215772,8,29,1,7,'He hath laid my vine waste, and barked my fig tree: he hath made it clean bare, and cast [it] away; the branches thereof are made white.'),
-(215773,8,29,1,8,'Lament like a virgin girded with sackcloth for the husband of her youth.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(215773,8,29,1,8,'Lament like a virgin girded with sackcloth for the husband of her youth.'),
 (215774,8,29,1,9,'The meat offering and the drink offering is cut off from the house of the LORD; the priests, the LORD''s ministers, mourn.'),
 (215775,8,29,1,10,'The field is wasted, the land mourneth; for the corn is wasted: the new wine is dried up, the oil languisheth.'),
 (215776,8,29,1,11,'Be ye ashamed, O ye husbandmen; howl, O ye vinedressers, for the wheat and for the barley; because the harvest of the field is perished.'),
@@ -22797,8 +22373,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (215820,8,29,3,3,'And they have cast lots for my people; and have given a boy for an harlot, and sold a girl for wine, that they might drink.'),
 (215821,8,29,3,4,'Yea, and what have ye to do with me, O Tyre, and Zidon, and all the coasts of Palestine? will ye render me a recompence? and if ye recompense me, swiftly [and] speedily will I return your recompence upon your own head;'),
 (215822,8,29,3,5,'Because ye have taken my silver and my gold, and have carried into your temples my goodly pleasant things:'),
-(215823,8,29,3,6,'The children also of Judah and the children of Jerusalem have ye sold unto the Grecians, that ye might remove them far from their border.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(215823,8,29,3,6,'The children also of Judah and the children of Jerusalem have ye sold unto the Grecians, that ye might remove them far from their border.'),
 (215824,8,29,3,7,'Behold, I will raise them out of the place whither ye have sold them, and will return your recompence upon your own head:'),
 (215825,8,29,3,8,'And I will sell your sons and your daughters into the hand of the children of Judah, and they shall sell them to the Sabeans, to a people far off: for the LORD hath spoken [it].'),
 (215826,8,29,3,9,'Proclaim ye this among the Gentiles; Prepare war, wake up the mighty men, let all the men of war draw near; let them come up:'),
@@ -22848,8 +22423,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (215870,8,30,3,1,'Hear this word that the LORD hath spoken against you, O children of Israel, against the whole family which I brought up from the land of Egypt, saying,'),
 (215871,8,30,3,2,'You only have I known of all the families of the earth: therefore I will punish you for all your iniquities.'),
 (215872,8,30,3,3,'Can two walk together, except they be agreed?'),
-(215873,8,30,3,4,'Will a lion roar in the forest, when he hath no prey? will a young lion cry out of his den, if he have taken nothing?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(215873,8,30,3,4,'Will a lion roar in the forest, when he hath no prey? will a young lion cry out of his den, if he have taken nothing?'),
 (215874,8,30,3,5,'Can a bird fall in a snare upon the earth, where no gin [is] for him? shall [one] take up a snare from the earth, and have taken nothing at all?'),
 (215875,8,30,3,6,'Shall a trumpet be blown in the city, and the people not be afraid? shall there be evil in a city, and the LORD hath not done [it]?'),
 (215876,8,30,3,7,'Surely the Lord GOD will do nothing, but he revealeth his secret unto his servants the prophets.'),
@@ -22899,8 +22473,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (215920,8,30,5,23,'Take thou away from me the noise of thy songs; for I will not hear the melody of thy viols.'),
 (215921,8,30,5,24,'But let judgment run down as waters, and righteousness as a mighty stream.'),
 (215922,8,30,5,25,'Have ye offered unto me sacrifices and offerings in the wilderness forty years, O house of Israel?'),
-(215923,8,30,5,26,'But ye have borne the tabernacle of your Moloch and Chiun your images, the star of your god, which ye made to yourselves.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(215923,8,30,5,26,'But ye have borne the tabernacle of your Moloch and Chiun your images, the star of your god, which ye made to yourselves.'),
 (215924,8,30,5,27,'Therefore will I cause you to go into captivity beyond Damascus, saith the LORD, whose name [is] The God of hosts.'),
 (215925,8,30,6,1,'Woe to them [that are] at ease in Zion, and trust in the mountain of Samaria, [which are] named chief of the nations, to whom the house of Israel came!'),
 (215926,8,30,6,2,'Pass ye unto Calneh, and see; and from thence go ye to Hamath the great: then go down to Gath of the Philistines: [be they] better than these kingdoms? or their border greater than your border?'),
@@ -22950,8 +22523,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (215970,8,30,9,1,'I saw the Lord standing upon the altar: and he said, Smite the lintel of the door, that the posts may shake: and cut them in the head, all of them; and I will slay the last of them with the sword: he that fleeth of them shall not flee away, and he that escapeth of them shall not be delivered.'),
 (215971,8,30,9,2,'Though they dig into hell, thence shall mine hand take them; though they climb up to heaven, thence will I bring them down:'),
 (215972,8,30,9,3,'And though they hide themselves in the top of Carmel, I will search and take them out thence; and though they be hid from my sight in the bottom of the sea, thence will I command the serpent, and he shall bite them:'),
-(215973,8,30,9,4,'And though they go into captivity before their enemies, thence will I command the sword, and it shall slay them: and I will set mine eyes upon them for evil, and not for good.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(215973,8,30,9,4,'And though they go into captivity before their enemies, thence will I command the sword, and it shall slay them: and I will set mine eyes upon them for evil, and not for good.'),
 (215974,8,30,9,5,'And the Lord GOD of hosts [is] he that toucheth the land, and it shall melt, and all that dwell therein shall mourn: and it shall rise up wholly like a flood; and shall be drowned, as [by] the flood of Egypt.'),
 (215975,8,30,9,6,'[It is] he that buildeth his stories in the heaven, and hath founded his troop in the earth; he that calleth for the waters of the sea, and poureth them out upon the face of the earth: The LORD [is] his name.'),
 (215976,8,30,9,7,'[Are] ye not as children of the Ethiopians unto me, O children of Israel? saith the LORD. Have not I brought up Israel out of the land of Egypt? and the Philistines from Caphtor, and the Syrians from Kir?'),
@@ -23001,8 +22573,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (216020,8,32,1,15,'So they took up Jonah, and cast him forth into the sea: and the sea ceased from her raging.'),
 (216021,8,32,1,16,'Then the men feared the LORD exceedingly, and offered a sacrifice unto the LORD, and made vows.'),
 (216022,8,32,1,17,'Now the LORD had prepared a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights.'),
-(216023,8,32,2,1,'Then Jonah prayed unto the LORD his God out of the fish''s belly,');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(216023,8,32,2,1,'Then Jonah prayed unto the LORD his God out of the fish''s belly,'),
 (216024,8,32,2,2,'And said, I cried by reason of mine affliction unto the LORD, and he heard me; out of the belly of hell cried I, [and] thou heardest my voice.'),
 (216025,8,32,2,3,'For thou hadst cast me into the deep, in the midst of the seas; and the floods compassed me about: all thy billows and thy waves passed over me.'),
 (216026,8,32,2,4,'Then I said, I am cast out of thy sight; yet I will look again toward thy holy temple.'),
@@ -23052,8 +22623,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (216070,8,33,2,1,'Woe to them that devise iniquity, and work evil upon their beds! when the morning is light, they practise it, because it is in the power of their hand.'),
 (216071,8,33,2,2,'And they covet fields, and take [them] by violence; and houses, and take [them] away: so they oppress a man and his house, even a man and his heritage.'),
 (216072,8,33,2,3,'Therefore thus saith the LORD; Behold, against this family do I devise an evil, from which ye shall not remove your necks; neither shall ye go haughtily: for this time [is] evil.'),
-(216073,8,33,2,4,'In that day shall [one] take up a parable against you, and lament with a doleful lamentation, [and] say, We be utterly spoiled: he hath changed the portion of my people: how hath he removed [it] from me! turning away he hath divided our fields.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(216073,8,33,2,4,'In that day shall [one] take up a parable against you, and lament with a doleful lamentation, [and] say, We be utterly spoiled: he hath changed the portion of my people: how hath he removed [it] from me! turning away he hath divided our fields.'),
 (216074,8,33,2,5,'Therefore thou shalt have none that shall cast a cord by lot in the congregation of the LORD.'),
 (216075,8,33,2,6,'Prophesy ye not, [say they to them that] prophesy: they shall not prophesy to them, [that] they shall not take shame.'),
 (216076,8,33,2,7,'O [thou that art] named the house of Jacob, is the spirit of the LORD straitened? [are] these his doings? do not my words do good to him that walketh uprightly?'),
@@ -23103,8 +22673,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (216120,8,33,5,13,'Thy graven images also will I cut off, and thy standing images out of the midst of thee; and thou shalt no more worship the work of thine hands.'),
 (216121,8,33,5,14,'And I will pluck up thy groves out of the midst of thee: so will I destroy thy cities.'),
 (216122,8,33,5,15,'And I will execute vengeance in anger and fury upon the heathen, such as they have not heard.'),
-(216123,8,33,6,1,'Hear ye now what the LORD saith; Arise, contend thou before the mountains, and let the hills hear thy voice.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(216123,8,33,6,1,'Hear ye now what the LORD saith; Arise, contend thou before the mountains, and let the hills hear thy voice.'),
 (216124,8,33,6,2,'Hear ye, O mountains, the LORD''s controversy, and ye strong foundations of the earth: for the LORD hath a controversy with his people, and he will plead with Israel.'),
 (216125,8,33,6,3,'O my people, what have I done unto thee? and wherein have I wearied thee? testify against me.'),
 (216126,8,33,6,4,'For I brought thee up out of the land of Egypt, and redeemed thee out of the house of servants; and I sent before thee Moses, Aaron, and Miriam.'),
@@ -23154,8 +22723,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (216170,8,34,1,12,'Thus saith the LORD; Though [they be] quiet, and likewise many, yet thus shall they be cut down, when he shall pass through. Though I have afflicted thee, I will afflict thee no more.'),
 (216171,8,34,1,13,'For now will I break his yoke from off thee, and will burst thy bonds in sunder.'),
 (216172,8,34,1,14,'And the LORD hath given a commandment concerning thee, [that] no more of thy name be sown: out of the house of thy gods will I cut off the graven image and the molten image: I will make thy grave; for thou art vile.'),
-(216173,8,34,1,15,'Behold upon the mountains the feet of him that bringeth good tidings, that publisheth peace! O Judah, keep thy solemn feasts, perform thy vows: for the wicked shall no more pass through thee; he is utterly cut off.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(216173,8,34,1,15,'Behold upon the mountains the feet of him that bringeth good tidings, that publisheth peace! O Judah, keep thy solemn feasts, perform thy vows: for the wicked shall no more pass through thee; he is utterly cut off.'),
 (216174,8,34,2,1,'He that dasheth in pieces is come up before thy face: keep the munition, watch the way, make [thy] loins strong, fortify [thy] power mightily.'),
 (216175,8,34,2,2,'For the LORD hath turned away the excellency of Jacob, as the excellency of Israel: for the emptiers have emptied them out, and marred their vine branches.'),
 (216176,8,34,2,3,'The shield of his mighty men is made red, the valiant men [are] in scarlet: the chariots [shall be] with flaming torches in the day of his preparation, and the fir trees shall be terribly shaken.'),
@@ -23205,8 +22773,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (216220,8,35,1,15,'They take up all of them with the angle, they catch them in their net, and gather them in their drag: therefore they rejoice and are glad.'),
 (216221,8,35,1,16,'Therefore they sacrifice unto their net, and burn incense unto their drag; because by them their portion [is] fat, and their meat plenteous.'),
 (216222,8,35,1,17,'Shall they therefore empty their net, and not spare continually to slay the nations?'),
-(216223,8,35,2,1,'I will stand upon my watch, and set me upon the tower, and will watch to see what he will say unto me, and what I shall answer when I am reproved.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(216223,8,35,2,1,'I will stand upon my watch, and set me upon the tower, and will watch to see what he will say unto me, and what I shall answer when I am reproved.'),
 (216224,8,35,2,2,'And the LORD answered me, and said, Write the vision, and make [it] plain upon tables, that he may run that readeth it.'),
 (216225,8,35,2,3,'For the vision [is] yet for an appointed time, but at the end it shall speak, and not lie: though it tarry, wait for it; because it will surely come, it will not tarry.'),
 (216226,8,35,2,4,'Behold, his soul [which] is lifted up is not upright in him: but the just shall live by his faith.'),
@@ -23256,8 +22823,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (216270,8,36,1,9,'In the same day also will I punish all those that leap on the threshold, which fill their masters'' houses with violence and deceit.'),
 (216271,8,36,1,10,'And it shall come to pass in that day, saith the LORD, [that there shall be] the noise of a cry from the fish gate, and an howling from the second, and a great crashing from the hills.'),
 (216272,8,36,1,11,'Howl, ye inhabitants of Maktesh, for all the merchant people are cut down; all they that bear silver are cut off.'),
-(216273,8,36,1,12,'And it shall come to pass at that time, [that] I will search Jerusalem with candles, and punish the men that are settled on their lees: that say in their heart, The LORD will not do good, neither will he do evil.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(216273,8,36,1,12,'And it shall come to pass at that time, [that] I will search Jerusalem with candles, and punish the men that are settled on their lees: that say in their heart, The LORD will not do good, neither will he do evil.'),
 (216274,8,36,1,13,'Therefore their goods shall become a booty, and their houses a desolation: they shall also build houses, but not inhabit [them]; and they shall plant vineyards, but not drink the wine thereof.'),
 (216275,8,36,1,14,'The great day of the LORD [is] near, [it is] near, and hasteth greatly, [even] the voice of the day of the LORD: the mighty man shall cry there bitterly.'),
 (216276,8,36,1,15,'That day [is] a day of wrath, a day of trouble and distress, a day of wasteness and desolation, a day of darkness and gloominess, a day of clouds and thick darkness,'),
@@ -23307,8 +22873,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (216320,8,37,1,6,'Ye have sown much, and bring in little; ye eat, but ye have not enough; ye drink, but ye are not filled with drink; ye clothe you, but there is none warm; and he that earneth wages earneth wages [to put it] into a bag with holes.'),
 (216321,8,37,1,7,'Thus saith the LORD of hosts; Consider your ways.'),
 (216322,8,37,1,8,'Go up to the mountain, and bring wood, and build the house; and I will take pleasure in it, and I will be glorified, saith the LORD.'),
-(216323,8,37,1,9,'Ye looked for much, and, lo, [it came] to little; and when ye brought [it] home, I did blow upon it. Why? saith the LORD of hosts. Because of mine house that [is] waste, and ye run every man unto his own house.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(216323,8,37,1,9,'Ye looked for much, and, lo, [it came] to little; and when ye brought [it] home, I did blow upon it. Why? saith the LORD of hosts. Because of mine house that [is] waste, and ye run every man unto his own house.'),
 (216324,8,37,1,10,'Therefore the heaven over you is stayed from dew, and the earth is stayed [from] her fruit.'),
 (216325,8,37,1,11,'And I called for a drought upon the land, and upon the mountains, and upon the corn, and upon the new wine, and upon the oil, and upon [that] which the ground bringeth forth, and upon men, and upon cattle, and upon all the labour of the hands.'),
 (216326,8,37,1,12,'Then Zerubbabel the son of Shealtiel, and Joshua the son of Josedech, the high priest, with all the remnant of the people, obeyed the voice of the LORD their God, and the words of Haggai the prophet, as the LORD their God had sent him, and the people did fear before the LORD.'),
@@ -23358,8 +22923,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (216370,8,38,1,18,'Then lifted I up mine eyes, and saw, and behold four horns.'),
 (216371,8,38,1,19,'And I said unto the angel that talked with me, What [be] these? And he answered me, These [are] the horns which have scattered Judah, Israel, and Jerusalem.'),
 (216372,8,38,1,20,'And the LORD shewed me four carpenters.'),
-(216373,8,38,1,21,'Then said I, What come these to do? And he spake, saying, These [are] the horns which have scattered Judah, so that no man did lift up his head: but these are come to fray them, to cast out the horns of the Gentiles, which lifted up [their] horn over the land of Judah to scatter it.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(216373,8,38,1,21,'Then said I, What come these to do? And he spake, saying, These [are] the horns which have scattered Judah, so that no man did lift up his head: but these are come to fray them, to cast out the horns of the Gentiles, which lifted up [their] horn over the land of Judah to scatter it.'),
 (216374,8,38,2,1,'I lifted up mine eyes again, and looked, and behold a man with a measuring line in his hand.'),
 (216375,8,38,2,2,'Then said I, Whither goest thou? And he said unto me, To measure Jerusalem, to see what [is] the breadth thereof, and what [is] the length thereof.'),
 (216376,8,38,2,3,'And, behold, the angel that talked with me went forth, and another angel went out to meet him,'),
@@ -23409,8 +22973,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (216420,8,38,5,10,'Then said I to the angel that talked with me, Whither do these bear the ephah?'),
 (216421,8,38,5,11,'And he said unto me, To build it an house in the land of Shinar: and it shall be established, and set there upon her own base.'),
 (216422,8,38,6,1,'And I turned, and lifted up mine eyes, and looked, and, behold, there came four chariots out from between two mountains; and the mountains [were] mountains of brass.'),
-(216423,8,38,6,2,'In the first chariot [were] red horses; and in the second chariot black horses;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(216423,8,38,6,2,'In the first chariot [were] red horses; and in the second chariot black horses;'),
 (216424,8,38,6,3,'And in the third chariot white horses; and in the fourth chariot grisled and bay horses.'),
 (216425,8,38,6,4,'Then I answered and said unto the angel that talked with me, What [are] these, my lord?'),
 (216426,8,38,6,5,'And the angel answered and said unto me, These [are] the four spirits of the heavens, which go forth from standing before the Lord of all the earth.'),
@@ -23511,8 +23074,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (216520,8,38,12,1,'The burden of the word of the LORD for Israel, saith the LORD, which stretcheth forth the heavens, and layeth the foundation of the earth, and formeth the spirit of man within him.'),
 (216521,8,38,12,2,'Behold, I will make Jerusalem a cup of trembling unto all the people round about, when they shall be in the siege both against Judah [and] against Jerusalem.'),
 (216522,8,38,12,3,'And in that day will I make Jerusalem a burdensome stone for all people: all that burden themselves with it shall be cut in pieces, though all the people of the earth be gathered together against it.'),
-(216523,8,38,12,4,'In that day, saith the LORD, I will smite every horse with astonishment, and his rider with madness: and I will open mine eyes upon the house of Judah, and will smite every horse of the people with blindness.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(216523,8,38,12,4,'In that day, saith the LORD, I will smite every horse with astonishment, and his rider with madness: and I will open mine eyes upon the house of Judah, and will smite every horse of the people with blindness.'),
 (216524,8,38,12,5,'And the governors of Judah shall say in their heart, The inhabitants of Jerusalem [shall be] my strength in the LORD of hosts their God.'),
 (216525,8,38,12,6,'In that day will I make the governors of Judah like an hearth of fire among the wood, and like a torch of fire in a sheaf; and they shall devour all the people round about, on the right hand and on the left: and Jerusalem shall be inhabited again in her own place, [even] in Jerusalem.'),
 (216526,8,38,12,7,'The LORD also shall save the tents of Judah first, that the glory of the house of David and the glory of the inhabitants of Jerusalem do not magnify [themselves] against Judah.'),
@@ -23562,8 +23124,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (216570,8,39,1,7,'Ye offer polluted bread upon mine altar; and ye say, Wherein have we polluted thee? In that ye say, The table of the LORD [is] contemptible.'),
 (216571,8,39,1,8,'And if ye offer the blind for sacrifice, [is it] not evil? and if ye offer the lame and sick, [is it] not evil? offer it now unto thy governor; will he be pleased with thee, or accept thy person? saith the LORD of hosts.'),
 (216572,8,39,1,9,'And now, I pray you, beseech God that he will be gracious unto us: this hath been by your means: will he regard your persons? saith the LORD of hosts.'),
-(216573,8,39,1,10,'Who [is there] even among you that would shut the doors [for nought]? neither do ye kindle [fire] on mine altar for nought. I have no pleasure in you, saith the LORD of hosts, neither will I accept an offering at your hand.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(216573,8,39,1,10,'Who [is there] even among you that would shut the doors [for nought]? neither do ye kindle [fire] on mine altar for nought. I have no pleasure in you, saith the LORD of hosts, neither will I accept an offering at your hand.'),
 (216574,8,39,1,11,'For from the rising of the sun even unto the going down of the same my name [shall be] great among the Gentiles; and in every place incense [shall be] offered unto my name, and a pure offering: for my name [shall be] great among the heathen, saith the LORD of hosts.'),
 (216575,8,39,1,12,'But ye have profaned it, in that ye say, The table of the LORD [is] polluted; and the fruit thereof, [even] his meat, [is] contemptible.'),
 (216576,8,39,1,13,'Ye said also, Behold, what a weariness [is it]! and ye have snuffed at it, saith the LORD of hosts; and ye brought [that which was] torn, and the lame, and the sick; thus ye brought an offering: should I accept this of your hand? saith the LORD.'),
@@ -23613,8 +23174,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (216620,8,40,1,2,'Abraham begat Isaac; and Isaac begat Jacob; and Jacob begat Judas and his brethren;'),
 (216621,8,40,1,3,'And Judas begat Phares and Zara of Thamar; and Phares begat Esrom; and Esrom begat Aram;'),
 (216622,8,40,1,4,'And Aram begat Aminadab; and Aminadab begat Naasson; and Naasson begat Salmon;'),
-(216623,8,40,1,5,'And Salmon begat Booz of Rachab; and Booz begat Obed of Ruth; and Obed begat Jesse;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(216623,8,40,1,5,'And Salmon begat Booz of Rachab; and Booz begat Obed of Ruth; and Obed begat Jesse;'),
 (216624,8,40,1,6,'And Jesse begat David the king; and David the king begat Solomon of her [that had been the wife] of Urias;'),
 (216625,8,40,1,7,'And Solomon begat Roboam; and Roboam begat Abia; and Abia begat Asa;'),
 (216626,8,40,1,8,'And Asa begat Josaphat; and Josaphat begat Joram; and Joram begat Ozias;'),
@@ -23664,8 +23224,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (216670,8,40,3,4,'And the same John had his raiment of camel''s hair, and a leathern girdle about his loins; and his meat was locusts and wild honey.'),
 (216671,8,40,3,5,'Then went out to him Jerusalem, and all Judaea, and all the region round about Jordan,'),
 (216672,8,40,3,6,'And were baptized of him in Jordan, confessing their sins.'),
-(216673,8,40,3,7,'But when he saw many of the Pharisees and Sadducees come to his baptism, he said unto them, O generation of vipers, who hath warned you to flee from the wrath to come?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(216673,8,40,3,7,'But when he saw many of the Pharisees and Sadducees come to his baptism, he said unto them, O generation of vipers, who hath warned you to flee from the wrath to come?'),
 (216674,8,40,3,8,'Bring forth therefore fruits meet for repentance:'),
 (216675,8,40,3,9,'And think not to say within yourselves, We have Abraham to [our] father: for I say unto you, that God is able of these stones to raise up children unto Abraham.'),
 (216676,8,40,3,10,'And now also the axe is laid unto the root of the trees: therefore every tree which bringeth not forth good fruit is hewn down, and cast into the fire.'),
@@ -23715,8 +23274,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (216720,8,40,5,12,'Rejoice, and be exceeding glad: for great [is] your reward in heaven: for so persecuted they the prophets which were before you.'),
 (216721,8,40,5,13,'Ye are the salt of the earth: but if the salt have lost his savour, wherewith shall it be salted? it is thenceforth good for nothing, but to be cast out, and to be trodden under foot of men.'),
 (216722,8,40,5,14,'Ye are the light of the world. A city that is set on an hill cannot be hid.'),
-(216723,8,40,5,15,'Neither do men light a candle, and put it under a bushel, but on a candlestick; and it giveth light unto all that are in the house.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(216723,8,40,5,15,'Neither do men light a candle, and put it under a bushel, but on a candlestick; and it giveth light unto all that are in the house.'),
 (216724,8,40,5,16,'Let your light so shine before men, that they may see your good works, and glorify your Father which is in heaven.'),
 (216725,8,40,5,17,'Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil.'),
 (216726,8,40,5,18,'For verily I say unto you, Till heaven and earth pass, one jot or one tittle shall in no wise pass from the law, till all be fulfilled.'),
@@ -23766,8 +23324,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (216770,8,40,6,14,'For if ye forgive men their trespasses, your heavenly Father will also forgive you:'),
 (216771,8,40,6,15,'But if ye forgive not men their trespasses, neither will your Father forgive your trespasses.'),
 (216772,8,40,6,16,'Moreover when ye fast, be not, as the hypocrites, of a sad countenance: for they disfigure their faces, that they may appear unto men to fast. Verily I say unto you, They have their reward.'),
-(216773,8,40,6,17,'But thou, when thou fastest, anoint thine head, and wash thy face;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(216773,8,40,6,17,'But thou, when thou fastest, anoint thine head, and wash thy face;'),
 (216774,8,40,6,18,'That thou appear not unto men to fast, but unto thy Father which is in secret: and thy Father, which seeth in secret, shall reward thee openly.'),
 (216775,8,40,6,19,'Lay not up for yourselves treasures upon earth, where moth and rust doth corrupt, and where thieves break through and steal:'),
 (216776,8,40,6,20,'But lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal:'),
@@ -23817,8 +23374,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (216820,8,40,8,1,'When he was come down from the mountain, great multitudes followed him.'),
 (216821,8,40,8,2,'And, behold, there came a leper and worshipped him, saying, Lord, if thou wilt, thou canst make me clean.'),
 (216822,8,40,8,3,'And Jesus put forth [his] hand, and touched him, saying, I will; be thou clean. And immediately his leprosy was cleansed.'),
-(216823,8,40,8,4,'And Jesus saith unto him, See thou tell no man; but go thy way, shew thyself to the priest, and offer the gift that Moses commanded, for a testimony unto them.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(216823,8,40,8,4,'And Jesus saith unto him, See thou tell no man; but go thy way, shew thyself to the priest, and offer the gift that Moses commanded, for a testimony unto them.'),
 (216824,8,40,8,5,'And when Jesus was entered into Capernaum, there came unto him a centurion, beseeching him,'),
 (216825,8,40,8,6,'And saying, Lord, my servant lieth at home sick of the palsy, grievously tormented.'),
 (216826,8,40,8,7,'And Jesus saith unto him, I will come and heal him.'),
@@ -23868,8 +23424,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (216870,8,40,9,17,'Neither do men put new wine into old bottles: else the bottles break, and the wine runneth out, and the bottles perish: but they put new wine into new bottles, and both are preserved.'),
 (216871,8,40,9,18,'While he spake these things unto them, behold, there came a certain ruler, and worshipped him, saying, My daughter is even now dead: but come and lay thy hand upon her, and she shall live.'),
 (216872,8,40,9,19,'And Jesus arose, and followed him, and [so did] his disciples.'),
-(216873,8,40,9,20,'And, behold, a woman, which was diseased with an issue of blood twelve years, came behind [him], and touched the hem of his garment:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(216873,8,40,9,20,'And, behold, a woman, which was diseased with an issue of blood twelve years, came behind [him], and touched the hem of his garment:'),
 (216874,8,40,9,21,'For she said within herself, If I may but touch his garment, I shall be whole.'),
 (216875,8,40,9,22,'But Jesus turned him about, and when he saw her, he said, Daughter, be of good comfort; thy faith hath made thee whole. And the woman was made whole from that hour.'),
 (216876,8,40,9,23,'And when Jesus came into the ruler''s house, and saw the minstrels and the people making a noise,'),
@@ -23919,8 +23474,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (216920,8,40,10,29,'Are not two sparrows sold for a farthing? and one of them shall not fall on the ground without your Father.'),
 (216921,8,40,10,30,'But the very hairs of your head are all numbered.'),
 (216922,8,40,10,31,'Fear ye not therefore, ye are of more value than many sparrows.'),
-(216923,8,40,10,32,'Whosoever therefore shall confess me before men, him will I confess also before my Father which is in heaven.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(216923,8,40,10,32,'Whosoever therefore shall confess me before men, him will I confess also before my Father which is in heaven.'),
 (216924,8,40,10,33,'But whosoever shall deny me before men, him will I also deny before my Father which is in heaven.'),
 (216925,8,40,10,34,'Think not that I am come to send peace on earth: I came not to send peace, but a sword.'),
 (216926,8,40,10,35,'For I am come to set a man at variance against his father, and the daughter against her mother, and the daughter in law against her mother in law.'),
@@ -23970,8 +23524,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (216970,8,40,12,7,'But if ye had known what [this] meaneth, I will have mercy, and not sacrifice, ye would not have condemned the guiltless.'),
 (216971,8,40,12,8,'For the Son of man is Lord even of the sabbath day.'),
 (216972,8,40,12,9,'And when he was departed thence, he went into their synagogue:'),
-(216973,8,40,12,10,'And, behold, there was a man which had [his] hand withered. And they asked him, saying, Is it lawful to heal on the sabbath days? that they might accuse him.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(216973,8,40,12,10,'And, behold, there was a man which had [his] hand withered. And they asked him, saying, Is it lawful to heal on the sabbath days? that they might accuse him.'),
 (216974,8,40,12,11,'And he said unto them, What man shall there be among you, that shall have one sheep, and if it fall into a pit on the sabbath day, will he not lay hold on it, and lift [it] out?'),
 (216975,8,40,12,12,'How much then is a man better than a sheep? Wherefore it is lawful to do well on the sabbath days.'),
 (216976,8,40,12,13,'Then saith he to the man, Stretch forth thine hand. And he stretched [it] forth; and it was restored whole, like as the other.'),
@@ -24021,8 +23574,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (217020,8,40,13,7,'And some fell among thorns; and the thorns sprung up, and choked them:'),
 (217021,8,40,13,8,'But other fell into good ground, and brought forth fruit, some an hundredfold, some sixtyfold, some thirtyfold.'),
 (217022,8,40,13,9,'Who hath ears to hear, let him hear.'),
-(217023,8,40,13,10,'And the disciples came, and said unto him, Why speakest thou unto them in parables?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(217023,8,40,13,10,'And the disciples came, and said unto him, Why speakest thou unto them in parables?'),
 (217024,8,40,13,11,'He answered and said unto them, Because it is given unto you to know the mysteries of the kingdom of heaven, but to them it is not given.'),
 (217025,8,40,13,12,'For whosoever hath, to him shall be given, and he shall have more abundance: but whosoever hath not, from him shall be taken away even that he hath.'),
 (217026,8,40,13,13,'Therefore speak I to them in parables: because they seeing see not; and hearing they hear not, neither do they understand.'),
@@ -24072,8 +23624,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (217070,8,40,13,57,'And they were offended in him. But Jesus said unto them, A prophet is not without honour, save in his own country, and in his own house.'),
 (217071,8,40,13,58,'And he did not many mighty works there because of their unbelief.'),
 (217072,8,40,14,1,'At that time Herod the tetrarch heard of the fame of Jesus,'),
-(217073,8,40,14,2,'And said unto his servants, This is John the Baptist; he is risen from the dead; and therefore mighty works do shew forth themselves in him.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(217073,8,40,14,2,'And said unto his servants, This is John the Baptist; he is risen from the dead; and therefore mighty works do shew forth themselves in him.'),
 (217074,8,40,14,3,'For Herod had laid hold on John, and bound him, and put [him] in prison for Herodias'' sake, his brother Philip''s wife.'),
 (217075,8,40,14,4,'For John said unto him, It is not lawful for thee to have her.'),
 (217076,8,40,14,5,'And when he would have put him to death, he feared the multitude, because they counted him as a prophet.'),
@@ -24123,8 +23674,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (217120,8,40,15,13,'But he answered and said, Every plant, which my heavenly Father hath not planted, shall be rooted up.'),
 (217121,8,40,15,14,'Let them alone: they be blind leaders of the blind. And if the blind lead the blind, both shall fall into the ditch.'),
 (217122,8,40,15,15,'Then answered Peter and said unto him, Declare unto us this parable.'),
-(217123,8,40,15,16,'And Jesus said, Are ye also yet without understanding?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(217123,8,40,15,16,'And Jesus said, Are ye also yet without understanding?'),
 (217124,8,40,15,17,'Do not ye yet understand, that whatsoever entereth in at the mouth goeth into the belly, and is cast out into the draught?'),
 (217125,8,40,15,18,'But those things which proceed out of the mouth come forth from the heart; and they defile the man.'),
 (217126,8,40,15,19,'For out of the heart proceed evil thoughts, murders, adulteries, fornications, thefts, false witness, blasphemies:'),
@@ -24174,8 +23724,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (217170,8,40,16,24,'Then said Jesus unto his disciples, If any [man] will come after me, let him deny himself, and take up his cross, and follow me.'),
 (217171,8,40,16,25,'For whosoever will save his life shall lose it: and whosoever will lose his life for my sake shall find it.'),
 (217172,8,40,16,26,'For what is a man profited, if he shall gain the whole world, and lose his own soul? or what shall a man give in exchange for his soul?'),
-(217173,8,40,16,27,'For the Son of man shall come in the glory of his Father with his angels; and then he shall reward every man according to his works.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(217173,8,40,16,27,'For the Son of man shall come in the glory of his Father with his angels; and then he shall reward every man according to his works.'),
 (217174,8,40,16,28,'Verily I say unto you, There be some standing here, which shall not taste of death, till they see the Son of man coming in his kingdom.'),
 (217175,8,40,17,1,'And after six days Jesus taketh Peter, James, and John his brother, and bringeth them up into an high mountain apart,'),
 (217176,8,40,17,2,'And was transfigured before them: and his face did shine as the sun, and his raiment was white as the light.'),
@@ -24225,8 +23774,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (217220,8,40,18,19,'Again I say unto you, That if two of you shall agree on earth as touching any thing that they shall ask, it shall be done for them of my Father which is in heaven.'),
 (217221,8,40,18,20,'For where two or three are gathered together in my name, there am I in the midst of them.'),
 (217222,8,40,18,21,'Then came Peter to him, and said, Lord, how oft shall my brother sin against me, and I forgive him? till seven times?'),
-(217223,8,40,18,22,'Jesus saith unto him, I say not unto thee, Until seven times: but, Until seventy times seven.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(217223,8,40,18,22,'Jesus saith unto him, I say not unto thee, Until seven times: but, Until seventy times seven.'),
 (217224,8,40,18,23,'Therefore is the kingdom of heaven likened unto a certain king, which would take account of his servants.'),
 (217225,8,40,18,24,'And when he had begun to reckon, one was brought unto him, which owed him ten thousand talents.'),
 (217226,8,40,18,25,'But forasmuch as he had not to pay, his lord commanded him to be sold, and his wife, and children, and all that he had, and payment to be made.'),
@@ -24276,8 +23824,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (217270,8,40,20,4,'And said unto them; Go ye also into the vineyard, and whatsoever is right I will give you. And they went their way.'),
 (217271,8,40,20,5,'Again he went out about the sixth and ninth hour, and did likewise.'),
 (217272,8,40,20,6,'And about the eleventh hour he went out, and found others standing idle, and saith unto them, Why stand ye here all the day idle?'),
-(217273,8,40,20,7,'They say unto him, Because no man hath hired us. He saith unto them, Go ye also into the vineyard; and whatsoever is right, [that] shall ye receive.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(217273,8,40,20,7,'They say unto him, Because no man hath hired us. He saith unto them, Go ye also into the vineyard; and whatsoever is right, [that] shall ye receive.'),
 (217274,8,40,20,8,'So when even was come, the lord of the vineyard saith unto his steward, Call the labourers, and give them [their] hire, beginning from the last unto the first.'),
 (217275,8,40,20,9,'And when they came that [were hired] about the eleventh hour, they received every man a penny.'),
 (217276,8,40,20,10,'But when the first came, they supposed that they should have received more; and they likewise received every man a penny.'),
@@ -24327,8 +23874,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (217320,8,40,21,20,'And when the disciples saw [it], they marvelled, saying, How soon is the fig tree withered away!'),
 (217321,8,40,21,21,'Jesus answered and said unto them, Verily I say unto you, If ye have faith, and doubt not, ye shall not only do this [which is done] to the fig tree, but also if ye shall say unto this mountain, Be thou removed, and be thou cast into the sea; it shall be done.'),
 (217322,8,40,21,22,'And all things, whatsoever ye shall ask in prayer, believing, ye shall receive.'),
-(217323,8,40,21,23,'And when he was come into the temple, the chief priests and the elders of the people came unto him as he was teaching, and said, By what authority doest thou these things? and who gave thee this authority?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(217323,8,40,21,23,'And when he was come into the temple, the chief priests and the elders of the people came unto him as he was teaching, and said, By what authority doest thou these things? and who gave thee this authority?'),
 (217324,8,40,21,24,'And Jesus answered and said unto them, I also will ask you one thing, which if ye tell me, I in like wise will tell you by what authority I do these things.'),
 (217325,8,40,21,25,'The baptism of John, whence was it? from heaven, or of men? And they reasoned with themselves, saying, If we shall say, From heaven; he will say unto us, Why did ye not then believe him?'),
 (217326,8,40,21,26,'But if we shall say, Of men; we fear the people; for all hold John as a prophet.'),
@@ -24378,8 +23924,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (217370,8,40,22,24,'Saying, Master, Moses said, If a man die, having no children, his brother shall marry his wife, and raise up seed unto his brother.'),
 (217371,8,40,22,25,'Now there were with us seven brethren: and the first, when he had married a wife, deceased, and, having no issue, left his wife unto his brother:'),
 (217372,8,40,22,26,'Likewise the second also, and the third, unto the seventh.'),
-(217373,8,40,22,27,'And last of all the woman died also.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(217373,8,40,22,27,'And last of all the woman died also.'),
 (217374,8,40,22,28,'Therefore in the resurrection whose wife shall she be of the seven? for they all had her.'),
 (217375,8,40,22,29,'Jesus answered and said unto them, Ye do err, not knowing the scriptures, nor the power of God.'),
 (217376,8,40,22,30,'For in the resurrection they neither marry, nor are given in marriage, but are as the angels of God in heaven.'),
@@ -24429,8 +23974,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (217420,8,40,23,28,'Even so ye also outwardly appear righteous unto men, but within ye are full of hypocrisy and iniquity.'),
 (217421,8,40,23,29,'Woe unto you, scribes and Pharisees, hypocrites! because ye build the tombs of the prophets, and garnish the sepulchres of the righteous,'),
 (217422,8,40,23,30,'And say, If we had been in the days of our fathers, we would not have been partakers with them in the blood of the prophets.'),
-(217423,8,40,23,31,'Wherefore ye be witnesses unto yourselves, that ye are the children of them which killed the prophets.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(217423,8,40,23,31,'Wherefore ye be witnesses unto yourselves, that ye are the children of them which killed the prophets.'),
 (217424,8,40,23,32,'Fill ye up then the measure of your fathers.'),
 (217425,8,40,23,33,'[Ye] serpents, [ye] generation of vipers, how can ye escape the damnation of hell?'),
 (217426,8,40,23,34,'Wherefore, behold, I send unto you prophets, and wise men, and scribes: and [some] of them ye shall kill and crucify; and [some] of them shall ye scourge in your synagogues, and persecute [them] from city to city:'),
@@ -24531,8 +24075,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (217520,8,40,25,38,'When saw we thee a stranger, and took [thee] in? or naked, and clothed [thee]?'),
 (217521,8,40,25,39,'Or when saw we thee sick, or in prison, and came unto thee?'),
 (217522,8,40,25,40,'And the King shall answer and say unto them, Verily I say unto you, Inasmuch as ye have done [it] unto one of the least of these my brethren, ye have done [it] unto me.'),
-(217523,8,40,25,41,'Then shall he say also unto them on the left hand, Depart from me, ye cursed, into everlasting fire, prepared for the devil and his angels:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(217523,8,40,25,41,'Then shall he say also unto them on the left hand, Depart from me, ye cursed, into everlasting fire, prepared for the devil and his angels:'),
 (217524,8,40,25,42,'For I was an hungred, and ye gave me no meat: I was thirsty, and ye gave me no drink:'),
 (217525,8,40,25,43,'I was a stranger, and ye took me not in: naked, and ye clothed me not: sick, and in prison, and ye visited me not.'),
 (217526,8,40,25,44,'Then shall they also answer him, saying, Lord, when saw we thee an hungred, or athirst, or a stranger, or naked, or sick, or in prison, and did not minister unto thee?'),
@@ -24582,8 +24125,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (217570,8,40,26,42,'He went away again the second time, and prayed, saying, O my Father, if this cup may not pass away from me, except I drink it, thy will be done.'),
 (217571,8,40,26,43,'And he came and found them asleep again: for their eyes were heavy.'),
 (217572,8,40,26,44,'And he left them, and went away again, and prayed the third time, saying the same words.'),
-(217573,8,40,26,45,'Then cometh he to his disciples, and saith unto them, Sleep on now, and take [your] rest: behold, the hour is at hand, and the Son of man is betrayed into the hands of sinners.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(217573,8,40,26,45,'Then cometh he to his disciples, and saith unto them, Sleep on now, and take [your] rest: behold, the hour is at hand, and the Son of man is betrayed into the hands of sinners.'),
 (217574,8,40,26,46,'Rise, let us be going: behold, he is at hand that doth betray me.'),
 (217575,8,40,26,47,'And while he yet spake, lo, Judas, one of the twelve, came, and with him a great multitude with swords and staves, from the chief priests and elders of the people.'),
 (217576,8,40,26,48,'Now he that betrayed him gave them a sign, saying, Whomsoever I shall kiss, that same is he: hold him fast.'),
@@ -24633,8 +24175,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (217620,8,40,27,17,'Therefore when they were gathered together, Pilate said unto them, Whom will ye that I release unto you? Barabbas, or Jesus which is called Christ?'),
 (217621,8,40,27,18,'For he knew that for envy they had delivered him.'),
 (217622,8,40,27,19,'When he was set down on the judgment seat, his wife sent unto him, saying, Have thou nothing to do with that just man: for I have suffered many things this day in a dream because of him.'),
-(217623,8,40,27,20,'But the chief priests and elders persuaded the multitude that they should ask Barabbas, and destroy Jesus.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(217623,8,40,27,20,'But the chief priests and elders persuaded the multitude that they should ask Barabbas, and destroy Jesus.'),
 (217624,8,40,27,21,'The governor answered and said unto them, Whether of the twain will ye that I release unto you? They said, Barabbas.'),
 (217625,8,40,27,22,'Pilate saith unto them, What shall I do then with Jesus which is called Christ? [They] all say unto him, Let him be crucified.'),
 (217626,8,40,27,23,'And the governor said, Why, what evil hath he done? But they cried out the more, saying, Let him be crucified.'),
@@ -24684,8 +24225,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (217670,8,40,28,1,'In the end of the sabbath, as it began to dawn toward the first [day] of the week, came Mary Magdalene and the other Mary to see the sepulchre.'),
 (217671,8,40,28,2,'And, behold, there was a great earthquake: for the angel of the Lord descended from heaven, and came and rolled back the stone from the door, and sat upon it.'),
 (217672,8,40,28,3,'His countenance was like lightning, and his raiment white as snow:'),
-(217673,8,40,28,4,'And for fear of him the keepers did shake, and became as dead [men].');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(217673,8,40,28,4,'And for fear of him the keepers did shake, and became as dead [men].'),
 (217674,8,40,28,5,'And the angel answered and said unto the women, Fear not ye: for I know that ye seek Jesus, which was crucified.'),
 (217675,8,40,28,6,'He is not here: for he is risen, as he said. Come, see the place where the Lord lay.'),
 (217676,8,40,28,7,'And go quickly, and tell his disciples that he is risen from the dead; and, behold, he goeth before you into Galilee; there shall ye see him: lo, I have told you.'),
@@ -24735,8 +24275,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (217720,8,41,1,31,'And he came and took her by the hand, and lifted her up; and immediately the fever left her, and she ministered unto them.'),
 (217721,8,41,1,32,'And at even, when the sun did set, they brought unto him all that were diseased, and them that were possessed with devils.'),
 (217722,8,41,1,33,'And all the city was gathered together at the door.'),
-(217723,8,41,1,34,'And he healed many that were sick of divers diseases, and cast out many devils; and suffered not the devils to speak, because they knew him.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(217723,8,41,1,34,'And he healed many that were sick of divers diseases, and cast out many devils; and suffered not the devils to speak, because they knew him.'),
 (217724,8,41,1,35,'And in the morning, rising up a great while before day, he went out, and departed into a solitary place, and there prayed.'),
 (217725,8,41,1,36,'And Simon and they that were with him followed after him.'),
 (217726,8,41,1,37,'And when they had found him, they said unto him, All [men] seek for thee.'),
@@ -24786,8 +24325,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (217770,8,41,3,8,'And from Jerusalem, and from Idumaea, and [from] beyond Jordan; and they about Tyre and Sidon, a great multitude, when they had heard what great things he did, came unto him.'),
 (217771,8,41,3,9,'And he spake to his disciples, that a small ship should wait on him because of the multitude, lest they should throng him.'),
 (217772,8,41,3,10,'For he had healed many; insomuch that they pressed upon him for to touch him, as many as had plagues.'),
-(217773,8,41,3,11,'And unclean spirits, when they saw him, fell down before him, and cried, saying, Thou art the Son of God.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(217773,8,41,3,11,'And unclean spirits, when they saw him, fell down before him, and cried, saying, Thou art the Son of God.'),
 (217774,8,41,3,12,'And he straitly charged them that they should not make him known.'),
 (217775,8,41,3,13,'And he goeth up into a mountain, and calleth [unto him] whom he would: and they came unto him.'),
 (217776,8,41,3,14,'And he ordained twelve, that they should be with him, and that he might send them forth to preach,'),
@@ -24837,8 +24375,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (217820,8,41,4,23,'If any man have ears to hear, let him hear.'),
 (217821,8,41,4,24,'And he said unto them, Take heed what ye hear: with what measure ye mete, it shall be measured to you: and unto you that hear shall more be given.'),
 (217822,8,41,4,25,'For he that hath, to him shall be given: and he that hath not, from him shall be taken even that which he hath.'),
-(217823,8,41,4,26,'And he said, So is the kingdom of God, as if a man should cast seed into the ground;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(217823,8,41,4,26,'And he said, So is the kingdom of God, as if a man should cast seed into the ground;'),
 (217824,8,41,4,27,'And should sleep, and rise night and day, and the seed should spring and grow up, he knoweth not how.'),
 (217825,8,41,4,28,'For the earth bringeth forth fruit of herself; first the blade, then the ear, after that the full corn in the ear.'),
 (217826,8,41,4,29,'But when the fruit is brought forth, immediately he putteth in the sickle, because the harvest is come.'),
@@ -24888,8 +24425,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (217870,8,41,5,32,'And he looked round about to see her that had done this thing.'),
 (217871,8,41,5,33,'But the woman fearing and trembling, knowing what was done in her, came and fell down before him, and told him all the truth.'),
 (217872,8,41,5,34,'And he said unto her, Daughter, thy faith hath made thee whole; go in peace, and be whole of thy plague.'),
-(217873,8,41,5,35,'While he yet spake, there came from the ruler of the synagogue''s [house certain] which said, Thy daughter is dead: why troublest thou the Master any further?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(217873,8,41,5,35,'While he yet spake, there came from the ruler of the synagogue''s [house certain] which said, Thy daughter is dead: why troublest thou the Master any further?'),
 (217874,8,41,5,36,'As soon as Jesus heard the word that was spoken, he saith unto the ruler of the synagogue, Be not afraid, only believe.'),
 (217875,8,41,5,37,'And he suffered no man to follow him, save Peter, and James, and John the brother of James.'),
 (217876,8,41,5,38,'And he cometh to the house of the ruler of the synagogue, and seeth the tumult, and them that wept and wailed greatly.'),
@@ -24939,8 +24475,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (217920,8,41,6,39,'And he commanded them to make all sit down by companies upon the green grass.'),
 (217921,8,41,6,40,'And they sat down in ranks, by hundreds, and by fifties.'),
 (217922,8,41,6,41,'And when he had taken the five loaves and the two fishes, he looked up to heaven, and blessed, and brake the loaves, and gave [them] to his disciples to set before them; and the two fishes divided he among them all.'),
-(217923,8,41,6,42,'And they did all eat, and were filled.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(217923,8,41,6,42,'And they did all eat, and were filled.'),
 (217924,8,41,6,43,'And they took up twelve baskets full of the fragments, and of the fishes.'),
 (217925,8,41,6,44,'And they that did eat of the loaves were about five thousand men.'),
 (217926,8,41,6,45,'And straightway he constrained his disciples to get into the ship, and to go to the other side before unto Bethsaida, while he sent away the people.'),
@@ -24990,8 +24525,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (217970,8,41,7,33,'And he took him aside from the multitude, and put his fingers into his ears, and he spit, and touched his tongue;'),
 (217971,8,41,7,34,'And looking up to heaven, he sighed, and saith unto him, Ephphatha, that is, Be opened.'),
 (217972,8,41,7,35,'And straightway his ears were opened, and the string of his tongue was loosed, and he spake plain.'),
-(217973,8,41,7,36,'And he charged them that they should tell no man: but the more he charged them, so much the more a great deal they published [it];');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(217973,8,41,7,36,'And he charged them that they should tell no man: but the more he charged them, so much the more a great deal they published [it];'),
 (217974,8,41,7,37,'And were beyond measure astonished, saying, He hath done all things well: he maketh both the deaf to hear, and the dumb to speak.'),
 (217975,8,41,8,1,'In those days the multitude being very great, and having nothing to eat, Jesus called his disciples [unto him], and saith unto them,'),
 (217976,8,41,8,2,'I have compassion on the multitude, because they have now been with me three days, and have nothing to eat:'),
@@ -25041,8 +24575,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (218020,8,41,9,8,'And suddenly, when they had looked round about, they saw no man any more, save Jesus only with themselves.'),
 (218021,8,41,9,9,'And as they came down from the mountain, he charged them that they should tell no man what things they had seen, till the Son of man were risen from the dead.'),
 (218022,8,41,9,10,'And they kept that saying with themselves, questioning one with another what the rising from the dead should mean.'),
-(218023,8,41,9,11,'And they asked him, saying, Why say the scribes that Elias must first come?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(218023,8,41,9,11,'And they asked him, saying, Why say the scribes that Elias must first come?'),
 (218024,8,41,9,12,'And he answered and told them, Elias verily cometh first, and restoreth all things; and how it is written of the Son of man, that he must suffer many things, and be set at nought.'),
 (218025,8,41,9,13,'But I say unto you, That Elias is indeed come, and they have done unto him whatsoever they listed, as it is written of him.'),
 (218026,8,41,9,14,'And when he came to [his] disciples, he saw a great multitude about them, and the scribes questioning with them.'),
@@ -25092,8 +24625,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (218070,8,41,10,8,'And they twain shall be one flesh: so then they are no more twain, but one flesh.'),
 (218071,8,41,10,9,'What therefore God hath joined together, let not man put asunder.'),
 (218072,8,41,10,10,'And in the house his disciples asked him again of the same [matter].'),
-(218073,8,41,10,11,'And he saith unto them, Whosoever shall put away his wife, and marry another, committeth adultery against her.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(218073,8,41,10,11,'And he saith unto them, Whosoever shall put away his wife, and marry another, committeth adultery against her.'),
 (218074,8,41,10,12,'And if a woman shall put away her husband, and be married to another, she committeth adultery.'),
 (218075,8,41,10,13,'And they brought young children to him, that he should touch them: and [his] disciples rebuked those that brought [them].'),
 (218076,8,41,10,14,'But when Jesus saw [it], he was much displeased, and said unto them, Suffer the little children to come unto me, and forbid them not: for of such is the kingdom of God.'),
@@ -25143,8 +24675,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (218120,8,41,11,6,'And they said unto them even as Jesus had commanded: and they let them go.'),
 (218121,8,41,11,7,'And they brought the colt to Jesus, and cast their garments on him; and he sat upon him.'),
 (218122,8,41,11,8,'And many spread their garments in the way: and others cut down branches off the trees, and strawed [them] in the way.'),
-(218123,8,41,11,9,'And they that went before, and they that followed, cried, saying, Hosanna; Blessed [is] he that cometh in the name of the Lord:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(218123,8,41,11,9,'And they that went before, and they that followed, cried, saying, Hosanna; Blessed [is] he that cometh in the name of the Lord:'),
 (218124,8,41,11,10,'Blessed [be] the kingdom of our father David, that cometh in the name of the Lord: Hosanna in the highest.'),
 (218125,8,41,11,11,'And Jesus entered into Jerusalem, and into the temple: and when he had looked round about upon all things, and now the eventide was come, he went out unto Bethany with the twelve.'),
 (218126,8,41,11,12,'And on the morrow, when they were come from Bethany, he was hungry:'),
@@ -25194,8 +24725,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (218170,8,41,12,23,'In the resurrection therefore, when they shall rise, whose wife shall she be of them? for the seven had her to wife.'),
 (218171,8,41,12,24,'And Jesus answering said unto them, Do ye not therefore err, because ye know not the scriptures, neither the power of God?'),
 (218172,8,41,12,25,'For when they shall rise from the dead, they neither marry, nor are given in marriage; but are as the angels which are in heaven.'),
-(218173,8,41,12,26,'And as touching the dead, that they rise: have ye not read in the book of Moses, how in the bush God spake unto him, saying, I [am] the God of Abraham, and the God of Isaac, and the God of Jacob?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(218173,8,41,12,26,'And as touching the dead, that they rise: have ye not read in the book of Moses, how in the bush God spake unto him, saying, I [am] the God of Abraham, and the God of Isaac, and the God of Jacob?'),
 (218174,8,41,12,27,'He is not the God of the dead, but the God of the living: ye therefore do greatly err.'),
 (218175,8,41,12,28,'And one of the scribes came, and having heard them reasoning together, and perceiving that he had answered them well, asked him, Which is the first commandment of all?'),
 (218176,8,41,12,29,'And Jesus answered him, The first of all the commandments [is], Hear, O Israel; The Lord our God is one Lord:'),
@@ -25245,8 +24775,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (218220,8,41,13,29,'So ye in like manner, when ye shall see these things come to pass, know that it is nigh, [even] at the doors.'),
 (218221,8,41,13,30,'Verily I say unto you, that this generation shall not pass, till all these things be done.'),
 (218222,8,41,13,31,'Heaven and earth shall pass away: but my words shall not pass away.'),
-(218223,8,41,13,32,'But of that day and [that] hour knoweth no man, no, not the angels which are in heaven, neither the Son, but the Father.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(218223,8,41,13,32,'But of that day and [that] hour knoweth no man, no, not the angels which are in heaven, neither the Son, but the Father.'),
 (218224,8,41,13,33,'Take ye heed, watch and pray: for ye know not when the time is.'),
 (218225,8,41,13,34,'[For the Son of man is] as a man taking a far journey, who left his house, and gave authority to his servants, and to every man his work, and commanded the porter to watch.'),
 (218226,8,41,13,35,'Watch ye therefore: for ye know not when the master of the house cometh, at even, or at midnight, or at the cockcrowing, or in the morning:'),
@@ -25296,8 +24825,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (218270,8,41,14,42,'Rise up, let us go; lo, he that betrayeth me is at hand.'),
 (218271,8,41,14,43,'And immediately, while he yet spake, cometh Judas, one of the twelve, and with him a great multitude with swords and staves, from the chief priests and the scribes and the elders.'),
 (218272,8,41,14,44,'And he that betrayed him had given them a token, saying, Whomsoever I shall kiss, that same is he; take him, and lead [him] away safely.'),
-(218273,8,41,14,45,'And as soon as he was come, he goeth straightway to him, and saith, Master, master; and kissed him.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(218273,8,41,14,45,'And as soon as he was come, he goeth straightway to him, and saith, Master, master; and kissed him.'),
 (218274,8,41,14,46,'And they laid their hands on him, and took him.'),
 (218275,8,41,14,47,'And one of them that stood by drew a sword, and smote a servant of the high priest, and cut off his ear.'),
 (218276,8,41,14,48,'And Jesus answered and said unto them, Are ye come out, as against a thief, with swords and [with] staves to take me?'),
@@ -25347,8 +24875,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (218320,8,41,15,20,'And when they had mocked him, they took off the purple from him, and put his own clothes on him, and led him out to crucify him.'),
 (218321,8,41,15,21,'And they compel one Simon a Cyrenian, who passed by, coming out of the country, the father of Alexander and Rufus, to bear his cross.'),
 (218322,8,41,15,22,'And they bring him unto the place Golgotha, which is, being interpreted, The place of a skull.'),
-(218323,8,41,15,23,'And they gave him to drink wine mingled with myrrh: but he received [it] not.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(218323,8,41,15,23,'And they gave him to drink wine mingled with myrrh: but he received [it] not.'),
 (218324,8,41,15,24,'And when they had crucified him, they parted his garments, casting lots upon them, what every man should take.'),
 (218325,8,41,15,25,'And it was the third hour, and they crucified him.'),
 (218326,8,41,15,26,'And the superscription of his accusation was written over, THE KING OF THE JEWS.'),
@@ -25398,8 +24925,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (218370,8,42,1,3,'It seemed good to me also, having had perfect understanding of all things from the very first, to write unto thee in order, most excellent Theophilus,'),
 (218371,8,42,1,4,'That thou mightest know the certainty of those things, wherein thou hast been instructed.'),
 (218372,8,42,1,5,'There was in the days of Herod, the king of Judaea, a certain priest named Zacharias, of the course of Abia: and his wife [was] of the daughters of Aaron, and her name [was] Elisabeth.'),
-(218373,8,42,1,6,'And they were both righteous before God, walking in all the commandments and ordinances of the Lord blameless.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(218373,8,42,1,6,'And they were both righteous before God, walking in all the commandments and ordinances of the Lord blameless.'),
 (218374,8,42,1,7,'And they had no child, because that Elisabeth was barren, and they both were [now] well stricken in years.'),
 (218375,8,42,1,8,'And it came to pass, that while he executed the priest''s office before God in the order of his course,'),
 (218376,8,42,1,9,'According to the custom of the priest''s office, his lot was to burn incense when he went into the temple of the Lord.'),
@@ -25449,8 +24975,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (218420,8,42,1,53,'He hath filled the hungry with good things; and the rich he hath sent empty away.'),
 (218421,8,42,1,54,'He hath holpen his servant Israel, in remembrance of [his] mercy;'),
 (218422,8,42,1,55,'As he spake to our fathers, to Abraham, and to his seed for ever.'),
-(218423,8,42,1,56,'And Mary abode with her about three months, and returned to her own house.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(218423,8,42,1,56,'And Mary abode with her about three months, and returned to her own house.'),
 (218424,8,42,1,57,'Now Elisabeth''s full time came that she should be delivered; and she brought forth a son.'),
 (218425,8,42,1,58,'And her neighbours and her cousins heard how the Lord had shewed great mercy upon her; and they rejoiced with her.'),
 (218426,8,42,1,59,'And it came to pass, that on the eighth day they came to circumcise the child; and they called him Zacharias, after the name of his father.'),
@@ -25551,8 +25076,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (218520,8,42,3,21,'Now when all the people were baptized, it came to pass, that Jesus also being baptized, and praying, the heaven was opened,'),
 (218521,8,42,3,22,'And the Holy Ghost descended in a bodily shape like a dove upon him, and a voice came from heaven, which said, Thou art my beloved Son; in thee I am well pleased.'),
 (218522,8,42,3,23,'And Jesus himself began to be about thirty years of age, being (as was supposed) the son of Joseph, which was [the son] of Heli,'),
-(218523,8,42,3,24,'Which was [the son] of Matthat, which was [the son] of Levi, which was [the son] of Melchi, which was [the son] of Janna, which was [the son] of Joseph,');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(218523,8,42,3,24,'Which was [the son] of Matthat, which was [the son] of Levi, which was [the son] of Melchi, which was [the son] of Janna, which was [the son] of Joseph,'),
 (218524,8,42,3,25,'Which was [the son] of Mattathias, which was [the son] of Amos, which was [the son] of Naum, which was [the son] of Esli, which was [the son] of Nagge,'),
 (218525,8,42,3,26,'Which was [the son] of Maath, which was [the son] of Mattathias, which was [the son] of Semei, which was [the son] of Joseph, which was [the son] of Juda,'),
 (218526,8,42,3,27,'Which was [the son] of Joanna, which was [the son] of Rhesa, which was [the son] of Zorobabel, which was [the son] of Salathiel, which was [the son] of Neri,'),
@@ -25602,8 +25126,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (218570,8,42,4,33,'And in the synagogue there was a man, which had a spirit of an unclean devil, and cried out with a loud voice,'),
 (218571,8,42,4,34,'Saying, Let [us] alone; what have we to do with thee, [thou] Jesus of Nazareth? art thou come to destroy us? I know thee who thou art; the Holy One of God.'),
 (218572,8,42,4,35,'And Jesus rebuked him, saying, Hold thy peace, and come out of him. And when the devil had thrown him in the midst, he came out of him, and hurt him not.'),
-(218573,8,42,4,36,'And they were all amazed, and spake among themselves, saying, What a word [is] this! for with authority and power he commandeth the unclean spirits, and they come out.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(218573,8,42,4,36,'And they were all amazed, and spake among themselves, saying, What a word [is] this! for with authority and power he commandeth the unclean spirits, and they come out.'),
 (218574,8,42,4,37,'And the fame of him went out into every place of the country round about.'),
 (218575,8,42,4,38,'And he arose out of the synagogue, and entered into Simon''s house. And Simon''s wife''s mother was taken with a great fever; and they besought him for her.'),
 (218576,8,42,4,39,'And he stood over her, and rebuked the fever; and it left her: and immediately she arose and ministered unto them.'),
@@ -25653,8 +25176,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (218620,8,42,5,39,'No man also having drunk old [wine] straightway desireth new: for he saith, The old is better.'),
 (218621,8,42,6,1,'And it came to pass on the second sabbath after the first, that he went through the corn fields; and his disciples plucked the ears of corn, and did eat, rubbing [them] in [their] hands.'),
 (218622,8,42,6,2,'And certain of the Pharisees said unto them, Why do ye that which is not lawful to do on the sabbath days?'),
-(218623,8,42,6,3,'And Jesus answering them said, Have ye not read so much as this, what David did, when himself was an hungred, and they which were with him;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(218623,8,42,6,3,'And Jesus answering them said, Have ye not read so much as this, what David did, when himself was an hungred, and they which were with him;'),
 (218624,8,42,6,4,'How he went into the house of God, and did take and eat the shewbread, and gave also to them that were with him; which it is not lawful to eat but for the priests alone?'),
 (218625,8,42,6,5,'And he said unto them, That the Son of man is Lord also of the sabbath.'),
 (218626,8,42,6,6,'And it came to pass also on another sabbath, that he entered into the synagogue and taught: and there was a man whose right hand was withered.'),
@@ -25704,8 +25226,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (218670,8,42,7,1,'Now when he had ended all his sayings in the audience of the people, he entered into Capernaum.'),
 (218671,8,42,7,2,'And a certain centurion''s servant, who was dear unto him, was sick, and ready to die.'),
 (218672,8,42,7,3,'And when he heard of Jesus, he sent unto him the elders of the Jews, beseeching him that he would come and heal his servant.'),
-(218673,8,42,7,4,'And when they came to Jesus, they besought him instantly, saying, That he was worthy for whom he should do this:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(218673,8,42,7,4,'And when they came to Jesus, they besought him instantly, saying, That he was worthy for whom he should do this:'),
 (218674,8,42,7,5,'For he loveth our nation, and he hath built us a synagogue.'),
 (218675,8,42,7,6,'Then Jesus went with them. And when he was now not far from the house, the centurion sent friends to him, saying unto him, Lord, trouble not thyself: for I am not worthy that thou shouldest enter under my roof:'),
 (218676,8,42,7,7,'Wherefore neither thought I myself worthy to come unto thee: but say in a word, and my servant shall be healed.'),
@@ -25755,8 +25276,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (218720,8,42,8,1,'And it came to pass afterward, that he went throughout every city and village, preaching and shewing the glad tidings of the kingdom of God: and the twelve [were] with him,'),
 (218721,8,42,8,2,'And certain women, which had been healed of evil spirits and infirmities, Mary called Magdalene, out of whom went seven devils,'),
 (218722,8,42,8,3,'And Joanna the wife of Chuza Herod''s steward, and Susanna, and many others, which ministered unto him of their substance.'),
-(218723,8,42,8,4,'And when much people were gathered together, and were come to him out of every city, he spake by a parable:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(218723,8,42,8,4,'And when much people were gathered together, and were come to him out of every city, he spake by a parable:'),
 (218724,8,42,8,5,'A sower went out to sow his seed: and as he sowed, some fell by the way side; and it was trodden down, and the fowls of the air devoured it.'),
 (218725,8,42,8,6,'And some fell upon a rock; and as soon as it was sprung up, it withered away, because it lacked moisture.'),
 (218726,8,42,8,7,'And some fell among thorns; and the thorns sprang up with it, and choked it.'),
@@ -25806,8 +25326,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (218770,8,42,8,51,'And when he came into the house, he suffered no man to go in, save Peter, and James, and John, and the father and the mother of the maiden.'),
 (218771,8,42,8,52,'And all wept, and bewailed her: but he said, Weep not; she is not dead, but sleepeth.'),
 (218772,8,42,8,53,'And they laughed him to scorn, knowing that she was dead.'),
-(218773,8,42,8,54,'And he put them all out, and took her by the hand, and called, saying, Maid, arise.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(218773,8,42,8,54,'And he put them all out, and took her by the hand, and called, saying, Maid, arise.'),
 (218774,8,42,8,55,'And her spirit came again, and she arose straightway: and he commanded to give her meat.'),
 (218775,8,42,8,56,'And her parents were astonished: but he charged them that they should tell no man what was done.'),
 (218776,8,42,9,1,'Then he called his twelve disciples together, and gave them power and authority over all devils, and to cure diseases.'),
@@ -25857,8 +25376,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (218820,8,42,9,45,'But they understood not this saying, and it was hid from them, that they perceived it not: and they feared to ask him of that saying.'),
 (218821,8,42,9,46,'Then there arose a reasoning among them, which of them should be greatest.'),
 (218822,8,42,9,47,'And Jesus, perceiving the thought of their heart, took a child, and set him by him,'),
-(218823,8,42,9,48,'And said unto them, Whosoever shall receive this child in my name receiveth me: and whosoever shall receive me receiveth him that sent me: for he that is least among you all, the same shall be great.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(218823,8,42,9,48,'And said unto them, Whosoever shall receive this child in my name receiveth me: and whosoever shall receive me receiveth him that sent me: for he that is least among you all, the same shall be great.'),
 (218824,8,42,9,49,'And John answered and said, Master, we saw one casting out devils in thy name; and we forbad him, because he followeth not with us.'),
 (218825,8,42,9,50,'And Jesus said unto him, Forbid [him] not: for he that is not against us is for us.'),
 (218826,8,42,9,51,'And it came to pass, when the time was come that he should be received up, he stedfastly set his face to go to Jerusalem,'),
@@ -25908,8 +25426,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (218870,8,42,10,33,'But a certain Samaritan, as he journeyed, came where he was: and when he saw him, he had compassion [on him],'),
 (218871,8,42,10,34,'And went to [him], and bound up his wounds, pouring in oil and wine, and set him on his own beast, and brought him to an inn, and took care of him.'),
 (218872,8,42,10,35,'And on the morrow when he departed, he took out two pence, and gave [them] to the host, and said unto him, Take care of him; and whatsoever thou spendest more, when I come again, I will repay thee.'),
-(218873,8,42,10,36,'Which now of these three, thinkest thou, was neighbour unto him that fell among the thieves?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(218873,8,42,10,36,'Which now of these three, thinkest thou, was neighbour unto him that fell among the thieves?'),
 (218874,8,42,10,37,'And he said, He that shewed mercy on him. Then said Jesus unto him, Go, and do thou likewise.'),
 (218875,8,42,10,38,'Now it came to pass, as they went, that he entered into a certain village: and a certain woman named Martha received him into her house.'),
 (218876,8,42,10,39,'And she had a sister called Mary, which also sat at Jesus'' feet, and heard his word.'),
@@ -25959,8 +25476,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (218920,8,42,11,41,'But rather give alms of such things as ye have; and, behold, all things are clean unto you.'),
 (218921,8,42,11,42,'But woe unto you, Pharisees! for ye tithe mint and rue and all manner of herbs, and pass over judgment and the love of God: these ought ye to have done, and not to leave the other undone.'),
 (218922,8,42,11,43,'Woe unto you, Pharisees! for ye love the uppermost seats in the synagogues, and greetings in the markets.'),
-(218923,8,42,11,44,'Woe unto you, scribes and Pharisees, hypocrites! for ye are as graves which appear not, and the men that walk over [them] are not aware [of them].');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(218923,8,42,11,44,'Woe unto you, scribes and Pharisees, hypocrites! for ye are as graves which appear not, and the men that walk over [them] are not aware [of them].'),
 (218924,8,42,11,45,'Then answered one of the lawyers, and said unto him, Master, thus saying thou reproachest us also.'),
 (218925,8,42,11,46,'And he said, Woe unto you also, [ye] lawyers! for ye lade men with burdens grievous to be borne, and ye yourselves touch not the burdens with one of your fingers.'),
 (218926,8,42,11,47,'Woe unto you! for ye build the sepulchres of the prophets, and your fathers killed them.'),
@@ -26010,8 +25526,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (218970,8,42,12,37,'Blessed [are] those servants, whom the lord when he cometh shall find watching: verily I say unto you, that he shall gird himself, and make them to sit down to meat, and will come forth and serve them.'),
 (218971,8,42,12,38,'And if he shall come in the second watch, or come in the third watch, and find [them] so, blessed are those servants.'),
 (218972,8,42,12,39,'And this know, that if the goodman of the house had known what hour the thief would come, he would have watched, and not have suffered his house to be broken through.'),
-(218973,8,42,12,40,'Be ye therefore ready also: for the Son of man cometh at an hour when ye think not.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(218973,8,42,12,40,'Be ye therefore ready also: for the Son of man cometh at an hour when ye think not.'),
 (218974,8,42,12,41,'Then Peter said unto him, Lord, speakest thou this parable unto us, or even to all?'),
 (218975,8,42,12,42,'And the Lord said, Who then is that faithful and wise steward, whom [his] lord shall make ruler over his household, to give [them their] portion of meat in due season?'),
 (218976,8,42,12,43,'Blessed [is] that servant, whom his lord when he cometh shall find so doing.'),
@@ -26061,8 +25576,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (219020,8,42,13,28,'There shall be weeping and gnashing of teeth, when ye shall see Abraham, and Isaac, and Jacob, and all the prophets, in the kingdom of God, and you [yourselves] thrust out.'),
 (219021,8,42,13,29,'And they shall come from the east, and [from] the west, and from the north, and [from] the south, and shall sit down in the kingdom of God.'),
 (219022,8,42,13,30,'And, behold, there are last which shall be first, and there are first which shall be last.'),
-(219023,8,42,13,31,'The same day there came certain of the Pharisees, saying unto him, Get thee out, and depart hence: for Herod will kill thee.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(219023,8,42,13,31,'The same day there came certain of the Pharisees, saying unto him, Get thee out, and depart hence: for Herod will kill thee.'),
 (219024,8,42,13,32,'And he said unto them, Go ye, and tell that fox, Behold, I cast out devils, and I do cures to day and to morrow, and the third [day] I shall be perfected.'),
 (219025,8,42,13,33,'Nevertheless I must walk to day, and to morrow, and the [day] following: for it cannot be that a prophet perish out of Jerusalem.'),
 (219026,8,42,13,34,'O Jerusalem, Jerusalem, which killest the prophets, and stonest them that are sent unto thee; how often would I have gathered thy children together, as a hen [doth gather] her brood under [her] wings, and ye would not!'),
@@ -26112,8 +25626,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (219070,8,42,15,8,'Either what woman having ten pieces of silver, if she lose one piece, doth not light a candle, and sweep the house, and seek diligently till she find [it]?'),
 (219071,8,42,15,9,'And when she hath found [it], she calleth [her] friends and [her] neighbours together, saying, Rejoice with me; for I have found the piece which I had lost.'),
 (219072,8,42,15,10,'Likewise, I say unto you, there is joy in the presence of the angels of God over one sinner that repenteth.'),
-(219073,8,42,15,11,'And he said, A certain man had two sons:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(219073,8,42,15,11,'And he said, A certain man had two sons:'),
 (219074,8,42,15,12,'And the younger of them said to [his] father, Father, give me the portion of goods that falleth [to me]. And he divided unto them [his] living.'),
 (219075,8,42,15,13,'And not many days after the younger son gathered all together, and took his journey into a far country, and there wasted his substance with riotous living.'),
 (219076,8,42,15,14,'And when he had spent all, there arose a mighty famine in that land; and he began to be in want.'),
@@ -26163,8 +25676,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (219120,8,42,16,26,'And beside all this, between us and you there is a great gulf fixed: so that they which would pass from hence to you cannot; neither can they pass to us, that [would come] from thence.'),
 (219121,8,42,16,27,'Then he said, I pray thee therefore, father, that thou wouldest send him to my father''s house:'),
 (219122,8,42,16,28,'For I have five brethren; that he may testify unto them, lest they also come into this place of torment.'),
-(219123,8,42,16,29,'Abraham saith unto him, They have Moses and the prophets; let them hear them.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(219123,8,42,16,29,'Abraham saith unto him, They have Moses and the prophets; let them hear them.'),
 (219124,8,42,16,30,'And he said, Nay, father Abraham: but if one went unto them from the dead, they will repent.'),
 (219125,8,42,16,31,'And he said unto him, If they hear not Moses and the prophets, neither will they be persuaded, though one rose from the dead.'),
 (219126,8,42,17,1,'Then said he unto the disciples, It is impossible but that offences will come: but woe [unto him], through whom they come!'),
@@ -26214,8 +25726,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (219170,8,42,18,8,'I tell you that he will avenge them speedily. Nevertheless when the Son of man cometh, shall he find faith on the earth?'),
 (219171,8,42,18,9,'And he spake this parable unto certain which trusted in themselves that they were righteous, and despised others:'),
 (219172,8,42,18,10,'Two men went up into the temple to pray; the one a Pharisee, and the other a publican.'),
-(219173,8,42,18,11,'The Pharisee stood and prayed thus with himself, God, I thank thee, that I am not as other men [are], extortioners, unjust, adulterers, or even as this publican.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(219173,8,42,18,11,'The Pharisee stood and prayed thus with himself, God, I thank thee, that I am not as other men [are], extortioners, unjust, adulterers, or even as this publican.'),
 (219174,8,42,18,12,'I fast twice in the week, I give tithes of all that I possess.'),
 (219175,8,42,18,13,'And the publican, standing afar off, would not lift up so much as [his] eyes unto heaven, but smote upon his breast, saying, God be merciful to me a sinner.'),
 (219176,8,42,18,14,'I tell you, this man went down to his house justified [rather] than the other: for every one that exalteth himself shall be abased; and he that humbleth himself shall be exalted.'),
@@ -26265,8 +25776,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (219220,8,42,19,15,'And it came to pass, that when he was returned, having received the kingdom, then he commanded these servants to be called unto him, to whom he had given the money, that he might know how much every man had gained by trading.'),
 (219221,8,42,19,16,'Then came the first, saying, Lord, thy pound hath gained ten pounds.'),
 (219222,8,42,19,17,'And he said unto him, Well, thou good servant: because thou hast been faithful in a very little, have thou authority over ten cities.'),
-(219223,8,42,19,18,'And the second came, saying, Lord, thy pound hath gained five pounds.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(219223,8,42,19,18,'And the second came, saying, Lord, thy pound hath gained five pounds.'),
 (219224,8,42,19,19,'And he said likewise to him, Be thou also over five cities.'),
 (219225,8,42,19,20,'And another came, saying, Lord, behold, [here is] thy pound, which I have kept laid up in a napkin:'),
 (219226,8,42,19,21,'For I feared thee, because thou art an austere man: thou takest up that thou layedst not down, and reapest that thou didst not sow.'),
@@ -26316,8 +25826,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (219270,8,42,20,17,'And he beheld them, and said, What is this then that is written, The stone which the builders rejected, the same is become the head of the corner?'),
 (219271,8,42,20,18,'Whosoever shall fall upon that stone shall be broken; but on whomsoever it shall fall, it will grind him to powder.'),
 (219272,8,42,20,19,'And the chief priests and the scribes the same hour sought to lay hands on him; and they feared the people: for they perceived that he had spoken this parable against them.'),
-(219273,8,42,20,20,'And they watched [him], and sent forth spies, which should feign themselves just men, that they might take hold of his words, that so they might deliver him unto the power and authority of the governor.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(219273,8,42,20,20,'And they watched [him], and sent forth spies, which should feign themselves just men, that they might take hold of his words, that so they might deliver him unto the power and authority of the governor.'),
 (219274,8,42,20,21,'And they asked him, saying, Master, we know that thou sayest and teachest rightly, neither acceptest thou the person [of any], but teachest the way of God truly:'),
 (219275,8,42,20,22,'Is it lawful for us to give tribute unto Caesar, or no?'),
 (219276,8,42,20,23,'But he perceived their craftiness, and said unto them, Why tempt ye me?'),
@@ -26367,8 +25876,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (219320,8,42,21,20,'And when ye shall see Jerusalem compassed with armies, then know that the desolation thereof is nigh.'),
 (219321,8,42,21,21,'Then let them which are in Judaea flee to the mountains; and let them which are in the midst of it depart out; and let not them that are in the countries enter thereinto.'),
 (219322,8,42,21,22,'For these be the days of vengeance, that all things which are written may be fulfilled.'),
-(219323,8,42,21,23,'But woe unto them that are with child, and to them that give suck, in those days! for there shall be great distress in the land, and wrath upon this people.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(219323,8,42,21,23,'But woe unto them that are with child, and to them that give suck, in those days! for there shall be great distress in the land, and wrath upon this people.'),
 (219324,8,42,21,24,'And they shall fall by the edge of the sword, and shall be led away captive into all nations: and Jerusalem shall be trodden down of the Gentiles, until the times of the Gentiles be fulfilled.'),
 (219325,8,42,21,25,'And there shall be signs in the sun, and in the moon, and in the stars; and upon the earth distress of nations, with perplexity; the sea and the waves roaring;'),
 (219326,8,42,21,26,'Men''s hearts failing them for fear, and for looking after those things which are coming on the earth: for the powers of heaven shall be shaken.'),
@@ -26418,8 +25926,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (219370,8,42,22,32,'But I have prayed for thee, that thy faith fail not: and when thou art converted, strengthen thy brethren.'),
 (219371,8,42,22,33,'And he said unto him, Lord, I am ready to go with thee, both into prison, and to death.'),
 (219372,8,42,22,34,'And he said, I tell thee, Peter, the cock shall not crow this day, before that thou shalt thrice deny that thou knowest me.'),
-(219373,8,42,22,35,'And he said unto them, When I sent you without purse, and scrip, and shoes, lacked ye any thing? And they said, Nothing.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(219373,8,42,22,35,'And he said unto them, When I sent you without purse, and scrip, and shoes, lacked ye any thing? And they said, Nothing.'),
 (219374,8,42,22,36,'Then said he unto them, But now, he that hath a purse, let him take [it], and likewise [his] scrip: and he that hath no sword, let him sell his garment, and buy one.'),
 (219375,8,42,22,37,'For I say unto you, that this that is written must yet be accomplished in me, And he was reckoned among the transgressors: for the things concerning me have an end.'),
 (219376,8,42,22,38,'And they said, Lord, behold, here [are] two swords. And he said unto them, It is enough.'),
@@ -26469,8 +25976,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (219420,8,42,23,11,'And Herod with his men of war set him at nought, and mocked [him], and arrayed him in a gorgeous robe, and sent him again to Pilate.'),
 (219421,8,42,23,12,'And the same day Pilate and Herod were made friends together: for before they were at enmity between themselves.'),
 (219422,8,42,23,13,'And Pilate, when he had called together the chief priests and the rulers and the people,'),
-(219423,8,42,23,14,'Said unto them, Ye have brought this man unto me, as one that perverteth the people: and, behold, I, having examined [him] before you, have found no fault in this man touching those things whereof ye accuse him:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(219423,8,42,23,14,'Said unto them, Ye have brought this man unto me, as one that perverteth the people: and, behold, I, having examined [him] before you, have found no fault in this man touching those things whereof ye accuse him:'),
 (219424,8,42,23,15,'No, nor yet Herod: for I sent you to him; and, lo, nothing worthy of death is done unto him.'),
 (219425,8,42,23,16,'I will therefore chastise him, and release [him].'),
 (219426,8,42,23,17,'(For of necessity he must release one unto them at the feast.)'),
@@ -26571,8 +26077,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (219520,8,43,1,2,'The same was in the beginning with God.'),
 (219521,8,43,1,3,'All things were made by him; and without him was not any thing made that was made.'),
 (219522,8,43,1,4,'In him was life; and the life was the light of men.'),
-(219523,8,43,1,5,'And the light shineth in darkness; and the darkness comprehended it not.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(219523,8,43,1,5,'And the light shineth in darkness; and the darkness comprehended it not.'),
 (219524,8,43,1,6,'There was a man sent from God, whose name [was] John.'),
 (219525,8,43,1,7,'The same came for a witness, to bear witness of the Light, that all [men] through him might believe.'),
 (219526,8,43,1,8,'He was not that Light, but [was sent] to bear witness of that Light.'),
@@ -26622,8 +26127,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (219570,8,43,2,1,'And the third day there was a marriage in Cana of Galilee; and the mother of Jesus was there:'),
 (219571,8,43,2,2,'And both Jesus was called, and his disciples, to the marriage.'),
 (219572,8,43,2,3,'And when they wanted wine, the mother of Jesus saith unto him, They have no wine.'),
-(219573,8,43,2,4,'Jesus saith unto her, Woman, what have I to do with thee? mine hour is not yet come.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(219573,8,43,2,4,'Jesus saith unto her, Woman, what have I to do with thee? mine hour is not yet come.'),
 (219574,8,43,2,5,'His mother saith unto the servants, Whatsoever he saith unto you, do [it].'),
 (219575,8,43,2,6,'And there were set there six waterpots of stone, after the manner of the purifying of the Jews, containing two or three firkins apiece.'),
 (219576,8,43,2,7,'Jesus saith unto them, Fill the waterpots with water. And they filled them up to the brim.'),
@@ -26673,8 +26177,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (219620,8,43,3,26,'And they came unto John, and said unto him, Rabbi, he that was with thee beyond Jordan, to whom thou barest witness, behold, the same baptizeth, and all [men] come to him.'),
 (219621,8,43,3,27,'John answered and said, A man can receive nothing, except it be given him from heaven.'),
 (219622,8,43,3,28,'Ye yourselves bear me witness, that I said, I am not the Christ, but that I am sent before him.'),
-(219623,8,43,3,29,'He that hath the bride is the bridegroom: but the friend of the bridegroom, which standeth and heareth him, rejoiceth greatly because of the bridegroom''s voice: this my joy therefore is fulfilled.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(219623,8,43,3,29,'He that hath the bride is the bridegroom: but the friend of the bridegroom, which standeth and heareth him, rejoiceth greatly because of the bridegroom''s voice: this my joy therefore is fulfilled.'),
 (219624,8,43,3,30,'He must increase, but I [must] decrease.'),
 (219625,8,43,3,31,'He that cometh from above is above all: he that is of the earth is earthly, and speaketh of the earth: he that cometh from heaven is above all.'),
 (219626,8,43,3,32,'And what he hath seen and heard, that he testifieth; and no man receiveth his testimony.'),
@@ -26724,8 +26227,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (219670,8,43,4,40,'So when the Samaritans were come unto him, they besought him that he would tarry with them: and he abode there two days.'),
 (219671,8,43,4,41,'And many more believed because of his own word;'),
 (219672,8,43,4,42,'And said unto the woman, Now we believe, not because of thy saying: for we have heard [him] ourselves, and know that this is indeed the Christ, the Saviour of the world.'),
-(219673,8,43,4,43,'Now after two days he departed thence, and went into Galilee.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(219673,8,43,4,43,'Now after two days he departed thence, and went into Galilee.'),
 (219674,8,43,4,44,'For Jesus himself testified, that a prophet hath no honour in his own country.'),
 (219675,8,43,4,45,'Then when he was come into Galilee, the Galilaeans received him, having seen all the things that he did at Jerusalem at the feast: for they also went unto the feast.'),
 (219676,8,43,4,46,'So Jesus came again into Cana of Galilee, where he made the water wine. And there was a certain nobleman, whose son was sick at Capernaum.'),
@@ -26775,8 +26277,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (219720,8,43,5,36,'But I have greater witness than [that] of John: for the works which the Father hath given me to finish, the same works that I do, bear witness of me, that the Father hath sent me.'),
 (219721,8,43,5,37,'And the Father himself, which hath sent me, hath borne witness of me. Ye have neither heard his voice at any time, nor seen his shape.'),
 (219722,8,43,5,38,'And ye have not his word abiding in you: for whom he hath sent, him ye believe not.'),
-(219723,8,43,5,39,'Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(219723,8,43,5,39,'Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me.'),
 (219724,8,43,5,40,'And ye will not come to me, that ye might have life.'),
 (219725,8,43,5,41,'I receive not honour from men.'),
 (219726,8,43,5,42,'But I know you, that ye have not the love of God in you.'),
@@ -26826,8 +26327,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (219770,8,43,6,39,'And this is the Father''s will which hath sent me, that of all which he hath given me I should lose nothing, but should raise it up again at the last day.'),
 (219771,8,43,6,40,'And this is the will of him that sent me, that every one which seeth the Son, and believeth on him, may have everlasting life: and I will raise him up at the last day.'),
 (219772,8,43,6,41,'The Jews then murmured at him, because he said, I am the bread which came down from heaven.'),
-(219773,8,43,6,42,'And they said, Is not this Jesus, the son of Joseph, whose father and mother we know? how is it then that he saith, I came down from heaven?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(219773,8,43,6,42,'And they said, Is not this Jesus, the son of Joseph, whose father and mother we know? how is it then that he saith, I came down from heaven?'),
 (219774,8,43,6,43,'Jesus therefore answered and said unto them, Murmur not among yourselves.'),
 (219775,8,43,6,44,'No man can come to me, except the Father which hath sent me draw him: and I will raise him up at the last day.'),
 (219776,8,43,6,45,'It is written in the prophets, And they shall be all taught of God. Every man therefore that hath heard, and hath learned of the Father, cometh unto me.'),
@@ -26877,8 +26377,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (219820,8,43,7,18,'He that speaketh of himself seeketh his own glory: but he that seeketh his glory that sent him, the same is true, and no unrighteousness is in him.'),
 (219821,8,43,7,19,'Did not Moses give you the law, and [yet] none of you keepeth the law? Why go ye about to kill me?'),
 (219822,8,43,7,20,'The people answered and said, Thou hast a devil: who goeth about to kill thee?'),
-(219823,8,43,7,21,'Jesus answered and said unto them, I have done one work, and ye all marvel.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(219823,8,43,7,21,'Jesus answered and said unto them, I have done one work, and ye all marvel.'),
 (219824,8,43,7,22,'Moses therefore gave unto you circumcision; (not because it is of Moses, but of the fathers;) and ye on the sabbath day circumcise a man.'),
 (219825,8,43,7,23,'If a man on the sabbath day receive circumcision, that the law of Moses should not be broken; are ye angry at me, because I have made a man every whit whole on the sabbath day?'),
 (219826,8,43,7,24,'Judge not according to the appearance, but judge righteous judgment.'),
@@ -26928,8 +26427,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (219870,8,43,8,15,'Ye judge after the flesh; I judge no man.'),
 (219871,8,43,8,16,'And yet if I judge, my judgment is true: for I am not alone, but I and the Father that sent me.'),
 (219872,8,43,8,17,'It is also written in your law, that the testimony of two men is true.'),
-(219873,8,43,8,18,'I am one that bear witness of myself, and the Father that sent me beareth witness of me.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(219873,8,43,8,18,'I am one that bear witness of myself, and the Father that sent me beareth witness of me.'),
 (219874,8,43,8,19,'Then said they unto him, Where is thy Father? Jesus answered, Ye neither know me, nor my Father: if ye had known me, ye should have known my Father also.'),
 (219875,8,43,8,20,'These words spake Jesus in the treasury, as he taught in the temple: and no man laid hands on him; for his hour was not yet come.'),
 (219876,8,43,8,21,'Then said Jesus again unto them, I go my way, and ye shall seek me, and shall die in your sins: whither I go, ye cannot come.'),
@@ -26979,8 +26477,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (219920,8,43,9,6,'When he had thus spoken, he spat on the ground, and made clay of the spittle, and he anointed the eyes of the blind man with the clay,'),
 (219921,8,43,9,7,'And said unto him, Go, wash in the pool of Siloam, (which is by interpretation, Sent.) He went his way therefore, and washed, and came seeing.'),
 (219922,8,43,9,8,'The neighbours therefore, and they which before had seen him that he was blind, said, Is not this he that sat and begged?'),
-(219923,8,43,9,9,'Some said, This is he: others [said], He is like him: [but] he said, I am [he].');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(219923,8,43,9,9,'Some said, This is he: others [said], He is like him: [but] he said, I am [he].'),
 (219924,8,43,9,10,'Therefore said they unto him, How were thine eyes opened?'),
 (219925,8,43,9,11,'He answered and said, A man that is called Jesus made clay, and anointed mine eyes, and said unto me, Go to the pool of Siloam, and wash: and I went and washed, and I received sight.'),
 (219926,8,43,9,12,'Then said they unto him, Where is he? He said, I know not.'),
@@ -27030,8 +26527,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (219970,8,43,10,15,'As the Father knoweth me, even so know I the Father: and I lay down my life for the sheep.'),
 (219971,8,43,10,16,'And other sheep I have, which are not of this fold: them also I must bring, and they shall hear my voice; and there shall be one fold, [and] one shepherd.'),
 (219972,8,43,10,17,'Therefore doth my Father love me, because I lay down my life, that I might take it again.'),
-(219973,8,43,10,18,'No man taketh it from me, but I lay it down of myself. I have power to lay it down, and I have power to take it again. This commandment have I received of my Father.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(219973,8,43,10,18,'No man taketh it from me, but I lay it down of myself. I have power to lay it down, and I have power to take it again. This commandment have I received of my Father.'),
 (219974,8,43,10,19,'There was a division therefore again among the Jews for these sayings.'),
 (219975,8,43,10,20,'And many of them said, He hath a devil, and is mad; why hear ye him?'),
 (219976,8,43,10,21,'Others said, These are not the words of him that hath a devil. Can a devil open the eyes of the blind?'),
@@ -27081,8 +26577,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (220020,8,43,11,23,'Jesus saith unto her, Thy brother shall rise again.'),
 (220021,8,43,11,24,'Martha saith unto him, I know that he shall rise again in the resurrection at the last day.'),
 (220022,8,43,11,25,'Jesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live:'),
-(220023,8,43,11,26,'And whosoever liveth and believeth in me shall never die. Believest thou this?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(220023,8,43,11,26,'And whosoever liveth and believeth in me shall never die. Believest thou this?'),
 (220024,8,43,11,27,'She saith unto him, Yea, Lord: I believe that thou art the Christ, the Son of God, which should come into the world.'),
 (220025,8,43,11,28,'And when she had so said, she went her way, and called Mary her sister secretly, saying, The Master is come, and calleth for thee.'),
 (220026,8,43,11,29,'As soon as she heard [that], she arose quickly, and came unto him.'),
@@ -27132,8 +26627,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (220070,8,43,12,16,'These things understood not his disciples at the first: but when Jesus was glorified, then remembered they that these things were written of him, and [that] they had done these things unto him.'),
 (220071,8,43,12,17,'The people therefore that was with him when he called Lazarus out of his grave, and raised him from the dead, bare record.'),
 (220072,8,43,12,18,'For this cause the people also met him, for that they heard that he had done this miracle.'),
-(220073,8,43,12,19,'The Pharisees therefore said among themselves, Perceive ye how ye prevail nothing? behold, the world is gone after him.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(220073,8,43,12,19,'The Pharisees therefore said among themselves, Perceive ye how ye prevail nothing? behold, the world is gone after him.'),
 (220074,8,43,12,20,'And there were certain Greeks among them that came up to worship at the feast:'),
 (220075,8,43,12,21,'The same came therefore to Philip, which was of Bethsaida of Galilee, and desired him, saying, Sir, we would see Jesus.'),
 (220076,8,43,12,22,'Philip cometh and telleth Andrew: and again Andrew and Philip tell Jesus.'),
@@ -27183,8 +26677,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (220120,8,43,13,16,'Verily, verily, I say unto you, The servant is not greater than his lord; neither he that is sent greater than he that sent him.'),
 (220121,8,43,13,17,'If ye know these things, happy are ye if ye do them.'),
 (220122,8,43,13,18,'I speak not of you all: I know whom I have chosen: but that the scripture may be fulfilled, He that eateth bread with me hath lifted up his heel against me.'),
-(220123,8,43,13,19,'Now I tell you before it come, that, when it is come to pass, ye may believe that I am [he].');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(220123,8,43,13,19,'Now I tell you before it come, that, when it is come to pass, ye may believe that I am [he].'),
 (220124,8,43,13,20,'Verily, verily, I say unto you, He that receiveth whomsoever I send receiveth me; and he that receiveth me receiveth him that sent me.'),
 (220125,8,43,13,21,'When Jesus had thus said, he was troubled in spirit, and testified, and said, Verily, verily, I say unto you, that one of you shall betray me.'),
 (220126,8,43,13,22,'Then the disciples looked one on another, doubting of whom he spake.'),
@@ -27234,8 +26727,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (220170,8,43,14,28,'Ye have heard how I said unto you, I go away, and come [again] unto you. If ye loved me, ye would rejoice, because I said, I go unto the Father: for my Father is greater than I.'),
 (220171,8,43,14,29,'And now I have told you before it come to pass, that, when it is come to pass, ye might believe.'),
 (220172,8,43,14,30,'Hereafter I will not talk much with you: for the prince of this world cometh, and hath nothing in me.'),
-(220173,8,43,14,31,'But that the world may know that I love the Father; and as the Father gave me commandment, even so I do. Arise, let us go hence.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(220173,8,43,14,31,'But that the world may know that I love the Father; and as the Father gave me commandment, even so I do. Arise, let us go hence.'),
 (220174,8,43,15,1,'I am the true vine, and my Father is the husbandman.'),
 (220175,8,43,15,2,'Every branch in me that beareth not fruit he taketh away: and every [branch] that beareth fruit, he purgeth it, that it may bring forth more fruit.'),
 (220176,8,43,15,3,'Now ye are clean through the word which I have spoken unto you.'),
@@ -27285,8 +26777,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (220220,8,43,16,20,'Verily, verily, I say unto you, That ye shall weep and lament, but the world shall rejoice: and ye shall be sorrowful, but your sorrow shall be turned into joy.'),
 (220221,8,43,16,21,'A woman when she is in travail hath sorrow, because her hour is come: but as soon as she is delivered of the child, she remembereth no more the anguish, for joy that a man is born into the world.'),
 (220222,8,43,16,22,'And ye now therefore have sorrow: but I will see you again, and your heart shall rejoice, and your joy no man taketh from you.'),
-(220223,8,43,16,23,'And in that day ye shall ask me nothing. Verily, verily, I say unto you, Whatsoever ye shall ask the Father in my name, he will give [it] you.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(220223,8,43,16,23,'And in that day ye shall ask me nothing. Verily, verily, I say unto you, Whatsoever ye shall ask the Father in my name, he will give [it] you.'),
 (220224,8,43,16,24,'Hitherto have ye asked nothing in my name: ask, and ye shall receive, that your joy may be full.'),
 (220225,8,43,16,25,'These things have I spoken unto you in proverbs: but the time cometh, when I shall no more speak unto you in proverbs, but I shall shew you plainly of the Father.'),
 (220226,8,43,16,26,'At that day ye shall ask in my name: and I say not unto you, that I will pray the Father for you:'),
@@ -27336,8 +26827,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (220270,8,43,18,11,'Then said Jesus unto Peter, Put up thy sword into the sheath: the cup which my Father hath given me, shall I not drink it?'),
 (220271,8,43,18,12,'Then the band and the captain and officers of the Jews took Jesus, and bound him,'),
 (220272,8,43,18,13,'And led him away to Annas first; for he was father in law to Caiaphas, which was the high priest that same year.'),
-(220273,8,43,18,14,'Now Caiaphas was he, which gave counsel to the Jews, that it was expedient that one man should die for the people.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(220273,8,43,18,14,'Now Caiaphas was he, which gave counsel to the Jews, that it was expedient that one man should die for the people.'),
 (220274,8,43,18,15,'And Simon Peter followed Jesus, and [so did] another disciple: that disciple was known unto the high priest, and went in with Jesus into the palace of the high priest.'),
 (220275,8,43,18,16,'But Peter stood at the door without. Then went out that other disciple, which was known unto the high priest, and spake unto her that kept the door, and brought in Peter.'),
 (220276,8,43,18,17,'Then saith the damsel that kept the door unto Peter, Art not thou also [one] of this man''s disciples? He saith, I am not.'),
@@ -27387,8 +26877,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (220320,8,43,19,21,'Then said the chief priests of the Jews to Pilate, Write not, The King of the Jews; but that he said, I am King of the Jews.'),
 (220321,8,43,19,22,'Pilate answered, What I have written I have written.'),
 (220322,8,43,19,23,'Then the soldiers, when they had crucified Jesus, took his garments, and made four parts, to every soldier a part; and also [his] coat: now the coat was without seam, woven from the top throughout.'),
-(220323,8,43,19,24,'They said therefore among themselves, Let us not rend it, but cast lots for it, whose it shall be: that the scripture might be fulfilled, which saith, They parted my raiment among them, and for my vesture they did cast lots. These things therefore the soldiers did.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(220323,8,43,19,24,'They said therefore among themselves, Let us not rend it, but cast lots for it, whose it shall be: that the scripture might be fulfilled, which saith, They parted my raiment among them, and for my vesture they did cast lots. These things therefore the soldiers did.'),
 (220324,8,43,19,25,'Now there stood by the cross of Jesus his mother, and his mother''s sister, Mary the [wife] of Cleophas, and Mary Magdalene.'),
 (220325,8,43,19,26,'When Jesus therefore saw his mother, and the disciple standing by, whom he loved, he saith unto his mother, Woman, behold thy son!'),
 (220326,8,43,19,27,'Then saith he to the disciple, Behold thy mother! And from that hour that disciple took her unto his own [home].'),
@@ -27438,8 +26927,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (220370,8,43,20,29,'Jesus saith unto him, Thomas, because thou hast seen me, thou hast believed: blessed [are] they that have not seen, and [yet] have believed.'),
 (220371,8,43,20,30,'And many other signs truly did Jesus in the presence of his disciples, which are not written in this book:'),
 (220372,8,43,20,31,'But these are written, that ye might believe that Jesus is the Christ, the Son of God; and that believing ye might have life through his name.'),
-(220373,8,43,21,1,'After these things Jesus shewed himself again to the disciples at the sea of Tiberias; and on this wise shewed he [himself].');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(220373,8,43,21,1,'After these things Jesus shewed himself again to the disciples at the sea of Tiberias; and on this wise shewed he [himself].'),
 (220374,8,43,21,2,'There were together Simon Peter, and Thomas called Didymus, and Nathanael of Cana in Galilee, and the [sons] of Zebedee, and two other of his disciples.'),
 (220375,8,43,21,3,'Simon Peter saith unto them, I go a fishing. They say unto him, We also go with thee. They went forth, and entered into a ship immediately; and that night they caught nothing.'),
 (220376,8,43,21,4,'But when the morning was now come, Jesus stood on the shore: but the disciples knew not that it was Jesus.'),
@@ -27489,8 +26977,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (220420,8,44,1,23,'And they appointed two, Joseph called Barsabas, who was surnamed Justus, and Matthias.'),
 (220421,8,44,1,24,'And they prayed, and said, Thou, Lord, which knowest the hearts of all [men], shew whether of these two thou hast chosen,'),
 (220422,8,44,1,25,'That he may take part of this ministry and apostleship, from which Judas by transgression fell, that he might go to his own place.'),
-(220423,8,44,1,26,'And they gave forth their lots; and the lot fell upon Matthias; and he was numbered with the eleven apostles.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(220423,8,44,1,26,'And they gave forth their lots; and the lot fell upon Matthias; and he was numbered with the eleven apostles.'),
 (220424,8,44,2,1,'And when the day of Pentecost was fully come, they were all with one accord in one place.'),
 (220425,8,44,2,2,'And suddenly there came a sound from heaven as of a rushing mighty wind, and it filled all the house where they were sitting.'),
 (220426,8,44,2,3,'And there appeared unto them cloven tongues like as of fire, and it sat upon each of them.'),
@@ -27591,8 +27078,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (220520,8,44,4,24,'And when they heard that, they lifted up their voice to God with one accord, and said, Lord, thou [art] God, which hast made heaven, and earth, and the sea, and all that in them is:'),
 (220521,8,44,4,25,'Who by the mouth of thy servant David hast said, Why did the heathen rage, and the people imagine vain things?'),
 (220522,8,44,4,26,'The kings of the earth stood up, and the rulers were gathered together against the Lord, and against his Christ.'),
-(220523,8,44,4,27,'For of a truth against thy holy child Jesus, whom thou hast anointed, both Herod, and Pontius Pilate, with the Gentiles, and the people of Israel, were gathered together,');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(220523,8,44,4,27,'For of a truth against thy holy child Jesus, whom thou hast anointed, both Herod, and Pontius Pilate, with the Gentiles, and the people of Israel, were gathered together,'),
 (220524,8,44,4,28,'For to do whatsoever thy hand and thy counsel determined before to be done.'),
 (220525,8,44,4,29,'And now, Lord, behold their threatenings: and grant unto thy servants, that with all boldness they may speak thy word,'),
 (220526,8,44,4,30,'By stretching forth thine hand to heal; and that signs and wonders may be done by the name of thy holy child Jesus.'),
@@ -27642,8 +27128,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (220570,8,44,5,37,'After this man rose up Judas of Galilee in the days of the taxing, and drew away much people after him: he also perished; and all, [even] as many as obeyed him, were dispersed.'),
 (220571,8,44,5,38,'And now I say unto you, Refrain from these men, and let them alone: for if this counsel or this work be of men, it will come to nought:'),
 (220572,8,44,5,39,'But if it be of God, ye cannot overthrow it; lest haply ye be found even to fight against God.'),
-(220573,8,44,5,40,'And to him they agreed: and when they had called the apostles, and beaten [them], they commanded that they should not speak in the name of Jesus, and let them go.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(220573,8,44,5,40,'And to him they agreed: and when they had called the apostles, and beaten [them], they commanded that they should not speak in the name of Jesus, and let them go.'),
 (220574,8,44,5,41,'And they departed from the presence of the council, rejoicing that they were counted worthy to suffer shame for his name.'),
 (220575,8,44,5,42,'And daily in the temple, and in every house, they ceased not to teach and preach Jesus Christ.'),
 (220576,8,44,6,1,'And in those days, when the number of the disciples was multiplied, there arose a murmuring of the Grecians against the Hebrews, because their widows were neglected in the daily ministration.'),
@@ -27693,8 +27178,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (220620,8,44,7,30,'And when forty years were expired, there appeared to him in the wilderness of mount Sina an angel of the Lord in a flame of fire in a bush.'),
 (220621,8,44,7,31,'When Moses saw [it], he wondered at the sight: and as he drew near to behold [it], the voice of the Lord came unto him,'),
 (220622,8,44,7,32,'[Saying], I [am] the God of thy fathers, the God of Abraham, and the God of Isaac, and the God of Jacob. Then Moses trembled, and durst not behold.'),
-(220623,8,44,7,33,'Then said the Lord to him, Put off thy shoes from thy feet: for the place where thou standest is holy ground.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(220623,8,44,7,33,'Then said the Lord to him, Put off thy shoes from thy feet: for the place where thou standest is holy ground.'),
 (220624,8,44,7,34,'I have seen, I have seen the affliction of my people which is in Egypt, and I have heard their groaning, and am come down to deliver them. And now come, I will send thee into Egypt.'),
 (220625,8,44,7,35,'This Moses whom they refused, saying, Who made thee a ruler and a judge? the same did God send [to be] a ruler and a deliverer by the hand of the angel which appeared to him in the bush.'),
 (220626,8,44,7,36,'He brought them out, after that he had shewed wonders and signs in the land of Egypt, and in the Red sea, and in the wilderness forty years.'),
@@ -27744,8 +27228,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (220670,8,44,8,20,'But Peter said unto him, Thy money perish with thee, because thou hast thought that the gift of God may be purchased with money.'),
 (220671,8,44,8,21,'Thou hast neither part nor lot in this matter: for thy heart is not right in the sight of God.'),
 (220672,8,44,8,22,'Repent therefore of this thy wickedness, and pray God, if perhaps the thought of thine heart may be forgiven thee.'),
-(220673,8,44,8,23,'For I perceive that thou art in the gall of bitterness, and [in] the bond of iniquity.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(220673,8,44,8,23,'For I perceive that thou art in the gall of bitterness, and [in] the bond of iniquity.'),
 (220674,8,44,8,24,'Then answered Simon, and said, Pray ye to the Lord for me, that none of these things which ye have spoken come upon me.'),
 (220675,8,44,8,25,'And they, when they had testified and preached the word of the Lord, returned to Jerusalem, and preached the gospel in many villages of the Samaritans.'),
 (220676,8,44,8,26,'And the angel of the Lord spake unto Philip, saying, Arise, and go toward the south unto the way that goeth down from Jerusalem unto Gaza, which is desert.'),
@@ -27795,8 +27278,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (220720,8,44,9,30,'[Which] when the brethren knew, they brought him down to Caesarea, and sent him forth to Tarsus.'),
 (220721,8,44,9,31,'Then had the churches rest throughout all Judaea and Galilee and Samaria, and were edified; and walking in the fear of the Lord, and in the comfort of the Holy Ghost, were multiplied.'),
 (220722,8,44,9,32,'And it came to pass, as Peter passed throughout all [quarters], he came down also to the saints which dwelt at Lydda.'),
-(220723,8,44,9,33,'And there he found a certain man named AEneas, which had kept his bed eight years, and was sick of the palsy.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(220723,8,44,9,33,'And there he found a certain man named AEneas, which had kept his bed eight years, and was sick of the palsy.'),
 (220724,8,44,9,34,'And Peter said unto him, AEneas, Jesus Christ maketh thee whole: arise, and make thy bed. And he arose immediately.'),
 (220725,8,44,9,35,'And all that dwelt at Lydda and Saron saw him, and turned to the Lord.'),
 (220726,8,44,9,36,'Now there was at Joppa a certain disciple named Tabitha, which by interpretation is called Dorcas: this woman was full of good works and almsdeeds which she did.'),
@@ -27846,8 +27328,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (220770,8,44,10,37,'That word, [I say], ye know, which was published throughout all Judaea, and began from Galilee, after the baptism which John preached;'),
 (220771,8,44,10,38,'How God anointed Jesus of Nazareth with the Holy Ghost and with power: who went about doing good, and healing all that were oppressed of the devil; for God was with him.'),
 (220772,8,44,10,39,'And we are witnesses of all things which he did both in the land of the Jews, and in Jerusalem; whom they slew and hanged on a tree:'),
-(220773,8,44,10,40,'Him God raised up the third day, and shewed him openly;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(220773,8,44,10,40,'Him God raised up the third day, and shewed him openly;'),
 (220774,8,44,10,41,'Not to all the people, but unto witnesses chosen before of God, [even] to us, who did eat and drink with him after he rose from the dead.'),
 (220775,8,44,10,42,'And he commanded us to preach unto the people, and to testify that it is he which was ordained of God [to be] the Judge of quick and dead.'),
 (220776,8,44,10,43,'To him give all the prophets witness, that through his name whosoever believeth in him shall receive remission of sins.'),
@@ -27897,8 +27378,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (220820,8,44,12,9,'And he went out, and followed him; and wist not that it was true which was done by the angel; but thought he saw a vision.'),
 (220821,8,44,12,10,'When they were past the first and the second ward, they came unto the iron gate that leadeth unto the city; which opened to them of his own accord: and they went out, and passed on through one street; and forthwith the angel departed from him.'),
 (220822,8,44,12,11,'And when Peter was come to himself, he said, Now I know of a surety, that the Lord hath sent his angel, and hath delivered me out of the hand of Herod, and [from] all the expectation of the people of the Jews.'),
-(220823,8,44,12,12,'And when he had considered [the thing], he came to the house of Mary the mother of John, whose surname was Mark; where many were gathered together praying.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(220823,8,44,12,12,'And when he had considered [the thing], he came to the house of Mary the mother of John, whose surname was Mark; where many were gathered together praying.'),
 (220824,8,44,12,13,'And as Peter knocked at the door of the gate, a damsel came to hearken, named Rhoda.'),
 (220825,8,44,12,14,'And when she knew Peter''s voice, she opened not the gate for gladness, but ran in, and told how Peter stood before the gate.'),
 (220826,8,44,12,15,'And they said unto her, Thou art mad. But she constantly affirmed that it was even so. Then said they, It is his angel.'),
@@ -27948,8 +27428,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (220870,8,44,13,34,'And as concerning that he raised him up from the dead, [now] no more to return to corruption, he said on this wise, I will give you the sure mercies of David.'),
 (220871,8,44,13,35,'Wherefore he saith also in another [psalm], Thou shalt not suffer thine Holy One to see corruption.'),
 (220872,8,44,13,36,'For David, after he had served his own generation by the will of God, fell on sleep, and was laid unto his fathers, and saw corruption:'),
-(220873,8,44,13,37,'But he, whom God raised again, saw no corruption.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(220873,8,44,13,37,'But he, whom God raised again, saw no corruption.'),
 (220874,8,44,13,38,'Be it known unto you therefore, men [and] brethren, that through this man is preached unto you the forgiveness of sins:'),
 (220875,8,44,13,39,'And by him all that believe are justified from all things, from which ye could not be justified by the law of Moses.'),
 (220876,8,44,13,40,'Beware therefore, lest that come upon you, which is spoken of in the prophets;'),
@@ -27999,8 +27478,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (220920,8,44,15,4,'And when they were come to Jerusalem, they were received of the church, and [of] the apostles and elders, and they declared all things that God had done with them.'),
 (220921,8,44,15,5,'But there rose up certain of the sect of the Pharisees which believed, saying, That it was needful to circumcise them, and to command [them] to keep the law of Moses.'),
 (220922,8,44,15,6,'And the apostles and elders came together for to consider of this matter.'),
-(220923,8,44,15,7,'And when there had been much disputing, Peter rose up, and said unto them, Men [and] brethren, ye know how that a good while ago God made choice among us, that the Gentiles by my mouth should hear the word of the gospel, and believe.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(220923,8,44,15,7,'And when there had been much disputing, Peter rose up, and said unto them, Men [and] brethren, ye know how that a good while ago God made choice among us, that the Gentiles by my mouth should hear the word of the gospel, and believe.'),
 (220924,8,44,15,8,'And God, which knoweth the hearts, bare them witness, giving them the Holy Ghost, even as [he did] unto us;'),
 (220925,8,44,15,9,'And put no difference between us and them, purifying their hearts by faith.'),
 (220926,8,44,15,10,'Now therefore why tempt ye God, to put a yoke upon the neck of the disciples, which neither our fathers nor we were able to bear?'),
@@ -28050,8 +27528,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (220970,8,44,16,13,'And on the sabbath we went out of the city by a river side, where prayer was wont to be made; and we sat down, and spake unto the women which resorted [thither].'),
 (220971,8,44,16,14,'And a certain woman named Lydia, a seller of purple, of the city of Thyatira, which worshipped God, heard [us]: whose heart the Lord opened, that she attended unto the things which were spoken of Paul.'),
 (220972,8,44,16,15,'And when she was baptized, and her household, she besought [us], saying, If ye have judged me to be faithful to the Lord, come into my house, and abide [there]. And she constrained us.'),
-(220973,8,44,16,16,'And it came to pass, as we went to prayer, a certain damsel possessed with a spirit of divination met us, which brought her masters much gain by soothsaying:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(220973,8,44,16,16,'And it came to pass, as we went to prayer, a certain damsel possessed with a spirit of divination met us, which brought her masters much gain by soothsaying:'),
 (220974,8,44,16,17,'The same followed Paul and us, and cried, saying, These men are the servants of the most high God, which shew unto us the way of salvation.'),
 (220975,8,44,16,18,'And this did she many days. But Paul, being grieved, turned and said to the spirit, I command thee in the name of Jesus Christ to come out of her. And he came out the same hour.'),
 (220976,8,44,16,19,'And when her masters saw that the hope of their gains was gone, they caught Paul and Silas, and drew [them] into the marketplace unto the rulers,'),
@@ -28101,8 +27578,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (221020,8,44,17,23,'For as I passed by, and beheld your devotions, I found an altar with this inscription, TO THE UNKNOWN GOD. Whom therefore ye ignorantly worship, him declare I unto you.'),
 (221021,8,44,17,24,'God that made the world and all things therein, seeing that he is Lord of heaven and earth, dwelleth not in temples made with hands;'),
 (221022,8,44,17,25,'Neither is worshipped with men''s hands, as though he needed any thing, seeing he giveth to all life, and breath, and all things;'),
-(221023,8,44,17,26,'And hath made of one blood all nations of men for to dwell on all the face of the earth, and hath determined the times before appointed, and the bounds of their habitation;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(221023,8,44,17,26,'And hath made of one blood all nations of men for to dwell on all the face of the earth, and hath determined the times before appointed, and the bounds of their habitation;'),
 (221024,8,44,17,27,'That they should seek the Lord, if haply they might feel after him, and find him, though he be not far from every one of us:'),
 (221025,8,44,17,28,'For in him we live, and move, and have our being; as certain also of your own poets have said, For we are also his offspring.'),
 (221026,8,44,17,29,'Forasmuch then as we are the offspring of God, we ought not to think that the Godhead is like unto gold, or silver, or stone, graven by art and man''s device.'),
@@ -28152,8 +27628,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (221070,8,44,19,11,'And God wrought special miracles by the hands of Paul:'),
 (221071,8,44,19,12,'So that from his body were brought unto the sick handkerchiefs or aprons, and the diseases departed from them, and the evil spirits went out of them.'),
 (221072,8,44,19,13,'Then certain of the vagabond Jews, exorcists, took upon them to call over them which had evil spirits the name of the Lord Jesus, saying, We adjure you by Jesus whom Paul preacheth.'),
-(221073,8,44,19,14,'And there were seven sons of [one] Sceva, a Jew, [and] chief of the priests, which did so.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(221073,8,44,19,14,'And there were seven sons of [one] Sceva, a Jew, [and] chief of the priests, which did so.'),
 (221074,8,44,19,15,'And the evil spirit answered and said, Jesus I know, and Paul I know; but who are ye?'),
 (221075,8,44,19,16,'And the man in whom the evil spirit was leaped on them, and overcame them, and prevailed against them, so that they fled out of that house naked and wounded.'),
 (221076,8,44,19,17,'And this was known to all the Jews and Greeks also dwelling at Ephesus; and fear fell on them all, and the name of the Lord Jesus was magnified.'),
@@ -28203,8 +27678,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (221120,8,44,20,20,'[And] how I kept back nothing that was profitable [unto you], but have shewed you, and have taught you publickly, and from house to house,'),
 (221121,8,44,20,21,'Testifying both to the Jews, and also to the Greeks, repentance toward God, and faith toward our Lord Jesus Christ.'),
 (221122,8,44,20,22,'And now, behold, I go bound in the spirit unto Jerusalem, not knowing the things that shall befall me there:'),
-(221123,8,44,20,23,'Save that the Holy Ghost witnesseth in every city, saying that bonds and afflictions abide me.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(221123,8,44,20,23,'Save that the Holy Ghost witnesseth in every city, saying that bonds and afflictions abide me.'),
 (221124,8,44,20,24,'But none of these things move me, neither count I my life dear unto myself, so that I might finish my course with joy, and the ministry, which I have received of the Lord Jesus, to testify the gospel of the grace of God.'),
 (221125,8,44,20,25,'And now, behold, I know that ye all, among whom I have gone preaching the kingdom of God, shall see my face no more.'),
 (221126,8,44,20,26,'Wherefore I take you to record this day, that I [am] pure from the blood of all [men].'),
@@ -28254,8 +27728,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (221170,8,44,21,32,'Who immediately took soldiers and centurions, and ran down unto them: and when they saw the chief captain and the soldiers, they left beating of Paul.'),
 (221171,8,44,21,33,'Then the chief captain came near, and took him, and commanded [him] to be bound with two chains; and demanded who he was, and what he had done.'),
 (221172,8,44,21,34,'And some cried one thing, some another, among the multitude: and when he could not know the certainty for the tumult, he commanded him to be carried into the castle.'),
-(221173,8,44,21,35,'And when he came upon the stairs, so it was, that he was borne of the soldiers for the violence of the people.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(221173,8,44,21,35,'And when he came upon the stairs, so it was, that he was borne of the soldiers for the violence of the people.'),
 (221174,8,44,21,36,'For the multitude of the people followed after, crying, Away with him.'),
 (221175,8,44,21,37,'And as Paul was to be led into the castle, he said unto the chief captain, May I speak unto thee? Who said, Canst thou speak Greek?'),
 (221176,8,44,21,38,'Art not thou that Egyptian, which before these days madest an uproar, and leddest out into the wilderness four thousand men that were murderers?'),
@@ -28305,8 +27778,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (221220,8,44,23,12,'And when it was day, certain of the Jews banded together, and bound themselves under a curse, saying that they would neither eat nor drink till they had killed Paul.'),
 (221221,8,44,23,13,'And they were more than forty which had made this conspiracy.'),
 (221222,8,44,23,14,'And they came to the chief priests and elders, and said, We have bound ourselves under a great curse, that we will eat nothing until we have slain Paul.'),
-(221223,8,44,23,15,'Now therefore ye with the council signify to the chief captain that he bring him down unto you to morrow, as though ye would inquire something more perfectly concerning him: and we, or ever he come near, are ready to kill him.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(221223,8,44,23,15,'Now therefore ye with the council signify to the chief captain that he bring him down unto you to morrow, as though ye would inquire something more perfectly concerning him: and we, or ever he come near, are ready to kill him.'),
 (221224,8,44,23,16,'And when Paul''s sister''s son heard of their lying in wait, he went and entered into the castle, and told Paul.'),
 (221225,8,44,23,17,'Then Paul called one of the centurions unto [him], and said, Bring this young man unto the chief captain: for he hath a certain thing to tell him.'),
 (221226,8,44,23,18,'So he took him, and brought [him] to the chief captain, and said, Paul the prisoner called me unto [him], and prayed me to bring this young man unto thee, who hath something to say unto thee.'),
@@ -28356,8 +27828,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (221270,8,44,24,27,'But after two years Porcius Festus came into Felix'' room: and Felix, willing to shew the Jews a pleasure, left Paul bound.'),
 (221271,8,44,25,1,'Now when Festus was come into the province, after three days he ascended from Caesarea to Jerusalem.'),
 (221272,8,44,25,2,'Then the high priest and the chief of the Jews informed him against Paul, and besought him,'),
-(221273,8,44,25,3,'And desired favour against him, that he would send for him to Jerusalem, laying wait in the way to kill him.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(221273,8,44,25,3,'And desired favour against him, that he would send for him to Jerusalem, laying wait in the way to kill him.'),
 (221274,8,44,25,4,'But Festus answered, that Paul should be kept at Caesarea, and that he himself would depart shortly [thither].'),
 (221275,8,44,25,5,'Let them therefore, said he, which among you are able, go down with [me], and accuse this man, if there be any wickedness in him.'),
 (221276,8,44,25,6,'And when he had tarried among them more than ten days, he went down unto Caesarea; and the next day sitting on the judgment seat commanded Paul to be brought.'),
@@ -28407,8 +27878,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (221320,8,44,26,23,'That Christ should suffer, [and] that he should be the first that should rise from the dead, and should shew light unto the people, and to the Gentiles.'),
 (221321,8,44,26,24,'And as he thus spake for himself, Festus said with a loud voice, Paul, thou art beside thyself; much learning doth make thee mad.'),
 (221322,8,44,26,25,'But he said, I am not mad, most noble Festus; but speak forth the words of truth and soberness.'),
-(221323,8,44,26,26,'For the king knoweth of these things, before whom also I speak freely: for I am persuaded that none of these things are hidden from him; for this thing was not done in a corner.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(221323,8,44,26,26,'For the king knoweth of these things, before whom also I speak freely: for I am persuaded that none of these things are hidden from him; for this thing was not done in a corner.'),
 (221324,8,44,26,27,'King Agrippa, believest thou the prophets? I know that thou believest.'),
 (221325,8,44,26,28,'Then Agrippa said unto Paul, Almost thou persuadest me to be a Christian.'),
 (221326,8,44,26,29,'And Paul said, I would to God, that not only thou, but also all that hear me this day, were both almost, and altogether such as I am, except these bonds.'),
@@ -28458,8 +27928,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (221370,8,44,27,41,'And falling into a place where two seas met, they ran the ship aground; and the forepart stuck fast, and remained unmoveable, but the hinder part was broken with the violence of the waves.'),
 (221371,8,44,27,42,'And the soldiers'' counsel was to kill the prisoners, lest any of them should swim out, and escape.'),
 (221372,8,44,27,43,'But the centurion, willing to save Paul, kept them from [their] purpose; and commanded that they which could swim should cast [themselves] first [into the sea], and get to land:'),
-(221373,8,44,27,44,'And the rest, some on boards, and some on [broken pieces] of the ship. And so it came to pass, that they escaped all safe to land.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(221373,8,44,27,44,'And the rest, some on boards, and some on [broken pieces] of the ship. And so it came to pass, that they escaped all safe to land.'),
 (221374,8,44,28,1,'And when they were escaped, then they knew that the island was called Melita.'),
 (221375,8,44,28,2,'And the barbarous people shewed us no little kindness: for they kindled a fire, and received us every one, because of the present rain, and because of the cold.'),
 (221376,8,44,28,3,'And when Paul had gathered a bundle of sticks, and laid [them] on the fire, there came a viper out of the heat, and fastened on his hand.'),
@@ -28509,8 +27978,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (221420,8,45,1,16,'For I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believeth; to the Jew first, and also to the Greek.'),
 (221421,8,45,1,17,'For therein is the righteousness of God revealed from faith to faith: as it is written, The just shall live by faith.'),
 (221422,8,45,1,18,'For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who hold the truth in unrighteousness;'),
-(221423,8,45,1,19,'Because that which may be known of God is manifest in them; for God hath shewed [it] unto them.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(221423,8,45,1,19,'Because that which may be known of God is manifest in them; for God hath shewed [it] unto them.'),
 (221424,8,45,1,20,'For the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made, [even] his eternal power and Godhead; so that they are without excuse:'),
 (221425,8,45,1,21,'Because that, when they knew God, they glorified [him] not as God, neither were thankful; but became vain in their imaginations, and their foolish heart was darkened.'),
 (221426,8,45,1,22,'Professing themselves to be wise, they became fools,'),
@@ -28611,8 +28079,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (221520,8,45,4,24,'But for us also, to whom it shall be imputed, if we believe on him that raised up Jesus our Lord from the dead;'),
 (221521,8,45,4,25,'Who was delivered for our offences, and was raised again for our justification.'),
 (221522,8,45,5,1,'Therefore being justified by faith, we have peace with God through our Lord Jesus Christ:'),
-(221523,8,45,5,2,'By whom also we have access by faith into this grace wherein we stand, and rejoice in hope of the glory of God.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(221523,8,45,5,2,'By whom also we have access by faith into this grace wherein we stand, and rejoice in hope of the glory of God.'),
 (221524,8,45,5,3,'And not only [so], but we glory in tribulations also: knowing that tribulation worketh patience;'),
 (221525,8,45,5,4,'And patience, experience; and experience, hope:'),
 (221526,8,45,5,5,'And hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us.'),
@@ -28662,8 +28129,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (221570,8,45,7,5,'For when we were in the flesh, the motions of sins, which were by the law, did work in our members to bring forth fruit unto death.'),
 (221571,8,45,7,6,'But now we are delivered from the law, that being dead wherein we were held; that we should serve in newness of spirit, and not [in] the oldness of the letter.'),
 (221572,8,45,7,7,'What shall we say then? [Is] the law sin? God forbid. Nay, I had not known sin, but by the law: for I had not known lust, except the law had said, Thou shalt not covet.'),
-(221573,8,45,7,8,'But sin, taking occasion by the commandment, wrought in me all manner of concupiscence. For without the law sin [was] dead.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(221573,8,45,7,8,'But sin, taking occasion by the commandment, wrought in me all manner of concupiscence. For without the law sin [was] dead.'),
 (221574,8,45,7,9,'For I was alive without the law once: but when the commandment came, sin revived, and I died.'),
 (221575,8,45,7,10,'And the commandment, which [was ordained] to life, I found [to be] unto death.'),
 (221576,8,45,7,11,'For sin, taking occasion by the commandment, deceived me, and by it slew [me].'),
@@ -28713,8 +28179,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (221620,8,45,8,30,'Moreover whom he did predestinate, them he also called: and whom he called, them he also justified: and whom he justified, them he also glorified.'),
 (221621,8,45,8,31,'What shall we then say to these things? If God [be] for us, who [can be] against us?'),
 (221622,8,45,8,32,'He that spared not his own Son, but delivered him up for us all, how shall he not with him also freely give us all things?'),
-(221623,8,45,8,33,'Who shall lay any thing to the charge of God''s elect? [It is] God that justifieth.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(221623,8,45,8,33,'Who shall lay any thing to the charge of God''s elect? [It is] God that justifieth.'),
 (221624,8,45,8,34,'Who [is] he that condemneth? [It is] Christ that died, yea rather, that is risen again, who is even at the right hand of God, who also maketh intercession for us.'),
 (221625,8,45,8,35,'Who shall separate us from the love of Christ? [shall] tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword?'),
 (221626,8,45,8,36,'As it is written, For thy sake we are killed all the day long; we are accounted as sheep for the slaughter.'),
@@ -28764,8 +28229,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (221670,8,45,10,8,'But what saith it? The word is nigh thee, [even] in thy mouth, and in thy heart: that is, the word of faith, which we preach;'),
 (221671,8,45,10,9,'That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved.'),
 (221672,8,45,10,10,'For with the heart man believeth unto righteousness; and with the mouth confession is made unto salvation.'),
-(221673,8,45,10,11,'For the scripture saith, Whosoever believeth on him shall not be ashamed.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(221673,8,45,10,11,'For the scripture saith, Whosoever believeth on him shall not be ashamed.'),
 (221674,8,45,10,12,'For there is no difference between the Jew and the Greek: for the same Lord over all is rich unto all that call upon him.'),
 (221675,8,45,10,13,'For whosoever shall call upon the name of the Lord shall be saved.'),
 (221676,8,45,10,14,'How then shall they call on him in whom they have not believed? and how shall they believe in him of whom they have not heard? and how shall they hear without a preacher?'),
@@ -28815,8 +28279,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (221720,8,45,12,1,'I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, [which is] your reasonable service.'),
 (221721,8,45,12,2,'And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what [is] that good, and acceptable, and perfect, will of God.'),
 (221722,8,45,12,3,'For I say, through the grace given unto me, to every man that is among you, not to think [of himself] more highly than he ought to think; but to think soberly, according as God hath dealt to every man the measure of faith.'),
-(221723,8,45,12,4,'For as we have many members in one body, and all members have not the same office:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(221723,8,45,12,4,'For as we have many members in one body, and all members have not the same office:'),
 (221724,8,45,12,5,'So we, [being] many, are one body in Christ, and every one members one of another.'),
 (221725,8,45,12,6,'Having then gifts differing according to the grace that is given to us, whether prophecy, [let us prophesy] according to the proportion of faith;'),
 (221726,8,45,12,7,'Or ministry, [let us wait] on [our] ministering: or he that teacheth, on teaching;'),
@@ -28866,8 +28329,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (221770,8,45,14,16,'Let not then your good be evil spoken of:'),
 (221771,8,45,14,17,'For the kingdom of God is not meat and drink; but righteousness, and peace, and joy in the Holy Ghost.'),
 (221772,8,45,14,18,'For he that in these things serveth Christ [is] acceptable to God, and approved of men.'),
-(221773,8,45,14,19,'Let us therefore follow after the things which make for peace, and things wherewith one may edify another.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(221773,8,45,14,19,'Let us therefore follow after the things which make for peace, and things wherewith one may edify another.'),
 (221774,8,45,14,20,'For meat destroy not the work of God. All things indeed [are] pure; but [it is] evil for that man who eateth with offence.'),
 (221775,8,45,14,21,'[It is] good neither to eat flesh, nor to drink wine, nor [any thing] whereby thy brother stumbleth, or is offended, or is made weak.'),
 (221776,8,45,14,22,'Hast thou faith? have [it] to thyself before God. Happy [is] he that condemneth not himself in that thing which he alloweth.'),
@@ -28917,8 +28379,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (221820,8,45,16,10,'Salute Apelles approved in Christ. Salute them which are of Aristobulus'' [household].'),
 (221821,8,45,16,11,'Salute Herodion my kinsman. Greet them that be of the [household] of Narcissus, which are in the Lord.'),
 (221822,8,45,16,12,'Salute Tryphena and Tryphosa, who labour in the Lord. Salute the beloved Persis, which laboured much in the Lord.'),
-(221823,8,45,16,13,'Salute Rufus chosen in the Lord, and his mother and mine.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(221823,8,45,16,13,'Salute Rufus chosen in the Lord, and his mother and mine.'),
 (221824,8,45,16,14,'Salute Asyncritus, Phlegon, Hermas, Patrobas, Hermes, and the brethren which are with them.'),
 (221825,8,45,16,15,'Salute Philologus, and Julia, Nereus, and his sister, and Olympas, and all the saints which are with them.'),
 (221826,8,45,16,16,'Salute one another with an holy kiss. The churches of Christ salute you.'),
@@ -28968,8 +28429,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (221870,8,46,2,2,'For I determined not to know any thing among you, save Jesus Christ, and him crucified.'),
 (221871,8,46,2,3,'And I was with you in weakness, and in fear, and in much trembling.'),
 (221872,8,46,2,4,'And my speech and my preaching [was] not with enticing words of man''s wisdom, but in demonstration of the Spirit and of power:'),
-(221873,8,46,2,5,'That your faith should not stand in the wisdom of men, but in the power of God.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(221873,8,46,2,5,'That your faith should not stand in the wisdom of men, but in the power of God.'),
 (221874,8,46,2,6,'Howbeit we speak wisdom among them that are perfect: yet not the wisdom of this world, nor of the princes of this world, that come to nought:'),
 (221875,8,46,2,7,'But we speak the wisdom of God in a mystery, [even] the hidden [wisdom], which God ordained before the world unto our glory:'),
 (221876,8,46,2,8,'Which none of the princes of this world knew: for had they known [it], they would not have crucified the Lord of glory.'),
@@ -29019,8 +28479,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (221920,8,46,4,13,'Being defamed, we intreat: we are made as the filth of the world, [and are] the offscouring of all things unto this day.'),
 (221921,8,46,4,14,'I write not these things to shame you, but as my beloved sons I warn [you].'),
 (221922,8,46,4,15,'For though ye have ten thousand instructors in Christ, yet [have ye] not many fathers: for in Christ Jesus I have begotten you through the gospel.'),
-(221923,8,46,4,16,'Wherefore I beseech you, be ye followers of me.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(221923,8,46,4,16,'Wherefore I beseech you, be ye followers of me.'),
 (221924,8,46,4,17,'For this cause have I sent unto you Timotheus, who is my beloved son, and faithful in the Lord, who shall bring you into remembrance of my ways which be in Christ, as I teach every where in every church.'),
 (221925,8,46,4,18,'Now some are puffed up, as though I would not come to you.'),
 (221926,8,46,4,19,'But I will come to you shortly, if the Lord will, and will know, not the speech of them which are puffed up, but the power.'),
@@ -29070,8 +28529,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (221970,8,46,7,9,'But if they cannot contain, let them marry: for it is better to marry than to burn.'),
 (221971,8,46,7,10,'And unto the married I command, [yet] not I, but the Lord, Let not the wife depart from [her] husband:'),
 (221972,8,46,7,11,'But and if she depart, let her remain unmarried, or be reconciled to [her] husband: and let not the husband put away [his] wife.'),
-(221973,8,46,7,12,'But to the rest speak I, not the Lord: If any brother hath a wife that believeth not, and she be pleased to dwell with him, let him not put her away.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(221973,8,46,7,12,'But to the rest speak I, not the Lord: If any brother hath a wife that believeth not, and she be pleased to dwell with him, let him not put her away.'),
 (221974,8,46,7,13,'And the woman which hath an husband that believeth not, and if he be pleased to dwell with her, let her not leave him.'),
 (221975,8,46,7,14,'For the unbelieving husband is sanctified by the wife, and the unbelieving wife is sanctified by the husband: else were your children unclean; but now are they holy.'),
 (221976,8,46,7,15,'But if the unbelieving depart, let him depart. A brother or a sister is not under bondage in such [cases]: but God hath called us to peace.'),
@@ -29121,8 +28579,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (222020,8,46,9,6,'Or I only and Barnabas, have not we power to forbear working?'),
 (222021,8,46,9,7,'Who goeth a warfare any time at his own charges? who planteth a vineyard, and eateth not of the fruit thereof? or who feedeth a flock, and eateth not of the milk of the flock?'),
 (222022,8,46,9,8,'Say I these things as a man? or saith not the law the same also?'),
-(222023,8,46,9,9,'For it is written in the law of Moses, Thou shalt not muzzle the mouth of the ox that treadeth out the corn. Doth God take care for oxen?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(222023,8,46,9,9,'For it is written in the law of Moses, Thou shalt not muzzle the mouth of the ox that treadeth out the corn. Doth God take care for oxen?'),
 (222024,8,46,9,10,'Or saith he [it] altogether for our sakes? For our sakes, no doubt, [this] is written: that he that ploweth should plow in hope; and that he that thresheth in hope should be partaker of his hope.'),
 (222025,8,46,9,11,'If we have sown unto you spiritual things, [is it] a great thing if we shall reap your carnal things?'),
 (222026,8,46,9,12,'If others be partakers of [this] power over you, [are] not we rather? Nevertheless we have not used this power; but suffer all things, lest we should hinder the gospel of Christ.'),
@@ -29172,8 +28629,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (222070,8,46,10,29,'Conscience, I say, not thine own, but of the other: for why is my liberty judged of another [man''s] conscience?'),
 (222071,8,46,10,30,'For if I by grace be a partaker, why am I evil spoken of for that for which I give thanks?'),
 (222072,8,46,10,31,'Whether therefore ye eat, or drink, or whatsoever ye do, do all to the glory of God.'),
-(222073,8,46,10,32,'Give none offence, neither to the Jews, nor to the Gentiles, nor to the church of God:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(222073,8,46,10,32,'Give none offence, neither to the Jews, nor to the Gentiles, nor to the church of God:'),
 (222074,8,46,10,33,'Even as I please all [men] in all [things], not seeking mine own profit, but the [profit] of many, that they may be saved.'),
 (222075,8,46,11,1,'Be ye followers of me, even as I also [am] of Christ.'),
 (222076,8,46,11,2,'Now I praise you, brethren, that ye remember me in all things, and keep the ordinances, as I delivered [them] to you.'),
@@ -29223,8 +28679,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (222120,8,46,12,12,'For as the body is one, and hath many members, and all the members of that one body, being many, are one body: so also [is] Christ.'),
 (222121,8,46,12,13,'For by one Spirit are we all baptized into one body, whether [we be] Jews or Gentiles, whether [we be] bond or free; and have been all made to drink into one Spirit.'),
 (222122,8,46,12,14,'For the body is not one member, but many.'),
-(222123,8,46,12,15,'If the foot shall say, Because I am not the hand, I am not of the body; is it therefore not of the body?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(222123,8,46,12,15,'If the foot shall say, Because I am not the hand, I am not of the body; is it therefore not of the body?'),
 (222124,8,46,12,16,'And if the ear shall say, Because I am not the eye, I am not of the body; is it therefore not of the body?'),
 (222125,8,46,12,17,'If the whole body [were] an eye, where [were] the hearing? If the whole [were] hearing, where [were] the smelling?'),
 (222126,8,46,12,18,'But now hath God set the members every one of them in the body, as it hath pleased him.'),
@@ -29274,8 +28729,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (222170,8,46,14,18,'I thank my God, I speak with tongues more than ye all:'),
 (222171,8,46,14,19,'Yet in the church I had rather speak five words with my understanding, that [by my voice] I might teach others also, than ten thousand words in an [unknown] tongue.'),
 (222172,8,46,14,20,'Brethren, be not children in understanding: howbeit in malice be ye children, but in understanding be men.'),
-(222173,8,46,14,21,'In the law it is written, With [men of] other tongues and other lips will I speak unto this people; and yet for all that will they not hear me, saith the Lord.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(222173,8,46,14,21,'In the law it is written, With [men of] other tongues and other lips will I speak unto this people; and yet for all that will they not hear me, saith the Lord.'),
 (222174,8,46,14,22,'Wherefore tongues are for a sign, not to them that believe, but to them that believe not: but prophesying [serveth] not for them that believe not, but for them which believe.'),
 (222175,8,46,14,23,'If therefore the whole church be come together into one place, and all speak with tongues, and there come in [those that are] unlearned, or unbelievers, will they not say that ye are mad?'),
 (222176,8,46,14,24,'But if all prophesy, and there come in one that believeth not, or [one] unlearned, he is convinced of all, he is judged of all:'),
@@ -29325,8 +28779,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (222220,8,46,15,28,'And when all things shall be subdued unto him, then shall the Son also himself be subject unto him that put all things under him, that God may be all in all.'),
 (222221,8,46,15,29,'Else what shall they do which are baptized for the dead, if the dead rise not at all? why are they then baptized for the dead?'),
 (222222,8,46,15,30,'And why stand we in jeopardy every hour?'),
-(222223,8,46,15,31,'I protest by your rejoicing which I have in Christ Jesus our Lord, I die daily.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(222223,8,46,15,31,'I protest by your rejoicing which I have in Christ Jesus our Lord, I die daily.'),
 (222224,8,46,15,32,'If after the manner of men I have fought with beasts at Ephesus, what advantageth it me, if the dead rise not? let us eat and drink; for to morrow we die.'),
 (222225,8,46,15,33,'Be not deceived: evil communications corrupt good manners.'),
 (222226,8,46,15,34,'Awake to righteousness, and sin not; for some have not the knowledge of God: I speak [this] to your shame.'),
@@ -29376,8 +28829,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (222270,8,46,16,20,'All the brethren greet you. Greet ye one another with an holy kiss.'),
 (222271,8,46,16,21,'The salutation of [me] Paul with mine own hand.'),
 (222272,8,46,16,22,'If any man love not the Lord Jesus Christ, let him be Anathema Maranatha.'),
-(222273,8,46,16,23,'The grace of our Lord Jesus Christ [be] with you.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(222273,8,46,16,23,'The grace of our Lord Jesus Christ [be] with you.'),
 (222274,8,46,16,24,'My love [be] with you all in Christ Jesus. Amen. <<[The first [epistle] to the Corinthians was written from Philippi by Stephanas, and Fortunatus, and Achaicus, and Timotheus.]>>'),
 (222275,8,47,1,1,'Paul, an apostle of Jesus Christ by the will of God, and Timothy [our] brother, unto the church of God which is at Corinth, with all the saints which are in all Achaia:'),
 (222276,8,47,1,2,'Grace [be] to you and peace from God our Father, and [from] the Lord Jesus Christ.'),
@@ -29427,8 +28879,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (222320,8,47,3,5,'Not that we are sufficient of ourselves to think any thing as of ourselves; but our sufficiency [is] of God;'),
 (222321,8,47,3,6,'Who also hath made us able ministers of the new testament; not of the letter, but of the spirit: for the letter killeth, but the spirit giveth life.'),
 (222322,8,47,3,7,'But if the ministration of death, written [and] engraven in stones, was glorious, so that the children of Israel could not stedfastly behold the face of Moses for the glory of his countenance; which [glory] was to be done away:'),
-(222323,8,47,3,8,'How shall not the ministration of the spirit be rather glorious?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(222323,8,47,3,8,'How shall not the ministration of the spirit be rather glorious?'),
 (222324,8,47,3,9,'For if the ministration of condemnation [be] glory, much more doth the ministration of righteousness exceed in glory.'),
 (222325,8,47,3,10,'For even that which was made glorious had no glory in this respect, by reason of the glory that excelleth.'),
 (222326,8,47,3,11,'For if that which is done away [was] glorious, much more that which remaineth [is] glorious.'),
@@ -29478,8 +28929,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (222370,8,47,5,19,'To wit, that God was in Christ, reconciling the world unto himself, not imputing their trespasses unto them; and hath committed unto us the word of reconciliation.'),
 (222371,8,47,5,20,'Now then we are ambassadors for Christ, as though God did beseech [you] by us: we pray [you] in Christ''s stead, be ye reconciled to God.'),
 (222372,8,47,5,21,'For he hath made him [to be] sin for us, who knew no sin; that we might be made the righteousness of God in him.'),
-(222373,8,47,6,1,'We then, [as] workers together [with him], beseech [you] also that ye receive not the grace of God in vain.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(222373,8,47,6,1,'We then, [as] workers together [with him], beseech [you] also that ye receive not the grace of God in vain.'),
 (222374,8,47,6,2,'(For he saith, I have heard thee in a time accepted, and in the day of salvation have I succoured thee: behold, now [is] the accepted time; behold, now [is] the day of salvation.)'),
 (222375,8,47,6,3,'Giving no offence in any thing, that the ministry be not blamed:'),
 (222376,8,47,6,4,'But in all [things] approving ourselves as the ministers of God, in much patience, in afflictions, in necessities, in distresses,'),
@@ -29529,8 +28979,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (222420,8,47,8,14,'But by an equality, [that] now at this time your abundance [may be a supply] for their want, that their abundance also may be [a supply] for your want: that there may be equality:'),
 (222421,8,47,8,15,'As it is written, He that [had gathered] much had nothing over; and he that [had gathered] little had no lack.'),
 (222422,8,47,8,16,'But thanks [be] to God, which put the same earnest care into the heart of Titus for you.'),
-(222423,8,47,8,17,'For indeed he accepted the exhortation; but being more forward, of his own accord he went unto you.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(222423,8,47,8,17,'For indeed he accepted the exhortation; but being more forward, of his own accord he went unto you.'),
 (222424,8,47,8,18,'And we have sent with him the brother, whose praise [is] in the gospel throughout all the churches;'),
 (222425,8,47,8,19,'And not [that] only, but who was also chosen of the churches to travel with us with this grace, which is administered by us to the glory of the same Lord, and [declaration of] your ready mind:'),
 (222426,8,47,8,20,'Avoiding this, that no man should blame us in this abundance which is administered by us:'),
@@ -29631,8 +29080,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (222520,8,47,13,3,'Since ye seek a proof of Christ speaking in me, which to you-ward is not weak, but is mighty in you.'),
 (222521,8,47,13,4,'For though he was crucified through weakness, yet he liveth by the power of God. For we also are weak in him, but we shall live with him by the power of God toward you.'),
 (222522,8,47,13,5,'Examine yourselves, whether ye be in the faith; prove your own selves. Know ye not your own selves, how that Jesus Christ is in you, except ye be reprobates?'),
-(222523,8,47,13,6,'But I trust that ye shall know that we are not reprobates.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(222523,8,47,13,6,'But I trust that ye shall know that we are not reprobates.'),
 (222524,8,47,13,7,'Now I pray to God that ye do no evil; not that we should appear approved, but that ye should do that which is honest, though we be as reprobates.'),
 (222525,8,47,13,8,'For we can do nothing against the truth, but for the truth.'),
 (222526,8,47,13,9,'For we are glad, when we are weak, and ye are strong: and this also we wish, [even] your perfection.'),
@@ -29682,8 +29130,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (222570,8,48,2,15,'We [who are] Jews by nature, and not sinners of the Gentiles,'),
 (222571,8,48,2,16,'Knowing that a man is not justified by the works of the law, but by the faith of Jesus Christ, even we have believed in Jesus Christ, that we might be justified by the faith of Christ, and not by the works of the law: for by the works of the law shall no flesh be justified.'),
 (222572,8,48,2,17,'But if, while we seek to be justified by Christ, we ourselves also are found sinners, [is] therefore Christ the minister of sin? God forbid.'),
-(222573,8,48,2,18,'For if I build again the things which I destroyed, I make myself a transgressor.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(222573,8,48,2,18,'For if I build again the things which I destroyed, I make myself a transgressor.'),
 (222574,8,48,2,19,'For I through the law am dead to the law, that I might live unto God.'),
 (222575,8,48,2,20,'I am crucified with Christ: nevertheless I live; yet not I, but Christ liveth in me: and the life which I now live in the flesh I live by the faith of the Son of God, who loved me, and gave himself for me.'),
 (222576,8,48,2,21,'I do not frustrate the grace of God: for if righteousness [come] by the law, then Christ is dead in vain.'),
@@ -29733,8 +29180,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (222620,8,48,4,15,'Where is then the blessedness ye spake of? for I bear you record, that, if [it had been] possible, ye would have plucked out your own eyes, and have given them to me.'),
 (222621,8,48,4,16,'Am I therefore become your enemy, because I tell you the truth?'),
 (222622,8,48,4,17,'They zealously affect you, [but] not well; yea, they would exclude you, that ye might affect them.'),
-(222623,8,48,4,18,'But [it is] good to be zealously affected always in [a] good [thing], and not only when I am present with you.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(222623,8,48,4,18,'But [it is] good to be zealously affected always in [a] good [thing], and not only when I am present with you.'),
 (222624,8,48,4,19,'My little children, of whom I travail in birth again until Christ be formed in you,'),
 (222625,8,48,4,20,'I desire to be present with you now, and to change my voice; for I stand in doubt of you.'),
 (222626,8,48,4,21,'Tell me, ye that desire to be under the law, do ye not hear the law?'),
@@ -29784,8 +29230,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (222670,8,48,6,8,'For he that soweth to his flesh shall of the flesh reap corruption; but he that soweth to the Spirit shall of the Spirit reap life everlasting.'),
 (222671,8,48,6,9,'And let us not be weary in well doing: for in due season we shall reap, if we faint not.'),
 (222672,8,48,6,10,'As we have therefore opportunity, let us do good unto all [men], especially unto them who are of the household of faith.'),
-(222673,8,48,6,11,'Ye see how large a letter I have written unto you with mine own hand.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(222673,8,48,6,11,'Ye see how large a letter I have written unto you with mine own hand.'),
 (222674,8,48,6,12,'As many as desire to make a fair shew in the flesh, they constrain you to be circumcised; only lest they should suffer persecution for the cross of Christ.'),
 (222675,8,48,6,13,'For neither they themselves who are circumcised keep the law; but desire to have you circumcised, that they may glory in your flesh.'),
 (222676,8,48,6,14,'But God forbid that I should glory, save in the cross of our Lord Jesus Christ, by whom the world is crucified unto me, and I unto the world.'),
@@ -29835,8 +29280,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (222720,8,49,2,17,'And came and preached peace to you which were afar off, and to them that were nigh.'),
 (222721,8,49,2,18,'For through him we both have access by one Spirit unto the Father.'),
 (222722,8,49,2,19,'Now therefore ye are no more strangers and foreigners, but fellowcitizens with the saints, and of the household of God;'),
-(222723,8,49,2,20,'And are built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner [stone];');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(222723,8,49,2,20,'And are built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner [stone];'),
 (222724,8,49,2,21,'In whom all the building fitly framed together groweth unto an holy temple in the Lord:'),
 (222725,8,49,2,22,'In whom ye also are builded together for an habitation of God through the Spirit.'),
 (222726,8,49,3,1,'For this cause I Paul, the prisoner of Jesus Christ for you Gentiles,'),
@@ -29886,8 +29330,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (222770,8,49,4,24,'And that ye put on the new man, which after God is created in righteousness and true holiness.'),
 (222771,8,49,4,25,'Wherefore putting away lying, speak every man truth with his neighbour: for we are members one of another.'),
 (222772,8,49,4,26,'Be ye angry, and sin not: let not the sun go down upon your wrath:'),
-(222773,8,49,4,27,'Neither give place to the devil.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(222773,8,49,4,27,'Neither give place to the devil.'),
 (222774,8,49,4,28,'Let him that stole steal no more: but rather let him labour, working with [his] hands the thing which is good, that he may have to give to him that needeth.'),
 (222775,8,49,4,29,'Let no corrupt communication proceed out of your mouth, but that which is good to the use of edifying, that it may minister grace unto the hearers.'),
 (222776,8,49,4,30,'And grieve not the holy Spirit of God, whereby ye are sealed unto the day of redemption.'),
@@ -29937,8 +29380,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (222820,8,49,6,9,'And, ye masters, do the same things unto them, forbearing threatening: knowing that your Master also is in heaven; neither is there respect of persons with him.'),
 (222821,8,49,6,10,'Finally, my brethren, be strong in the Lord, and in the power of his might.'),
 (222822,8,49,6,11,'Put on the whole armour of God, that ye may be able to stand against the wiles of the devil.'),
-(222823,8,49,6,12,'For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high [places].');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(222823,8,49,6,12,'For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high [places].'),
 (222824,8,49,6,13,'Wherefore take unto you the whole armour of God, that ye may be able to withstand in the evil day, and having done all, to stand.'),
 (222825,8,49,6,14,'Stand therefore, having your loins girt about with truth, and having on the breastplate of righteousness;'),
 (222826,8,49,6,15,'And your feet shod with the preparation of the gospel of peace;'),
@@ -29988,8 +29430,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (222870,8,50,2,5,'Let this mind be in you, which was also in Christ Jesus:'),
 (222871,8,50,2,6,'Who, being in the form of God, thought it not robbery to be equal with God:'),
 (222872,8,50,2,7,'But made himself of no reputation, and took upon him the form of a servant, and was made in the likeness of men:'),
-(222873,8,50,2,8,'And being found in fashion as a man, he humbled himself, and became obedient unto death, even the death of the cross.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(222873,8,50,2,8,'And being found in fashion as a man, he humbled himself, and became obedient unto death, even the death of the cross.'),
 (222874,8,50,2,9,'Wherefore God also hath highly exalted him, and given him a name which is above every name:'),
 (222875,8,50,2,10,'That at the name of Jesus every knee should bow, of [things] in heaven, and [things] in earth, and [things] under the earth;'),
 (222876,8,50,2,11,'And [that] every tongue should confess that Jesus Christ [is] Lord, to the glory of God the Father.'),
@@ -30039,8 +29480,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (222920,8,50,4,4,'Rejoice in the Lord alway: [and] again I say, Rejoice.'),
 (222921,8,50,4,5,'Let your moderation be known unto all men. The Lord [is] at hand.'),
 (222922,8,50,4,6,'Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God.'),
-(222923,8,50,4,7,'And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(222923,8,50,4,7,'And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus.'),
 (222924,8,50,4,8,'Finally, brethren, whatsoever things are true, whatsoever things [are] honest, whatsoever things [are] just, whatsoever things [are] pure, whatsoever things [are] lovely, whatsoever things [are] of good report; if [there be] any virtue, and if [there be] any praise, think on these things.'),
 (222925,8,50,4,9,'Those things, which ye have both learned, and received, and heard, and seen in me, do: and the God of peace shall be with you.'),
 (222926,8,50,4,10,'But I rejoiced in the Lord greatly, that now at the last your care of me hath flourished again; wherein ye were also careful, but ye lacked opportunity.'),
@@ -30090,8 +29530,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (222970,8,51,2,2,'That their hearts might be comforted, being knit together in love, and unto all riches of the full assurance of understanding, to the acknowledgement of the mystery of God, and of the Father, and of Christ;'),
 (222971,8,51,2,3,'In whom are hid all the treasures of wisdom and knowledge.'),
 (222972,8,51,2,4,'And this I say, lest any man should beguile you with enticing words.'),
-(222973,8,51,2,5,'For though I be absent in the flesh, yet am I with you in the spirit, joying and beholding your order, and the stedfastness of your faith in Christ.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(222973,8,51,2,5,'For though I be absent in the flesh, yet am I with you in the spirit, joying and beholding your order, and the stedfastness of your faith in Christ.'),
 (222974,8,51,2,6,'As ye have therefore received Christ Jesus the Lord, [so] walk ye in him:'),
 (222975,8,51,2,7,'Rooted and built up in him, and stablished in the faith, as ye have been taught, abounding therein with thanksgiving.'),
 (222976,8,51,2,8,'Beware lest any man spoil you through philosophy and vain deceit, after the tradition of men, after the rudiments of the world, and not after Christ.'),
@@ -30141,8 +29580,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (223020,8,51,4,4,'That I may make it manifest, as I ought to speak.'),
 (223021,8,51,4,5,'Walk in wisdom toward them that are without, redeeming the time.'),
 (223022,8,51,4,6,'Let your speech [be] alway with grace, seasoned with salt, that ye may know how ye ought to answer every man.'),
-(223023,8,51,4,7,'All my state shall Tychicus declare unto you, [who is] a beloved brother, and a faithful minister and fellowservant in the Lord:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(223023,8,51,4,7,'All my state shall Tychicus declare unto you, [who is] a beloved brother, and a faithful minister and fellowservant in the Lord:'),
 (223024,8,51,4,8,'Whom I have sent unto you for the same purpose, that he might know your estate, and comfort your hearts;'),
 (223025,8,51,4,9,'With Onesimus, a faithful and beloved brother, who is [one] of you. They shall make known unto you all things which [are done] here.'),
 (223026,8,51,4,10,'Aristarchus my fellowprisoner saluteth you, and Marcus, sister''s son to Barnabas, (touching whom ye received commandments: if he come unto you, receive him;)'),
@@ -30192,8 +29630,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (223070,8,52,3,6,'But now when Timotheus came from you unto us, and brought us good tidings of your faith and charity, and that ye have good remembrance of us always, desiring greatly to see us, as we also [to see] you:'),
 (223071,8,52,3,7,'Therefore, brethren, we were comforted over you in all our affliction and distress by your faith:'),
 (223072,8,52,3,8,'For now we live, if ye stand fast in the Lord.'),
-(223073,8,52,3,9,'For what thanks can we render to God again for you, for all the joy wherewith we joy for your sakes before our God;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(223073,8,52,3,9,'For what thanks can we render to God again for you, for all the joy wherewith we joy for your sakes before our God;'),
 (223074,8,52,3,10,'Night and day praying exceedingly that we might see your face, and might perfect that which is lacking in your faith?'),
 (223075,8,52,3,11,'Now God himself and our Father, and our Lord Jesus Christ, direct our way unto you.'),
 (223076,8,52,3,12,'And the Lord make you to increase and abound in love one toward another, and toward all [men], even as we [do] toward you:'),
@@ -30243,8 +29680,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (223120,8,52,5,25,'Brethren, pray for us.'),
 (223121,8,52,5,26,'Greet all the brethren with an holy kiss.'),
 (223122,8,52,5,27,'I charge you by the Lord that this epistle be read unto all the holy brethren.'),
-(223123,8,52,5,28,'The grace of our Lord Jesus Christ [be] with you. Amen. <<[The first [epistle] unto the Thessalonians was written from Athens.]>>');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(223123,8,52,5,28,'The grace of our Lord Jesus Christ [be] with you. Amen. <<[The first [epistle] unto the Thessalonians was written from Athens.]>>'),
 (223124,8,53,1,1,'Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians in God our Father and the Lord Jesus Christ:'),
 (223125,8,53,1,2,'Grace unto you, and peace, from God our Father and the Lord Jesus Christ.'),
 (223126,8,53,1,3,'We are bound to thank God always for you, brethren, as it is meet, because that your faith groweth exceedingly, and the charity of every one of you all toward each other aboundeth;'),
@@ -30294,8 +29730,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (223170,8,53,3,18,'The grace of our Lord Jesus Christ [be] with you all. Amen. <<[The second [epistle] to the Thessalonians was written from Athens.]>>'),
 (223171,8,54,1,1,'Paul, an apostle of Jesus Christ by the commandment of God our Saviour, and Lord Jesus Christ, [which is] our hope;'),
 (223172,8,54,1,2,'Unto Timothy, [my] own son in the faith: Grace, mercy, [and] peace, from God our Father and Jesus Christ our Lord.'),
-(223173,8,54,1,3,'As I besought thee to abide still at Ephesus, when I went into Macedonia, that thou mightest charge some that they teach no other doctrine,');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(223173,8,54,1,3,'As I besought thee to abide still at Ephesus, when I went into Macedonia, that thou mightest charge some that they teach no other doctrine,'),
 (223174,8,54,1,4,'Neither give heed to fables and endless genealogies, which minister questions, rather than godly edifying which is in faith: [so do].'),
 (223175,8,54,1,5,'Now the end of the commandment is charity out of a pure heart, and [of] a good conscience, and [of] faith unfeigned:'),
 (223176,8,54,1,6,'From which some having swerved have turned aside unto vain jangling;'),
@@ -30345,8 +29780,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (223220,8,54,3,15,'But if I tarry long, that thou mayest know how thou oughtest to behave thyself in the house of God, which is the church of the living God, the pillar and ground of the truth.'),
 (223221,8,54,3,16,'And without controversy great is the mystery of godliness: God was manifest in the flesh, justified in the Spirit, seen of angels, preached unto the Gentiles, believed on in the world, received up into glory.'),
 (223222,8,54,4,1,'Now the Spirit speaketh expressly, that in the latter times some shall depart from the faith, giving heed to seducing spirits, and doctrines of devils;'),
-(223223,8,54,4,2,'Speaking lies in hypocrisy; having their conscience seared with a hot iron;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(223223,8,54,4,2,'Speaking lies in hypocrisy; having their conscience seared with a hot iron;'),
 (223224,8,54,4,3,'Forbidding to marry, [and commanding] to abstain from meats, which God hath created to be received with thanksgiving of them which believe and know the truth.'),
 (223225,8,54,4,4,'For every creature of God [is] good, and nothing to be refused, if it be received with thanksgiving:'),
 (223226,8,54,4,5,'For it is sanctified by the word of God and prayer.'),
@@ -30396,8 +29830,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (223270,8,54,6,8,'And having food and raiment let us be therewith content.'),
 (223271,8,54,6,9,'But they that will be rich fall into temptation and a snare, and [into] many foolish and hurtful lusts, which drown men in destruction and perdition.'),
 (223272,8,54,6,10,'For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows.'),
-(223273,8,54,6,11,'But thou, O man of God, flee these things; and follow after righteousness, godliness, faith, love, patience, meekness.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(223273,8,54,6,11,'But thou, O man of God, flee these things; and follow after righteousness, godliness, faith, love, patience, meekness.'),
 (223274,8,54,6,12,'Fight the good fight of faith, lay hold on eternal life, whereunto thou art also called, and hast professed a good profession before many witnesses.'),
 (223275,8,54,6,13,'I give thee charge in the sight of God, who quickeneth all things, and [before] Christ Jesus, who before Pontius Pilate witnessed a good confession;'),
 (223276,8,54,6,14,'That thou keep [this] commandment without spot, unrebukeable, until the appearing of our Lord Jesus Christ:'),
@@ -30447,8 +29880,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (223320,8,55,2,19,'Nevertheless the foundation of God standeth sure, having this seal, The Lord knoweth them that are his. And, Let every one that nameth the name of Christ depart from iniquity.'),
 (223321,8,55,2,20,'But in a great house there are not only vessels of gold and of silver, but also of wood and of earth; and some to honour, and some to dishonour.'),
 (223322,8,55,2,21,'If a man therefore purge himself from these, he shall be a vessel unto honour, sanctified, and meet for the master''s use, [and] prepared unto every good work.'),
-(223323,8,55,2,22,'Flee also youthful lusts: but follow righteousness, faith, charity, peace, with them that call on the Lord out of a pure heart.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(223323,8,55,2,22,'Flee also youthful lusts: but follow righteousness, faith, charity, peace, with them that call on the Lord out of a pure heart.'),
 (223324,8,55,2,23,'But foolish and unlearned questions avoid, knowing that they do gender strifes.'),
 (223325,8,55,2,24,'And the servant of the Lord must not strive; but be gentle unto all [men], apt to teach, patient,'),
 (223326,8,55,2,25,'In meekness instructing those that oppose themselves; if God peradventure will give them repentance to the acknowledging of the truth;'),
@@ -30498,8 +29930,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (223370,8,56,1,4,'To Titus, [mine] own son after the common faith: Grace, mercy, [and] peace, from God the Father and the Lord Jesus Christ our Saviour.'),
 (223371,8,56,1,5,'For this cause left I thee in Crete, that thou shouldest set in order the things that are wanting, and ordain elders in every city, as I had appointed thee:'),
 (223372,8,56,1,6,'If any be blameless, the husband of one wife, having faithful children not accused of riot or unruly.'),
-(223373,8,56,1,7,'For a bishop must be blameless, as the steward of God; not selfwilled, not soon angry, not given to wine, no striker, not given to filthy lucre;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(223373,8,56,1,7,'For a bishop must be blameless, as the steward of God; not selfwilled, not soon angry, not given to wine, no striker, not given to filthy lucre;'),
 (223374,8,56,1,8,'But a lover of hospitality, a lover of good men, sober, just, holy, temperate;'),
 (223375,8,56,1,9,'Holding fast the faithful word as he hath been taught, that he may be able by sound doctrine both to exhort and to convince the gainsayers.'),
 (223376,8,56,1,10,'For there are many unruly and vain talkers and deceivers, specially they of the circumcision:'),
@@ -30549,8 +29980,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (223420,8,57,1,8,'Wherefore, though I might be much bold in Christ to enjoin thee that which is convenient,'),
 (223421,8,57,1,9,'Yet for love''s sake I rather beseech [thee], being such an one as Paul the aged, and now also a prisoner of Jesus Christ.'),
 (223422,8,57,1,10,'I beseech thee for my son Onesimus, whom I have begotten in my bonds:'),
-(223423,8,57,1,11,'Which in time past was to thee unprofitable, but now profitable to thee and to me:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(223423,8,57,1,11,'Which in time past was to thee unprofitable, but now profitable to thee and to me:'),
 (223424,8,57,1,12,'Whom I have sent again: thou therefore receive him, that is, mine own bowels:'),
 (223425,8,57,1,13,'Whom I would have retained with me, that in thy stead he might have ministered unto me in the bonds of the gospel:'),
 (223426,8,57,1,14,'But without thy mind would I do nothing; that thy benefit should not be as it were of necessity, but willingly.'),
@@ -30651,8 +30081,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (223520,8,58,6,2,'Of the doctrine of baptisms, and of laying on of hands, and of resurrection of the dead, and of eternal judgment.'),
 (223521,8,58,6,3,'And this will we do, if God permit.'),
 (223522,8,58,6,4,'For [it is] impossible for those who were once enlightened, and have tasted of the heavenly gift, and were made partakers of the Holy Ghost,'),
-(223523,8,58,6,5,'And have tasted the good word of God, and the powers of the world to come,');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(223523,8,58,6,5,'And have tasted the good word of God, and the powers of the world to come,'),
 (223524,8,58,6,6,'If they shall fall away, to renew them again unto repentance; seeing they crucify to themselves the Son of God afresh, and put [him] to an open shame.'),
 (223525,8,58,6,7,'For the earth which drinketh in the rain that cometh oft upon it, and bringeth forth herbs meet for them by whom it is dressed, receiveth blessing from God:'),
 (223526,8,58,6,8,'But that which beareth thorns and briers [is] rejected, and [is] nigh unto cursing; whose end [is] to be burned.'),
@@ -30702,8 +30131,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (223570,8,58,8,4,'For if he were on earth, he should not be a priest, seeing that there are priests that offer gifts according to the law:'),
 (223571,8,58,8,5,'Who serve unto the example and shadow of heavenly things, as Moses was admonished of God when he was about to make the tabernacle: for, See, saith he, [that] thou make all things according to the pattern shewed to thee in the mount.'),
 (223572,8,58,8,6,'But now hath he obtained a more excellent ministry, by how much also he is the mediator of a better covenant, which was established upon better promises.'),
-(223573,8,58,8,7,'For if that first [covenant] had been faultless, then should no place have been sought for the second.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(223573,8,58,8,7,'For if that first [covenant] had been faultless, then should no place have been sought for the second.'),
 (223574,8,58,8,8,'For finding fault with them, he saith, Behold, the days come, saith the Lord, when I will make a new covenant with the house of Israel and with the house of Judah:'),
 (223575,8,58,8,9,'Not according to the covenant that I made with their fathers in the day when I took them by the hand to lead them out of the land of Egypt; because they continued not in my covenant, and I regarded them not, saith the Lord.'),
 (223576,8,58,8,10,'For this [is] the covenant that I will make with the house of Israel after those days, saith the Lord; I will put my laws into their mind, and write them in their hearts: and I will be to them a God, and they shall be to me a people:'),
@@ -30753,8 +30181,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (223620,8,58,10,13,'From henceforth expecting till his enemies be made his footstool.'),
 (223621,8,58,10,14,'For by one offering he hath perfected for ever them that are sanctified.'),
 (223622,8,58,10,15,'[Whereof] the Holy Ghost also is a witness to us: for after that he had said before,'),
-(223623,8,58,10,16,'This [is] the covenant that I will make with them after those days, saith the Lord, I will put my laws into their hearts, and in their minds will I write them;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(223623,8,58,10,16,'This [is] the covenant that I will make with them after those days, saith the Lord, I will put my laws into their hearts, and in their minds will I write them;'),
 (223624,8,58,10,17,'And their sins and iniquities will I remember no more.'),
 (223625,8,58,10,18,'Now where remission of these [is, there is] no more offering for sin.'),
 (223626,8,58,10,19,'Having therefore, brethren, boldness to enter into the holiest by the blood of Jesus,'),
@@ -30804,8 +30231,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (223670,8,58,11,24,'By faith Moses, when he was come to years, refused to be called the son of Pharaoh''s daughter;'),
 (223671,8,58,11,25,'Choosing rather to suffer affliction with the people of God, than to enjoy the pleasures of sin for a season;'),
 (223672,8,58,11,26,'Esteeming the reproach of Christ greater riches than the treasures in Egypt: for he had respect unto the recompence of the reward.'),
-(223673,8,58,11,27,'By faith he forsook Egypt, not fearing the wrath of the king: for he endured, as seeing him who is invisible.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(223673,8,58,11,27,'By faith he forsook Egypt, not fearing the wrath of the king: for he endured, as seeing him who is invisible.'),
 (223674,8,58,11,28,'Through faith he kept the passover, and the sprinkling of blood, lest he that destroyed the firstborn should touch them.'),
 (223675,8,58,11,29,'By faith they passed through the Red sea as by dry [land]: which the Egyptians assaying to do were drowned.'),
 (223676,8,58,11,30,'By faith the walls of Jericho fell down, after they were compassed about seven days.'),
@@ -30855,8 +30281,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (223720,8,58,13,5,'[Let your] conversation [be] without covetousness; [and be] content with such things as ye have: for he hath said, I will never leave thee, nor forsake thee.'),
 (223721,8,58,13,6,'So that we may boldly say, The Lord [is] my helper, and I will not fear what man shall do unto me.'),
 (223722,8,58,13,7,'Remember them which have the rule over you, who have spoken unto you the word of God: whose faith follow, considering the end of [their] conversation.'),
-(223723,8,58,13,8,'Jesus Christ the same yesterday, and to day, and for ever.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(223723,8,58,13,8,'Jesus Christ the same yesterday, and to day, and for ever.'),
 (223724,8,58,13,9,'Be not carried about with divers and strange doctrines. For [it is] a good thing that the heart be established with grace; not with meats, which have not profited them that have been occupied therein.'),
 (223725,8,58,13,10,'We have an altar, whereof they have no right to eat which serve the tabernacle.'),
 (223726,8,58,13,11,'For the bodies of those beasts, whose blood is brought into the sanctuary by the high priest for sin, are burned without the camp.'),
@@ -30906,8 +30331,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (223770,8,59,2,3,'And ye have respect to him that weareth the gay clothing, and say unto him, Sit thou here in a good place; and say to the poor, Stand thou there, or sit here under my footstool:'),
 (223771,8,59,2,4,'Are ye not then partial in yourselves, and are become judges of evil thoughts?'),
 (223772,8,59,2,5,'Hearken, my beloved brethren, Hath not God chosen the poor of this world rich in faith, and heirs of the kingdom which he hath promised to them that love him?'),
-(223773,8,59,2,6,'But ye have despised the poor. Do not rich men oppress you, and draw you before the judgment seats?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(223773,8,59,2,6,'But ye have despised the poor. Do not rich men oppress you, and draw you before the judgment seats?'),
 (223774,8,59,2,7,'Do not they blaspheme that worthy name by the which ye are called?'),
 (223775,8,59,2,8,'If ye fulfil the royal law according to the scripture, Thou shalt love thy neighbour as thyself, ye do well:'),
 (223776,8,59,2,9,'But if ye have respect to persons, ye commit sin, and are convinced of the law as transgressors.'),
@@ -30957,8 +30381,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (223820,8,59,4,9,'Be afflicted, and mourn, and weep: let your laughter be turned to mourning, and [your] joy to heaviness.'),
 (223821,8,59,4,10,'Humble yourselves in the sight of the Lord, and he shall lift you up.'),
 (223822,8,59,4,11,'Speak not evil one of another, brethren. He that speaketh evil of [his] brother, and judgeth his brother, speaketh evil of the law, and judgeth the law: but if thou judge the law, thou art not a doer of the law, but a judge.'),
-(223823,8,59,4,12,'There is one lawgiver, who is able to save and to destroy: who art thou that judgest another?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(223823,8,59,4,12,'There is one lawgiver, who is able to save and to destroy: who art thou that judgest another?'),
 (223824,8,59,4,13,'Go to now, ye that say, To day or to morrow we will go into such a city, and continue there a year, and buy and sell, and get gain:'),
 (223825,8,59,4,14,'Whereas ye know not what [shall be] on the morrow. For what [is] your life? It is even a vapour, that appeareth for a little time, and then vanisheth away.'),
 (223826,8,59,4,15,'For that ye [ought] to say, If the Lord will, we shall live, and do this, or that.'),
@@ -31008,8 +30431,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (223870,8,60,1,22,'Seeing ye have purified your souls in obeying the truth through the Spirit unto unfeigned love of the brethren, [see that ye] love one another with a pure heart fervently:'),
 (223871,8,60,1,23,'Being born again, not of corruptible seed, but of incorruptible, by the word of God, which liveth and abideth for ever.'),
 (223872,8,60,1,24,'For all flesh [is] as grass, and all the glory of man as the flower of grass. The grass withereth, and the flower thereof falleth away:'),
-(223873,8,60,1,25,'But the word of the Lord endureth for ever. And this is the word which by the gospel is preached unto you.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(223873,8,60,1,25,'But the word of the Lord endureth for ever. And this is the word which by the gospel is preached unto you.'),
 (223874,8,60,2,1,'Wherefore laying aside all malice, and all guile, and hypocrisies, and envies, and all evil speakings,'),
 (223875,8,60,2,2,'As newborn babes, desire the sincere milk of the word, that ye may grow thereby:'),
 (223876,8,60,2,3,'If so be ye have tasted that the Lord [is] gracious.'),
@@ -31059,8 +30481,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (223920,8,60,3,22,'Who is gone into heaven, and is on the right hand of God; angels and authorities and powers being made subject unto him.'),
 (223921,8,60,4,1,'Forasmuch then as Christ hath suffered for us in the flesh, arm yourselves likewise with the same mind: for he that hath suffered in the flesh hath ceased from sin;'),
 (223922,8,60,4,2,'That he no longer should live the rest of [his] time in the flesh to the lusts of men, but to the will of God.'),
-(223923,8,60,4,3,'For the time past of [our] life may suffice us to have wrought the will of the Gentiles, when we walked in lasciviousness, lusts, excess of wine, revellings, banquetings, and abominable idolatries:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(223923,8,60,4,3,'For the time past of [our] life may suffice us to have wrought the will of the Gentiles, when we walked in lasciviousness, lusts, excess of wine, revellings, banquetings, and abominable idolatries:'),
 (223924,8,60,4,4,'Wherein they think it strange that ye run not with [them] to the same excess of riot, speaking evil of [you]:'),
 (223925,8,60,4,5,'Who shall give account to him that is ready to judge the quick and the dead.'),
 (223926,8,60,4,6,'For for this cause was the gospel preached also to them that are dead, that they might be judged according to men in the flesh, but live according to God in the spirit.'),
@@ -31110,8 +30531,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (223970,8,61,1,17,'For he received from God the Father honour and glory, when there came such a voice to him from the excellent glory, This is my beloved Son, in whom I am well pleased.'),
 (223971,8,61,1,18,'And this voice which came from heaven we heard, when we were with him in the holy mount.'),
 (223972,8,61,1,19,'We have also a more sure word of prophecy; whereunto ye do well that ye take heed, as unto a light that shineth in a dark place, until the day dawn, and the day star arise in your hearts:'),
-(223973,8,61,1,20,'Knowing this first, that no prophecy of the scripture is of any private interpretation.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(223973,8,61,1,20,'Knowing this first, that no prophecy of the scripture is of any private interpretation.'),
 (223974,8,61,1,21,'For the prophecy came not in old time by the will of man: but holy men of God spake [as they were] moved by the Holy Ghost.'),
 (223975,8,61,2,1,'But there were false prophets also among the people, even as there shall be false teachers among you, who privily shall bring in damnable heresies, even denying the Lord that bought them, and bring upon themselves swift destruction.'),
 (223976,8,61,2,2,'And many shall follow their pernicious ways; by reason of whom the way of truth shall be evil spoken of.'),
@@ -31161,8 +30581,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (224020,8,62,1,6,'If we say that we have fellowship with him, and walk in darkness, we lie, and do not the truth:'),
 (224021,8,62,1,7,'But if we walk in the light, as he is in the light, we have fellowship one with another, and the blood of Jesus Christ his Son cleanseth us from all sin.'),
 (224022,8,62,1,8,'If we say that we have no sin, we deceive ourselves, and the truth is not in us.'),
-(224023,8,62,1,9,'If we confess our sins, he is faithful and just to forgive us [our] sins, and to cleanse us from all unrighteousness.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(224023,8,62,1,9,'If we confess our sins, he is faithful and just to forgive us [our] sins, and to cleanse us from all unrighteousness.'),
 (224024,8,62,1,10,'If we say that we have not sinned, we make him a liar, and his word is not in us.'),
 (224025,8,62,2,1,'My little children, these things write I unto you, that ye sin not. And if any man sin, we have an advocate with the Father, Jesus Christ the righteous:'),
 (224026,8,62,2,2,'And he is the propitiation for our sins: and not for ours only, but also for [the sins of] the whole world.'),
@@ -31212,8 +30631,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (224070,8,62,3,17,'But whoso hath this world''s good, and seeth his brother have need, and shutteth up his bowels [of compassion] from him, how dwelleth the love of God in him?'),
 (224071,8,62,3,18,'My little children, let us not love in word, neither in tongue; but in deed and in truth.'),
 (224072,8,62,3,19,'And hereby we know that we are of the truth, and shall assure our hearts before him.'),
-(224073,8,62,3,20,'For if our heart condemn us, God is greater than our heart, and knoweth all things.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(224073,8,62,3,20,'For if our heart condemn us, God is greater than our heart, and knoweth all things.'),
 (224074,8,62,3,21,'Beloved, if our heart condemn us not, [then] have we confidence toward God.'),
 (224075,8,62,3,22,'And whatsoever we ask, we receive of him, because we keep his commandments, and do those things that are pleasing in his sight.'),
 (224076,8,62,3,23,'And this is his commandment, That we should believe on the name of his Son Jesus Christ, and love one another, as he gave us commandment.'),
@@ -31263,8 +30681,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (224120,8,63,1,1,'The elder unto the elect lady and her children, whom I love in the truth; and not I only, but also all they that have known the truth;'),
 (224121,8,63,1,2,'For the truth''s sake, which dwelleth in us, and shall be with us for ever.'),
 (224122,8,63,1,3,'Grace be with you, mercy, [and] peace, from God the Father, and from the Lord Jesus Christ, the Son of the Father, in truth and love.'),
-(224123,8,63,1,4,'I rejoiced greatly that I found of thy children walking in truth, as we have received a commandment from the Father.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(224123,8,63,1,4,'I rejoiced greatly that I found of thy children walking in truth, as we have received a commandment from the Father.'),
 (224124,8,63,1,5,'And now I beseech thee, lady, not as though I wrote a new commandment unto thee, but that which we had from the beginning, that we love one another.'),
 (224125,8,63,1,6,'And this is love, that we walk after his commandments. This is the commandment, That, as ye have heard from the beginning, ye should walk in it.'),
 (224126,8,63,1,7,'For many deceivers are entered into the world, who confess not that Jesus Christ is come in the flesh. This is a deceiver and an antichrist.'),
@@ -31314,8 +30731,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (224170,8,65,1,24,'Now unto him that is able to keep you from falling, and to present [you] faultless before the presence of his glory with exceeding joy,'),
 (224171,8,65,1,25,'To the only wise God our Saviour, [be] glory and majesty, dominion and power, both now and ever. Amen.'),
 (224172,8,66,1,1,'The Revelation of Jesus Christ, which God gave unto him, to shew unto his servants things which must shortly come to pass; and he sent and signified [it] by his angel unto his servant John:'),
-(224173,8,66,1,2,'Who bare record of the word of God, and of the testimony of Jesus Christ, and of all things that he saw.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(224173,8,66,1,2,'Who bare record of the word of God, and of the testimony of Jesus Christ, and of all things that he saw.'),
 (224174,8,66,1,3,'Blessed [is] he that readeth, and they that hear the words of this prophecy, and keep those things which are written therein: for the time [is] at hand.'),
 (224175,8,66,1,4,'John to the seven churches which are in Asia: Grace [be] unto you, and peace, from him which is, and which was, and which is to come; and from the seven Spirits which are before his throne;'),
 (224176,8,66,1,5,'And from Jesus Christ, [who is] the faithful witness, [and] the first begotten of the dead, and the prince of the kings of the earth. Unto him that loved us, and washed us from our sins in his own blood,'),
@@ -31365,8 +30781,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (224220,8,66,2,29,'He that hath an ear, let him hear what the Spirit saith unto the churches.'),
 (224221,8,66,3,1,'And unto the angel of the church in Sardis write; These things saith he that hath the seven Spirits of God, and the seven stars; I know thy works, that thou hast a name that thou livest, and art dead.'),
 (224222,8,66,3,2,'Be watchful, and strengthen the things which remain, that are ready to die: for I have not found thy works perfect before God.'),
-(224223,8,66,3,3,'Remember therefore how thou hast received and heard, and hold fast, and repent. If therefore thou shalt not watch, I will come on thee as a thief, and thou shalt not know what hour I will come upon thee.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(224223,8,66,3,3,'Remember therefore how thou hast received and heard, and hold fast, and repent. If therefore thou shalt not watch, I will come on thee as a thief, and thou shalt not know what hour I will come upon thee.'),
 (224224,8,66,3,4,'Thou hast a few names even in Sardis which have not defiled their garments; and they shall walk with me in white: for they are worthy.'),
 (224225,8,66,3,5,'He that overcometh, the same shall be clothed in white raiment; and I will not blot out his name out of the book of life, but I will confess his name before my Father, and before his angels.'),
 (224226,8,66,3,6,'He that hath an ear, let him hear what the Spirit saith unto the churches.'),
@@ -31416,8 +30831,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (224270,8,66,6,3,'And when he had opened the second seal, I heard the second beast say, Come and see.'),
 (224271,8,66,6,4,'And there went out another horse [that was] red: and [power] was given to him that sat thereon to take peace from the earth, and that they should kill one another: and there was given unto him a great sword.'),
 (224272,8,66,6,5,'And when he had opened the third seal, I heard the third beast say, Come and see. And I beheld, and lo a black horse; and he that sat on him had a pair of balances in his hand.'),
-(224273,8,66,6,6,'And I heard a voice in the midst of the four beasts say, A measure of wheat for a penny, and three measures of barley for a penny; and [see] thou hurt not the oil and the wine.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(224273,8,66,6,6,'And I heard a voice in the midst of the four beasts say, A measure of wheat for a penny, and three measures of barley for a penny; and [see] thou hurt not the oil and the wine.'),
 (224274,8,66,6,7,'And when he had opened the fourth seal, I heard the voice of the fourth beast say, Come and see.'),
 (224275,8,66,6,8,'And I looked, and behold a pale horse: and his name that sat on him was Death, and Hell followed with him. And power was given unto them over the fourth part of the earth, to kill with sword, and with hunger, and with death, and with the beasts of the earth.'),
 (224276,8,66,6,9,'And when he had opened the fifth seal, I saw under the altar the souls of them that were slain for the word of God, and for the testimony which they held:'),
@@ -31467,8 +30881,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (224320,8,66,9,6,'And in those days shall men seek death, and shall not find it; and shall desire to die, and death shall flee from them.'),
 (224321,8,66,9,7,'And the shapes of the locusts [were] like unto horses prepared unto battle; and on their heads [were] as it were crowns like gold, and their faces [were] as the faces of men.'),
 (224322,8,66,9,8,'And they had hair as the hair of women, and their teeth were as [the teeth] of lions.'),
-(224323,8,66,9,9,'And they had breastplates, as it were breastplates of iron; and the sound of their wings [was] as the sound of chariots of many horses running to battle.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(224323,8,66,9,9,'And they had breastplates, as it were breastplates of iron; and the sound of their wings [was] as the sound of chariots of many horses running to battle.'),
 (224324,8,66,9,10,'And they had tails like unto scorpions, and there were stings in their tails: and their power [was] to hurt men five months.'),
 (224325,8,66,9,11,'And they had a king over them, [which is] the angel of the bottomless pit, whose name in the Hebrew tongue [is] Abaddon, but in the Greek tongue hath [his] name Apollyon.'),
 (224326,8,66,9,12,'One woe is past; [and], behold, there come two woes more hereafter.'),
@@ -31518,8 +30931,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (224370,8,66,12,5,'And she brought forth a man child, who was to rule all nations with a rod of iron: and her child was caught up unto God, and [to] his throne.'),
 (224371,8,66,12,6,'And the woman fled into the wilderness, where she hath a place prepared of God, that they should feed her there a thousand two hundred [and] threescore days.'),
 (224372,8,66,12,7,'And there was war in heaven: Michael and his angels fought against the dragon; and the dragon fought and his angels,'),
-(224373,8,66,12,8,'And prevailed not; neither was their place found any more in heaven.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(224373,8,66,12,8,'And prevailed not; neither was their place found any more in heaven.'),
 (224374,8,66,12,9,'And the great dragon was cast out, that old serpent, called the Devil, and Satan, which deceiveth the whole world: he was cast out into the earth, and his angels were cast out with him.'),
 (224375,8,66,12,10,'And I heard a loud voice saying in heaven, Now is come salvation, and strength, and the kingdom of our God, and the power of his Christ: for the accuser of our brethren is cast down, which accused them before our God day and night.'),
 (224376,8,66,12,11,'And they overcame him by the blood of the Lamb, and by the word of their testimony; and they loved not their lives unto the death.'),
@@ -31569,8 +30981,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (224420,8,66,14,20,'And the winepress was trodden without the city, and blood came out of the winepress, even unto the horse bridles, by the space of a thousand [and] six hundred furlongs.'),
 (224421,8,66,15,1,'And I saw another sign in heaven, great and marvellous, seven angels having the seven last plagues; for in them is filled up the wrath of God.'),
 (224422,8,66,15,2,'And I saw as it were a sea of glass mingled with fire: and them that had gotten the victory over the beast, and over his image, and over his mark, [and] over the number of his name, stand on the sea of glass, having the harps of God.'),
-(224423,8,66,15,3,'And they sing the song of Moses the servant of God, and the song of the Lamb, saying, Great and marvellous [are] thy works, Lord God Almighty; just and true [are] thy ways, thou King of saints.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(224423,8,66,15,3,'And they sing the song of Moses the servant of God, and the song of the Lamb, saying, Great and marvellous [are] thy works, Lord God Almighty; just and true [are] thy ways, thou King of saints.'),
 (224424,8,66,15,4,'Who shall not fear thee, O Lord, and glorify thy name? for [thou] only [art] holy: for all nations shall come and worship before thee; for thy judgments are made manifest.'),
 (224425,8,66,15,5,'And after that I looked, and, behold, the temple of the tabernacle of the testimony in heaven was opened:'),
 (224426,8,66,15,6,'And the seven angels came out of the temple, having the seven plagues, clothed in pure and white linen, and having their breasts girded with golden girdles.'),
@@ -31671,8 +31082,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (224520,8,66,20,8,'And shall go out to deceive the nations which are in the four quarters of the earth, Gog and Magog, to gather them together to battle: the number of whom [is] as the sand of the sea.'),
 (224521,8,66,20,9,'And they went up on the breadth of the earth, and compassed the camp of the saints about, and the beloved city: and fire came down from God out of heaven, and devoured them.'),
 (224522,8,66,20,10,'And the devil that deceived them was cast into the lake of fire and brimstone, where the beast and the false prophet [are], and shall be tormented day and night for ever and ever.'),
-(224523,8,66,20,11,'And I saw a great white throne, and him that sat on it, from whose face the earth and the heaven fled away; and there was found no place for them.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(224523,8,66,20,11,'And I saw a great white throne, and him that sat on it, from whose face the earth and the heaven fled away; and there was found no place for them.'),
 (224524,8,66,20,12,'And I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is [the book] of life: and the dead were judged out of those things which were written in the books, according to their works.'),
 (224525,8,66,20,13,'And the sea gave up the dead which were in it; and death and hell delivered up the dead which were in them: and they were judged every man according to their works.'),
 (224526,8,66,20,14,'And death and hell were cast into the lake of fire. This is the second death.'),
@@ -31722,7 +31132,6 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (224570,8,66,22,16,'I Jesus have sent mine angel to testify unto you these things in the churches. I am the root and the offspring of David, [and] the bright and morning star.'),
 (224571,8,66,22,17,'And the Spirit and the bride say, Come. And let him that heareth say, Come. And let him that is athirst come. And whosoever will, let him take the water of life freely.'),
 (224572,8,66,22,18,'For I testify unto every man that heareth the words of the prophecy of this book, If any man shall add unto these things, God shall add unto him the plagues that are written in this book:'),
-(224573,8,66,22,19,'And if any man shall take away from the words of the book of this prophecy, God shall take away his part out of the book of life, and out of the holy city, and [from] the things which are written in this book.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(224573,8,66,22,19,'And if any man shall take away from the words of the book of this prophecy, God shall take away his part out of the book of life, and out of the holy city, and [from] the things which are written in this book.'),
 (224574,8,66,22,20,'He which testifieth these things saith, Surely I come quickly. Amen. Even so, come, Lord Jesus.'),
 (224575,8,66,22,21,'The grace of our Lord Jesus Christ [be] with you all. Amen. <<THE END.>>');

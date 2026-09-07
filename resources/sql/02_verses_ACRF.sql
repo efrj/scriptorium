@@ -1,4 +1,4 @@
--- Verses for Version [ACRF] Almeida Corrigida e Revisada Fiel
+-- Verses for 02_verses_ACRF.sql
 -- Compatible with PostgreSQL, MySQL 5.7+, SQLite 3
 
 INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
@@ -51,8 +51,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (29075,2,1,2,16,'E ordenou o Senhor Deus ao homem, dizendo: De toda a árvore do jardim comerás livremente,'),
 (29076,2,1,2,17,'Mas da árvore do conhecimento do bem e do mal, dela não comerás; porque no dia em que dela comeres, certamente morrerás.'),
 (29077,2,1,2,18,'E disse o Senhor Deus: Não é bom que o homem esteja só; far-lhe-ei uma ajudadora idônea para ele.'),
-(29078,2,1,2,19,'Havendo, pois, o Senhor Deus formado da terra todo o animal do campo, e toda a ave dos céus, os trouxe a Adão, para este ver como lhes chamaria; e tudo o que Adão chamou a toda a alma vivente, isso foi o seu nome.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(29078,2,1,2,19,'Havendo, pois, o Senhor Deus formado da terra todo o animal do campo, e toda a ave dos céus, os trouxe a Adão, para este ver como lhes chamaria; e tudo o que Adão chamou a toda a alma vivente, isso foi o seu nome.'),
 (29079,2,1,2,20,'E Adão pôs os nomes a todo o gado, e às aves dos céus, e a todo o animal do campo; mas para o homem não se achava ajudadora idônea.'),
 (29080,2,1,2,21,'Então o Senhor Deus fez cair um sono pesado sobre Adão, e este adormeceu; e tomou uma das suas costelas, e cerrou a carne em seu lugar;'),
 (29081,2,1,2,22,'E da costela que o Senhor Deus tomou do homem, formou uma mulher, e trouxe-a a Adão.'),
@@ -102,8 +101,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (29125,2,1,4,17,'E conheceu Caim a sua mulher, e ela concebeu, e deu à luz a Enoque; e ele edificou uma cidade, e chamou o nome da cidade conforme o nome de seu filho Enoque;'),
 (29126,2,1,4,18,'E a Enoque nasceu Irade, e Irade gerou a Meujael, e Meujael gerou a Metusael e Metusael gerou a Lameque.'),
 (29127,2,1,4,19,'E tomou Lameque para si duas mulheres; o nome de uma era Ada, e o nome da outra, Zilá.'),
-(29128,2,1,4,20,'E Ada deu à luz a Jabal; este foi o pai dos que habitam em tendas e têm gado.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(29128,2,1,4,20,'E Ada deu à luz a Jabal; este foi o pai dos que habitam em tendas e têm gado.'),
 (29129,2,1,4,21,'E o nome do seu irmão era Jubal; este foi o pai de todos os que tocam harpa e órgão.'),
 (29130,2,1,4,22,'E Zilá também deu à luz a Tubalcaim, mestre de toda a obra de cobre e ferro; e a irmã de Tubalcaim foi Noema.'),
 (29131,2,1,4,23,'E disse Lameque a suas mulheres Ada e Zilá: Ouvi a minha voz; vós, mulheres de Lameque, escutai as minhas palavras; porque eu matei um homem por me ferir, e um jovem por me pisar.'),
@@ -153,8 +151,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (29175,2,1,6,9,'Estas são as gerações de Noé. Noé era homem justo e perfeito em suas gerações; Noé andava com Deus.'),
 (29176,2,1,6,10,'E gerou Noé três filhos: Sem, Cão e Jafé.'),
 (29177,2,1,6,11,'A terra, porém, estava corrompida diante da face de Deus; e encheu-se a terra de violência.'),
-(29178,2,1,6,12,'E viu Deus a terra, e eis que estava corrompida; porque toda a carne havia corrompido o seu caminho sobre a terra.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(29178,2,1,6,12,'E viu Deus a terra, e eis que estava corrompida; porque toda a carne havia corrompido o seu caminho sobre a terra.'),
 (29179,2,1,6,13,'Então disse Deus a Noé: O fim de toda a carne é vindo perante a minha face; porque a terra está cheia de violência; e eis que os desfarei com a terra.'),
 (29180,2,1,6,14,'Faze para ti uma arca da madeira de gofer; farás compartimentos na arca e a betumarás por dentro e por fora com betume.'),
 (29181,2,1,6,15,'E desta maneira a farás: De trezentos côvados o comprimento da arca, e de cinqüenta côvados a sua largura, e de trinta côvados a sua altura.'),
@@ -204,8 +201,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (29225,2,1,8,13,'E aconteceu que no ano seiscentos e um, no mês primeiro, no primeiro dia do mês, as águas se secaram de sobre a terra. Então Noé tirou a cobertura da arca, e olhou, e eis que a face da terra estava enxuta.'),
 (29226,2,1,8,14,'E no segundo mês, aos vinte e sete dias do mês, a terra estava seca.'),
 (29227,2,1,8,15,'Então falou Deus a Noé dizendo:'),
-(29228,2,1,8,16,'Sai da arca, tu com tua mulher, e teus filhos e as mulheres de teus filhos.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(29228,2,1,8,16,'Sai da arca, tu com tua mulher, e teus filhos e as mulheres de teus filhos.'),
 (29229,2,1,8,17,'Todo o animal que está contigo, de toda a carne, de ave, e de gado, e de todo o réptil que se arrasta sobre a terra, traze fora contigo; e povoem abundantemente a terra e frutifiquem, e se multipliquem sobre a terra.'),
 (29230,2,1,8,18,'Então saiu Noé, e seus filhos, e sua mulher, e as mulheres de seus filhos com ele.'),
 (29231,2,1,8,19,'Todo o animal, todo o réptil, e toda a ave, e tudo o que se move sobre a terra, conforme as suas famílias, saiu para fora da arca.'),
@@ -255,8 +251,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (29275,2,1,10,12,'E Resen, entre Nínive e Calá (esta é a grande cidade).'),
 (29276,2,1,10,13,'E Mizraim gerou a Ludim, a Anamim, a Leabim, a Naftuim,'),
 (29277,2,1,10,14,'A Patrusim e a Casluim (donde saíram os filisteus) e a Caftorim.'),
-(29278,2,1,10,15,'E Canaã gerou a Sidom, seu primogênito, e a Hete;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(29278,2,1,10,15,'E Canaã gerou a Sidom, seu primogênito, e a Hete;'),
 (29279,2,1,10,16,'E ao jebuseu, ao amorreu, ao girgaseu,'),
 (29280,2,1,10,17,'E ao heveu, ao arqueu, ao sineu,'),
 (29281,2,1,10,18,'E ao arvadeu, ao zemareu, e ao hamateu, e depois se espalharam as famílias dos cananeus.'),
@@ -306,8 +301,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (29325,2,1,11,30,'E Sarai foi estéril, não tinha filhos.'),
 (29326,2,1,11,31,'E tomou Terá a Abrão seu filho, e a Ló, filho de Harã, filho de seu filho, e a Sarai sua nora, mulher de seu filho Abrão, e saiu com eles de Ur dos caldeus, para ir à terra de Canaã; e vieram até Harã, e habitaram ali.'),
 (29327,2,1,11,32,'E foram os dias de Terá duzentos e cinco anos, e morreu Terá em Harã.'),
-(29328,2,1,12,1,'Ora, o SENHOR disse a Abrão: Sai-te da tua terra, da tua parentela e da casa de teu pai, para a terra que eu te mostrarei.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(29328,2,1,12,1,'Ora, o SENHOR disse a Abrão: Sai-te da tua terra, da tua parentela e da casa de teu pai, para a terra que eu te mostrarei.'),
 (29329,2,1,12,2,'E far-te-ei uma grande nação, e abençoar-te-ei e engrandecerei o teu nome; e tu serás uma bênção.'),
 (29330,2,1,12,3,'E abençoarei os que te abençoarem, e amaldiçoarei os que te amaldiçoarem; e em ti serão benditas todas as famílias da terra.'),
 (29331,2,1,12,4,'Assim partiu Abrão como o Senhor lhe tinha dito, e foi Ló com ele; e era Abrão da idade de setenta e cinco anos quando saiu de Harã.'),
@@ -357,8 +351,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (29375,2,1,14,10,'E o vale de Sidim estava cheio de poços de betume; e fugiram os reis de Sodoma e de Gomorra, e caíram ali; e os restantes fugiram para um monte.'),
 (29376,2,1,14,11,'E tomaram todos os bens de Sodoma, e de Gomorra, e todo o seu mantimento e foram-se.'),
 (29377,2,1,14,12,'Também tomaram a Ló, que habitava em Sodoma, filho do irmão de Abrão, e os seus bens, e foram-se.'),
-(29378,2,1,14,13,'Então veio um, que escapara, e o contou a Abrão, o hebreu; ele habitava junto dos carvalhais de Manre, o amorreu, irmão de Escol, e irmão de Aner; eles eram confederados de Abrão.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(29378,2,1,14,13,'Então veio um, que escapara, e o contou a Abrão, o hebreu; ele habitava junto dos carvalhais de Manre, o amorreu, irmão de Escol, e irmão de Aner; eles eram confederados de Abrão.'),
 (29379,2,1,14,14,'Ouvindo, pois, Abrão que o seu irmão estava preso, armou os seus criados, nascidos em sua casa, trezentos e dezoito, e os perseguiu até Dã.'),
 (29380,2,1,14,15,'E dividiu-se contra eles de noite, ele e os seus criados, e os feriu, e os perseguiu até Hobá, que fica à esquerda de Damasco.'),
 (29381,2,1,14,16,'E tornou a trazer todos os seus bens, e tornou a trazer também a Ló, seu irmão, e os seus bens, e também as mulheres, e o povo.'),
@@ -408,8 +401,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (29425,2,1,16,15,'E Agar deu à luz um filho a Abrão; e Abrão chamou o nome do seu filho que Agar tivera, Ismael.'),
 (29426,2,1,16,16,'E era Abrão da idade de oitenta e seis anos, quando Agar deu à luz Ismael.'),
 (29427,2,1,17,1,'Sendo, pois, Abrão da idade de noventa e nove anos, apareceu o SENHOR a Abrão, e disse-lhe: Eu sou o Deus Todo-Poderoso, anda em minha presença e sê perfeito.'),
-(29428,2,1,17,2,'E porei a minha aliança entre mim e ti, e te multiplicarei grandissimamente.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(29428,2,1,17,2,'E porei a minha aliança entre mim e ti, e te multiplicarei grandissimamente.'),
 (29429,2,1,17,3,'Então caiu Abrão sobre o seu rosto, e falou Deus com ele, dizendo:'),
 (29430,2,1,17,4,'Quanto a mim, eis a minha aliança contigo: serás o pai de muitas nações;'),
 (29431,2,1,17,5,'E não se chamará mais o teu nome Abrão, mas Abraão será o teu nome; porque por pai de muitas nações te tenho posto;'),
@@ -459,8 +451,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (29475,2,1,18,22,'Então viraram aqueles homens os rostos dali, e foram-se para Sodoma; mas Abraão ficou ainda em pé diante da face do Senhor.'),
 (29476,2,1,18,23,'E chegou-se Abraão, dizendo: Destruirás também o justo com o ímpio?'),
 (29477,2,1,18,24,'Se porventura houver cinqüenta justos na cidade, destruirás também, e não pouparás o lugar por causa dos cinqüenta justos que estão dentro dela?'),
-(29478,2,1,18,25,'Longe de ti que faças tal coisa, que mates o justo com o ímpio; que o justo seja como o ímpio, longe de ti. Não faria justiça o Juiz de toda a terra?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(29478,2,1,18,25,'Longe de ti que faças tal coisa, que mates o justo com o ímpio; que o justo seja como o ímpio, longe de ti. Não faria justiça o Juiz de toda a terra?'),
 (29479,2,1,18,26,'Então disse o Senhor: Se eu em Sodoma achar cinqüenta justos dentro da cidade, pouparei a todo o lugar por amor deles.'),
 (29480,2,1,18,27,'E respondeu Abraão dizendo: Eis que agora me atrevi a falar ao Senhor, ainda que sou pó e cinza.'),
 (29481,2,1,18,28,'Se porventura de cinqüenta justos faltarem cinco, destruirás por aqueles cinco toda a cidade? E disse: Não a destruirei, se eu achar ali quarenta e cinco.'),
@@ -510,8 +501,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (29525,2,1,20,1,'E partiu Abraão dali para a terra do sul, e habitou entre Cades e Sur; e peregrinou em Gerar.'),
 (29526,2,1,20,2,'E havendo Abraão dito de Sara, sua mulher: É minha irmã; enviou Abimeleque, rei de Gerar, e tomou a Sara.'),
 (29527,2,1,20,3,'Deus, porém, veio a Abimeleque em sonhos de noite, e disse-lhe: Eis que morto serás por causa da mulher que tomaste; porque ela tem marido.'),
-(29528,2,1,20,4,'Mas Abimeleque ainda não se tinha chegado a ela; por isso disse: Senhor, matarás também uma nação justa?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(29528,2,1,20,4,'Mas Abimeleque ainda não se tinha chegado a ela; por isso disse: Senhor, matarás também uma nação justa?'),
 (29529,2,1,20,5,'Não me disse ele mesmo: É minha irmã? E ela também disse: É meu irmão. Em sinceridade do coração e em pureza das minhas mãos tenho feito isto.'),
 (29530,2,1,20,6,'E disse-lhe Deus em sonhos: Bem sei eu que na sinceridade do teu coração fizeste isto; e também eu te tenho impedido de pecar contra mim; por isso não te permiti tocá-la.'),
 (29531,2,1,20,7,'Agora, pois, restitui a mulher ao seu marido, porque profeta é, e rogará por ti, para que vivas; porém se não lha restituíres, sabe que certamente morrerás, tu e tudo o que é teu.'),
@@ -561,8 +551,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (29575,2,1,21,33,'E plantou um bosque em Berseba, e invocou lá o nome do Senhor, Deus eterno.'),
 (29576,2,1,21,34,'E peregrinou Abraão na terra dos filisteus muitos dias.'),
 (29577,2,1,22,1,'E aconteceu depois destas coisas, que provou Deus a Abraão, e disse-lhe: Abraão! E ele disse: Eis-me aqui.'),
-(29578,2,1,22,2,'E disse: Toma agora o teu filho, o teu único filho, Isaque, a quem amas, e vai-te à terra de Moriá, e oferece-o ali em holocausto sobre uma das montanhas, que eu te direi.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(29578,2,1,22,2,'E disse: Toma agora o teu filho, o teu único filho, Isaque, a quem amas, e vai-te à terra de Moriá, e oferece-o ali em holocausto sobre uma das montanhas, que eu te direi.'),
 (29579,2,1,22,3,'Então se levantou Abraão pela manhã de madrugada, e albardou o seu jumento, e tomou consigo dois de seus moços e Isaque seu filho; e cortou lenha para o holocausto, e levantou-se, e foi ao lugar que Deus lhe dissera.'),
 (29580,2,1,22,4,'Ao terceiro dia levantou Abraão os seus olhos, e viu o lugar de longe.'),
 (29581,2,1,22,5,'E disse Abraão a seus moços: Ficai-vos aqui com o jumento, e eu e o moço iremos até ali; e havendo adorado, tornaremos a vós.'),
@@ -612,8 +601,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (29625,2,1,24,5,'E disse-lhe o servo: Se porventura não quiser seguir-me a mulher a esta terra, farei, pois, tornar o teu filho à terra donde saíste?'),
 (29626,2,1,24,6,'E Abraão lhe disse: Guarda-te, que não faças lá tornar o meu filho.'),
 (29627,2,1,24,7,'O Senhor Deus dos céus, que me tomou da casa de meu pai e da terra da minha parentela, e que me falou, e que me jurou, dizendo: À tua descendência darei esta terra; ele enviará o seu anjo adiante da tua face, para que tomes mulher de lá para meu filho.'),
-(29628,2,1,24,8,'Se a mulher, porém, não quiser seguir-te, serás livre deste meu juramento; somente não faças lá tornar a meu filho.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(29628,2,1,24,8,'Se a mulher, porém, não quiser seguir-te, serás livre deste meu juramento; somente não faças lá tornar a meu filho.'),
 (29629,2,1,24,9,'Então pôs o servo a sua mão debaixo da coxa de Abraão seu senhor, e jurou-lhe sobre este negócio.'),
 (29630,2,1,24,10,'E o servo tomou dez camelos, dos camelos do seu senhor, e partiu, pois que todos os bens de seu senhor estavam em sua mão, e levantou-se e partiu para Mesopotâmia, para a cidade de Naor.'),
 (29631,2,1,24,11,'E fez ajoelhar os camelos fora da cidade, junto a um poço de água, pela tarde, ao tempo que as moças saíam a tirar água.'),
@@ -663,8 +651,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (29675,2,1,24,55,'Então disseram seu irmão e sua mãe: Fique a donzela conosco alguns dias, ou pelo menos dez dias, depois irá.'),
 (29676,2,1,24,56,'Ele, porém, lhes disse: Não me detenhais, pois o SENHOR tem prosperado o meu caminho; deixai-me partir, para que eu volte a meu senhor.'),
 (29677,2,1,24,57,'E disseram: Chamemos a donzela, e perguntemos-lho.'),
-(29678,2,1,24,58,'E chamaram a Rebeca, e disseram-lhe: Irás tu com este homem? Ela respondeu: Irei.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(29678,2,1,24,58,'E chamaram a Rebeca, e disseram-lhe: Irás tu com este homem? Ela respondeu: Irei.'),
 (29679,2,1,24,59,'Então despediram a Rebeca, sua irmã, e sua ama, e o servo de Abraão, e seus homens.'),
 (29680,2,1,24,60,'E abençoaram a Rebeca, e disseram-lhe: Ó nossa irmã, sê tu a mãe de milhares de milhares, e que a tua descendência possua a porta de seus aborrecedores!'),
 (29681,2,1,24,61,'E Rebeca se levantou com as suas moças, e subiram sobre os camelos, e seguiram o homem; e tomou aquele servo a Rebeca, e partiu.'),
@@ -714,8 +701,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (29725,2,1,26,4,'E multiplicarei a tua descendência como as estrelas dos céus, e darei à tua descendência todas estas terras; e por meio dela serão benditas todas as nações da terra;'),
 (29726,2,1,26,5,'Porquanto Abraão obedeceu à minha voz, e guardou o meu mandado, os meus preceitos, os meus estatutos, e as minhas leis.'),
 (29727,2,1,26,6,'Assim habitou Isaque em Gerar.'),
-(29728,2,1,26,7,'E perguntando-lhe os homens daquele lugar acerca de sua mulher, disse: É minha irmã; porque temia dizer: É minha mulher; para que porventura (dizia ele) não me matem os homens daquele lugar por amor de Rebeca; porque era formosa à vista.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(29728,2,1,26,7,'E perguntando-lhe os homens daquele lugar acerca de sua mulher, disse: É minha irmã; porque temia dizer: É minha mulher; para que porventura (dizia ele) não me matem os homens daquele lugar por amor de Rebeca; porque era formosa à vista.'),
 (29729,2,1,26,8,'E aconteceu que, como ele esteve ali muito tempo, Abimeleque, rei dos filisteus, olhou por uma janela, e viu, e eis que Isaque estava brincando com Rebeca sua mulher.'),
 (29730,2,1,26,9,'Então chamou Abimeleque a Isaque, e disse: Eis que na verdade é tua mulher; como pois disseste: É minha irmã? E disse-lhe Isaque: Porque eu dizia: Para que eu porventura não morra por causa dela.'),
 (29731,2,1,26,10,'E disse Abimeleque: Que é isto que nos fizeste? Facilmente se teria deitado alguém deste povo com a tua mulher, e tu terias trazido sobre nós um delito.'),
@@ -765,8 +751,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (29775,2,1,27,19,'E Jacó disse a seu pai: Eu sou Esaú, teu primogênito; tenho feito como me disseste; levanta-te agora, assenta-te e come da minha caça, para que a tua alma me abençoe.'),
 (29776,2,1,27,20,'Então disse Isaque a seu filho: Como é isto, que tão cedo a achaste, filho meu? E ele disse: Porque o Senhor teu Deus a mandou ao meu encontro.'),
 (29777,2,1,27,21,'E disse Isaque a Jacó: Chega-te agora, para que te apalpe, meu filho, se és meu filho Esaú mesmo, ou não.'),
-(29778,2,1,27,22,'Então se chegou Jacó a Isaque seu pai, que o apalpou, e disse: A voz é a voz de Jacó, porém as mãos são as mãos de Esaú.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(29778,2,1,27,22,'Então se chegou Jacó a Isaque seu pai, que o apalpou, e disse: A voz é a voz de Jacó, porém as mãos são as mãos de Esaú.'),
 (29779,2,1,27,23,'E não o conheceu, porquanto as suas mãos estavam cabeludas, como as mãos de Esaú seu irmão; e abençoou-o.'),
 (29780,2,1,27,24,'E disse: És tu meu filho Esaú mesmo? E ele disse: Eu sou.'),
 (29781,2,1,27,25,'Então disse: Faze chegar isso perto de mim, para que coma da caça de meu filho; para que a minha alma te abençoe. E chegou-lhe, e comeu; trouxe-lhe também vinho, e bebeu.'),
@@ -816,8 +801,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (29825,2,1,29,1,'Então pôs-se Jacó a caminho e foi à terra do povo do oriente;'),
 (29826,2,1,29,2,'E olhou, e eis um poço no campo, e eis três rebanhos de ovelhas que estavam deitados junto a ele; porque daquele poço davam de beber aos rebanhos; e havia uma grande pedra sobre a boca do poço.'),
 (29827,2,1,29,3,'E ajuntavam ali todos os rebanhos, e removiam a pedra de sobre a boca do poço, e davam de beber às ovelhas; e tornavam a pôr a pedra sobre a boca do poço, no seu lugar.'),
-(29828,2,1,29,4,'E disse-lhes Jacó: Meus irmãos, donde sois? E disseram: Somos de Harã.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(29828,2,1,29,4,'E disse-lhes Jacó: Meus irmãos, donde sois? E disseram: Somos de Harã.'),
 (29829,2,1,29,5,'E ele lhes disse: Conheceis a Labão, filho de Naor? E disseram: Conhecemos.'),
 (29830,2,1,29,6,'Disse-lhes mais: Está ele bem? E disseram: Está bem, e eis aqui Raquel sua filha, que vem com as ovelhas.'),
 (29831,2,1,29,7,'E ele disse: Eis que ainda é pleno dia, não é tempo de ajuntar o gado; dai de beber às ovelhas, e ide apascentá-las.'),
@@ -867,8 +851,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (29875,2,1,30,16,'Vindo, pois, Jacó à tarde do campo, saiu-lhe Lia ao encontro, e disse: A mim possuirás, esta noite, porque certamente te aluguei com as mandrágoras do meu filho. E deitou-se com ela aquela noite.'),
 (29876,2,1,30,17,'E ouviu Deus a Lia, e concebeu, e deu à luz um quinto filho.'),
 (29877,2,1,30,18,'Então disse Lia: Deus me tem dado o meu galardão, pois tenho dado minha serva ao meu marido. E chamou-lhe Issacar.'),
-(29878,2,1,30,19,'E Lia concebeu outra vez, e deu a Jacó um sexto filho.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(29878,2,1,30,19,'E Lia concebeu outra vez, e deu a Jacó um sexto filho.'),
 (29879,2,1,30,20,'E disse Lia: Deus me deu uma boa dádiva; desta vez morará o meu marido comigo, porque lhe tenho dado seis filhos. E chamou-lhe Zebulom.'),
 (29880,2,1,30,21,'E depois teve uma filha, e chamou-lhe Diná.'),
 (29881,2,1,30,22,'E lembrou-se Deus de Raquel; e Deus a ouviu, e abriu a sua madre.'),
@@ -918,8 +901,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (29925,2,1,31,23,'Então tomou consigo os seus irmãos, e atrás dele seguiu o seu caminho por sete dias; e alcançou-o na montanha de Gileade.'),
 (29926,2,1,31,24,'Veio, porém, Deus a Labão, o arameu, em sonhos, de noite, e disse-lhe: Guarda-te, que não fales com Jacó nem bem nem mal.'),
 (29927,2,1,31,25,'Alcançou, pois, Labão a Jacó, e armara Jacó a sua tenda naquela montanha; armou também Labão com os seus irmãos a sua, na montanha de Gileade.'),
-(29928,2,1,31,26,'Então disse Labão a Jacó: Que fizeste, que me lograste e levaste as minhas filhas como cativas pela espada?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(29928,2,1,31,26,'Então disse Labão a Jacó: Que fizeste, que me lograste e levaste as minhas filhas como cativas pela espada?'),
 (29929,2,1,31,27,'Por que fugiste ocultamente, e lograste-me, e não me fizeste saber, para que eu te enviasse com alegria, e com cânticos, e com tamboril e com harpa?'),
 (29930,2,1,31,28,'Também não me permitiste beijar os meus filhos e as minhas filhas. Loucamente agiste, agora, fazendo assim.'),
 (29931,2,1,31,29,'Poder havia em minha mão para vos fazer mal, mas o Deus de vosso pai me falou ontem à noite, dizendo: Guarda-te, que não fales com Jacó nem bem nem mal.'),
@@ -969,8 +951,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (29975,2,1,32,18,'Então dirás: São de teu servo Jacó, presente que envia a meu senhor, a Esaú; e eis que ele mesmo vem também atrás de nós.'),
 (29976,2,1,32,19,'E ordenou também ao segundo, e ao terceiro, e a todos os que vinham atrás dos rebanhos, dizendo: Conforme a esta mesma palavra falareis a Esaú, quando o achardes.'),
 (29977,2,1,32,20,'E direis também: Eis que o teu servo Jacó vem atrás de nós. Porque dizia: Eu o aplacarei com o presente, que vai adiante de mim, e depois verei a sua face; porventura ele me aceitará.'),
-(29978,2,1,32,21,'Assim, passou o presente adiante dele; ele, porém, passou aquela noite no arraial.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(29978,2,1,32,21,'Assim, passou o presente adiante dele; ele, porém, passou aquela noite no arraial.'),
 (29979,2,1,32,22,'E levantou-se aquela mesma noite, e tomou as suas duas mulheres, e as suas duas servas, e os seus onze filhos, e passou o vau de Jaboque.'),
 (29980,2,1,32,23,'E tomou-os e fê-los passar o ribeiro; e fez passar tudo o que tinha.'),
 (29981,2,1,32,24,'Jacó, porém, ficou só; e lutou com ele um homem, até que a alva subiu.'),
@@ -1071,8 +1052,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (30075,2,1,36,6,'E Esaú tomou suas mulheres, e seus filhos, e suas filhas, e todas as almas de sua casa, e seu gado, e todos os seus animais, e todos os seus bens, que havia adquirido na terra de Canaã; e foi para outra terra apartando-se de Jacó, seu irmão;'),
 (30076,2,1,36,7,'Porque os bens deles eram muitos para habitarem juntos; e a terra de suas peregrinações não os podia sustentar por causa do seu gado.'),
 (30077,2,1,36,8,'Portanto Esaú habitou na montanha de Seir; Esaú é Edom.'),
-(30078,2,1,36,9,'Estas, pois, são as gerações de Esaú, pai dos edomeus, na montanha de Seir.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(30078,2,1,36,9,'Estas, pois, são as gerações de Esaú, pai dos edomeus, na montanha de Seir.'),
 (30079,2,1,36,10,'Estes são os nomes dos filhos de Esaú: Elifaz, filho de Ada, mulher de Esaú; Reuel, filho de Basemate, mulher de Esaú.'),
 (30080,2,1,36,11,'E os filhos de Elifaz foram: Temã, Omar, Zefô, Gaetã e Quenaz.'),
 (30081,2,1,36,12,'E Timna era concubina de Elifaz, filho de Esaú, e teve de Elifaz a Amaleque. Estes são os filhos de Ada, mulher de Esaú.'),
@@ -1122,8 +1102,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (30125,2,1,37,13,'Disse, pois, Israel a José: Não apascentam os teus irmãos junto de Siquém? Vem, e enviar-te-ei a eles. E ele respondeu: Eis-me aqui.'),
 (30126,2,1,37,14,'E ele lhe disse: Ora vai, vê como estão teus irmãos, e como está o rebanho, e traze-me resposta. Assim o enviou do vale de Hebrom, e foi a Siquém.'),
 (30127,2,1,37,15,'E achou-o um homem, porque eis que andava errante pelo campo, e perguntou-lhe o homem, dizendo: Que procuras?'),
-(30128,2,1,37,16,'E ele disse: Procuro meus irmãos; dize-me, peço-te, onde eles apascentam.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(30128,2,1,37,16,'E ele disse: Procuro meus irmãos; dize-me, peço-te, onde eles apascentam.'),
 (30129,2,1,37,17,'E disse aquele homem: Foram-se daqui; porque ouvi-os dizer: Vamos a Dotã. José, pois, seguiu atrás de seus irmãos, e achou-os em Dotã.'),
 (30130,2,1,37,18,'E viram-no de longe e, antes que chegasse a eles, conspiraram contra ele para o matarem.'),
 (30131,2,1,37,19,'E disseram um ao outro: Eis lá vem o sonhador-mor!'),
@@ -1173,8 +1152,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (30175,2,1,38,27,'E aconteceu ao tempo de dar à luz que havia gêmeos em seu ventre;'),
 (30176,2,1,38,28,'E sucedeu que, dando ela à luz, que um pôs fora a mão, e a parteira tomou-a, e atou em sua mão um fio encarnado, dizendo: Este saiu primeiro.'),
 (30177,2,1,38,29,'Mas aconteceu que, tornando ele a recolher a sua mão, eis que saiu o seu irmão, e ela disse: Como tu tens rompido, sobre ti é a rotura. E chamaram-lhe Perez.'),
-(30178,2,1,38,30,'E depois saiu o seu irmão, em cuja mão estava o fio encarnado; e chamaram-lhe Zerá.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(30178,2,1,38,30,'E depois saiu o seu irmão, em cuja mão estava o fio encarnado; e chamaram-lhe Zerá.'),
 (30179,2,1,39,1,'E José foi levado ao Egito, e Potifar, oficial de Faraó, capitão da guarda, homem egípcio, comprou-o da mão dos ismaelitas que o tinham levado lá.'),
 (30180,2,1,39,2,'E o SENHOR estava com José, e foi homem próspero; e estava na casa de seu senhor egípcio.'),
 (30181,2,1,39,3,'Vendo, pois, o seu senhor que o SENHOR estava com ele, e tudo o que fazia o SENHOR prosperava em sua mão,'),
@@ -1224,8 +1202,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (30225,2,1,41,1,'E aconteceu que, ao fim de dois anos inteiros, Faraó sonhou, e eis que estava em pé junto ao rio.'),
 (30226,2,1,41,2,'E eis que subiam do rio sete vacas, formosas à vista e gordas de carne, e pastavam no prado.'),
 (30227,2,1,41,3,'E eis que subiam do rio após elas outras sete vacas, feias à vista e magras de carne; e paravam junto às outras vacas na praia do rio.'),
-(30228,2,1,41,4,'E as vacas feias à vista e magras de carne, comiam as sete vacas formosas à vista e gordas. Então acordou Faraó.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(30228,2,1,41,4,'E as vacas feias à vista e magras de carne, comiam as sete vacas formosas à vista e gordas. Então acordou Faraó.'),
 (30229,2,1,41,5,'Depois dormiu e sonhou outra vez, e eis que brotavam de um mesmo pé sete espigas cheias e boas.'),
 (30230,2,1,41,6,'E eis que sete espigas miúdas, e queimadas do vento oriental, brotavam após elas.'),
 (30231,2,1,41,7,'E as espigas miúdas devoravam as sete espigas grandes e cheias. Então acordou Faraó, e eis que era um sonho.'),
@@ -1275,8 +1252,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (30275,2,1,41,51,'E chamou José ao primogênito Manassés, porque disse: Deus me fez esquecer de todo o meu trabalho, e de toda a casa de meu pai.'),
 (30276,2,1,41,52,'E ao segundo chamou Efraim; porque disse: Deus me fez crescer na terra da minha aflição.'),
 (30277,2,1,41,53,'Então acabaram-se os sete anos de fartura que havia na terra do Egito.'),
-(30278,2,1,41,54,'E começaram a vir os sete anos de fome, como José tinha dito; e havia fome em todas as terras, mas em toda a terra do Egito havia pão.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(30278,2,1,41,54,'E começaram a vir os sete anos de fome, como José tinha dito; e havia fome em todas as terras, mas em toda a terra do Egito havia pão.'),
 (30279,2,1,41,55,'E tendo toda a terra do Egito fome, clamou o povo a Faraó por pão; e Faraó disse a todos os egípcios: Ide a José; o que ele vos disser, fazei.'),
 (30280,2,1,41,56,'Havendo, pois, fome sobre toda a terra, abriu José tudo em que havia mantimento, e vendeu aos egípcios; porque a fome prevaleceu na terra do Egito.'),
 (30281,2,1,41,57,'E de todas as terras vinham ao Egito, para comprar de José; porquanto a fome prevaleceu em todas as terras.'),
@@ -1326,8 +1302,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (30325,2,1,43,6,'E disse Israel: Por que me fizeste tal mal, fazendo saber àquele homem que tínheis ainda outro irmão?'),
 (30326,2,1,43,7,'E eles disseram: Aquele homem particularmente nos perguntou por nós, e pela nossa parentela, dizendo: Vive ainda vosso pai? Tendes mais um irmão? E respondemos-lhe conforme as mesmas palavras. Podíamos nós saber que diria: Trazei vosso irmão?'),
 (30327,2,1,43,8,'Então disse Judá a Israel, seu pai: Envia o jovem comigo, e levantar-nos-emos, e iremos, para que vivamos e não morramos, nem nós, nem tu, nem os nossos filhos.'),
-(30328,2,1,43,9,'Eu serei fiador por ele, da minha mão o requererás; se eu não o trouxer, e não o puser perante a tua face, serei réu de crime para contigo para sempre.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(30328,2,1,43,9,'Eu serei fiador por ele, da minha mão o requererás; se eu não o trouxer, e não o puser perante a tua face, serei réu de crime para contigo para sempre.'),
 (30329,2,1,43,10,'E se não nos tivéssemos detido, certamente já estaríamos segunda vez de volta.'),
 (30330,2,1,43,11,'Então disse-lhes Israel, seu pai: Pois que assim é, fazei isso; tomai do mais precioso desta terra em vossos vasos, e levai ao homem um presente: um pouco do bálsamo e um pouco de mel, especiarias e mirra, terebinto e amêndoas;'),
 (30331,2,1,43,12,'E tomai em vossas mãos dinheiro em dobro, e o dinheiro que voltou na boca dos vossos sacos tornai a levar em vossas mãos; bem pode ser que fosse erro.'),
@@ -1377,8 +1352,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (30375,2,1,44,22,'E nós dissemos a meu senhor: Aquele moço não poderá deixar a seu pai; se deixar a seu pai, este morrerá.'),
 (30376,2,1,44,23,'Então tu disseste a teus servos: Se vosso irmão mais novo não descer convosco, nunca mais vereis a minha face.'),
 (30377,2,1,44,24,'E aconteceu que, subindo nós a teu servo meu pai, e contando-lhe as palavras de meu senhor,'),
-(30378,2,1,44,25,'Disse nosso pai: Voltai, comprai-nos um pouco de mantimento.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(30378,2,1,44,25,'Disse nosso pai: Voltai, comprai-nos um pouco de mantimento.'),
 (30379,2,1,44,26,'E nós dissemos: Não poderemos descer; mas, se nosso irmão menor for conosco, desceremos; pois não poderemos ver a face do homem se este nosso irmão menor não estiver conosco.'),
 (30380,2,1,44,27,'Então disse-nos teu servo, meu pai: Vós sabeis que minha mulher me deu dois filhos;'),
 (30381,2,1,44,28,'E um ausentou-se de mim, e eu disse: Certamente foi despedaçado, e não o tenho visto até agora;'),
@@ -1428,8 +1402,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (30425,2,1,46,10,'E os filhos de Simeão: Jemuel, Jamim, Oade, Jaquim, Zoar e Saul, filho de uma mulher cananéia.'),
 (30426,2,1,46,11,'E os filhos de Levi: Gérson, Coate e Merari.'),
 (30427,2,1,46,12,'E os filhos de Judá: Er, Onã, Selá, Perez e Zerá; Er e Onã, porém, morreram na terra de Canaã; e os filhos de Perez foram Hezrom e Hamul.'),
-(30428,2,1,46,13,'E os filhos de Issacar: Tola, Puva, Jó e Sinrom.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(30428,2,1,46,13,'E os filhos de Issacar: Tola, Puva, Jó e Sinrom.'),
 (30429,2,1,46,14,'E os filhos de Zebulom: Serede, Elom e Jaleel.'),
 (30430,2,1,46,15,'Estes são os filhos de Lia, que ela deu a Jacó em Padã-Arã, além de Diná, sua filha; todas as almas de seus filhos e de suas filhas foram trinta e três.'),
 (30431,2,1,46,16,'E os filhos de Gade: Zifiom, Hagi, Suni, Esbom, Eri, Arodi e Areli.'),
@@ -1479,8 +1452,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (30475,2,1,47,26,'José, pois, estabeleceu isto por estatuto, até ao dia de hoje, sobre a terra do Egito, que Faraó tirasse o quinto; só a terra dos sacerdotes não ficou sendo de Faraó.'),
 (30476,2,1,47,27,'Assim habitou Israel na terra do Egito, na terra de Gósen, e nela tomaram possessão, e frutificaram, e multiplicaram-se muito.'),
 (30477,2,1,47,28,'E Jacó viveu na terra do Egito dezessete anos, de sorte que os dias de Jacó, os anos da sua vida, foram cento e quarenta e sete anos.'),
-(30478,2,1,47,29,'Chegando-se, pois, o tempo da morte de Israel, chamou a José, seu filho, e disse-lhe: Se agora tenho achado graça em teus olhos, rogo-te que ponhas a tua mão debaixo da minha coxa, e usa comigo de beneficência e verdade; rogo-te que não me enterres no Egito,');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(30478,2,1,47,29,'Chegando-se, pois, o tempo da morte de Israel, chamou a José, seu filho, e disse-lhe: Se agora tenho achado graça em teus olhos, rogo-te que ponhas a tua mão debaixo da minha coxa, e usa comigo de beneficência e verdade; rogo-te que não me enterres no Egito,'),
 (30479,2,1,47,30,'Mas que eu jaza com os meus pais; por isso me levarás do Egito e me enterrarás na sepultura deles. E ele disse: Farei conforme a tua palavra.'),
 (30480,2,1,47,31,'E disse ele: Jura-me. E ele jurou-lhe; e Israel inclinou-se sobre a cabeceira da cama.'),
 (30481,2,1,48,1,'E aconteceu, depois destas coisas, que alguém disse a José: Eis que teu pai está enfermo. Então tomou consigo os seus dois filhos, Manassés e Efraim.'),
@@ -1530,8 +1502,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (30525,2,1,49,23,'Os flecheiros lhe deram amargura, e o flecharam e odiaram.'),
 (30526,2,1,49,24,'O seu arco, porém, susteve-se no forte, e os braços de suas mãos foram fortalecidos pelas mãos do Valente de Jacó (de onde é o pastor e a pedra de Israel).'),
 (30527,2,1,49,25,'Pelo Deus de teu pai, o qual te ajudará, e pelo Todo-Poderoso, o qual te abençoará com bênçãos dos altos céus, com bênçãos do abismo que está embaixo, com bênçãos dos seios e da madre.'),
-(30528,2,1,49,26,'As bênçãos de teu pai excederão as bênçãos de meus pais, até à extremidade dos outeiros eternos; elas estarão sobre a cabeça de José, e sobre o alto da cabeça do que foi separado de seus irmãos.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(30528,2,1,49,26,'As bênçãos de teu pai excederão as bênçãos de meus pais, até à extremidade dos outeiros eternos; elas estarão sobre a cabeça de José, e sobre o alto da cabeça do que foi separado de seus irmãos.'),
 (30529,2,1,49,27,'Benjamim é lobo que despedaça; pela manhã comerá a presa, e à tarde repartirá o despojo.'),
 (30530,2,1,49,28,'Todas estas são as doze tribos de Israel; e isto é o que lhes falou seu pai quando os abençoou; a cada um deles abençoou segundo a sua bênção.'),
 (30531,2,1,49,29,'Depois ordenou-lhes, e disse-lhes: Eu me congrego ao meu povo; sepultai-me com meus pais, na cova que está no campo de Efrom, o heteu,'),
@@ -1581,8 +1552,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (30575,2,2,1,14,'Assim que lhes fizeram amargar a vida com dura servidão, em barro e em tijolos, e com todo o trabalho no campo; com todo o seu serviço, em que os obrigavam com dureza.'),
 (30576,2,2,1,15,'E o rei do Egito falou às parteiras das hebréias (das quais o nome de uma era Sifrá, e o da outra Puá),'),
 (30577,2,2,1,16,'E disse: Quando ajudardes a dar à luz às hebréias, e as virdes sobre os assentos, se for filho, matai-o; mas se for filha, então viva.'),
-(30578,2,2,1,17,'As parteiras, porém, temeram a Deus e não fizeram como o rei do Egito lhes dissera, antes conservavam os meninos com vida.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(30578,2,2,1,17,'As parteiras, porém, temeram a Deus e não fizeram como o rei do Egito lhes dissera, antes conservavam os meninos com vida.'),
 (30579,2,2,1,18,'Então o rei do Egito chamou as parteiras e disse-lhes: Por que fizestes isto, deixando os meninos com vida?'),
 (30580,2,2,1,19,'E as parteiras disseram a Faraó: É que as mulheres hebréias não são como as egípcias; porque são vivas, e já têm dado à luz antes que a parteira venha a elas.'),
 (30581,2,2,1,20,'Portanto Deus fez bem às parteiras. E o povo se aumentou, e se fortaleceu muito.'),
@@ -1632,8 +1602,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (30625,2,2,3,17,'Portanto eu disse: Far-vos-ei subir da aflição do Egito à terra do cananeu, do heteu, do amorreu, do perizeu, do heveu e do jebuseu, a uma terra que mana leite e mel.'),
 (30626,2,2,3,18,'E ouvirão a tua voz; e irás, tu com os anciãos de Israel, ao rei do Egito, e dir-lhe-eis: O Senhor Deus dos hebreus nos encontrou. Agora, pois, deixa-nos ir caminho de três dias para o deserto, para que sacrifiquemos ao Senhor nosso Deus.'),
 (30627,2,2,3,19,'Eu sei, porém, que o rei do Egito não vos deixará ir, nem ainda por uma mão forte.'),
-(30628,2,2,3,20,'Porque eu estenderei a minha mão, e ferirei ao Egito com todas as minhas maravilhas que farei no meio dele; depois vos deixará ir.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(30628,2,2,3,20,'Porque eu estenderei a minha mão, e ferirei ao Egito com todas as minhas maravilhas que farei no meio dele; depois vos deixará ir.'),
 (30629,2,2,3,21,'E eu darei graça a este povo aos olhos dos egípcios; e acontecerá que, quando sairdes, não saireis vazios,'),
 (30630,2,2,3,22,'Porque cada mulher pedirá à sua vizinha e à sua hóspeda jóias de prata, e jóias de ouro, e vestes, as quais poreis sobre vossos filhos e sobre vossas filhas; e despojareis os egípcios.'),
 (30631,2,2,4,1,'Então respondeu Moisés, e disse: Mas eis que não me crerão, nem ouvirão a minha voz, porque dirão: O SENHOR não te apareceu.'),
@@ -1683,8 +1652,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (30675,2,2,5,14,'E foram açoitados os oficiais dos filhos de Israel, que os exatores de Faraó tinham posto sobre eles, dizendo estes: Por que não acabastes vossa tarefa, fazendo tijolos como antes, assim também ontem e hoje?'),
 (30676,2,2,5,15,'Por isso, os oficiais dos filhos de Israel, foram e clamaram a Faraó, dizendo: Por que fazes assim a teus servos?'),
 (30677,2,2,5,16,'Palha não se dá a teus servos, e nos dizem: Fazei tijolos; e eis que teus servos são açoitados; porém o teu povo tem a culpa.'),
-(30678,2,2,5,17,'Mas ele disse: Vós sois ociosos; vós sois ociosos; por isso dizeis: Vamos, sacrifiquemos ao Senhor.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(30678,2,2,5,17,'Mas ele disse: Vós sois ociosos; vós sois ociosos; por isso dizeis: Vamos, sacrifiquemos ao Senhor.'),
 (30679,2,2,5,18,'Ide, pois, agora, trabalhai; palha porém não se vos dará; contudo, dareis a conta dos tijolos.'),
 (30680,2,2,5,19,'Então os oficiais dos filhos de Israel viram-se em aflição, porquanto se dizia: Nada diminuireis de vossos tijolos, da tarefa do dia no seu dia.'),
 (30681,2,2,5,20,'E encontraram a Moisés e a Arão, que estavam defronte deles, quando saíram de Faraó.'),
@@ -1734,8 +1702,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (30725,2,2,7,11,'E Faraó também chamou os sábios e encantadores; e os magos do Egito fizeram também o mesmo com os seus encantamentos.'),
 (30726,2,2,7,12,'Porque cada um lançou sua vara, e tornaram-se em serpentes; mas a vara de Arão tragou as varas deles.'),
 (30727,2,2,7,13,'Porém o coração de Faraó se endureceu, e não os ouviu, como o Senhor tinha falado.'),
-(30728,2,2,7,14,'Então disse o Senhor a Moisés: O coração de Faraó está endurecido, recusa deixar ir o povo.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(30728,2,2,7,14,'Então disse o Senhor a Moisés: O coração de Faraó está endurecido, recusa deixar ir o povo.'),
 (30729,2,2,7,15,'Vai pela manhã a Faraó; eis que ele sairá às águas; põe-te em frente dele na beira do rio, e tomarás em tua mão a vara que se tornou em cobra.'),
 (30730,2,2,7,16,'E lhe dirás: O Senhor Deus dos hebreus me tem enviado a ti, dizendo: Deixa ir o meu povo, para que me sirva no deserto; porém eis que até agora não tens ouvido.'),
 (30731,2,2,7,17,'Assim diz o Senhor: Nisto saberás que eu sou o Senhor: Eis que eu com esta vara, que tenho em minha mão, ferirei as águas que estão no rio, e tornar-se-ão em sangue.'),
@@ -1785,8 +1752,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (30775,2,2,9,4,'E o Senhor fará separação entre o gado dos israelitas e o gado dos egípcios, para que nada morra de tudo o que for dos filhos de Israel.'),
 (30776,2,2,9,5,'E o Senhor assinalou certo tempo, dizendo: Amanhã fará o Senhor esta coisa na terra.'),
 (30777,2,2,9,6,'E o Senhor fez isso no dia seguinte, e todo o gado dos egípcios morreu; porém do gado dos filhos de Israel não morreu nenhum.'),
-(30778,2,2,9,7,'E Faraó enviou a ver, e eis que do gado de Israel não morrera nenhum; porém o coração de Faraó se agravou, e não deixou ir o povo.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(30778,2,2,9,7,'E Faraó enviou a ver, e eis que do gado de Israel não morrera nenhum; porém o coração de Faraó se agravou, e não deixou ir o povo.'),
 (30779,2,2,9,8,'Então disse o Senhor a Moisés e a Arão: Tomai vossas mãos cheias de cinza do forno, e Moisés a espalhe para o céu diante dos olhos de Faraó;'),
 (30780,2,2,9,9,'E tornar-se-á em pó miúdo sobre toda a terra do Egito, e se tornará em sarna, que arrebente em úlceras, nos homens e no gado, por toda a terra do Egito.'),
 (30781,2,2,9,10,'E eles tomaram a cinza do forno, e puseram-se diante de Faraó, e Moisés a espalhou para o céu; e tornou-se em sarna, que arrebentava em úlceras nos homens e no gado;'),
@@ -1836,8 +1802,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (30825,2,2,10,19,'Então o Senhor trouxe um vento ocidental fortíssimo, o qual levantou os gafanhotos e os lançou no Mar Vermelho; não ficou um só gafanhoto em todos os termos do Egito.'),
 (30826,2,2,10,20,'O Senhor, porém, endureceu o coração de Faraó, e este não deixou ir os filhos de Israel.'),
 (30827,2,2,10,21,'Então disse o Senhor a Moisés: Estende a tua mão para o céu, e virão trevas sobre a terra do Egito, trevas que se apalpem.'),
-(30828,2,2,10,22,'E Moisés estendeu a sua mão para o céu, e houve trevas espessas em toda a terra do Egito por três dias.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(30828,2,2,10,22,'E Moisés estendeu a sua mão para o céu, e houve trevas espessas em toda a terra do Egito por três dias.'),
 (30829,2,2,10,23,'Não viu um ao outro, e ninguém se levantou do seu lugar por três dias; mas todos os filhos de Israel tinham luz em suas habitações.'),
 (30830,2,2,10,24,'Então Faraó chamou a Moisés, e disse: Ide, servi ao Senhor; somente fiquem vossas ovelhas e vossas vacas; vão também convosco as vossas crianças.'),
 (30831,2,2,10,25,'Moisés, porém, disse: Tu também darás em nossas mãos sacrifícios e holocaustos, que ofereçamos ao Senhor nosso Deus.'),
@@ -1887,8 +1852,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (30875,2,2,12,30,'E Faraó levantou-se de noite, ele e todos os seus servos, e todos os egípcios; e havia grande clamor no Egito, porque não havia casa em que não houvesse um morto.'),
 (30876,2,2,12,31,'Então chamou a Moisés e a Arão de noite, e disse: Levantai-vos, saí do meio do meu povo, tanto vós como os filhos de Israel; e ide, servi ao Senhor, como tendes dito.'),
 (30877,2,2,12,32,'Levai também convosco vossas ovelhas e vossas vacas, como tendes dito; e ide, e abençoai-me também a mim.'),
-(30878,2,2,12,33,'E os egípcios apertavam ao povo, apressando-se para lançá-los da terra; porque diziam: Todos seremos mortos.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(30878,2,2,12,33,'E os egípcios apertavam ao povo, apressando-se para lançá-los da terra; porque diziam: Todos seremos mortos.'),
 (30879,2,2,12,34,'E o povo tomou a sua massa, antes que levedasse, e as suas amassadeiras atadas em suas roupas sobre seus ombros.'),
 (30880,2,2,12,35,'Fizeram, pois, os filhos de Israel conforme à palavra de Moisés, e pediram aos egípcios jóias de prata, e jóias de ouro, e roupas.'),
 (30881,2,2,12,36,'E o Senhor deu ao povo graça aos olhos dos egípcios, e estes lhe davam o que pediam; e despojaram aos egípcios.'),
@@ -1938,8 +1902,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (30925,2,2,14,7,'E tomou seiscentos carros escolhidos, e todos os carros do Egito, e os capitães sobre eles todos.'),
 (30926,2,2,14,8,'Porque o Senhor endureceu o coração de Faraó, rei do Egito, para que perseguisse aos filhos de Israel; porém os filhos de Israel saíram com alta mão.'),
 (30927,2,2,14,9,'E os egípcios perseguiram-nos, todos os cavalos e carros de Faraó, e os seus cavaleiros e o seu exército, e alcançaram-nos acampados junto ao mar, perto de Pi-Hairote, diante de Baal-Zefom.'),
-(30928,2,2,14,10,'E aproximando Faraó, os filhos de Israel levantaram seus olhos, e eis que os egípcios vinham atrás deles, e temeram muito; então os filhos de Israel clamaram ao Senhor.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(30928,2,2,14,10,'E aproximando Faraó, os filhos de Israel levantaram seus olhos, e eis que os egípcios vinham atrás deles, e temeram muito; então os filhos de Israel clamaram ao Senhor.'),
 (30929,2,2,14,11,'E disseram a Moisés: Não havia sepulcros no Egito, para nos tirar de lá, para que morramos neste deserto? Por que nos fizeste isto, fazendo-nos sair do Egito?'),
 (30930,2,2,14,12,'Não é esta a palavra que te falamos no Egito, dizendo: Deixa-nos, que sirvamos aos egípcios? Pois que melhor nos fora servir aos egípcios, do que morrermos no deserto.'),
 (30931,2,2,14,13,'Moisés, porém, disse ao povo: Não temais; estai quietos, e vede o livramento do Senhor, que hoje vos fará; porque aos egípcios, que hoje vistes, nunca mais os tornareis a ver.'),
@@ -1989,8 +1952,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (30975,2,2,15,26,'E disse: Se ouvires atento a voz do Senhor teu Deus, e fizeres o que é reto diante de seus olhos, e inclinares os teus ouvidos aos seus mandamentos, e guardares todos os seus estatutos, nenhuma das enfermidades porei sobre ti, que pus sobre o Egito; porque eu sou o Senhor que te sara.'),
 (30976,2,2,15,27,'Então vieram a Elim, e havia ali doze fontes de água e setenta palmeiras; e ali se acamparam junto das águas.'),
 (30977,2,2,16,1,'E partindo de Elim, toda a congregação dos filhos de Israel veio ao deserto de Sim, que está entre Elim e Sinai, aos quinze dias do mês segundo, depois de sua saída da terra do Egito.'),
-(30978,2,2,16,2,'E toda a congregação dos filhos de Israel murmurou contra Moisés e contra Arão no deserto.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(30978,2,2,16,2,'E toda a congregação dos filhos de Israel murmurou contra Moisés e contra Arão no deserto.'),
 (30979,2,2,16,3,'E os filhos de Israel disseram-lhes: Quem dera tivéssemos morrido por mão do Senhor na terra do Egito, quando estávamos sentados junto às panelas de carne, quando comíamos pão até fartar! Porque nos tendes trazido a este deserto, para matardes de fome a toda esta multidão.'),
 (30980,2,2,16,4,'Então disse o Senhor a Moisés: Eis que vos farei chover pão dos céus, e o povo sairá, e colherá diariamente a porção para cada dia, para que eu o prove se anda em minha lei ou não.'),
 (30981,2,2,16,5,'E acontecerá, no sexto dia, que prepararão o que colherem; e será o dobro do que colhem cada dia.'),
@@ -2091,8 +2053,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (31075,2,2,19,20,'E, descendo o Senhor sobre o monte Sinai, sobre o cume do monte, chamou o Senhor a Moisés ao cume do monte; e Moisés subiu.'),
 (31076,2,2,19,21,'E disse o Senhor a Moisés: Desce, adverte ao povo que não traspasse o termo para ver o Senhor, para que muitos deles não pereçam.'),
 (31077,2,2,19,22,'E também os sacerdotes, que se chegam ao Senhor, se hão de santificar, para que o Senhor não se lance sobre eles.'),
-(31078,2,2,19,23,'Então disse Moisés ao Senhor: O povo não poderá subir ao monte Sinai, porque tu nos tens advertido, dizendo: Marca termos ao redor do monte, e santifica-o.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(31078,2,2,19,23,'Então disse Moisés ao Senhor: O povo não poderá subir ao monte Sinai, porque tu nos tens advertido, dizendo: Marca termos ao redor do monte, e santifica-o.'),
 (31079,2,2,19,24,'E disse-lhe o Senhor: Vai, desce; depois subirás tu, e Arão contigo; os sacerdotes, porém, e o povo não traspassem o termo para subir ao Senhor, para que não se lance sobre eles.'),
 (31080,2,2,19,25,'Então Moisés desceu ao povo, e disse-lhe isto.'),
 (31081,2,2,20,1,'Então falou Deus todas estas palavras, dizendo:'),
@@ -2142,8 +2103,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (31125,2,2,21,19,'Se ele tornar a levantar-se e andar fora, sobre o seu bordão, então aquele que o feriu será absolvido; somente lhe pagará o tempo que perdera e o fará curar totalmente.'),
 (31126,2,2,21,20,'Se alguém ferir a seu servo, ou a sua serva, com pau, e morrer debaixo da sua mão, certamente será castigado;'),
 (31127,2,2,21,21,'Porém se sobreviver por um ou dois dias, não será castigado, porque é dinheiro seu.'),
-(31128,2,2,21,22,'Se alguns homens pelejarem, e um ferir uma mulher grávida, e for causa de que aborte, porém não havendo outro dano, certamente será multado, conforme o que lhe impuser o marido da mulher, e julgarem os juízes.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(31128,2,2,21,22,'Se alguns homens pelejarem, e um ferir uma mulher grávida, e for causa de que aborte, porém não havendo outro dano, certamente será multado, conforme o que lhe impuser o marido da mulher, e julgarem os juízes.'),
 (31129,2,2,21,23,'Mas se houver morte, então darás vida por vida,'),
 (31130,2,2,21,24,'Olho por olho, dente por dente, mão por mão, pé por pé,'),
 (31131,2,2,21,25,'Queimadura por queimadura, ferida por ferida, golpe por golpe.'),
@@ -2193,8 +2153,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (31175,2,2,23,2,'Não seguirás a multidão para fazeres o mal; nem numa demanda falarás, tomando parte com a maioria para torcer o direito.'),
 (31176,2,2,23,3,'Nem ao pobre favorecerás na sua demanda.'),
 (31177,2,2,23,4,'Se encontrares o boi do teu inimigo, ou o seu jumento, desgarrado, sem falta lho reconduzirás.'),
-(31178,2,2,23,5,'Se vires o jumento, daquele que te odeia, caído debaixo da sua carga, deixarás pois de ajudá-lo? Certamente o ajudarás a levantá-lo.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(31178,2,2,23,5,'Se vires o jumento, daquele que te odeia, caído debaixo da sua carga, deixarás pois de ajudá-lo? Certamente o ajudarás a levantá-lo.'),
 (31179,2,2,23,6,'Não perverterás o direito do teu pobre na sua demanda.'),
 (31180,2,2,23,7,'De palavras de falsidade te afastarás, e não matarás o inocente e o justo; porque não justificarei o ímpio.'),
 (31181,2,2,23,8,'Também suborno não tomarás; porque o suborno cega os que têm vista, e perverte as palavras dos justos.'),
@@ -2244,8 +2203,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (31225,2,2,25,1,'Então falou o SENHOR a Moisés, dizendo:'),
 (31226,2,2,25,2,'Fala aos filhos de Israel, que me tragam uma oferta alçada; de todo o homem cujo coração se mover voluntariamente, dele tomareis a minha oferta alçada.'),
 (31227,2,2,25,3,'E esta é a oferta alçada que recebereis deles: ouro, e prata, e cobre,'),
-(31228,2,2,25,4,'E azul, e púrpura, e carmesim, e linho fino, e pêlos de cabras,');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(31228,2,2,25,4,'E azul, e púrpura, e carmesim, e linho fino, e pêlos de cabras,'),
 (31229,2,2,25,5,'E peles de carneiros tintas de vermelho, e peles de texugos, e madeira de acácia,'),
 (31230,2,2,25,6,'Azeite para a luz, especiarias para o óleo da unção, e especiarias para o incenso,'),
 (31231,2,2,25,7,'Pedras de ônix, e pedras de engaste para o éfode e para o peitoral.'),
@@ -2295,8 +2253,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (31275,2,2,26,11,'Farás também cinqüenta colchetes de cobre, e colocarás os colchetes nas laçadas, e assim ajuntarás a tenda, para que seja uma.'),
 (31276,2,2,26,12,'E a parte que sobejar das cortinas da tenda, a saber, a metade da cortina que sobejar, penderá de sobra às costas do tabernáculo.'),
 (31277,2,2,26,13,'E um côvado de um lado, e outro côvado do outro, que sobejará no comprimento das cortinas da tenda, penderá de sobra aos lados do tabernáculo de um e de outro lado, para cobri-lo.'),
-(31278,2,2,26,14,'Farás também à tenda uma coberta de peles de carneiro, tintas de vermelho, e outra coberta de peles de texugo em cima.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(31278,2,2,26,14,'Farás também à tenda uma coberta de peles de carneiro, tintas de vermelho, e outra coberta de peles de texugo em cima.'),
 (31279,2,2,26,15,'Farás também as tábuas para o tabernáculo de madeira de acácia, que serão postas verticalmente.'),
 (31280,2,2,26,16,'O comprimento de uma tábua será de dez côvados, e a largura de cada tábua será de um côvado e meio.'),
 (31281,2,2,26,17,'Dois encaixes terá cada tábua, travados um com o outro; assim farás com todas as tábuas do tabernáculo.'),
@@ -2346,8 +2303,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (31325,2,2,28,3,'Falarás também a todos os que são sábios de coração, a quem eu tenho enchido do espírito da sabedoria, que façam vestes a Arão para santificá-lo; para que me administre o ofício sacerdotal.'),
 (31326,2,2,28,4,'Estas pois são as vestes que farão: um peitoral, e um éfode, e um manto, e uma túnica bordada, uma mitra, e um cinto; farão, pois, santas vestes para Arão, teu irmão, e para seus filhos, para me administrarem o ofício sacerdotal.'),
 (31327,2,2,28,5,'E tomarão o ouro, e o azul, e a púrpura, e o carmesim, e o linho fino,'),
-(31328,2,2,28,6,'E farão o éfode de ouro, e de azul, e de púrpura, e de carmesim, e de linho fino torcido, de obra esmerada.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(31328,2,2,28,6,'E farão o éfode de ouro, e de azul, e de púrpura, e de carmesim, e de linho fino torcido, de obra esmerada.'),
 (31329,2,2,28,7,'Terá duas ombreiras, que se unam às suas duas pontas, e assim se unirá.'),
 (31330,2,2,28,8,'E o cinto de obra esmerada do seu éfode, que estará sobre ele, será da sua mesma obra, igualmente, de ouro, de azul, e de púrpura, e de carmesim, e de linho fino torcido.'),
 (31331,2,2,28,9,'E tomarás duas pedras de ônix, e gravarás nelas os nomes dos filhos de Israel,'),
@@ -2397,8 +2353,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (31375,2,2,29,10,'E farás chegar o novilho diante da tenda da congregação, e Arão e seus filhos porão as suas mãos sobre a cabeça do novilho;'),
 (31376,2,2,29,11,'E imolarás o novilho perante o Senhor, à porta da tenda da congregação.'),
 (31377,2,2,29,12,'Depois tomarás do sangue do novilho, e o porás com o teu dedo sobre as pontas do altar, e todo o sangue restante derramarás à base do altar.'),
-(31378,2,2,29,13,'Também tomarás toda a gordura que cobre as entranhas, e o redenho de sobre o fígado, e ambos os rins, e a gordura que houver neles, e queimá-los-ás sobre o altar;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(31378,2,2,29,13,'Também tomarás toda a gordura que cobre as entranhas, e o redenho de sobre o fígado, e ambos os rins, e a gordura que houver neles, e queimá-los-ás sobre o altar;'),
 (31379,2,2,29,14,'Mas a carne do novilho, e a sua pele, e o seu esterco queimarás com fogo fora do arraial; é sacrifício pelo pecado.'),
 (31380,2,2,29,15,'Depois tomarás um carneiro, e Arão e seus filhos porão as suas mãos sobre a cabeça do carneiro,'),
 (31381,2,2,29,16,'E imolarás o carneiro, e tomarás o seu sangue, e o espalharás sobre o altar ao redor;'),
@@ -2448,8 +2403,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (31425,2,2,30,14,'Qualquer que passar pelo arrolamento, de vinte anos para cima, dará a oferta alçada ao Senhor.'),
 (31426,2,2,30,15,'O rico não dará mais, e o pobre não dará menos da metade do siclo, quando derem a oferta alçada ao Senhor, para fazer expiação por vossas almas.'),
 (31427,2,2,30,16,'E tomarás o dinheiro das expiações dos filhos de Israel, e o darás ao serviço da tenda da congregação; e será para memória aos filhos de Israel diante do Senhor, para fazer expiação por vossas almas.'),
-(31428,2,2,30,17,'E falou o Senhor a Moisés, dizendo:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(31428,2,2,30,17,'E falou o Senhor a Moisés, dizendo:'),
 (31429,2,2,30,18,'Farás também uma pia de cobre com a sua base de cobre, para lavar; e a porás entre a tenda da congregação e o altar; e nela deitarás água.'),
 (31430,2,2,30,19,'E Arão e seus filhos nela lavarão as suas mãos e os seus pés.'),
 (31431,2,2,30,20,'Quando entrarem na tenda da congregação, lavar-se-ão com água, para que não morram, ou quando se chegarem ao altar para ministrar, para acender a oferta queimada ao Senhor.'),
@@ -2499,8 +2453,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (31475,2,2,32,8,'E depressa se tem desviado do caminho que eu lhe tinha ordenado; eles fizeram para si um bezerro de fundição, e perante ele se inclinaram, e ofereceram-lhe sacrifícios, e disseram: Este é o teu deus, ó Israel, que te tirou da terra do Egito.'),
 (31476,2,2,32,9,'Disse mais o Senhor a Moisés: Tenho visto a este povo, e eis que é povo de dura cerviz.'),
 (31477,2,2,32,10,'Agora, pois, deixa-me, para que o meu furor se acenda contra ele, e o consuma; e eu farei de ti uma grande nação.'),
-(31478,2,2,32,11,'Moisés, porém, suplicou ao Senhor seu Deus e disse: Ó Senhor, por que se acende o teu furor contra o teu povo, que tiraste da terra do Egito com grande força e com forte mão?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(31478,2,2,32,11,'Moisés, porém, suplicou ao Senhor seu Deus e disse: Ó Senhor, por que se acende o teu furor contra o teu povo, que tiraste da terra do Egito com grande força e com forte mão?'),
 (31479,2,2,32,12,'Por que hão de falar os egípcios, dizendo: Para mal os tirou, para matá-los nos montes, e para destruí-los da face da terra? Torna-te do furor da tua ira, e arrepende-te deste mal contra o teu povo.'),
 (31480,2,2,32,13,'Lembra-te de Abraão, de Isaque, e de Israel, os teus servos, aos quais por ti mesmo tens jurado, e lhes disseste: Multiplicarei a vossa descendência como as estrelas dos céus, e darei à vossa descendência toda esta terra, de que tenho falado, para que a possuam por herança eternamente.'),
 (31481,2,2,32,14,'Então o Senhor arrependeu-se do mal que dissera que havia de fazer ao seu povo.'),
@@ -2550,8 +2503,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (31525,2,2,33,23,'E, havendo eu tirado a minha mão, me verás pelas costas; mas a minha face não se verá.'),
 (31526,2,2,34,1,'Então disse o SENHOR a Moisés: Lavra duas tábuas de pedra, como as primeiras; e eu escreverei nas tábuas as mesmas palavras que estavam nas primeiras tábuas, que tu quebraste.'),
 (31527,2,2,34,2,'E prepara-te para amanhã, para que subas pela manhã ao monte Sinai, e ali põe-te diante de mim no cume do monte.'),
-(31528,2,2,34,3,'E ninguém suba contigo, e também ninguém apareça em todo o monte; nem ovelhas nem bois se apascentem defronte do monte.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(31528,2,2,34,3,'E ninguém suba contigo, e também ninguém apareça em todo o monte; nem ovelhas nem bois se apascentem defronte do monte.'),
 (31529,2,2,34,4,'Então Moisés lavrou duas tábuas de pedra, como as primeiras; e levantando-se pela manhã de madrugada, subiu ao monte Sinai, como o Senhor lhe tinha ordenado; e levou as duas tábuas de pedra nas suas mãos.'),
 (31530,2,2,34,5,'E o Senhor desceu numa nuvem e se pôs ali junto a ele; e ele proclamou o nome do Senhor.'),
 (31531,2,2,34,6,'Passando, pois, o Senhor perante ele, clamou: O Senhor, o Senhor Deus, misericordioso e piedoso, tardio em irar-se e grande em beneficência e verdade;'),
@@ -2601,8 +2553,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (31575,2,2,35,15,'E o altar do incenso e os seus varais, e o azeite da unção, e o incenso aromático, e a cortina da porta para a entrada do tabernáculo,'),
 (31576,2,2,35,16,'O altar do holocausto, e o crivo de cobre, os seus varais, e todos os seus pertences, a pia e a sua base,'),
 (31577,2,2,35,17,'As cortinas do pátio, as suas colunas e as suas bases, e o reposteiro da porta do pátio,'),
-(31578,2,2,35,18,'As estacas do tabernáculo, e as estacas do pátio, e as suas cordas,');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(31578,2,2,35,18,'As estacas do tabernáculo, e as estacas do pátio, e as suas cordas,'),
 (31579,2,2,35,19,'As vestes do ministério para ministrar no santuário, as vestes santas de Arão o sacerdote, e as vestes de seus filhos, para administrarem o sacerdócio.'),
 (31580,2,2,35,20,'Então toda a congregação dos filhos de Israel saiu da presença de Moisés,'),
 (31581,2,2,35,21,'E veio todo o homem, a quem o seu coração moveu, e todo aquele cujo espírito voluntariamente o excitou, e trouxeram a oferta alçada ao Senhor para a obra da tenda da congregação, e para todo o seu serviço, e para as vestes santas.'),
@@ -2652,8 +2603,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (31625,2,2,36,30,'Assim eram oito tábuas com as suas bases de prata, a saber, dezesseis bases; duas bases debaixo de cada tábua.'),
 (31626,2,2,36,31,'Fez também travessas de madeira de acácia; cinco para as tábuas de um lado do tabernáculo,'),
 (31627,2,2,36,32,'E cinco travessas para as tábuas do outro lado do tabernáculo; e outras cinco travessas para as tábuas do tabernáculo do lado ocidental.'),
-(31628,2,2,36,33,'E fez que a travessa do meio passasse pelo meio das tábuas de uma extremidade até a outra.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(31628,2,2,36,33,'E fez que a travessa do meio passasse pelo meio das tábuas de uma extremidade até a outra.'),
 (31629,2,2,36,34,'E cobriu as tábuas de ouro, e as suas argolas (os lugares das travessas) fez de ouro; as travessas também cobriu de ouro.'),
 (31630,2,2,36,35,'Depois fez o véu de azul, e de púrpura, e de carmesim, e de linho fino torcido; de obra esmerada o fez com querubins.'),
 (31631,2,2,36,36,'E fez-lhe quatro colunas de madeira de acácia, e as cobriu de ouro; e seus colchetes fez de ouro, e fundiu-lhe quatro bases de prata.'),
@@ -2703,8 +2653,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (31675,2,2,38,13,'E do lado leste, ao oriente, cortinas de cinqüenta côvados.'),
 (31676,2,2,38,14,'As cortinas de um lado da porta eram de quinze côvados; as suas colunas três e as suas bases três.'),
 (31677,2,2,38,15,'E do outro lado da porta do pátio, de ambos os lados, eram cortinas de quinze côvados; as suas colunas três e as suas bases três.'),
-(31678,2,2,38,16,'Todas as cortinas do pátio ao redor eram de linho fino torcido.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(31678,2,2,38,16,'Todas as cortinas do pátio ao redor eram de linho fino torcido.'),
 (31679,2,2,38,17,'E as bases das colunas eram de cobre; os colchetes das colunas e as suas molduras eram de prata; e o revestimento dos seus capitéis era de prata; e todas as colunas do pátio eram cingidas de prata.'),
 (31680,2,2,38,18,'E a cobertura da porta do pátio era de obra de bordador, de azul, e de púrpura, e de carmesim, e de linho fino torcido; e o comprimento era de vinte côvados, e a altura, na largura, de cinco côvados, conforme as cortinas do pátio.'),
 (31681,2,2,38,19,'E as suas quatro colunas e as suas quatro bases eram de cobre, os seus colchetes de prata, e o revestimento dos seus capitéis, e as suas molduras, também de prata.'),
@@ -2754,8 +2703,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (31725,2,2,39,32,'Assim se acabou toda a obra do tabernáculo da tenda da congregação; e os filhos de Israel fizeram conforme a tudo o que o Senhor ordenara a Moisés; assim o fizeram.'),
 (31726,2,2,39,33,'Depois trouxeram a Moisés o tabernáculo, a tenda e todos os seus pertences; os seus colchetes, as suas tábuas, os seus varais, e as suas colunas, e as suas bases;'),
 (31727,2,2,39,34,'E a cobertura de peles de carneiro tintas de vermelho, e a cobertura de peles de texugos, e o véu de cobertura;'),
-(31728,2,2,39,35,'A arca do testemunho, e os seus varais, e o propiciatório;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(31728,2,2,39,35,'A arca do testemunho, e os seus varais, e o propiciatório;'),
 (31729,2,2,39,36,'A mesa com todos os seus pertences, e os pães da proposição;'),
 (31730,2,2,39,37,'O candelabro puro com suas lâmpadas, as lâmpadas em ordem, e todos os seus pertences, e o azeite para a luminária;'),
 (31731,2,2,39,38,'Também o altar de ouro, e o azeite da unção, e o incenso aromático, e a cortina da porta da tenda;'),
@@ -2805,8 +2753,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (31775,2,3,1,1,'E chamou o SENHOR a Moisés, e falou com ele da tenda da congregação, dizendo:'),
 (31776,2,3,1,2,'Fala aos filhos de Israel, e dize-lhes: Quando algum de vós oferecer oferta ao Senhor, oferecerá a sua oferta de gado, isto é, de gado vacum e de ovelha.'),
 (31777,2,3,1,3,'Se a sua oferta for holocausto de gado, oferecerá macho sem defeito; à porta da tenda da congregação a oferecerá, de sua própria vontade, perante o Senhor.'),
-(31778,2,3,1,4,'E porá a sua mão sobre a cabeça do holocausto, para que seja aceito a favor dele, para a sua expiação.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(31778,2,3,1,4,'E porá a sua mão sobre a cabeça do holocausto, para que seja aceito a favor dele, para a sua expiação.'),
 (31779,2,3,1,5,'Depois degolará o bezerro perante o Senhor; e os filhos de Arão, os sacerdotes, oferecerão o sangue, e espargirão o sangue em redor sobre o altar que está diante da porta da tenda da congregação.'),
 (31780,2,3,1,6,'Então esfolará o holocausto, e o partirá nos seus pedaços.'),
 (31781,2,3,1,7,'E os filhos de Arão, o sacerdote, porão fogo sobre o altar, pondo em ordem a lenha sobre o fogo.'),
@@ -2856,8 +2803,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (31825,2,3,4,1,'Falou mais o SENHOR a Moisés, dizendo:'),
 (31826,2,3,4,2,'Fala aos filhos de Israel, dizendo: Quando uma alma pecar, por ignorância, contra alguns dos mandamentos do Senhor, acerca do que não se deve fazer, e proceder contra algum deles;'),
 (31827,2,3,4,3,'Se o sacerdote ungido pecar para escândalo do povo, oferecerá ao Senhor, pelo seu pecado, que cometeu, um novilho sem defeito, por expiação do pecado.'),
-(31828,2,3,4,4,'E trará o novilho à porta da tenda da congregação, perante o Senhor, e porá a sua mão sobre a cabeça do novilho, e degolará o novilho perante o Senhor.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(31828,2,3,4,4,'E trará o novilho à porta da tenda da congregação, perante o Senhor, e porá a sua mão sobre a cabeça do novilho, e degolará o novilho perante o Senhor.'),
 (31829,2,3,4,5,'Então o sacerdote ungido tomará do sangue do novilho, e o trará à tenda da congregação;'),
 (31830,2,3,4,6,'E o sacerdote molhará o seu dedo no sangue, e daquele sangue espargirá sete vezes perante o Senhor diante do véu do santuário.'),
 (31831,2,3,4,7,'Também o sacerdote porá daquele sangue sobre as pontas do altar do incenso aromático, perante o Senhor que está na tenda da congregação; e todo o restante do sangue do novilho derramará à base do altar do holocausto, que está à porta da tenda da congregação.'),
@@ -2907,8 +2853,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (31875,2,3,5,16,'Assim restituirá o que pecar nas coisas sagradas, e ainda lhe acrescentará a quinta parte, e a dará ao sacerdote; assim o sacerdote, com o carneiro da expiação, fará expiação por ele, e ser-lhe-á perdoado o pecado.'),
 (31876,2,3,5,17,'E, se alguma pessoa pecar, e fizer, contra algum dos mandamentos do Senhor, aquilo que não se deve fazer, ainda que o não soubesse, contudo será ela culpada, e levará a sua iniqüidade;'),
 (31877,2,3,5,18,'E trará ao sacerdote um carneiro sem defeito do rebanho, conforme à tua estimação, para expiação da culpa, e o sacerdote por ela fará expiação do erro que cometeu sem saber; e ser-lhe-á perdoado.'),
-(31878,2,3,5,19,'Expiação de culpa é; certamente se fez culpado diante do Senhor.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(31878,2,3,5,19,'Expiação de culpa é; certamente se fez culpado diante do Senhor.'),
 (31879,2,3,6,1,'Falou mais o SENHOR a Moisés, dizendo:'),
 (31880,2,3,6,2,'Quando alguma pessoa pecar, e transgredir contra o Senhor, e negar ao seu próximo o que lhe deu em guarda, ou o que deixou na sua mão, ou o roubo, ou o que reteve violentamente ao seu próximo,'),
 (31881,2,3,6,3,'Ou que achou o perdido, e o negar com falso juramento, ou fizer alguma outra coisa de todas em que o homem costuma pecar;'),
@@ -2958,8 +2903,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (31925,2,3,7,17,'E o que ainda ficar da carne do sacrifício ao terceiro dia será queimado no fogo.'),
 (31926,2,3,7,18,'Porque, se da carne do seu sacrifício pacífico se comer ao terceiro dia, aquele que a ofereceu não será aceito, nem lhe será imputado; coisa abominável será, e a pessoa que dela comer levará a sua iniqüidade.'),
 (31927,2,3,7,19,'E a carne que tocar alguma coisa imunda não se comerá; com fogo será queimada; mas da outra carne, qualquer que estiver limpo, comerá dela.'),
-(31928,2,3,7,20,'Porém, se alguma pessoa comer a carne do sacrifício pacífico, que é do Senhor, tendo ela sobre si a sua imundícia, aquela pessoa será extirpada do seu povo.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(31928,2,3,7,20,'Porém, se alguma pessoa comer a carne do sacrifício pacífico, que é do Senhor, tendo ela sobre si a sua imundícia, aquela pessoa será extirpada do seu povo.'),
 (31929,2,3,7,21,'E, se uma pessoa tocar alguma coisa imunda, como imundícia de homem, ou gado imundo, ou qualquer abominação imunda, e comer da carne do sacrifício pacífico, que é do Senhor, aquela pessoa será extirpada do seu povo.'),
 (31930,2,3,7,22,'Depois falou o Senhor a Moisés, dizendo:'),
 (31931,2,3,7,23,'Fala aos filhos de Israel, dizendo: Nenhuma gordura de boi, nem de carneiro, nem de cabra comereis;'),
@@ -3009,8 +2953,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (31975,2,3,8,29,'E tomou Moisés o peito, e ofereceu-o por oferta movida perante o Senhor. Aquela foi a porção de Moisés do carneiro da consagração, como o Senhor ordenara a Moisés.'),
 (31976,2,3,8,30,'Tomou Moisés também do azeite da unção, e do sangue que estava sobre o altar, e o espargiu sobre Arão e sobre as suas vestes, e sobre os seus filhos, e sobre as vestes de seus filhos com ele; e santificou a Arão e as suas vestes, e seus filhos, e as vestes de seus filhos com ele.'),
 (31977,2,3,8,31,'E Moisés disse a Arão, e a seus filhos: Cozei a carne diante da porta da tenda da congregação, e ali a comereis com o pão que está no cesto da consagração, como tenho ordenado, dizendo: Arão e seus filhos a comerão.'),
-(31978,2,3,8,32,'Mas o que sobejar da carne e do pão, queimareis com fogo.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(31978,2,3,8,32,'Mas o que sobejar da carne e do pão, queimareis com fogo.'),
 (31979,2,3,8,33,'Também da porta da tenda da congregação não saireis por sete dias, até ao dia em que se cumprirem os dias da vossa consagração; porquanto por sete dias ele vos consagrará.'),
 (31980,2,3,8,34,'Como se fez neste dia, assim o Senhor ordenou se fizesse, para fazer expiação por vós.'),
 (31981,2,3,8,35,'Ficareis, pois, à porta da tenda da congregação dia e noite por sete dias, e guardareis as ordenanças do Senhor, para que não morrais; porque assim me foi ordenado.'),
@@ -3111,8 +3054,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (32075,2,3,12,2,'Fala aos filhos de Israel, dizendo: Se uma mulher conceber e der à luz um menino, será imunda sete dias, assim como nos dias da separação da sua enfermidade, será imunda.'),
 (32076,2,3,12,3,'E no dia oitavo se circuncidará ao menino a carne do seu prepúcio.'),
 (32077,2,3,12,4,'Depois ficará ela trinta e três dias no sangue da sua purificação; nenhuma coisa santa tocará e não entrará no santuário até que se cumpram os dias da sua purificação.'),
-(32078,2,3,12,5,'Mas, se der à luz uma menina será imunda duas semanas, como na sua separação; depois ficará sessenta e seis dias no sangue da sua purificação.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(32078,2,3,12,5,'Mas, se der à luz uma menina será imunda duas semanas, como na sua separação; depois ficará sessenta e seis dias no sangue da sua purificação.'),
 (32079,2,3,12,6,'E, quando forem cumpridos os dias da sua purificação por filho ou por filha, trará um cordeiro de um ano por holocausto, e um pombinho ou uma rola para expiação do pecado, diante da porta da tenda da congregação, ao sacerdote.'),
 (32080,2,3,12,7,'O qual o oferecerá perante o Senhor, e por ela fará propiciação; e será limpa do fluxo do seu sangue; esta é a lei da que der à luz menino ou menina.'),
 (32081,2,3,12,8,'Mas, se em sua mão não houver recursos para um cordeiro, então tomará duas rolas, ou dois pombinhos, um para o holocausto e outro para a propiciação do pecado; assim o sacerdote por ela fará expiação, e será limpa.'),
@@ -3162,8 +3104,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (32125,2,3,13,44,'Leproso é aquele homem, imundo está; o sacerdote o declarará totalmente por imundo, na sua cabeça tem a praga.'),
 (32126,2,3,13,45,'Também as vestes do leproso, em quem está a praga, serão rasgadas, e a sua cabeça será descoberta, e cobrirá o lábio superior, e clamará: Imundo, imundo.'),
 (32127,2,3,13,46,'Todos os dias em que a praga houver nele, será imundo; imundo está, habitará só; a sua habitação será fora do arraial.'),
-(32128,2,3,13,47,'Quando também em alguma roupa houver praga de lepra, em roupa de lã, ou em roupa de linho,');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(32128,2,3,13,47,'Quando também em alguma roupa houver praga de lepra, em roupa de lã, ou em roupa de linho,'),
 (32129,2,3,13,48,'Ou no fio urdido, ou no fio tecido, seja de linho, ou seja de lã, ou em pele, ou em qualquer obra de peles,'),
 (32130,2,3,13,49,'E a praga na roupa, ou na pele, ou no fio urdido, ou no fio tecido, ou em qualquer coisa de peles aparecer verde ou vermelha, praga de lepra é, por isso se mostrará ao sacerdote,'),
 (32131,2,3,13,50,'E o sacerdote examinará a praga, e encerrará aquilo que tem a praga por sete dias.'),
@@ -3213,8 +3154,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (32175,2,3,14,35,'Então aquele, de quem for a casa, virá e informará ao sacerdote, dizendo: Parece-me que há como que praga em minha casa.'),
 (32176,2,3,14,36,'E o sacerdote ordenará que desocupem a casa, antes que entre para examinar a praga, para que tudo o que está na casa não seja contaminado; e depois entrará o sacerdote, para examinar a casa;'),
 (32177,2,3,14,37,'E, vendo a praga, e eis que se ela estiver nas paredes da casa em covinhas verdes ou vermelhas, e parecerem mais fundas do que a parede,'),
-(32178,2,3,14,38,'Então o sacerdote sairá da casa para fora da porta, e fechá-la-á por sete dias.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(32178,2,3,14,38,'Então o sacerdote sairá da casa para fora da porta, e fechá-la-á por sete dias.'),
 (32179,2,3,14,39,'Depois, ao sétimo dia o sacerdote voltará, e examinará; e se vir que a praga nas paredes da casa se tem estendido,'),
 (32180,2,3,14,40,'Então o sacerdote ordenará que arranquem as pedras, em que estiver a praga, e que as lancem fora da cidade, num lugar imundo;'),
 (32181,2,3,14,41,'E fará raspar a casa por dentro ao redor, e o pó que houverem raspado lançarão fora da cidade, num lugar imundo;'),
@@ -3264,8 +3204,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (32225,2,3,15,28,'Porém quando for limpa do seu fluxo, então se contarão sete dias, e depois será limpa.'),
 (32226,2,3,15,29,'E ao oitavo dia tomará duas rolas, ou dois pombinhos, e os trará ao sacerdote, à porta da tenda da congregação.'),
 (32227,2,3,15,30,'Então o sacerdote oferecerá um para expiação do pecado, e o outro para holocausto; e o sacerdote fará por ela expiação do fluxo da sua imundícia perante o Senhor.'),
-(32228,2,3,15,31,'Assim separareis os filhos de Israel das suas imundícias, para que não morram nas suas imundícias, contaminando o meu tabernáculo, que está no meio deles.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(32228,2,3,15,31,'Assim separareis os filhos de Israel das suas imundícias, para que não morram nas suas imundícias, contaminando o meu tabernáculo, que está no meio deles.'),
 (32229,2,3,15,32,'Esta é a lei daquele que tem o fluxo, e daquele de quem sai o sêmen da cópula, e que fica por eles imundo;'),
 (32230,2,3,15,33,'Como também da mulher enferma na sua separação, e daquele que padece do seu fluxo, seja homem ou mulher, e do homem que se deita com mulher imunda.'),
 (32231,2,3,16,1,'E falou o SENHOR a Moisés, depois da morte dos dois filhos de Arão, que morreram quando se chegaram diante do SENHOR.'),
@@ -3315,8 +3254,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (32275,2,3,17,11,'Porque a vida da carne está no sangue; pelo que vo-lo tenho dado sobre o altar, para fazer expiação pelas vossas almas; porquanto é o sangue que fará expiação pela alma.'),
 (32276,2,3,17,12,'Portanto tenho dito aos filhos de Israel: Nenhum dentre vós comerá sangue, nem o estrangeiro, que peregrine entre vós, comerá sangue.'),
 (32277,2,3,17,13,'Também qualquer homem dos filhos de Israel, ou dos estrangeiros que peregrinam entre eles, que caçar animal ou ave que se come, derramará o seu sangue, e o cobrirá com pó;'),
-(32278,2,3,17,14,'Porquanto a vida de toda a carne é o seu sangue; por isso tenho dito aos filhos de Israel: Não comereis o sangue de nenhuma carne, porque a vida de toda a carne é o seu sangue; qualquer que o comer será extirpado.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(32278,2,3,17,14,'Porquanto a vida de toda a carne é o seu sangue; por isso tenho dito aos filhos de Israel: Não comereis o sangue de nenhuma carne, porque a vida de toda a carne é o seu sangue; qualquer que o comer será extirpado.'),
 (32279,2,3,17,15,'E todo o homem entre os naturais, ou entre os estrangeiros, que comer corpo morto ou dilacerado, lavará as suas vestes, e se banhará com água, e será imundo até à tarde; depois será limpo.'),
 (32280,2,3,17,16,'Mas, se os não lavar, nem banhar a sua carne, levará sobre si a sua iniqüidade.'),
 (32281,2,3,18,1,'Falou mais o SENHOR a Moisés, dizendo:'),
@@ -3366,8 +3304,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (32325,2,3,19,15,'Não farás injustiça no juízo; não respeitarás o pobre, nem honrarás o poderoso; com justiça julgarás o teu próximo.'),
 (32326,2,3,19,16,'Não andarás como mexeriqueiro entre o teu povo; não te porás contra o sangue do teu próximo. Eu sou o Senhor.'),
 (32327,2,3,19,17,'Não odiarás a teu irmão no teu coração; não deixarás de repreender o teu próximo, e por causa dele não sofrerás pecado.'),
-(32328,2,3,19,18,'Não te vingarás nem guardarás ira contra os filhos do teu povo; mas amarás o teu próximo como a ti mesmo. Eu sou o Senhor.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(32328,2,3,19,18,'Não te vingarás nem guardarás ira contra os filhos do teu povo; mas amarás o teu próximo como a ti mesmo. Eu sou o Senhor.'),
 (32329,2,3,19,19,'Guardarás os meus estatutos; não permitirás que se ajuntem misturadamente os teus animais de diferentes espécies; no teu campo não semearás sementes diversas, e não vestirás roupa de diversos estofos misturados.'),
 (32330,2,3,19,20,'E, quando um homem se deitar com uma mulher que for serva desposada com outro homem, e não for resgatada nem se lhe houver dado liberdade, então serão açoitados; não morrerão, pois ela não foi libertada.'),
 (32331,2,3,19,21,'E, por expiação da sua culpa, trará ao Senhor, à porta da tenda da congregação, um carneiro da expiação,'),
@@ -3417,8 +3354,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (32375,2,3,21,1,'Depois disse o SENHOR a Moisés: Fala aos sacerdotes, filhos de Arão, e dize-lhes: O sacerdote não se contaminará por causa de um morto entre o seu povo,'),
 (32376,2,3,21,2,'Salvo por seu parente mais chegado: por sua mãe, e por seu pai, e por seu filho, e por sua filha, e por seu irmão.'),
 (32377,2,3,21,3,'E por sua irmã virgem, chegada a ele, que ainda não teve marido; por ela também se contaminará.'),
-(32378,2,3,21,4,'Ele sendo principal entre o seu povo, não se contaminará, pois que se profanaria.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(32378,2,3,21,4,'Ele sendo principal entre o seu povo, não se contaminará, pois que se profanaria.'),
 (32379,2,3,21,5,'Não farão calva na sua cabeça, e não raparão as extremidades da sua barba, nem darão golpes na sua carne.'),
 (32380,2,3,21,6,'Santos serão a seu Deus, e não profanarão o nome do seu Deus, porque oferecem as ofertas queimadas do Senhor, e o pão do seu Deus; portanto serão santos.'),
 (32381,2,3,21,7,'Não tomarão mulher prostituta ou desonrada, nem tomarão mulher repudiada de seu marido; pois santo é a seu Deus.'),
@@ -3468,8 +3404,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (32425,2,3,22,27,'Quando nascer o boi, ou cordeiro, ou cabra, sete dias estará debaixo de sua mãe; depois, desde o oitavo dia em diante, será aceito por oferta queimada ao Senhor.'),
 (32426,2,3,22,28,'Também boi ou gado miúdo, a ele e a seu filho não degolareis no mesmo dia.'),
 (32427,2,3,22,29,'E, quando oferecerdes sacrifícios de louvores ao Senhor, o oferecereis da vossa vontade.'),
-(32428,2,3,22,30,'No mesmo dia se comerá; dele nada deixareis ficar até pela manhã. Eu sou o Senhor.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(32428,2,3,22,30,'No mesmo dia se comerá; dele nada deixareis ficar até pela manhã. Eu sou o Senhor.'),
 (32429,2,3,22,31,'Por isso guardareis os meus mandamentos, e os cumprireis. Eu sou o Senhor.'),
 (32430,2,3,22,32,'E não profanareis o meu santo nome, para que eu seja santificado no meio dos filhos de Israel. Eu sou o Senhor que vos santifico;'),
 (32431,2,3,22,33,'Que vos tirei da terra do Egito, para ser o vosso Deus. Eu sou o Senhor.'),
@@ -3519,8 +3454,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (32475,2,3,23,44,'Assim pronunciou Moisés as solenidades do Senhor aos filhos de Israel.'),
 (32476,2,3,24,1,'E falou o SENHOR a Moisés, dizendo:'),
 (32477,2,3,24,2,'Ordena aos filhos de Israel que te tragam azeite de oliveira, puro, batido, para a luminária, para manter as lâmpadas acesas continuamente.'),
-(32478,2,3,24,3,'Arão as porá em ordem perante o Senhor continuamente, desde a tarde até à manhã, fora do véu do testemunho, na tenda da congregação; estatuto perpétuo é pelas vossas gerações.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(32478,2,3,24,3,'Arão as porá em ordem perante o Senhor continuamente, desde a tarde até à manhã, fora do véu do testemunho, na tenda da congregação; estatuto perpétuo é pelas vossas gerações.'),
 (32479,2,3,24,4,'Sobre o candelabro de ouro puro porá em ordem as lâmpadas perante o Senhor continuamente.'),
 (32480,2,3,24,5,'Também tomarás da flor de farinha, e dela cozerás doze pães; cada pão será de duas dízimas de um efa.'),
 (32481,2,3,24,6,'E os porás em duas fileiras, seis em cada fileira, sobre a mesa pura, perante o Senhor.'),
@@ -3570,8 +3504,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (32525,2,3,25,27,'Então contará os anos desde a sua venda, e o que ficar restituirá ao homem a quem a vendeu, e tornará à sua possessão.'),
 (32526,2,3,25,28,'Mas se não conseguir o suficiente para restituir-lha, então a que foi vendida ficará na mão do comprador até ao ano do jubileu; porém no ano do jubileu sairá, e ele tornará à sua possessão.'),
 (32527,2,3,25,29,'E, quando alguém vender uma casa de moradia em cidade murada, então poderá resgatá-la até que se cumpra o ano da sua venda; durante um ano inteiro será lícito o seu resgate.'),
-(32528,2,3,25,30,'Mas, se, cumprindo-se-lhe um ano inteiro, ainda não for resgatada, então a casa, que estiver na cidade que tem muro, em perpetuidade ficará ao que a comprou, pelas suas gerações; não sairá no jubileu.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(32528,2,3,25,30,'Mas, se, cumprindo-se-lhe um ano inteiro, ainda não for resgatada, então a casa, que estiver na cidade que tem muro, em perpetuidade ficará ao que a comprou, pelas suas gerações; não sairá no jubileu.'),
 (32529,2,3,25,31,'Mas as casas das aldeias que não têm muro ao redor, serão estimadas como o campo da terra; para elas haverá resgate, e sairão no jubileu.'),
 (32530,2,3,25,32,'Mas, no tocante às cidades dos levitas, às casas das cidades da sua possessão, direito perpétuo de resgate terão os levitas.'),
 (32531,2,3,25,33,'E se alguém comprar dos levitas, uma casa, a casa comprada e a cidade da sua possessão sairão do poder do comprador no jubileu; porque as casas das cidades dos levitas são a sua possessão no meio dos filhos de Israel.'),
@@ -3621,8 +3554,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (32575,2,3,26,22,'Porque enviarei entre vós as feras do campo, as quais vos desfilharão, e desfarão o vosso gado, e vos diminuirão; e os vossos caminhos serão desertos.'),
 (32576,2,3,26,23,'Se ainda com estas coisas não vos corrigirdes voltando para mim, mas ainda andardes contrariamente para comigo,'),
 (32577,2,3,26,24,'Eu também andarei contrariamente para convosco, e eu, eu mesmo, vos ferirei sete vezes mais por causa dos vossos pecados.'),
-(32578,2,3,26,25,'Porque trarei sobre vós a espada, que executará a vingança da aliança; e ajuntados sereis nas vossas cidades; então enviarei a peste entre vós, e sereis entregues na mão do inimigo.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(32578,2,3,26,25,'Porque trarei sobre vós a espada, que executará a vingança da aliança; e ajuntados sereis nas vossas cidades; então enviarei a peste entre vós, e sereis entregues na mão do inimigo.'),
 (32579,2,3,26,26,'Quando eu vos quebrar o sustento do pão, então dez mulheres cozerão o vosso pão num só forno, e devolver-vos-ão o vosso pão por peso; e comereis, mas não vos fartareis.'),
 (32580,2,3,26,27,'E se com isto não me ouvirdes, mas ainda andardes contrariamente para comigo,'),
 (32581,2,3,26,28,'Também eu para convosco andarei contrariamente em furor; e vos castigarei sete vezes mais por causa dos vossos pecados.'),
@@ -3672,8 +3604,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (32625,2,3,27,26,'Mas o primogênito de um animal, por já ser do SENHOR, ninguém o santificará; seja boi ou gado miúdo, do SENHOR é.'),
 (32626,2,3,27,27,'Mas, se for de um animal imundo, o resgatará, segundo a tua estimação, e sobre ele acrescentará a sua quinta parte; e se não se resgatar, vender-se-á segundo a tua estimação.'),
 (32627,2,3,27,28,'Todavia, nenhuma coisa consagrada, que alguém consagrar ao Senhor de tudo o que tem, de homem, ou de animal, ou do campo da sua possessão, se venderá nem resgatará; toda a coisa consagrada será santíssima ao Senhor.'),
-(32628,2,3,27,29,'Toda a coisa consagrada que for consagrada do homem, não será resgatada; certamente morrerá.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(32628,2,3,27,29,'Toda a coisa consagrada que for consagrada do homem, não será resgatada; certamente morrerá.'),
 (32629,2,3,27,30,'Também todas as dízimas do campo, da semente do campo, do fruto das árvores, são do Senhor; santas são ao Senhor.'),
 (32630,2,3,27,31,'Porém, se alguém das suas dízimas resgatar alguma coisa, acrescentará a sua quinta parte sobre ela.'),
 (32631,2,3,27,32,'No tocante a todas as dízimas do gado e do rebanho, tudo o que passar debaixo da vara, o dízimo será santo ao Senhor.'),
@@ -3723,8 +3654,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (32675,2,4,1,42,'Dos filhos de Naftali, as suas gerações, pelas suas famílias, segundo a casa de seus pais, pelo número dos nomes dos de vinte anos para cima, todos os que podiam sair à guerra,'),
 (32676,2,4,1,43,'Foram contados deles, da tribo de Naftali, cinqüenta e três mil e quatrocentos.'),
 (32677,2,4,1,44,'Estes foram os contados, que contaram Moisés e Arão, e os príncipes de Israel, doze homens, cada um era pela casa de seus pais.'),
-(32678,2,4,1,45,'Assim foram todos os contados dos filhos de Israel, segundo a casa de seus pais, de vinte anos para cima, todos os que podiam sair à guerra em Israel;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(32678,2,4,1,45,'Assim foram todos os contados dos filhos de Israel, segundo a casa de seus pais, de vinte anos para cima, todos os que podiam sair à guerra em Israel;'),
 (32679,2,4,1,46,'Todos os contados eram seiscentos e três mil e quinhentos e cinqüenta.'),
 (32680,2,4,1,47,'Mas os levitas, segundo a tribo de seus pais, não foram contados entre eles,'),
 (32681,2,4,1,48,'Porquanto o Senhor tinha falado a Moisés, dizendo:'),
@@ -3774,8 +3704,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (32725,2,4,3,4,'Mas Nadabe e Abiú morreram perante o Senhor, quando ofereceram fogo estranho perante o Senhor no deserto de Sinai, e não tiveram filhos; porém Eleazar e Itamar administraram o sacerdócio diante de Arão, seu pai.'),
 (32726,2,4,3,5,'E falou o Senhor a Moisés, dizendo:'),
 (32727,2,4,3,6,'Faze chegar a tribo de Levi, e põe-na diante de Arão, o sacerdote, para que o sirvam,'),
-(32728,2,4,3,7,'E tenham cuidado da sua guarda, e da guarda de toda a congregação, diante da tenda da congregação, para administrar o ministério do tabernáculo.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(32728,2,4,3,7,'E tenham cuidado da sua guarda, e da guarda de toda a congregação, diante da tenda da congregação, para administrar o ministério do tabernáculo.'),
 (32729,2,4,3,8,'E tenham cuidado de todos os utensílios da tenda da congregação, e da guarda dos filhos de Israel, para administrar o ministério do tabernáculo.'),
 (32730,2,4,3,9,'Darás, pois, os levitas a Arão e a seus filhos; dentre os filhos de Israel lhes são dados em dádiva.'),
 (32731,2,4,3,10,'Mas a Arão e a seus filhos ordenarás que guardem o seu sacerdócio, e o estranho que se chegar morrerá.'),
@@ -3825,8 +3754,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (32775,2,4,4,3,'Da idade de trinta anos para cima até aos cinqüenta anos, será todo aquele que entrar neste serviço, para fazer o trabalho na tenda da congregação.'),
 (32776,2,4,4,4,'Este será o ministério dos filhos de Coate na tenda da congregação, nas coisas santíssimas.'),
 (32777,2,4,4,5,'Quando partir o arraial, Arão e seus filhos virão e tirarão o véu da tenda, e com ele cobrirão a arca do testemunho;'),
-(32778,2,4,4,6,'E pôr-lhe-ão por cima uma coberta de peles de texugos, e sobre ela estenderão um pano, todo azul, e lhe colocarão os varais.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(32778,2,4,4,6,'E pôr-lhe-ão por cima uma coberta de peles de texugos, e sobre ela estenderão um pano, todo azul, e lhe colocarão os varais.'),
 (32779,2,4,4,7,'Também sobre a mesa da proposição estenderão um pano azul; e sobre ela porão os pratos, as colheres, e as taças e os jarros para libação; também o pão contínuo estará sobre ela.'),
 (32780,2,4,4,8,'Depois estenderão em cima deles um pano de carmesim, e com a coberta de peles de texugos o cobrirão, e lhe colocarão os seus varais.'),
 (32781,2,4,4,9,'Então tomarão um pano azul, e cobrirão o candelabro da luminária, e as suas lâmpadas, e os seus espevitadores, e os seus apagadores, e todos os seus vasos de azeite, com que o servem.'),
@@ -3876,8 +3804,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (32825,2,4,5,4,'E os filhos de Israel fizeram assim, e os lançaram fora do arraial; como o Senhor falara a Moisés, assim fizeram os filhos de Israel.'),
 (32826,2,4,5,5,'Falou mais o Senhor a Moisés, dizendo:'),
 (32827,2,4,5,6,'Dize aos filhos de Israel: Quando homem ou mulher fizer algum de todos os pecados humanos, transgredindo contra o Senhor, tal alma culpada é.'),
-(32828,2,4,5,7,'E confessará o seu pecado que cometeu; pela sua culpa, fará plena restituição, segundo a soma total, e lhe acrescentará a sua quinta parte, e a dará àquele contra quem se fez culpado.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(32828,2,4,5,7,'E confessará o seu pecado que cometeu; pela sua culpa, fará plena restituição, segundo a soma total, e lhe acrescentará a sua quinta parte, e a dará àquele contra quem se fez culpado.'),
 (32829,2,4,5,8,'Mas, se aquele homem não tiver resgatador, a quem se restitua a culpa, então a culpa que se restituir ao Senhor será do sacerdote, além do carneiro da expiação pelo qual por ele se fará expiação.'),
 (32830,2,4,5,9,'Semelhantemente toda a oferta de todas as coisas santificadas dos filhos de Israel, que trouxerem ao sacerdote, será sua.'),
 (32831,2,4,5,10,'E as coisas santificadas de cada um serão suas; o que alguém der ao sacerdote será seu.'),
@@ -3927,8 +3854,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (32875,2,4,6,23,'Fala a Arão, e a seus filhos dizendo: Assim abençoareis os filhos de Israel, dizendo-lhes:'),
 (32876,2,4,6,24,'O Senhor te abençoe e te guarde;'),
 (32877,2,4,6,25,'O Senhor faça resplandecer o seu rosto sobre ti, e tenha misericórdia de ti;'),
-(32878,2,4,6,26,'O Senhor sobre ti levante o seu rosto e te dê a paz.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(32878,2,4,6,26,'O Senhor sobre ti levante o seu rosto e te dê a paz.'),
 (32879,2,4,6,27,'Assim porão o meu nome sobre os filhos de Israel, e eu os abençoarei.'),
 (32880,2,4,7,1,'E aconteceu, no dia em que Moisés acabou de levantar o tabernáculo, e o ungiu, e o santificou, e todos os seus utensílios; também o altar, e todos os seus pertences, e os ungiu, e os santificou,'),
 (32881,2,4,7,2,'Que os príncipes de Israel, os cabeças da casa de seus pais, os que foram príncipes das tribos, que estavam sobre os que foram contados, ofereceram,'),
@@ -3978,8 +3904,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (32925,2,4,7,46,'Um bode para expiação do pecado.'),
 (32926,2,4,7,47,'E para sacrifício pacífico dois bois, cinco carneiros, cinco bodes, cinco cordeiros de um ano; esta foi a oferta de Eliasafe, filho de Deuel.'),
 (32927,2,4,7,48,'No sétimo dia ofereceu o príncipe dos filhos de Efraim, Elisama, filho de Amiúde.'),
-(32928,2,4,7,49,'A sua oferta foi um prato de prata, do peso de cento e trinta siclos, uma bacia de prata de setenta siclos, segundo o siclo do santuário; ambos cheios de flor de farinha, amassada com azeite, para oferta de alimentos;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(32928,2,4,7,49,'A sua oferta foi um prato de prata, do peso de cento e trinta siclos, uma bacia de prata de setenta siclos, segundo o siclo do santuário; ambos cheios de flor de farinha, amassada com azeite, para oferta de alimentos;'),
 (32929,2,4,7,50,'Uma colher de dez siclos de ouro, cheia de incenso;'),
 (32930,2,4,7,51,'Um novilho, um carneiro, um cordeiro de um ano, para holocausto;'),
 (32931,2,4,7,52,'Um bode para expiação do pecado;'),
@@ -4029,8 +3954,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (32975,2,4,8,7,'E assim lhes farás, para os purificar: Esparge sobre eles a água da expiação; e sobre toda a sua carne farão passar a navalha, e lavarão as suas vestes, e se purificarão.'),
 (32976,2,4,8,8,'Então tomarão um novilho, com a sua oferta de alimentos de flor de farinha amassada com azeite; e tomarás tu outro novilho, para expiação do pecado.'),
 (32977,2,4,8,9,'E farás chegar os levitas perante a tenda da congregação e ajuntarás toda a congregação dos filhos de Israel.'),
-(32978,2,4,8,10,'Farás, pois, chegar os levitas perante o Senhor; e os filhos de Israel porão as suas mãos sobre os levitas.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(32978,2,4,8,10,'Farás, pois, chegar os levitas perante o Senhor; e os filhos de Israel porão as suas mãos sobre os levitas.'),
 (32979,2,4,8,11,'E Arão oferecerá os levitas por oferta movida, perante o Senhor, pelos filhos de Israel; e serão para servirem no ministério do Senhor.'),
 (32980,2,4,8,12,'E os levitas colocarão as suas mãos sobre a cabeça dos novilhos; então sacrifica tu, um para expiação do pecado, e o outro para holocausto ao Senhor, para fazer expiação pelos levitas.'),
 (32981,2,4,8,13,'E porás os levitas perante Arão, e perante os seus filhos, e os oferecerá por oferta movida ao Senhor.'),
@@ -4131,8 +4055,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (33075,2,4,11,22,'Degolar-se-ão para eles ovelhas e vacas que lhes bastem? Ou ajuntar-se-ão para eles todos os peixes do mar, que lhes bastem?'),
 (33076,2,4,11,23,'Porém, o Senhor disse a Moisés: Teria sido encurtada a mão do Senhor? Agora verás se a minha palavra se há de cumprir ou não.'),
 (33077,2,4,11,24,'E saiu Moisés, e falou as palavras do Senhor ao povo, e ajuntou setenta homens dos anciãos do povo e os pôs ao redor da tenda.'),
-(33078,2,4,11,25,'Então o Senhor desceu na nuvem, e lhe falou; e, tirando do espírito, que estava sobre ele, o pôs sobre aqueles setenta anciãos; e aconteceu que, quando o espírito repousou sobre eles, profetizaram; mas depois nunca mais.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(33078,2,4,11,25,'Então o Senhor desceu na nuvem, e lhe falou; e, tirando do espírito, que estava sobre ele, o pôs sobre aqueles setenta anciãos; e aconteceu que, quando o espírito repousou sobre eles, profetizaram; mas depois nunca mais.'),
 (33079,2,4,11,26,'Porém no arraial ficaram dois homens; o nome de um era Eldade, e do outro Medade; e repousou sobre eles o espírito (porquanto estavam entre os inscritos, ainda que não saíram à tenda), e profetizavam no arraial.'),
 (33080,2,4,11,27,'Então correu um moço e anunciou a Moisés e disse: Eldade e Medade profetizam no arraial.'),
 (33081,2,4,11,28,'E Josué, filho de Num, servidor de Moisés, um dos seus jovens escolhidos, respondeu e disse: Moisés, meu senhor, proíbe-lho.'),
@@ -4182,8 +4105,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (33125,2,4,13,21,'Assim subiram e espiaram a terra desde o deserto de Zim, até Reobe, à entrada de Hamate.'),
 (33126,2,4,13,22,'E subiram para o lado do sul, e vieram até Hebrom; e estavam ali Aimã, Sesai e Talmai, filhos de Anaque (Hebrom foi edificada sete anos antes de Zoã no Egito).'),
 (33127,2,4,13,23,'Depois foram até ao vale de Escol, e dali cortaram um ramo de vide com um cacho de uvas, o qual trouxeram dois homens, sobre uma vara; como também das romãs e dos figos.'),
-(33128,2,4,13,24,'Chamaram àquele lugar o vale de Escol, por causa do cacho que dali cortaram os filhos de Israel.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(33128,2,4,13,24,'Chamaram àquele lugar o vale de Escol, por causa do cacho que dali cortaram os filhos de Israel.'),
 (33129,2,4,13,25,'E eles voltaram de espiar a terra, ao fim de quarenta dias.'),
 (33130,2,4,13,26,'E caminharam, e vieram a Moisés e a Arão, e a toda a congregação dos filhos de Israel no deserto de Parã, em Cades; e deram-lhes notícias, a eles, e a toda a congregação, e mostraram-lhes o fruto da terra.'),
 (33131,2,4,13,27,'E contaram-lhe, e disseram: Fomos à terra a que nos enviaste; e verdadeiramente mana leite e mel, e este é o seu fruto.'),
@@ -4233,8 +4155,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (33175,2,4,14,38,'Mas Josué, filho de Num, e Calebe, filho de Jefoné, que eram dos homens que foram espiar a terra, ficaram com vida.'),
 (33176,2,4,14,39,'E falou Moisés estas palavras a todos os filhos de Israel; então o povo se contristou muito.'),
 (33177,2,4,14,40,'E levantaram-se pela manhã de madrugada, e subiram ao cume do monte, dizendo: Eis-nos aqui, e subiremos ao lugar que o Senhor tem falado; porquanto havemos pecado.'),
-(33178,2,4,14,41,'Mas Moisés disse: Por que transgredis o mandado do Senhor? Pois isso não prosperará.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(33178,2,4,14,41,'Mas Moisés disse: Por que transgredis o mandado do Senhor? Pois isso não prosperará.'),
 (33179,2,4,14,42,'Não subais, pois o Senhor não estará no meio de vós, para que não sejais feridos diante dos vossos inimigos.'),
 (33180,2,4,14,43,'Porque os amalequitas e os cananeus estão ali diante da vossa face, e caireis à espada; pois, porquanto vos desviastes do Senhor, o Senhor não estará convosco.'),
 (33181,2,4,14,44,'Contudo, temerariamente, tentaram subir ao cume do monte; mas a arca da aliança do Senhor e Moisés não se apartaram do meio do arraial.'),
@@ -4284,8 +4205,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (33225,2,4,16,2,'E levantaram-se perante Moisés com duzentos e cinqüenta homens dos filhos de Israel, príncipes da congregação, chamados à assembléia, homens de posição,'),
 (33226,2,4,16,3,'E se congregaram contra Moisés e contra Arão, e lhes disseram: Basta-vos, pois que toda a congregação é santa, todos são santos, e o Senhor está no meio deles; por que, pois, vos elevais sobre a congregação do Senhor?'),
 (33227,2,4,16,4,'Quando Moisés ouviu isso, caiu sobre o seu rosto.'),
-(33228,2,4,16,5,'E falou a Coré e a toda a sua congregação, dizendo: Amanhã pela manhã o Senhor fará saber quem é seu, e quem é o santo que ele fará chegar a si; e aquele a quem escolher fará chegar a si.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(33228,2,4,16,5,'E falou a Coré e a toda a sua congregação, dizendo: Amanhã pela manhã o Senhor fará saber quem é seu, e quem é o santo que ele fará chegar a si; e aquele a quem escolher fará chegar a si.'),
 (33229,2,4,16,6,'Fazei isto: Tomai vós incensários, Coré e todo seu grupo;'),
 (33230,2,4,16,7,'E, pondo fogo neles amanhã, sobre eles deitai incenso perante o Senhor; e será que o homem a quem o Senhor escolher, este será o santo; basta-vos, filhos de Levi.'),
 (33231,2,4,16,8,'Disse mais Moisés a Coré: Ouvi agora, filhos de Levi:'),
@@ -4335,8 +4255,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (33275,2,4,17,2,'Fala aos filhos de Israel, e toma deles uma vara para cada casa paterna de todos os seus príncipes, segundo as casas de seus pais, doze varas; e escreverás o nome de cada um sobre a sua vara.'),
 (33276,2,4,17,3,'Porém o nome de Arão escreverás sobre a vara de Levi; porque cada cabeça da casa de seus pais terá uma vara.'),
 (33277,2,4,17,4,'E as porás na tenda da congregação, perante o testemunho, onde eu virei a vós.'),
-(33278,2,4,17,5,'E será que a vara do homem que eu tiver escolhido florescerá; assim farei cessar as murmurações dos filhos de Israel contra mim, com que murmuram contra vós.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(33278,2,4,17,5,'E será que a vara do homem que eu tiver escolhido florescerá; assim farei cessar as murmurações dos filhos de Israel contra mim, com que murmuram contra vós.'),
 (33279,2,4,17,6,'Falou, pois, Moisés aos filhos de Israel; e todos os seus príncipes deram-lhe cada um uma vara, para cada príncipe uma vara, segundo as casas de seus pais, doze varas; e a vara de Arão estava entre as deles.'),
 (33280,2,4,17,7,'E Moisés pôs estas varas perante o Senhor na tenda do testemunho.'),
 (33281,2,4,17,8,'Sucedeu, pois, que no dia seguinte Moisés entrou na tenda do testemunho, e eis que a vara de Arão, pela casa de Levi, florescia; porque produzira flores e brotara renovos e dera amêndoas.'),
@@ -4386,8 +4305,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (33325,2,4,19,7,'Então o sacerdote lavará as suas vestes, e banhará a sua carne na água, e depois entrará no arraial; e o sacerdote será imundo até à tarde.'),
 (33326,2,4,19,8,'Também o que a queimou lavará as suas vestes com água, e em água banhará a sua carne, e imundo será até à tarde.'),
 (33327,2,4,19,9,'E um homem limpo ajuntará a cinza da novilha, e a porá fora do arraial, num lugar limpo, e ficará ela guardada para a congregação dos filhos de Israel, para a água da separação; expiação é.'),
-(33328,2,4,19,10,'E o que apanhou a cinza da novilha lavará as suas vestes, e será imundo até à tarde; isto será por estatuto perpétuo aos filhos de Israel e ao estrangeiro que peregrina no meio deles.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(33328,2,4,19,10,'E o que apanhou a cinza da novilha lavará as suas vestes, e será imundo até à tarde; isto será por estatuto perpétuo aos filhos de Israel e ao estrangeiro que peregrina no meio deles.'),
 (33329,2,4,19,11,'Aquele que tocar em algum morto, cadáver de algum homem, imundo será sete dias.'),
 (33330,2,4,19,12,'Ao terceiro dia se purificará com aquela água, e ao sétimo dia será limpo; mas, se ao terceiro dia se não purificar, não será limpo ao sétimo dia.'),
 (33331,2,4,19,13,'Todo aquele que tocar em algum morto, cadáver de algum homem, e não se purificar, contamina o tabernáculo do Senhor; e aquela pessoa será extirpada de Israel; porque a água da separação não foi espargida sobre ele, imundo será; está nele ainda a sua imundícia.'),
@@ -4437,8 +4355,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (33375,2,4,21,6,'Então o Senhor mandou entre o povo serpentes ardentes, que picaram o povo; e morreu muita gente em Israel.'),
 (33376,2,4,21,7,'Por isso o povo veio a Moisés, e disse: Havemos pecado, porquanto temos falado contra o Senhor e contra ti; ora ao Senhor que tire de nós estas serpentes. Então Moisés orou pelo povo.'),
 (33377,2,4,21,8,'E disse o Senhor a Moisés: Faze-te uma serpente ardente, e põe-na sobre uma haste; e será que viverá todo o que, tendo sido picado, olhar para ela.'),
-(33378,2,4,21,9,'E Moisés fez uma serpente de metal, e pô-la sobre uma haste; e sucedia que, picando alguma serpente a alguém, quando esse olhava para a serpente de metal, vivia.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(33378,2,4,21,9,'E Moisés fez uma serpente de metal, e pô-la sobre uma haste; e sucedia que, picando alguma serpente a alguém, quando esse olhava para a serpente de metal, vivia.'),
 (33379,2,4,21,10,'Então os filhos de Israel partiram, e alojaram-se em Obote.'),
 (33380,2,4,21,11,'Depois partiram de Obote e alojaram-se nos outeiros de Ije-Abarim, no deserto que está defronte de Moabe, ao nascente do sol.'),
 (33381,2,4,21,12,'Dali partiram, e alojaram-se junto ao ribeiro de Zerede.'),
@@ -4488,8 +4405,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (33425,2,4,22,21,'Então Balaão levantou-se pela manhã, e albardou a sua jumenta, e foi com os príncipes de Moabe.'),
 (33426,2,4,22,22,'E a ira de Deus acendeu-se, porque ele se ia; e o anjo do Senhor pôs-se-lhe no caminho por adversário; e ele ia caminhando, montado na sua jumenta, e dois de seus servos com ele.'),
 (33427,2,4,22,23,'Viu, pois, a jumenta o anjo do Senhor, que estava no caminho, com a sua espada desembainhada na mão; pelo que desviou-se a jumenta do caminho, indo pelo campo; então Balaão espancou a jumenta para fazê-la tornar ao caminho.'),
-(33428,2,4,22,24,'Mas o anjo do Senhor pôs-se numa vereda entre as vinhas, havendo uma parede de um e de outro lado.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(33428,2,4,22,24,'Mas o anjo do Senhor pôs-se numa vereda entre as vinhas, havendo uma parede de um e de outro lado.'),
 (33429,2,4,22,25,'Vendo, pois, a jumenta, o anjo do Senhor, encostou-se contra a parede, e apertou contra a parede o pé de Balaão; por isso tornou a espancá-la.'),
 (33430,2,4,22,26,'Então o anjo do Senhor passou mais adiante, e pôs-se num lugar estreito, onde não havia caminho para se desviar nem para a direita nem para a esquerda.'),
 (33431,2,4,22,27,'E, vendo a jumenta o anjo do Senhor, deitou-se debaixo de Balaão; e a ira de Balaão acendeu-se, e espancou a jumenta com o bordão.'),
@@ -4539,8 +4455,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (33475,2,4,23,30,'Balaque, pois, fez como dissera Balaão: e ofereceu um novilho e um carneiro sobre cada altar.'),
 (33476,2,4,24,1,'Vendo Balaão que bem parecia aos olhos do SENHOR que abençoasse a Israel, não se foi esta vez como antes ao encontro dos encantamentos; mas voltou o seu rosto para o deserto.'),
 (33477,2,4,24,2,'E, levantando Balaão os seus olhos, e vendo a Israel, que estava acampado segundo as suas tribos, veio sobre ele o Espírito de Deus.'),
-(33478,2,4,24,3,'E proferiu a sua parábola, e disse: Fala, Balaão, filho de Beor, e fala o homem de olhos abertos;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(33478,2,4,24,3,'E proferiu a sua parábola, e disse: Fala, Balaão, filho de Beor, e fala o homem de olhos abertos;'),
 (33479,2,4,24,4,'Fala aquele que ouviu as palavras de Deus, o que vê a visão do Todo-Poderoso; que cai, e se lhe abrem os olhos:'),
 (33480,2,4,24,5,'Quão formosas são as tuas tendas, ó Jacó, as tuas moradas, ó Israel!'),
 (33481,2,4,24,6,'Como ribeiros se estendem, como jardins à beira dos rios; como árvores de sândalo o Senhor os plantou, como cedros junto às águas;'),
@@ -4590,8 +4505,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (33525,2,4,26,7,'Estas são as famílias dos rubenitas; e os que foram deles contados foram quarenta e três mil e setecentos e trinta.'),
 (33526,2,4,26,8,'E os filhos de Palu, Eliabe;'),
 (33527,2,4,26,9,'E os filhos de Eliabe, Nemuel, e Datã, e Abirão: estes, Datã e Abirão, foram os do conselho da congregação, que contenderam contra Moisés e contra Arão no grupo de Coré, quando rebelaram contra o Senhor;'),
-(33528,2,4,26,10,'E a terra abriu a sua boca, e os tragou com Coré, quando morreu aquele grupo; quando o fogo consumiu duzentos e cinqüenta homens, os quais serviram de advertência.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(33528,2,4,26,10,'E a terra abriu a sua boca, e os tragou com Coré, quando morreu aquele grupo; quando o fogo consumiu duzentos e cinqüenta homens, os quais serviram de advertência.'),
 (33529,2,4,26,11,'Mas os filhos de Coré não morreram.'),
 (33530,2,4,26,12,'Os filhos de Simeão, segundo as suas famílias: de Nemuel, a família dos nemuelitas; de Jamim, a família dos jaminitas; de Jaquim, a família dos jaquinitas;'),
 (33531,2,4,26,13,'De Zerá, a família dos zeraítas; de Saul, a família dos saulitas.'),
@@ -4641,8 +4555,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (33575,2,4,26,57,'E estes são os que foram contados dos levitas, segundo as suas famílias: de Gérson, a família dos gersonitas; de Coate, a família dos coatitas; de Merari, a família dos meraritas.'),
 (33576,2,4,26,58,'Estas são as famílias de Levi: a família dos libnitas, a família dos hebronitas, a família dos malitas, a família dos musitas, a família dos coreítas. E Coate gerou a Anrão.'),
 (33577,2,4,26,59,'E o nome da mulher de Anrão era Joquebede, filha de Levi, a qual nasceu a Levi no Egito; e de Anrão ela teve Arão, e Moisés, e Miriã, irmã deles.'),
-(33578,2,4,26,60,'E a Arão nasceram Nadabe, Abiú, Eleazar, e Itamar.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(33578,2,4,26,60,'E a Arão nasceram Nadabe, Abiú, Eleazar, e Itamar.'),
 (33579,2,4,26,61,'Porém Nadabe e Abiú morreram quando trouxeram fogo estranho perante o Senhor.'),
 (33580,2,4,26,62,'E os que deles foram contados eram vinte e três mil, todo o homem da idade de um mês para cima; porque estes não foram contados entre os filhos de Israel, porquanto não lhes foi dada herança entre os filhos de Israel.'),
 (33581,2,4,26,63,'Estes são os que foram contados por Moisés e Eleazar, o sacerdote, que contaram os filhos de Israel nas campinas de Moabe, junto ao Jordão na direção de Jericó.'),
@@ -4692,8 +4605,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (33625,2,4,28,19,'Mas oferecereis oferta queimada em holocausto ao Senhor, dois novilhos e um carneiro, e sete cordeiros de um ano; eles serão sem defeito.'),
 (33626,2,4,28,20,'E a sua oferta de alimentos será de flor de farinha misturada com azeite; oferecereis três décimas para um novilho, e duas décimas para um carneiro.'),
 (33627,2,4,28,21,'Para cada um dos sete cordeiros oferecereis uma décima;'),
-(33628,2,4,28,22,'E um bode para expiação do pecado, para fazer expiação por vós.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(33628,2,4,28,22,'E um bode para expiação do pecado, para fazer expiação por vós.'),
 (33629,2,4,28,23,'Estas coisas oferecereis, além do holocausto da manhã, que é o holocausto contínuo.'),
 (33630,2,4,28,24,'Segundo este modo, cada dia oferecereis, por sete dias, o alimento da oferta queimada em cheiro suave ao Senhor; além do holocausto contínuo se oferecerá isto com a sua libação.'),
 (33631,2,4,28,25,'E no sétimo dia tereis santa convocação; nenhum trabalho servil fareis.'),
@@ -4743,8 +4655,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (33675,2,4,29,38,'E um bode para expiação do pecado, além do holocausto contínuo, e da sua oferta de alimentos e da sua libação.'),
 (33676,2,4,29,39,'Estas coisas fareis ao Senhor nas vossas solenidades além dos vossos votos, e das vossas ofertas voluntárias, com os vossos holocaustos, e com as vossas ofertas de alimentos, e com as vossas libações, e com as vossas ofertas pacíficas.'),
 (33677,2,4,29,40,'E falou Moisés aos filhos de Israel, conforme a tudo o que o Senhor ordenara a Moisés.'),
-(33678,2,4,30,1,'E falou Moisés aos cabeças das tribos dos filhos de Israel, dizendo: Esta é a palavra que o SENHOR tem ordenado.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(33678,2,4,30,1,'E falou Moisés aos cabeças das tribos dos filhos de Israel, dizendo: Esta é a palavra que o SENHOR tem ordenado.'),
 (33679,2,4,30,2,'Quando um homem fizer voto ao Senhor, ou fizer juramento, ligando a sua alma com obrigação, não violará a sua palavra: segundo tudo o que saiu da sua boca, fará.'),
 (33680,2,4,30,3,'Também quando uma mulher, na sua mocidade, estando ainda na casa de seu pai, fizer voto ao Senhor, e com obrigação se ligar,'),
 (33681,2,4,30,4,'E seu pai ouvir o seu voto e a sua obrigação, com que ligou a sua alma; e seu pai se calar para com ela, todos os seus votos serão válidos; e toda a obrigação com que ligou a sua alma, será válida.'),
@@ -4794,8 +4705,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (33725,2,4,31,32,'Foi a presa, restante do despojo que tomaram os homens de guerra, seiscentas e setenta e cinco mil ovelhas;'),
 (33726,2,4,31,33,'E setenta e dois mil bois;'),
 (33727,2,4,31,34,'E sessenta e um mil jumentos;'),
-(33728,2,4,31,35,'E, das mulheres que não conheceram homem algum, deitando-se com ele, todas as almas foram trinta e duas mil.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(33728,2,4,31,35,'E, das mulheres que não conheceram homem algum, deitando-se com ele, todas as almas foram trinta e duas mil.'),
 (33729,2,4,31,36,'E a metade, que era a porção dos que saíram à guerra, foi em número de trezentas e trinta e sete mil e quinhentas ovelhas.'),
 (33730,2,4,31,37,'E das ovelhas, o tributo para o Senhor foi de seiscentas e setenta e cinco.'),
 (33731,2,4,31,38,'E foram os bois trinta e seis mil; e o seu tributo para o Senhor setenta e dois.'),
@@ -4845,8 +4755,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (33775,2,4,32,28,'Então Moisés deu ordem acerca deles a Eleazar, o sacerdote, e a Josué filho de Num, e aos cabeças das casas dos pais das tribos dos filhos de Israel.'),
 (33776,2,4,32,29,'E disse-lhes Moisés: Se os filhos de Gade e os filhos de Rúben passarem convosco o Jordão, armado cada um para a guerra, perante o Senhor, e a terra estiver subjugada diante de vós, em possessão lhes dareis a terra de Gileade.'),
 (33777,2,4,32,30,'Porém, se não passarem armados convosco, terão possessões entre vós, na terra de Canaã.'),
-(33778,2,4,32,31,'E responderam os filhos de Gade e os filhos de Rúben, dizendo: O que o Senhor falou a teus servos, isso faremos.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(33778,2,4,32,31,'E responderam os filhos de Gade e os filhos de Rúben, dizendo: O que o Senhor falou a teus servos, isso faremos.'),
 (33779,2,4,32,32,'Nós passaremos, armados, perante o Senhor, à terra de Canaã, e teremos a possessão de nossa herança aquém do Jordão.'),
 (33780,2,4,32,33,'Assim deu-lhes Moisés, aos filhos de Gade, e aos filhos de Rúben, e à meia tribo de Manassés, filho de José, o reino de Siom, rei dos amorreus, e o reino de Ogue, rei de Basã; a terra com as suas cidades nos seus termos, e as cidades ao seu redor.'),
 (33781,2,4,32,34,'E os filhos de Gade edificaram a Dibom, e Atarote, e Aroer;'),
@@ -4896,8 +4805,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (33825,2,4,33,36,'E partiram de Ezion-Geber, e acamparam-se no deserto de Zim, que é Cades.'),
 (33826,2,4,33,37,'E partiram de Cades, e acamparam-se no monte Hor, no fim da terra de Edom.'),
 (33827,2,4,33,38,'Então Arão, o sacerdote, subiu ao monte Hor, conforme ao mandado do Senhor; e morreu ali no quinto mês do ano quadragésimo da saída dos filhos de Israel da terra do Egito, no primeiro dia do mês.'),
-(33828,2,4,33,39,'E era Arão da idade de cento e vinte e três anos, quando morreu no monte Hor.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(33828,2,4,33,39,'E era Arão da idade de cento e vinte e três anos, quando morreu no monte Hor.'),
 (33829,2,4,33,40,'E ouviu o cananeu, rei de Harade, que habitava o sul na terra de Canaã, que chegavam os filhos de Israel.'),
 (33830,2,4,33,41,'E partiram do monte Hor, e acamparam-se em Zalmona.'),
 (33831,2,4,33,42,'E partiram de Zalmona, e acamparam-se em Punom.'),
@@ -4947,8 +4855,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (33875,2,4,35,1,'E falou o SENHOR a Moisés nas campinas de Moabe, junto ao Jordão na direção de Jericó, dizendo:'),
 (33876,2,4,35,2,'Dá ordem aos filhos de Israel que, da herança da sua possessão, dêem cidades aos levitas, em que habitem; e também aos levitas dareis arrabaldes ao redor delas.'),
 (33877,2,4,35,3,'E terão estas cidades para habitá-las; porém os seus arrabaldes serão o seu gado, e para os seus bens, e para todos os seus animais.'),
-(33878,2,4,35,4,'E os arrabaldes das cidades, que dareis aos levitas, desde o muro da cidade para fora, serão de mil côvados em redor.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(33878,2,4,35,4,'E os arrabaldes das cidades, que dareis aos levitas, desde o muro da cidade para fora, serão de mil côvados em redor.'),
 (33879,2,4,35,5,'E de fora da cidade, do lado do oriente, medireis dois mil côvados, e do lado do sul, dois mil côvados, e do lado do ocidente dois mil côvados, e do lado do norte dois mil côvados, e a cidade no meio; isto terão por arrabaldes das cidades.'),
 (33880,2,4,35,6,'Das cidades, pois, que dareis aos levitas, haverá seis cidades de refúgio, as quais dareis para que o homicida ali se acolha; e, além destas, lhes dareis quarenta e duas cidades.'),
 (33881,2,4,35,7,'Todas as cidades que dareis aos levitas serão quarenta e oito cidades, juntamente com os seus arrabaldes.'),
@@ -4998,8 +4905,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (33925,2,5,1,4,'Depois que feriu a Siom, rei dos amorreus, que habitava em Hesbom, e a Ogue, rei de Basã, que habitava em Astarote, em Edrei.'),
 (33926,2,5,1,5,'Além do Jordão, na terra de Moabe, começou Moisés a declarar esta lei, dizendo:'),
 (33927,2,5,1,6,'O Senhor nosso Deus nos falou em Horebe, dizendo: Assaz vos haveis demorado neste monte.'),
-(33928,2,5,1,7,'Voltai-vos, e parti, e ide à montanha dos amorreus, e a todos os seus vizinhos, à planície, e à montanha, e ao vale, e ao sul, e à margem do mar; à terra dos cananeus, e ao Líbano, até ao grande rio, o rio Eufrates.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(33928,2,5,1,7,'Voltai-vos, e parti, e ide à montanha dos amorreus, e a todos os seus vizinhos, à planície, e à montanha, e ao vale, e ao sul, e à margem do mar; à terra dos cananeus, e ao Líbano, até ao grande rio, o rio Eufrates.'),
 (33929,2,5,1,8,'Eis que tenho posto esta terra diante de vós; entrai e possuí a terra que o Senhor jurou a vossos pais, Abraão, Isaque e Jacó, que a daria a eles e à sua descendência depois deles.'),
 (33930,2,5,1,9,'E no mesmo tempo eu vos falei, dizendo: Eu sozinho não poderei levar-vos.'),
 (33931,2,5,1,10,'O Senhor vosso Deus já vos tem multiplicado; e eis que em multidão sois hoje como as estrelas do céu.'),
@@ -5049,8 +4955,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (33975,2,5,2,8,'Passando, pois, por nossos irmãos, os filhos de Esaú, que habitavam em Seir, desde o caminho da planície de Elate e de Eziom-Geber, nos viramos e passamos o caminho do deserto de Moabe.'),
 (33976,2,5,2,9,'Então o Senhor me disse: Não molestes aos de Moabe, e não contendas com eles em peleja, porque não te darei herança da sua terra; porquanto tenho dado a Ar por herança aos filhos de Ló.'),
 (33977,2,5,2,10,'(Os emins dantes habitaram nela; um povo grande e numeroso, e alto como os gigantes.'),
-(33978,2,5,2,11,'Também estes foram considerados gigantes como os anaquins; e os moabitas os chamavam emins.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(33978,2,5,2,11,'Também estes foram considerados gigantes como os anaquins; e os moabitas os chamavam emins.'),
 (33979,2,5,2,12,'Outrora os horeus também habitaram em Seir; porém os filhos de Esaú os lançaram fora, e os destruíram de diante de si, e habitaram no seu lugar, assim como Israel fez à terra da sua herança, que o Senhor lhes tinha dado).'),
 (33980,2,5,2,13,'Levantai-vos agora, e passai o ribeiro de Zerede. Assim passamos o ribeiro de Zerede.'),
 (33981,2,5,2,14,'E os dias que caminhamos, desde Cades-Barnéia até que passamos o ribeiro de Zerede, foram trinta e oito anos, até que toda aquela geração dos homens de guerra se consumiu do meio do arraial, como o Senhor lhes jurara.'),
@@ -5151,8 +5056,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (34075,2,5,4,42,'Para que ali se acolhesse o homicida que involuntariamente matasse o seu próximo a quem dantes não tivesse ódio algum; e se acolhesse a uma destas cidades, e vivesse;'),
 (34076,2,5,4,43,'A Bezer, no deserto, no planalto, para os rubenitas; e a Ramote, em Gileade, para os gaditas; e a Golã, em Basã, para os manassitas.'),
 (34077,2,5,4,44,'Esta é, pois, a lei que Moisés propôs aos filhos de Israel.'),
-(34078,2,5,4,45,'Estes são os testemunhos, e os estatutos, e os juízos, que Moisés falou aos filhos de Israel, havendo saído do Egito;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(34078,2,5,4,45,'Estes são os testemunhos, e os estatutos, e os juízos, que Moisés falou aos filhos de Israel, havendo saído do Egito;'),
 (34079,2,5,4,46,'Além do Jordão, no vale defronte de Bete-Peor, na terra de Siom, rei dos amorreus, que habitava em Hesbom, a quem feriu Moisés e os filhos de Israel, havendo eles saído do Egito.'),
 (34080,2,5,4,47,'E tomaram a sua terra em possessão, como também a terra de Ogue, rei de Basã, dois reis dos amorreus, que estavam além do Jordão, do lado do nascimento do sol.'),
 (34081,2,5,4,48,'Desde Aroer, que está à margem do ribeiro de Arnom, até ao monte Sião, que é Hermom,'),
@@ -5202,8 +5106,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (34125,2,5,6,10,'Quando, pois, o Senhor teu Deus te introduzir na terra que jurou a teus pais, Abraão, Isaque e Jacó, que te daria, com grandes e boas cidades, que tu não edificaste,'),
 (34126,2,5,6,11,'E casas cheias de todo o bem, que tu não encheste, e poços cavados, que tu não cavaste, vinhas e olivais, que tu não plantaste, e comeres, e te fartares,'),
 (34127,2,5,6,12,'Guarda-te, que não te esqueças do Senhor, que te tirou da terra do Egito, da casa da servidão.'),
-(34128,2,5,6,13,'O Senhor teu Deus temerás e a ele servirás, e pelo seu nome jurarás.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(34128,2,5,6,13,'O Senhor teu Deus temerás e a ele servirás, e pelo seu nome jurarás.'),
 (34129,2,5,6,14,'Não seguireis outros deuses, os deuses dos povos que houver ao redor de vós;'),
 (34130,2,5,6,15,'Porque o Senhor teu Deus é um Deus zeloso no meio de ti, para que a ira do Senhor teu Deus se não acenda contra ti e te destrua de sobre a face da terra.'),
 (34131,2,5,6,16,'Não tentareis o Senhor vosso Deus, como o tentastes em Massá;'),
@@ -5253,8 +5156,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (34175,2,5,8,9,'Terra em que comerás o pão sem escassez, e nada te faltará nela; terra cujas pedras são ferro, e de cujos montes tu cavarás o cobre.'),
 (34176,2,5,8,10,'Quando, pois, tiveres comido, e fores farto, louvarás ao Senhor teu Deus pela boa terra que te deu.'),
 (34177,2,5,8,11,'Guarda-te que não te esqueças do Senhor teu Deus, deixando de guardar os seus mandamentos, e os seus juízos, e os seus estatutos que hoje te ordeno;'),
-(34178,2,5,8,12,'Para não suceder que, havendo tu comido e fores farto, e havendo edificado boas casas, e habitando-as,');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(34178,2,5,8,12,'Para não suceder que, havendo tu comido e fores farto, e havendo edificado boas casas, e habitando-as,'),
 (34179,2,5,8,13,'E se tiverem aumentado os teus gados e os teus rebanhos, e se acrescentar a prata e o ouro, e se multiplicar tudo quanto tens,'),
 (34180,2,5,8,14,'Se eleve o teu coração e te esqueças do Senhor teu Deus, que te tirou da terra do Egito, da casa da servidão;'),
 (34181,2,5,8,15,'Que te guiou por aquele grande e terrível deserto de serpentes ardentes, e de escorpiões, e de terra seca, em que não havia água; e tirou água para ti da rocha pederneira;'),
@@ -5304,8 +5206,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (34225,2,5,10,10,'E eu estive no monte, como nos primeiros dias, quarenta dias e quarenta noites; e o Senhor me ouviu ainda por esta vez; não quis o Senhor destruir-te.'),
 (34226,2,5,10,11,'Porém o Senhor me disse: Levanta-te, põe-te a caminho adiante do povo, para que entrem, e possuam a terra que jurei dar a seus pais.'),
 (34227,2,5,10,12,'Agora, pois, ó Israel, que é que o Senhor teu Deus pede de ti, senão que temas o Senhor teu Deus, que andes em todos os seus caminhos, e o ames, e sirvas ao Senhor teu Deus com todo o teu coração e com toda a tua alma,'),
-(34228,2,5,10,13,'Que guardes os mandamentos do Senhor, e os seus estatutos, que hoje te ordeno, para o teu bem?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(34228,2,5,10,13,'Que guardes os mandamentos do Senhor, e os seus estatutos, que hoje te ordeno, para o teu bem?'),
 (34229,2,5,10,14,'Eis que os céus e os céus dos céus são do Senhor teu Deus, a terra e tudo o que nela há.'),
 (34230,2,5,10,15,'Tão-somente o Senhor se agradou de teus pais para os amar; e a vós, descendência deles, escolheu, depois deles, de todos os povos como neste dia se vê.'),
 (34231,2,5,10,16,'Circuncidai, pois, o prepúcio do vosso coração, e não mais endureçais a vossa cerviz.'),
@@ -5355,8 +5256,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (34275,2,5,12,6,'E ali trareis os vossos holocaustos, e os vossos sacrifícios, e os vossos dízimos, e a oferta alçada da vossa mão, e os vossos votos, e as vossas ofertas voluntárias, e os primogênitos das vossas vacas e das vossas ovelhas.'),
 (34276,2,5,12,7,'E ali comereis perante o Senhor vosso Deus, e vos alegrareis em tudo em que puserdes a vossa mão, vós e as vossas casas, no que abençoar o Senhor vosso Deus.'),
 (34277,2,5,12,8,'Não fareis conforme a tudo o que hoje fazemos aqui, cada qual tudo o que bem parece aos seus olhos.'),
-(34278,2,5,12,9,'Porque até agora não entrastes no descanso e na herança que vos dá o Senhor vosso Deus.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(34278,2,5,12,9,'Porque até agora não entrastes no descanso e na herança que vos dá o Senhor vosso Deus.'),
 (34279,2,5,12,10,'Mas passareis o Jordão, e habitareis na terra que vos fará herdar o Senhor vosso Deus; e vos dará repouso de todos os vossos inimigos em redor, e morareis seguros.'),
 (34280,2,5,12,11,'Então haverá um lugar que escolherá o Senhor vosso Deus para ali fazer habitar o seu nome; ali trareis tudo o que vos ordeno; os vossos holocaustos, e os vossos sacrifícios, e os vossos dízimos, e a oferta alçada da vossa mão, e toda a escolha dos vossos votos que fizerdes ao Senhor.'),
 (34281,2,5,12,12,'E vos alegrareis perante o Senhor vosso Deus, vós, e vossos filhos, e vossas filhas, e os vossos servos, e as vossas servas, e o levita que está dentro das vossas portas; pois convosco não tem parte nem herança.'),
@@ -5406,8 +5306,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (34325,2,5,14,6,'Todo o animal que tem unhas fendidas, divididas em duas, que rumina, entre os animais, aquilo comereis.'),
 (34326,2,5,14,7,'Porém estes não comereis, dos que somente ruminam, ou que têm a unha fendida: o camelo, e a lebre, e o coelho, porque ruminam mas não têm a unha fendida; imundos vos serão.'),
 (34327,2,5,14,8,'Nem o porco, porque tem unha fendida, mas não rumina; imundo vos será; não comereis da carne destes, e não tocareis nos seus cadáveres.'),
-(34328,2,5,14,9,'Isto comereis de tudo o que há nas águas; tudo o que tem barbatanas e escamas comereis.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(34328,2,5,14,9,'Isto comereis de tudo o que há nas águas; tudo o que tem barbatanas e escamas comereis.'),
 (34329,2,5,14,10,'Mas tudo o que não tiver barbatanas nem escamas não o comereis; imundo vos será.'),
 (34330,2,5,14,11,'Toda a ave limpa comereis.'),
 (34331,2,5,14,12,'Porém estas são as que não comereis: a águia, e o quebrantosso, e o xofrango,'),
@@ -5457,8 +5356,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (34375,2,5,16,4,'Levedado não aparecerá contigo por sete dias em todos os teus termos; também da carne que matares à tarde, no primeiro dia, nada ficará até à manhã.'),
 (34376,2,5,16,5,'Não poderás sacrificar a páscoa em nenhuma das tuas portas que te dá o Senhor teu Deus;'),
 (34377,2,5,16,6,'Senão no lugar que escolher o Senhor teu Deus, para fazer habitar o seu nome, ali sacrificarás a páscoa à tarde, ao pôr do sol, ao tempo determinado da tua saída do Egito.'),
-(34378,2,5,16,7,'Então a cozerás, e comerás no lugar que escolher o Senhor teu Deus; depois voltarás pela manhã, e irás às tuas tendas.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(34378,2,5,16,7,'Então a cozerás, e comerás no lugar que escolher o Senhor teu Deus; depois voltarás pela manhã, e irás às tuas tendas.'),
 (34379,2,5,16,8,'Seis dias comerás pães ázimos e no sétimo dia é solenidade ao Senhor teu Deus; nenhum trabalho farás.'),
 (34380,2,5,16,9,'Sete semanas contarás; desde que a foice começar na seara iniciarás a contar as sete semanas.'),
 (34381,2,5,16,10,'Depois celebrarás a festa das semanas ao Senhor teu Deus; o que deres será oferta voluntária da tua mão, segundo o Senhor teu Deus te houver abençoado.'),
@@ -5508,8 +5406,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (34425,2,5,18,12,'Pois todo aquele que faz tal coisa é abominação ao Senhor; e por estas abominações o Senhor teu Deus os lança fora de diante de ti.'),
 (34426,2,5,18,13,'Perfeito serás, como o Senhor teu Deus.'),
 (34427,2,5,18,14,'Porque estas nações, que hás de possuir, ouvem os prognosticadores e os adivinhadores; porém a ti o Senhor teu Deus não permitiu tal coisa.'),
-(34428,2,5,18,15,'O Senhor teu Deus te levantará um profeta do meio de ti, de teus irmãos, como eu; a ele ouvireis;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(34428,2,5,18,15,'O Senhor teu Deus te levantará um profeta do meio de ti, de teus irmãos, como eu; a ele ouvireis;'),
 (34429,2,5,18,16,'Conforme a tudo o que pediste ao Senhor teu Deus em Horebe, no dia da assembléia, dizendo: Não ouvirei mais a voz do Senhor teu Deus, nem mais verei este grande fogo, para que não morra.'),
 (34430,2,5,18,17,'Então o Senhor me disse: Falaram bem naquilo que disseram.'),
 (34431,2,5,18,18,'Eis lhes suscitarei um profeta do meio de seus irmãos, como tu, e porei as minhas palavras na sua boca, e ele lhes falará tudo o que eu lhe ordenar.'),
@@ -5559,8 +5456,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (34475,2,5,20,19,'Quando sitiares uma cidade por muitos dias, pelejando contra ela para a tomar, não destruirás o seu arvoredo, colocando nele o machado, porque dele comerás; pois que não o cortarás (pois o arvoredo do campo é mantimento para o homem), para empregar no cerco.'),
 (34476,2,5,20,20,'Mas as árvores que souberes que não são árvores de alimento, destruí-las-ás e cortá-las-ás; e contra a cidade que guerrear contra ti edificarás baluartes, até que esta seja vencida.'),
 (34477,2,5,21,1,'Quando na terra que te der o SENHOR teu Deus, para possuí-la, se achar um morto, caído no campo, sem que se saiba quem o matou,'),
-(34478,2,5,21,2,'Então sairão os teus anciãos e os teus juízes, e medirão a distância até as cidades que estiverem em redor do morto;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(34478,2,5,21,2,'Então sairão os teus anciãos e os teus juízes, e medirão a distância até as cidades que estiverem em redor do morto;'),
 (34479,2,5,21,3,'E, na cidade mais próxima ao morto, os anciãos da mesma cidade tomarão uma novilha da manada, que não tenha trabalhado nem tenha puxado com o jugo;'),
 (34480,2,5,21,4,'E os anciãos daquela cidade trarão a novilha a um vale áspero, que nunca foi lavrado nem semeado; e ali, naquele vale, degolarão a novilha;'),
 (34481,2,5,21,5,'Então se achegarão os sacerdotes, filhos de Levi; pois o Senhor teu Deus os escolheu para o servirem, e para abençoarem em nome do Senhor; e pela sua palavra se decidirá toda a demanda e todo o ferimento;'),
@@ -5610,8 +5506,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (34525,2,5,22,26,'Porém à moça não farás nada. A moça não tem culpa de morte; porque, como o homem que se levanta contra o seu próximo, e lhe tira a vida, assim é este caso.'),
 (34526,2,5,22,27,'Pois a achou no campo; a moça desposada gritou, e não houve quem a livrasse.'),
 (34527,2,5,22,28,'Quando um homem achar uma moça virgem, que não for desposada, e pegar nela, e se deitar com ela, e forem apanhados,'),
-(34528,2,5,22,29,'Então o homem que se deitou com ela dará ao pai da moça cinqüenta siclos de prata; e porquanto a humilhou, lhe será por mulher; não a poderá despedir em todos os seus dias.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(34528,2,5,22,29,'Então o homem que se deitou com ela dará ao pai da moça cinqüenta siclos de prata; e porquanto a humilhou, lhe será por mulher; não a poderá despedir em todos os seus dias.'),
 (34529,2,5,22,30,'Nenhum homem tomará a mulher de seu pai, nem descobrirá a nudez de seu pai.'),
 (34530,2,5,23,1,'Aquele a quem forem trilhados os testículos, ou cortado o membro viril, não entrará na congregação do SENHOR.'),
 (34531,2,5,23,2,'Nenhum bastardo entrará na congregação do Senhor; nem ainda a sua décima geração entrará na congregação do Senhor.'),
@@ -5661,8 +5556,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (34575,2,5,24,21,'Quando vindimares a tua vinha, não voltarás para rebuscá-la; para o estrangeiro, para o órfão, e para a viúva será.'),
 (34576,2,5,24,22,'E lembrar-te-ás de que foste servo na terra do Egito; portanto te ordeno que faças isso.'),
 (34577,2,5,25,1,'Quando houver contenda entre alguns, e vierem a juízo, para que os julguem, ao justo justificarão, e ao injusto condenarão.'),
-(34578,2,5,25,2,'E será que, se o injusto merecer açoites, o juiz o fará deitar-se, para que seja açoitado diante de si; segundo a sua culpa, será o número de açoites.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(34578,2,5,25,2,'E será que, se o injusto merecer açoites, o juiz o fará deitar-se, para que seja açoitado diante de si; segundo a sua culpa, será o número de açoites.'),
 (34579,2,5,25,3,'Quarenta açoites lhe fará dar, não mais; para que, porventura, se lhe fizer dar mais açoites do que estes, teu irmão não fique envilecido aos teus olhos.'),
 (34580,2,5,25,4,'Não atarás a boca ao boi, quando trilhar.'),
 (34581,2,5,25,5,'Quando irmãos morarem juntos, e um deles morrer, e não tiver filho, então a mulher do falecido não se casará com homem estranho, de fora; seu cunhado estará com ela, e a receberá por mulher, e fará a obrigação de cunhado para com ela.'),
@@ -5712,8 +5606,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (34625,2,5,27,11,'E Moisés deu ordem naquele dia ao povo, dizendo:'),
 (34626,2,5,27,12,'Quando houverdes passado o Jordão, estes estarão sobre o monte Gerizim, para abençoarem o povo: Simeão, e Levi, e Judá, e Issacar, e José, e Benjamim;'),
 (34627,2,5,27,13,'E estes estarão sobre o monte Ebal para amaldiçoar: Rúben, Gade, e Aser, e Zebulom, Dã e Naftali.'),
-(34628,2,5,27,14,'E os levitas testificarão a todo o povo de Israel em alta voz, e dirão:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(34628,2,5,27,14,'E os levitas testificarão a todo o povo de Israel em alta voz, e dirão:'),
 (34629,2,5,27,15,'Maldito o homem que fizer imagem de escultura, ou de fundição, abominação ao Senhor, obra da mão do artífice, e a puser em um lugar escondido. E todo o povo, respondendo, dirá: Amém.'),
 (34630,2,5,27,16,'Maldito aquele que desprezar a seu pai ou a sua mãe. E todo o povo dirá: Amém.'),
 (34631,2,5,27,17,'Maldito aquele que remover os limites do seu próximo. E todo o povo dirá: Amém.'),
@@ -5763,8 +5656,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (34675,2,5,28,35,'O Senhor te ferirá com úlceras malignas nos joelhos e nas pernas, de que não possas sarar, desde a planta do teu pé até ao alto da cabeça.'),
 (34676,2,5,28,36,'O Senhor te levará a ti e a teu rei, que tiveres posto sobre ti, a uma nação que não conheceste, nem tu nem teus pais; e ali servirás a outros deuses, ao pau e à pedra.'),
 (34677,2,5,28,37,'E serás por pasmo, por ditado, e por fábula, entre todos os povos a que o Senhor te levará.'),
-(34678,2,5,28,38,'Lançarás muita semente ao campo; porém colherás pouco, porque o gafanhoto a consumirá.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(34678,2,5,28,38,'Lançarás muita semente ao campo; porém colherás pouco, porque o gafanhoto a consumirá.'),
 (34679,2,5,28,39,'Plantarás vinhas, e cultivarás; porém não beberás vinho, nem colherás as uvas; porque o bicho as colherá.'),
 (34680,2,5,28,40,'Em todos os termos terás oliveiras; porém não te ungirás com azeite; porque a azeitona cairá da tua oliveira.'),
 (34681,2,5,28,41,'Filhos e filhas gerarás; porém não serão para ti; porque irão em cativeiro.'),
@@ -5814,8 +5706,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (34725,2,5,29,17,'E vistes as suas abominações, e os seus ídolos, o pau e a pedra, a prata e o ouro que havia entre eles,'),
 (34726,2,5,29,18,'Para que entre vós não haja homem, nem mulher, nem família, nem tribo, cujo coração hoje se desvie do Senhor nosso Deus, para que vá servir aos deuses destas nações; para que entre vós não haja raiz que dê veneno e fel;'),
 (34727,2,5,29,19,'E aconteça que, alguém ouvindo as palavras desta maldição, se abençoe no seu coração, dizendo: Terei paz, ainda que ande conforme o parecer do meu coração; para acrescentar à sede a bebedeira.'),
-(34728,2,5,29,20,'O Senhor não lhe quererá perdoar; mas fumegará a ira do Senhor e o seu zelo contra esse homem, e toda a maldição escrita neste livro pousará sobre ele; e o Senhor apagará o seu nome de debaixo do céu.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(34728,2,5,29,20,'O Senhor não lhe quererá perdoar; mas fumegará a ira do Senhor e o seu zelo contra esse homem, e toda a maldição escrita neste livro pousará sobre ele; e o Senhor apagará o seu nome de debaixo do céu.'),
 (34729,2,5,29,21,'E o Senhor o separará para mal, de todas as tribos de Israel, conforme a todas as maldições da aliança escrita no livro desta lei.'),
 (34730,2,5,29,22,'Então dirá à geração vindoura, os vossos filhos, que se levantarem depois de vós, e o estrangeiro que virá de terras remotas, vendo as pragas desta terra, e as suas doenças, com que o Senhor a terá afligido;'),
 (34731,2,5,29,23,'E toda a sua terra abrasada com enxofre, e sal, de sorte que não será semeada, e nada produzirá, nem nela crescerá erva alguma; assim como foi a destruição de Sodoma e de Gomorra, de Admá e de Zeboim, que o Senhor destruiu na sua ira e no seu furor.'),
@@ -5865,8 +5756,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (34775,2,5,31,18,'Esconderei, pois, totalmente o meu rosto naquele dia, por todo o mal que tiver feito, por se haverem tornado a outros deuses.'),
 (34776,2,5,31,19,'Agora, pois, escrevei-vos este cântico, e ensinai-o aos filhos de Israel; ponde-o na sua boca, para que este cântico me seja por testemunha contra os filhos de Israel.'),
 (34777,2,5,31,20,'Porque introduzirei o meu povo na terra que jurei a seus pais, que mana leite e mel; e comerá, e se fartará, e se engordará; então se tornará a outros deuses, e os servirá, e me irritarão, e anularão a minha aliança.'),
-(34778,2,5,31,21,'E será que, quando o alcançarem muitos males e angústias, então este cântico responderá contra ele por testemunha, pois não será esquecido da boca de sua descendência; porquanto conheço a sua imaginação, o que ele faz hoje, antes que o introduza na terra que tenho jurado.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(34778,2,5,31,21,'E será que, quando o alcançarem muitos males e angústias, então este cântico responderá contra ele por testemunha, pois não será esquecido da boca de sua descendência; porquanto conheço a sua imaginação, o que ele faz hoje, antes que o introduza na terra que tenho jurado.'),
 (34779,2,5,31,22,'Assim Moisés escreveu este cântico naquele dia, e o ensinou aos filhos de Israel.'),
 (34780,2,5,31,23,'E ordenou a Josué, filho de Num, e disse: Esforça-te e anima-te; porque tu introduzirás os filhos de Israel na terra que lhes jurei; e eu serei contigo.'),
 (34781,2,5,31,24,'E aconteceu que, acabando Moisés de escrever num livro, todas as palavras desta lei,'),
@@ -5916,8 +5806,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (34825,2,5,32,38,'De cujos sacrifícios comiam a gordura, e de cujas libações bebiam o vinho? Levantem-se, e vos ajudem, para que haja para vós esconderijo.'),
 (34826,2,5,32,39,'Vede agora que eu, eu o sou, e mais nenhum deus há além de mim; eu mato, e eu faço viver; eu firo, e eu saro, e ninguém há que escape da minha mão.'),
 (34827,2,5,32,40,'Porque levantarei a minha mão aos céus, e direi: Eu vivo para sempre.'),
-(34828,2,5,32,41,'Se eu afiar a minha espada reluzente, e se a minha mão travar o juízo, retribuirei a vingança sobre os meus adversários, e recompensarei aos que me odeiam.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(34828,2,5,32,41,'Se eu afiar a minha espada reluzente, e se a minha mão travar o juízo, retribuirei a vingança sobre os meus adversários, e recompensarei aos que me odeiam.'),
 (34829,2,5,32,42,'Embriagarei as minhas setas de sangue, e a minha espada comerá carne; do sangue dos mortos e dos prisioneiros, desde a cabeça, haverá vinganças do inimigo.'),
 (34830,2,5,32,43,'Jubilai, ó nações, o seu povo, porque ele vingará o sangue dos seus servos, e sobre os seus adversários retribuirá a vingança, e terá misericórdia da sua terra e do seu povo.'),
 (34831,2,5,32,44,'E veio Moisés, e falou todas as palavras deste cântico aos ouvidos do povo, ele e Josué, filho de Num.'),
@@ -5967,8 +5856,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (34875,2,5,34,7,'Era Moisés da idade de cento e vinte anos quando morreu; os seus olhos nunca se escureceram, nem perdeu o seu vigor.'),
 (34876,2,5,34,8,'E os filhos de Israel prantearam a Moisés trinta dias, nas campinas de Moabe; e os dias do pranto no luto de Moisés se cumpriram.'),
 (34877,2,5,34,9,'E Josué, filho de Num, foi cheio do espírito de sabedoria, porquanto Moisés tinha posto sobre ele as suas mãos; assim os filhos de Israel lhe deram ouvidos, e fizeram como o Senhor ordenara a Moisés.'),
-(34878,2,5,34,10,'E nunca mais se levantou em Israel profeta algum como Moisés, a quem o Senhor conhecera face a face;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(34878,2,5,34,10,'E nunca mais se levantou em Israel profeta algum como Moisés, a quem o Senhor conhecera face a face;'),
 (34879,2,5,34,11,'Nem semelhante em todos os sinais e maravilhas, que o Senhor o enviou para fazer na terra do Egito, a Faraó, e a todos os seus servos, e a toda a sua terra.'),
 (34880,2,5,34,12,'E em toda a mão forte, e em todo o grande espanto, que praticou Moisés aos olhos de todo o Israel.'),
 (34881,2,6,1,1,'E sucedeu depois da morte de Moisés, servo do SENHOR, que o SENHOR falou a Josué, filho de Num, servo de Moisés, dizendo:'),
@@ -6018,8 +5906,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (34925,2,6,3,3,'E ordenaram ao povo, dizendo: Quando virdes a arca da aliança do Senhor vosso Deus, e que os sacerdotes levitas a levam, partireis vós também do vosso lugar, e a seguireis.'),
 (34926,2,6,3,4,'Haja contudo, entre vós e ela, uma distância de dois mil côvados; e não vos chegueis a ela, para que saibais o caminho pelo qual haveis de ir; porquanto por este caminho nunca passastes antes.'),
 (34927,2,6,3,5,'Disse Josué também ao povo: Santificai-vos, porque amanhã fará o Senhor maravilhas no meio de vós.'),
-(34928,2,6,3,6,'E falou Josué aos sacerdotes, dizendo: Levantai a arca da aliança, e passai adiante deste povo. Levantaram, pois, a arca da aliança, e foram andando adiante do povo.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(34928,2,6,3,6,'E falou Josué aos sacerdotes, dizendo: Levantai a arca da aliança, e passai adiante deste povo. Levantaram, pois, a arca da aliança, e foram andando adiante do povo.'),
 (34929,2,6,3,7,'E o Senhor disse a Josué: Hoje começarei a engrandecer-te perante os olhos de todo o Israel, para que saibam que, assim como fui com Moisés, assim serei contigo.'),
 (34930,2,6,3,8,'Tu, pois, ordenarás aos sacerdotes que levam a arca da aliança, dizendo: Quando chegardes à beira das águas do Jordão, parareis aí.'),
 (34931,2,6,3,9,'Então disse Josué aos filhos de Israel: Chegai-vos para cá, e ouvi as palavras do Senhor vosso Deus.'),
@@ -6069,8 +5956,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (34975,2,6,5,12,'E cessou o maná no dia seguinte, depois que comeram do fruto da terra, e os filhos de Israel não tiveram mais maná; porém, no mesmo ano comeram dos frutos da terra de Canaã.'),
 (34976,2,6,5,13,'E sucedeu que, estando Josué perto de Jericó, levantou os seus olhos e olhou; e eis que se pôs em pé diante dele um homem que tinha na mão uma espada nua; e chegou-se Josué a ele, e disse-lhe: És tu dos nossos, ou dos nossos inimigos?'),
 (34977,2,6,5,14,'E disse ele: Não, mas venho agora como príncipe do exército do SENHOR. Então Josué se prostrou com o seu rosto em terra e o adorou, e disse-lhe: Que diz meu senhor ao seu servo?'),
-(34978,2,6,5,15,'Então disse o príncipe do exército do Senhor a Josué: Descalça os sapatos de teus pés, porque o lugar em que estás é santo. E fez Josué assim.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(34978,2,6,5,15,'Então disse o príncipe do exército do Senhor a Josué: Descalça os sapatos de teus pés, porque o lugar em que estás é santo. E fez Josué assim.'),
 (34979,2,6,6,1,'Ora Jericó estava rigorosamente fechada por causa dos filhos de Israel; ninguém saía nem entrava.'),
 (34980,2,6,6,2,'Então disse o Senhor a Josué: Olha, tenho dado na tua mão a Jericó, ao seu rei e aos seus homens valorosos.'),
 (34981,2,6,6,3,'Vós, pois, todos os homens de guerra, rodeareis a cidade, cercando-a uma vez; assim fareis por seis dias.'),
@@ -6171,8 +6057,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (35075,2,6,9,9,'E lhe responderam: Teus servos vieram de uma terra mui distante, por causa do nome do Senhor teu Deus, porquanto ouvimos a sua fama, e tudo quanto fez no Egito;'),
 (35076,2,6,9,10,'E tudo quanto fez aos dois reis dos amorreus, que estavam além do Jordão, a Siom rei de Hesbom, e a Ogue, rei de Basã, que estava em Astarote.'),
 (35077,2,6,9,11,'Por isso nossos anciãos e todos os moradores da nossa terra nos falaram, dizendo: Tomai em vossas mãos provisão para o caminho, e ide-lhes ao encontro e dizei-lhes: Nós somos vossos servos; fazei, pois, agora acordo conosco.'),
-(35078,2,6,9,12,'Este nosso pão tomamos quente das nossas casas para nossa provisão, no dia em que saímos para vir a vós; e ei-lo aqui agora já seco e bolorento;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(35078,2,6,9,12,'Este nosso pão tomamos quente das nossas casas para nossa provisão, no dia em que saímos para vir a vós; e ei-lo aqui agora já seco e bolorento;'),
 (35079,2,6,9,13,'E estes odres, que enchemos de vinho, eram novos, e ei-los aqui já rotos; e estas nossas roupas e nossos sapatos já se têm envelhecido, por causa do mui longo caminho.'),
 (35080,2,6,9,14,'Então os homens de Israel tomaram da provisão deles e não pediram conselho ao Senhor.'),
 (35081,2,6,9,15,'E Josué fez paz com eles, e fez um acordo com eles, que lhes daria a vida; e os príncipes da congregação lhes prestaram juramento.'),
@@ -6222,8 +6107,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (35125,2,6,10,32,'E o Senhor deu a Laquis nas mãos de Israel, e tomou-a no dia seguinte e a feriu a fio de espada, a ela e a todos os que nela estavam, conforme a tudo o que fizera a Libna.'),
 (35126,2,6,10,33,'Então Horão, rei de Gezer, subiu a ajudar a Laquis, porém Josué o feriu, a ele e ao seu povo, até não lhe deixar nem sequer um.'),
 (35127,2,6,10,34,'E Josué, e todo o Israel com ele, passou de Laquis a Eglom, e a sitiaram, e pelejaram contra ela.'),
-(35128,2,6,10,35,'E no mesmo dia a tomaram, e a feriram a fio de espada; e a todos os que nela estavam, destruiu totalmente no mesmo dia, conforme a tudo o que fizera a Laquis.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(35128,2,6,10,35,'E no mesmo dia a tomaram, e a feriram a fio de espada; e a todos os que nela estavam, destruiu totalmente no mesmo dia, conforme a tudo o que fizera a Laquis.'),
 (35129,2,6,10,36,'Depois Josué, e todo o Israel com ele, subiu de Eglom a Hebrom, e pelejaram contra ela.'),
 (35130,2,6,10,37,'E a tomaram, e a feriram ao fio de espada, assim ao seu rei como a todas as suas cidades; e a todos os que nelas estavam, a ninguém deixou com vida, conforme a tudo o que fizera a Eglom; e a destruiu totalmente, a ela e a todos os que nela estavam.'),
 (35131,2,6,10,38,'Então Josué, e todo o Israel com ele, tornou a Debir, e pelejou contra ela.'),
@@ -6273,8 +6157,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (35175,2,6,12,16,'O rei de Maquedá, outro; o rei de Betel, outro;'),
 (35176,2,6,12,17,'O rei de Tapua, outro; o rei de Hefer, outro;'),
 (35177,2,6,12,18,'O rei de Afeque, outro; o rei de Lassarom, outro;'),
-(35178,2,6,12,19,'O rei de Madom, outro; o rei de Hazor, outro;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(35178,2,6,12,19,'O rei de Madom, outro; o rei de Hazor, outro;'),
 (35179,2,6,12,20,'O rei de Sinrom-Meron, outro; o rei de Acsafe, outro;'),
 (35180,2,6,12,21,'O rei de Taanaque, outro; o rei de Megido, outro;'),
 (35181,2,6,12,22,'O rei de Quedes, outro; o rei de Jocneão do Carmelo, outro;'),
@@ -6324,8 +6207,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (35225,2,6,14,9,'Então Moisés naquele dia jurou, dizendo: Certamente a terra que pisou o teu pé será tua, e de teus filhos, em herança perpetuamente; pois perseveraste em seguir ao Senhor meu Deus.'),
 (35226,2,6,14,10,'E agora eis que o Senhor me conservou em vida, como disse; quarenta e cinco anos são passados, desde que o Senhor falou esta palavra a Moisés, andando Israel ainda no deserto; e agora eis que hoje tenho já oitenta e cinco anos;'),
 (35227,2,6,14,11,'E ainda hoje estou tão forte como no dia em que Moisés me enviou; qual era a minha força então, tal é agora a minha força, tanto para a guerra como para sair e entrar.'),
-(35228,2,6,14,12,'Agora, pois, dá-me este monte de que o Senhor falou aquele dia; pois naquele dia tu ouviste que estavam ali os anaquins, e grandes e fortes cidades. Porventura o Senhor será comigo, para os expulsar, como o Senhor disse.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(35228,2,6,14,12,'Agora, pois, dá-me este monte de que o Senhor falou aquele dia; pois naquele dia tu ouviste que estavam ali os anaquins, e grandes e fortes cidades. Porventura o Senhor será comigo, para os expulsar, como o Senhor disse.'),
 (35229,2,6,14,13,'E Josué o abençoou, e deu a Calebe, filho de Jefoné, a Hebrom em herança.'),
 (35230,2,6,14,14,'Portanto Hebrom ficou sendo herança de Calebe, filho de Jefoné o quenezeu, até ao dia de hoje, porquanto perseverara em seguir ao Senhor Deus de Israel.'),
 (35231,2,6,14,15,'E antes o nome de Hebrom era Quiriate-Arba, porque Arba foi o maior homem entre os anaquins. E a terra repousou da guerra.'),
@@ -6375,8 +6257,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (35275,2,6,15,44,'E Queila, e Aczibe, e Maressa; nove cidades e as suas aldeias.'),
 (35276,2,6,15,45,'Ecrom, com suas vilas, e as suas aldeias.'),
 (35277,2,6,15,46,'Desde Ecrom, e até ao mar, todas as que estão do lado de Asdode, e as suas aldeias.'),
-(35278,2,6,15,47,'Asdode, com as suas vilas e as suas aldeias; Gaza, com as suas vilas e as suas aldeias, até ao rio do Egito, e o Mar Grande e o seu termo.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(35278,2,6,15,47,'Asdode, com as suas vilas e as suas aldeias; Gaza, com as suas vilas e as suas aldeias, até ao rio do Egito, e o Mar Grande e o seu termo.'),
 (35279,2,6,15,48,'E nas montanhas: Samir, Jatir, e Socó.'),
 (35280,2,6,15,49,'E Daná, e Quiriate-Saná (que é Debir),'),
 (35281,2,6,15,50,'E Anabe, Estemó, e Anim,'),
@@ -6426,8 +6307,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (35325,2,6,18,3,'E disse Josué aos filhos de Israel: Até quando sereis negligentes em chegardes para possuir a terra que o Senhor Deus de vossos pais vos deu?'),
 (35326,2,6,18,4,'De cada tribo escolhei vós três homens, para que eu os envie, e eles se levantem e percorram a terra, e a demarquem segundo as suas heranças, e voltem a mim.'),
 (35327,2,6,18,5,'E dividi-la-ão em sete partes: Judá ficará no seu termo para o sul, e a casa de José ficará no seu termo para o norte.'),
-(35328,2,6,18,6,'E vós demarcareis a terra em sete partes, e me trareis a mim aqui descrita, para que eu aqui lance as sortes perante o Senhor nosso Deus,');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(35328,2,6,18,6,'E vós demarcareis a terra em sete partes, e me trareis a mim aqui descrita, para que eu aqui lance as sortes perante o Senhor nosso Deus,'),
 (35329,2,6,18,7,'Porquanto os levitas não têm parte no meio de vós, porque o sacerdócio do Senhor é a sua parte; e Gade, e Rúben, e a meia tribo de Manassés, receberam a sua herança além do Jordão para o oriente, a qual lhes deu Moisés, o servo do Senhor.'),
 (35330,2,6,18,8,'Então aqueles homens se levantaram e se foram; e Josué deu ordem aos que iam demarcar a terra, dizendo: Ide, e percorrei a terra, e demarcai-a, e então voltai a mim, e aqui vos lançarei as sortes perante o Senhor, em Siló.'),
 (35331,2,6,18,9,'Foram, pois, aqueles homens, e passaram pela terra, e a demarcaram, em sete partes segundo as cidades, descrevendo-a num livro; e voltaram a Josué, ao arraial em Siló.'),
@@ -6477,8 +6357,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (35375,2,6,19,25,'E foi o seu termo Helcate, e Hali, e Béten, e Acsafe,'),
 (35376,2,6,19,26,'E Alameleque, e Amade, e Misal; e chega ao Carmelo para o ocidente, e a Sior-Libnate;'),
 (35377,2,6,19,27,'E volta para o nascente do sol a Bete-Dagom, e chega a Zebulom e ao vale de Iftá-El, ao norte de Bete-Emeque e de Neiel, e vem sair a Cabul, pela esquerda,'),
-(35378,2,6,19,28,'E Hebrom, e Reobe, e Hamom, e Caná, até à grande Sidom.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(35378,2,6,19,28,'E Hebrom, e Reobe, e Hamom, e Caná, até à grande Sidom.'),
 (35379,2,6,19,29,'E volta este termo a Ramá, e até à forte cidade de Tiro; então torna este termo a Hosa, para terminar no mar, na região de Aczibe.'),
 (35380,2,6,19,30,'E Umá, e Afeque, e Reobe; vinte e duas cidades e as suas aldeias.'),
 (35381,2,6,19,31,'Esta é a herança da tribo dos filhos de Aser, segundo as suas famílias; estas cidades e as suas aldeias.'),
@@ -6528,8 +6407,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (35425,2,6,21,15,'E Holom e os seus arrabaldes, e Debir e os seus arrabaldes;'),
 (35426,2,6,21,16,'E Aim e os seus arrabaldes, e Jutá e os seus arrabaldes, e Bete-Semes e os seus arrabaldes; nove cidades destas duas tribos.'),
 (35427,2,6,21,17,'E da tribo de Benjamim, Gibeão e os seus arrabaldes, Geba e os seus arrabaldes;'),
-(35428,2,6,21,18,'Anatote e os seus arrabaldes, e Almom e os seus arrabaldes; quatro cidades.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(35428,2,6,21,18,'Anatote e os seus arrabaldes, e Almom e os seus arrabaldes; quatro cidades.'),
 (35429,2,6,21,19,'Todas as cidades dos sacerdotes, filhos de Arão, foram treze cidades e os seus arrabaldes.'),
 (35430,2,6,21,20,'E as famílias dos filhos de Coate, levitas, que ficaram dos filhos de Coate, tiveram as cidades da sua sorte, da tribo de Efraim.'),
 (35431,2,6,21,21,'E deram-lhes Siquém, cidade de refúgio do homicida, e os seus arrabaldes, no monte de Efraim, e Gezer e os seus arrabaldes;'),
@@ -6579,8 +6457,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (35475,2,6,22,20,'Não cometeu Acã, filho de Zerá, transgressão no tocante ao anátema? Não veio ira sobre toda a congregação de Israel, de modo que aquele homem não morreu só, na sua iniqüidade?'),
 (35476,2,6,22,21,'Então responderam os filhos de Rúben, e os filhos de Gade, e a meia tribo de Manassés, e disseram aos cabeças dos milhares de Israel:'),
 (35477,2,6,22,22,'O Senhor Deus dos deuses, o Senhor Deus dos deuses, ele o sabe, e Israel mesmo o saberá. Se foi por rebeldia, ou por transgressão contra o Senhor, hoje não nos preserve;'),
-(35478,2,6,22,23,'Se nós edificamos um altar para nos desviarmos do Senhor, ou para sobre ele oferecer holocausto e oferta de alimentos, ou sobre ele apresentar oferta pacífica, o Senhor mesmo de nós o requeira.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(35478,2,6,22,23,'Se nós edificamos um altar para nos desviarmos do Senhor, ou para sobre ele oferecer holocausto e oferta de alimentos, ou sobre ele apresentar oferta pacífica, o Senhor mesmo de nós o requeira.'),
 (35479,2,6,22,24,'E, se antes o não fizemos por receio disto, dizendo: Amanhã vossos filhos virão a falar a nossos filhos, dizendo: Que tendes vós com o Senhor Deus de Israel?'),
 (35480,2,6,22,25,'Pois o Senhor pôs o Jordão por termo entre nós e vós, ó filhos de Rúben, e filhos de Gade; não tendes parte no Senhor; e assim bem poderiam vossos filhos fazer desistir a nossos filhos de temer ao Senhor.'),
 (35481,2,6,22,26,'Por isso dissemos: Preparemo-nos agora, e edifiquemos um altar, não para holocausto, nem para sacrifício,'),
@@ -6630,8 +6507,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (35525,2,6,24,20,'Se deixardes ao Senhor, e servirdes a deuses estranhos, então ele se tornará, e vos fará mal, e vos consumirá, depois de vos ter feito o bem.'),
 (35526,2,6,24,21,'Então disse o povo a Josué: Não, antes ao Senhor serviremos.'),
 (35527,2,6,24,22,'E Josué disse ao povo: Sois testemunhas contra vós mesmos de que escolhestes ao Senhor, para o servir. E disseram: Somos testemunhas.'),
-(35528,2,6,24,23,'Deitai, pois, agora, fora aos deuses estranhos que há no meio de vós, e inclinai o vosso coração ao Senhor Deus de Israel.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(35528,2,6,24,23,'Deitai, pois, agora, fora aos deuses estranhos que há no meio de vós, e inclinai o vosso coração ao Senhor Deus de Israel.'),
 (35529,2,6,24,24,'E disse o povo a Josué: Serviremos ao Senhor nosso Deus, e obedeceremos à sua voz.'),
 (35530,2,6,24,25,'Assim, naquele dia fez Josué aliança com o povo e lhe pôs por estatuto e direito em Siquém.'),
 (35531,2,6,24,26,'E Josué escreveu estas palavras no livro da lei de Deus; e tomou uma grande pedra, e a erigiu ali debaixo do carvalho que estava junto ao santuário do Senhor.'),
@@ -6681,8 +6557,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (35575,2,7,2,1,'E subiu o anjo do SENHOR de Gilgal a Boquim, e disse: Do Egito vos fiz subir, e vos trouxe à terra que a vossos pais tinha jurado e disse: Nunca invalidarei a minha aliança convosco.'),
 (35576,2,7,2,2,'E, quanto a vós, não fareis acordo com os moradores desta terra, antes derrubareis os seus altares; mas vós não obedecestes à minha voz. Por que fizestes isso?'),
 (35577,2,7,2,3,'Assim também eu disse: Não os expulsarei de diante de vós; antes estarão como espinhos nas vossas ilhargas, e os seus deuses vos serão por laço.'),
-(35578,2,7,2,4,'E sucedeu que, falando o anjo do Senhor estas palavras a todos os filhos de Israel, o povo levantou a sua voz e chorou.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(35578,2,7,2,4,'E sucedeu que, falando o anjo do Senhor estas palavras a todos os filhos de Israel, o povo levantou a sua voz e chorou.'),
 (35579,2,7,2,5,'Por isso chamaram àquele lugar, Boquim; e sacrificaram ali ao Senhor.'),
 (35580,2,7,2,6,'E havendo Josué despedido o povo foram-se os filhos de Israel, cada um à sua herança, para possuírem a terra.'),
 (35581,2,7,2,7,'E serviu o povo ao Senhor todos os dias de Josué, e todos os dias dos anciãos que ainda sobreviveram depois de Josué, e viram toda aquela grande obra do Senhor, que fizera a Israel.'),
@@ -6732,8 +6607,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (35625,2,7,3,28,'E disse-lhes: Segui-me, porque o Senhor vos tem entregue vossos inimigos, os moabitas, nas vossas mãos; e desceram após ele, e tomaram os vaus do Jordão contra Moabe, e a ninguém deixaram passar.'),
 (35626,2,7,3,29,'E naquele tempo feriram dos moabitas uns dez mil homens, todos corpulentos, e todos homens valorosos; e não escapou nenhum.'),
 (35627,2,7,3,30,'Assim foi subjugado Moabe naquele dia debaixo da mão de Israel; e a terra sossegou oitenta anos.'),
-(35628,2,7,3,31,'Depois dele foi Sangar, filho de Anate, que feriu a seiscentos homens dos filisteus com uma aguilhada de bois; e também ele libertou a Israel.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(35628,2,7,3,31,'Depois dele foi Sangar, filho de Anate, que feriu a seiscentos homens dos filisteus com uma aguilhada de bois; e também ele libertou a Israel.'),
 (35629,2,7,4,1,'Porém os filhos de Israel tornaram a fazer o que era mau aos olhos do SENHOR, depois de falecer Eúde.'),
 (35630,2,7,4,2,'E vendeu-os o Senhor na mão de Jabim, rei de Canaã, que reinava em Hazor; e Sísera era o capitão do seu exército, o qual então habitava em Harosete dos gentios.'),
 (35631,2,7,4,3,'Então os filhos de Israel clamaram ao Senhor, porquanto ele tinha novecentos carros de ferro, e por vinte anos oprimia violentamente os filhos de Israel.'),
@@ -6783,8 +6657,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (35675,2,7,5,23,'Amaldiçoai a Meroz, diz o anjo do Senhor, acremente amaldiçoai aos seus moradores; porquanto não vieram ao socorro do Senhor, ao socorro do Senhor com os valorosos.'),
 (35676,2,7,5,24,'Bendita seja entre as mulheres, Jael, mulher de Héber, o queneu; bendita seja entre as mulheres nas tendas.'),
 (35677,2,7,5,25,'Água pediu ele, leite lhe deu ela; em prato de nobres lhe ofereceu manteiga.'),
-(35678,2,7,5,26,'À estaca estendeu a sua mão esquerda, e ao martelo dos trabalhadores a sua direita; e matou a Sísera, e rachou-lhe a cabeça, quando lhe pregou e atravessou as fontes.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(35678,2,7,5,26,'À estaca estendeu a sua mão esquerda, e ao martelo dos trabalhadores a sua direita; e matou a Sísera, e rachou-lhe a cabeça, quando lhe pregou e atravessou as fontes.'),
 (35679,2,7,5,27,'Entre os seus pés se encurvou, caiu, ficou estirado; entre os seus pés se encurvou, caiu; onde se encurvou, ali ficou abatido.'),
 (35680,2,7,5,28,'A mãe de Sísera olhava pela janela, e exclamava pela grade: Por que tarda em vir o seu carro? Por que se demoram os ruídos dos seus carros?'),
 (35681,2,7,5,29,'As mais sábias das suas damas responderam; e até ela respondia a si mesma:'),
@@ -6834,8 +6707,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (35725,2,7,7,1,'Então Jerubaal (que é Gideão) se levantou de madrugada, e todo o povo que com ele havia, e se acamparam junto à fonte de Harode, de maneira que tinha o arraial dos midianitas para o norte, no vale, perto do outeiro de Moré.'),
 (35726,2,7,7,2,'E disse o Senhor a Gideão: Muito é o povo que está contigo, para eu dar aos midianitas em sua mão; a fim de que Israel não se glorie contra mim, dizendo: A minha mão me livrou.'),
 (35727,2,7,7,3,'Agora, pois, apregoa aos ouvidos do povo, dizendo: Quem for medroso e tímido, volte, e retire-se apressadamente das montanhas de Gileade. Então voltaram do povo vinte e dois mil, e dez mil ficaram.'),
-(35728,2,7,7,4,'E disse o Senhor a Gideão: Ainda há muito povo; faze-os descer às águas, e ali os provarei; e será que, daquele de que eu te disser: Este irá contigo, esse contigo irá; porém de todo aquele, de que eu te disser: Este não irá contigo, esse não irá.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(35728,2,7,7,4,'E disse o Senhor a Gideão: Ainda há muito povo; faze-os descer às águas, e ali os provarei; e será que, daquele de que eu te disser: Este irá contigo, esse contigo irá; porém de todo aquele, de que eu te disser: Este não irá contigo, esse não irá.'),
 (35729,2,7,7,5,'E fez descer o povo às águas. Então o Senhor disse a Gideão: Qualquer que lamber as águas com a sua língua, como as lambe o cão, esse porás à parte; como também a todo aquele que se abaixar de joelhos a beber.'),
 (35730,2,7,7,6,'E foi o número dos que lamberam, levando a mão à boca, trezentos homens; e todo o restante do povo se abaixou de joelhos a beber as águas.'),
 (35731,2,7,7,7,'E disse o Senhor a Gideão: Com estes trezentos homens que lamberam as águas vos livrarei, e darei os midianitas na tua mão; portanto, todos os demais se retirem, cada um ao seu lugar.'),
@@ -6885,8 +6757,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (35775,2,7,8,26,'E foi o peso dos pendentes de ouro, que pediu, mil e setecentos siclos de ouro, afora os ornamentos, e as cadeias, e as vestes de púrpura que traziam os reis dos midianitas, e afora as coleiras que os camelos traziam ao pescoço.'),
 (35776,2,7,8,27,'E fez Gideão dele um éfode, e colocou-o na sua cidade, em Ofra; e todo o Israel prostituiu-se ali após ele; e foi por tropeço a Gideão e à sua casa.'),
 (35777,2,7,8,28,'Assim foram abatidos os midianitas diante dos filhos de Israel, e nunca mais levantaram a sua cabeça; e sossegou a terra quarenta anos nos dias de Gideão.'),
-(35778,2,7,8,29,'E foi Jerubaal, filho de Joás, e habitou em sua casa.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(35778,2,7,8,29,'E foi Jerubaal, filho de Joás, e habitou em sua casa.'),
 (35779,2,7,8,30,'E teve Gideão setenta filhos, que procederam dele, porque tinha muitas mulheres.'),
 (35780,2,7,8,31,'E sua concubina, que estava em Siquém, lhe deu à luz também um filho; e pôs-lhe por nome Abimeleque.'),
 (35781,2,7,8,32,'E faleceu Gideão, filho de Joás, numa boa velhice; e foi sepultado no sepulcro de seu pai Joás, em Ofra dos abiezritas.'),
@@ -6936,8 +6807,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (35825,2,7,9,41,'E Abimeleque ficou em Aruma. E Zebul expulsou a Gaal e a seus irmãos, para que não pudessem habitar em Siquém.'),
 (35826,2,7,9,42,'E sucedeu no dia seguinte que o povo saiu ao campo; disto foi avisado Abimeleque.'),
 (35827,2,7,9,43,'Então tomou o povo, e o repartiu em três tropas, e pôs emboscadas no campo; e olhou, e eis que o povo saía da cidade, e levantou-se contra ele, e o feriu.'),
-(35828,2,7,9,44,'Porque Abimeleque, e as tropas que com ele havia, romperam de improviso, e pararam à entrada da porta da cidade; e as outras duas tropas deram de improviso sobre todos quantos estavam no campo, e os feriram.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(35828,2,7,9,44,'Porque Abimeleque, e as tropas que com ele havia, romperam de improviso, e pararam à entrada da porta da cidade; e as outras duas tropas deram de improviso sobre todos quantos estavam no campo, e os feriram.'),
 (35829,2,7,9,45,'E Abimeleque pelejou contra a cidade todo aquele dia, e tomou a cidade, e matou o povo que nela havia; e assolou a cidade, e a semeou de sal.'),
 (35830,2,7,9,46,'O que ouvindo todos os cidadãos da torre de Siquém, entraram na fortaleza, na casa do deus Berite.'),
 (35831,2,7,9,47,'E contou-se a Abimeleque que todos os cidadãos da torre de Siquém se haviam congregado.'),
@@ -6987,8 +6857,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (35875,2,7,11,16,'Porque, subindo Israel do Egito, andou pelo deserto até ao Mar Vermelho, e chegou até Cades.'),
 (35876,2,7,11,17,'E Israel enviou mensageiros ao rei dos edomitas, dizendo: Rogo-te que me deixes passar pela tua terra. Porém o rei dos edomitas não lhe deu ouvidos; enviou também ao rei dos moabitas, o qual igualmente não consentiu; e assim Israel ficou em Cades.'),
 (35877,2,7,11,18,'Depois andou pelo deserto e rodeou a terra dos edomitas e a terra dos moabitas, e veio do nascente do sol à terra dos moabitas, e alojou-se além de Arnom; porém não entrou nos limites dos moabitas, porque Arnom é limite dos moabitas.'),
-(35878,2,7,11,19,'Mas Israel enviou mensageiros a Siom, rei dos amorreus, rei de Hesbom; e disse-lhe Israel: Deixa-nos, peço-te, passar pela tua terra até ao meu lugar.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(35878,2,7,11,19,'Mas Israel enviou mensageiros a Siom, rei dos amorreus, rei de Hesbom; e disse-lhe Israel: Deixa-nos, peço-te, passar pela tua terra até ao meu lugar.'),
 (35879,2,7,11,20,'Porém Siom não confiou em Israel para este passar nos seus limites; antes Siom ajuntou todo o seu povo, e se acamparam em Jasa, e combateu contra Israel.'),
 (35880,2,7,11,21,'E o Senhor Deus de Israel deu a Siom, com todo o seu povo, na mão de Israel, que os feriu; e Israel tomou por herança toda a terra dos amorreus que habitavam naquela região.'),
 (35881,2,7,11,22,'E por herança tomaram todos os limites dos amorreus, desde Arnom até Jaboque, e desde o deserto até ao Jordão.'),
@@ -7038,8 +6907,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (35925,2,7,13,11,'Então Manoá levantou-se, e seguiu a sua mulher, e foi àquele homem, e disse-lhe: És tu aquele homem que falou a esta mulher? E disse: Eu sou.'),
 (35926,2,7,13,12,'Então disse Manoá: Cumpram-se as tuas palavras; mas qual será o modo de viver e o serviço do menino?'),
 (35927,2,7,13,13,'E disse o anjo do Senhor a Manoá: De tudo quanto eu disse à mulher se guardará ela.'),
-(35928,2,7,13,14,'De tudo quanto procede da videira não comerá, nem vinho nem bebida forte beberá, nem coisa imunda comerá; tudo quanto lhe tenho ordenado guardará.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(35928,2,7,13,14,'De tudo quanto procede da videira não comerá, nem vinho nem bebida forte beberá, nem coisa imunda comerá; tudo quanto lhe tenho ordenado guardará.'),
 (35929,2,7,13,15,'Então Manoá disse ao anjo do Senhor: Ora deixa que te detenhamos, e te preparemos um cabrito.'),
 (35930,2,7,13,16,'Porém o anjo do Senhor disse a Manoá: Ainda que me detenhas, não comerei de teu pão; e se fizeres holocausto o oferecerás ao Senhor. Porque não sabia Manoá que era o anjo do Senhor.'),
 (35931,2,7,13,17,'E disse Manoá ao anjo do Senhor: Qual é o teu nome, para que, quando se cumprir a tua palavra, te honremos?'),
@@ -7089,8 +6957,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (35975,2,7,15,16,'Então disse Sansão: Com uma queixada de jumento, montões sobre montões; com uma queixada de jumento feri a mil homens.'),
 (35976,2,7,15,17,'E aconteceu que, acabando ele de falar, lançou a queixada da sua mão; e chamou aquele lugar Ramate-Leí.'),
 (35977,2,7,15,18,'E como tivesse grande sede, clamou ao Senhor, e disse: Pela mão do teu servo tu deste esta grande salvação; morrerei eu pois agora de sede, e cairei na mão destes incircuncisos?'),
-(35978,2,7,15,19,'Então Deus fendeu uma cavidade que estava na queixada; e saiu dela água, e bebeu; e recobrou o seu espírito e reanimou-se; por isso chamou aquele lugar: A fonte do que clama, que está em Leí até ao dia de hoje.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(35978,2,7,15,19,'Então Deus fendeu uma cavidade que estava na queixada; e saiu dela água, e bebeu; e recobrou o seu espírito e reanimou-se; por isso chamou aquele lugar: A fonte do que clama, que está em Leí até ao dia de hoje.'),
 (35979,2,7,15,20,'E julgou a Israel, nos dias dos filisteus, vinte anos.'),
 (35980,2,7,16,1,'E foi Sansão a Gaza, e viu ali uma mulher prostituta, e entrou a ela.'),
 (35981,2,7,16,2,'E foi dito aos gazitas: Sansão entrou aqui. Cercaram-no, e toda a noite lhe puseram espias à porta da cidade; porém toda a noite estiveram quietos, dizendo: Até à luz da manhã esperaremos; então o mataremos.'),
@@ -7191,8 +7058,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (36075,2,7,19,21,'E levou-o à sua casa, e deu pasto aos jumentos; e, lavando-se os pés, comeram e beberam.'),
 (36076,2,7,19,22,'Estando eles alegrando o seu coração, eis que os homens daquela cidade (homens que eram filhos de Belial) cercaram a casa, batendo à porta; e falaram ao ancião, senhor da casa, dizendo: Tira para fora o homem que entrou em tua casa, para que o conheçamos.'),
 (36077,2,7,19,23,'E o homem, dono da casa, saiu a eles e disse-lhes: Não, irmãos meus, ora não façais semelhante mal; já que este homem entrou em minha casa, não façais tal loucura.'),
-(36078,2,7,19,24,'Eis que a minha filha virgem e a concubina dele vo-las tirarei fora; humilhai-as a elas, e fazei delas o que parecer bem aos vossos olhos; porém a este homem não façais essa loucura.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(36078,2,7,19,24,'Eis que a minha filha virgem e a concubina dele vo-las tirarei fora; humilhai-as a elas, e fazei delas o que parecer bem aos vossos olhos; porém a este homem não façais essa loucura.'),
 (36079,2,7,19,25,'Porém aqueles homens não o quiseram ouvir; então aquele homem pegou da sua concubina, e lha tirou para fora; e eles a conheceram e abusaram dela toda a noite até pela manhã, e, subindo a alva, a deixaram.'),
 (36080,2,7,19,26,'E ao romper da manhã veio a mulher, e caiu à porta da casa daquele homem, onde estava seu senhor, e ficou ali até que se fez claro.'),
 (36081,2,7,19,27,'E, levantando-se seu senhor pela manhã, e abrindo as portas da casa, e saindo a seguir o seu caminho, eis que a mulher, sua concubina, jazia à porta da casa, com as mãos sobre o limiar.'),
@@ -7242,8 +7108,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (36125,2,7,20,41,'E os homens de Israel viraram os rostos, e os homens de Benjamim pasmaram; porque viram que o mal lhes tocaria.'),
 (36126,2,7,20,42,'E viraram as costas diante dos homens de Israel, para o caminho do deserto; porém a peleja os apertou; e os que saíam das cidades os destruíram no meio deles.'),
 (36127,2,7,20,43,'E cercaram aos de Benjamim, e os perseguiram, e à vontade os pisaram, até diante de Gibeá, para o nascente do sol.'),
-(36128,2,7,20,44,'E caíram de Benjamim dezoito mil homens, todos estes sendo homens valentes.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(36128,2,7,20,44,'E caíram de Benjamim dezoito mil homens, todos estes sendo homens valentes.'),
 (36129,2,7,20,45,'Então viraram as costas, e fugiram para o deserto, à penha de Rimom; colheram ainda deles pelos caminhos uns cinco mil homens; e de perto os seguiram até Gidom, e feriram deles dois mil homens.'),
 (36130,2,7,20,46,'E, todos os que caíram de Benjamim, naquele dia, foram vinte e cinco mil homens que tiravam a espada, todos eles homens valentes.'),
 (36131,2,7,20,47,'Porém seiscentos homens viraram as costas, e fugiram para o deserto, à penha de Rimom; e ficaram na penha de Rimom quatro meses.'),
@@ -7293,8 +7158,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (36175,2,8,1,18,'Vendo Noemi, que de todo estava resolvida a ir com ela, deixou de lhe falar.'),
 (36176,2,8,1,19,'Assim, pois, foram-se ambas, até que chegaram a Belém; e sucedeu que, entrando elas em Belém, toda a cidade se comoveu por causa delas, e diziam: Não é esta Noemi?'),
 (36177,2,8,1,20,'Porém ela lhes dizia: Não me chameis Noemi; chamai-me Mara; porque grande amargura me tem dado o Todo-Poderoso.'),
-(36178,2,8,1,21,'Cheia parti, porém vazia o Senhor me fez tornar; por que pois me chamareis Noemi? O Senhor testifica contra mim, e o Todo-Poderoso me tem feito mal.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(36178,2,8,1,21,'Cheia parti, porém vazia o Senhor me fez tornar; por que pois me chamareis Noemi? O Senhor testifica contra mim, e o Todo-Poderoso me tem feito mal.'),
 (36179,2,8,1,22,'Assim Noemi voltou, e com ela Rute a moabita, sua nora, que veio dos campos de Moabe; e chegaram a Belém no princípio da colheita das cevadas.'),
 (36180,2,8,2,1,'E tinha Noemi um parente de seu marido, homem valente e poderoso, da família de Elimeleque; e era o seu nome Boaz.'),
 (36181,2,8,2,2,'E Rute, a moabita, disse a Noemi: Deixa-me ir ao campo, e apanharei espigas atrás daquele em cujos olhos eu achar graça. E ela disse: Vai, minha filha.'),
@@ -7344,8 +7208,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (36225,2,8,4,5,'Disse porém Boaz: No dia em que comprares a terra da mão de Noemi, também a comprarás da mão de Rute, a moabita, mulher do falecido, para suscitar o nome do falecido sobre a sua herança.'),
 (36226,2,8,4,6,'Então disse o remidor: Para mim não a poderei redimir, para que não prejudique a minha herança; toma para ti o meu direito de remissão, porque eu não a poderei redimir.'),
 (36227,2,8,4,7,'Havia, pois, já de muito tempo este costume em Israel, quanto a remissão e permuta, para confirmar todo o negócio; o homem descalçava o sapato e o dava ao seu próximo; e isto era por testemunho em Israel.'),
-(36228,2,8,4,8,'Disse, pois, o remidor a Boaz: Toma-a para ti. E descalçou o sapato.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(36228,2,8,4,8,'Disse, pois, o remidor a Boaz: Toma-a para ti. E descalçou o sapato.'),
 (36229,2,8,4,9,'Então Boaz disse aos anciãos e a todo o povo: Sois hoje testemunhas de que tomei tudo quanto foi de Elimeleque, e de Quiliom, e de Malom, da mão de Noemi,'),
 (36230,2,8,4,10,'E de que também tomo por mulher a Rute, a moabita, que foi mulher de Malom, para suscitar o nome do falecido sobre a sua herança, para que o nome do falecido não seja desarraigado dentre seus irmãos e da porta do seu lugar; disto sois hoje testemunhas.'),
 (36231,2,8,4,11,'E todo o povo que estava na porta, e os anciãos, disseram: Somos testemunhas; o Senhor faça a esta mulher, que entra na tua casa, como a Raquel e como a Lia, que ambas edificaram a casa de Israel; e porta-te valorosamente em Efrata, e faze-te nome afamado em Belém.'),
@@ -7395,8 +7258,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (36275,2,9,2,5,'Os fartos se alugaram por pão, e cessaram os famintos; até a estéril deu à luz sete filhos, e a que tinha muitos filhos enfraqueceu.'),
 (36276,2,9,2,6,'O Senhor é o que tira a vida e a dá; faz descer à sepultura e faz tornar a subir dela.'),
 (36277,2,9,2,7,'O Senhor empobrece e enriquece; abaixa e também exalta.'),
-(36278,2,9,2,8,'Levanta o pobre do pó, e desde o monturo exalta o necessitado, para o fazer assentar entre os príncipes, para o fazer herdar o trono de glória; porque do Senhor são os alicerces da terra, e assentou sobre eles o mundo.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(36278,2,9,2,8,'Levanta o pobre do pó, e desde o monturo exalta o necessitado, para o fazer assentar entre os príncipes, para o fazer herdar o trono de glória; porque do Senhor são os alicerces da terra, e assentou sobre eles o mundo.'),
 (36279,2,9,2,9,'Os pés dos seus santos guardará, porém os ímpios ficarão mudos nas trevas; porque o homem não prevalecerá pela força.'),
 (36280,2,9,2,10,'Os que contendem com o Senhor serão quebrantados, desde os céus trovejará sobre eles; o Senhor julgará as extremidades da terra; e dará força ao seu rei, e exaltará o poder do seu ungido.'),
 (36281,2,9,2,11,'Então Elcana foi a Ramá, à sua casa; porém o menino ficou servindo ao Senhor, perante o sacerdote Eli.'),
@@ -7446,8 +7308,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (36325,2,9,3,19,'E crescia Samuel, e o Senhor era com ele, e nenhuma de todas as suas palavras deixou cair em terra.'),
 (36326,2,9,3,20,'E todo o Israel, desde Dã até Berseba, conheceu que Samuel estava confirmado por profeta do Senhor.'),
 (36327,2,9,3,21,'E continuou o Senhor a aparecer em Siló; porquanto o Senhor se manifestava a Samuel em Siló pela palavra do Senhor.'),
-(36328,2,9,4,1,'E veio a palavra de Samuel a todo o Israel; e Israel saiu à peleja contra os filisteus e acampou-se junto a Ebenézer; e os filisteus se acamparam junto a Afeque.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(36328,2,9,4,1,'E veio a palavra de Samuel a todo o Israel; e Israel saiu à peleja contra os filisteus e acampou-se junto a Ebenézer; e os filisteus se acamparam junto a Afeque.'),
 (36329,2,9,4,2,'E os filisteus se dispuseram em ordem de batalha, para sair contra Israel; e, estendendo-se a peleja, Israel foi ferido diante dos filisteus, porque feriram na batalha, no campo, uns quatro mil homens.'),
 (36330,2,9,4,3,'E voltando o povo ao arraial, disseram os anciãos de Israel: Por que nos feriu o Senhor hoje diante dos filisteus? Tragamos de Siló a arca da aliança do Senhor, e venha no meio de nós, para que nos livre da mão de nossos inimigos.'),
 (36331,2,9,4,4,'Enviou, pois, o povo a Siló, e trouxeram de lá a arca da aliança do Senhor dos Exércitos, que habita entre os querubins; e os dois filhos de Eli, Hofni e Finéias, estavam ali com a arca da aliança de Deus.'),
@@ -7497,8 +7358,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (36375,2,9,6,14,'E o carro veio ao campo de Josué, o bete-semita, e parou ali onde havia uma grande pedra. E fenderam a madeira do carro, e ofereceram as vacas ao Senhor em holocausto.'),
 (36376,2,9,6,15,'E os levitas desceram a arca do Senhor, como também o cofre que estava junto a ela, em que estavam os objetos de ouro, e puseram-nos sobre aquela grande pedra; e os homens de Bete-Semes ofereceram holocaustos e sacrifícios ao Senhor no mesmo dia.'),
 (36377,2,9,6,16,'E, vendo aquilo os cinco príncipes dos filisteus, voltaram para Ecrom no mesmo dia.'),
-(36378,2,9,6,17,'Estas, pois, são as hemorróidas de ouro que enviaram os filisteus ao Senhor em expiação da culpa: Por Asdode uma, por Gaza outra, por Ascalom outra, por Gate outra, por Ecrom outra.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(36378,2,9,6,17,'Estas, pois, são as hemorróidas de ouro que enviaram os filisteus ao Senhor em expiação da culpa: Por Asdode uma, por Gaza outra, por Ascalom outra, por Gate outra, por Ecrom outra.'),
 (36379,2,9,6,18,'Como também os ratos de ouro, segundo o número de todas as cidades dos filisteus, pertencentes aos cinco príncipes, desde as cidades fortificadas até às aldeias, e até Abel. A grande pedra, sobre a qual puseram a arca do Senhor, ainda está até ao dia de hoje no campo de Josué, o bete-semita.'),
 (36380,2,9,6,19,'E o Senhor feriu os homens de Bete-Semes, porquanto olharam para dentro da arca do Senhor; feriu do povo cinqüenta mil e setenta homens; então o povo se entristeceu, porquanto o Senhor fizera tão grande estrago entre o povo.'),
 (36381,2,9,6,20,'Então disseram os homens de Bete-Semes: Quem poderia subsistir perante este santo Senhor Deus? E a quem subirá de nós?'),
@@ -7548,8 +7408,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (36425,2,9,9,4,'Passaram, pois, pela montanha de Efraim, e dali passaram à terra de Salisa, porém não as acharam; depois passaram à terra de Saalim, porém tampouco estavam ali; também passaram à terra de Benjamim, porém tampouco as acharam.'),
 (36426,2,9,9,5,'Vindo eles então à terra de Zufe, Saul disse para o seu moço, com quem ele ia: Vem, e voltemos; para que porventura meu pai não deixe de inquietar-se pelas jumentas e se aflija por causa de nós.'),
 (36427,2,9,9,6,'Porém ele lhe disse: Eis que há nesta cidade um homem de Deus, e homem honrado é; tudo quanto diz, sucede assim infalivelmente; vamo-nos agora lá; porventura nos mostrará o caminho que devemos seguir.'),
-(36428,2,9,9,7,'Então Saul disse ao seu moço: Eis, porém, se lá formos, que levaremos então àquele homem? Porque o pão de nossos alforjes se acabou, e presente nenhum temos para levar ao homem de Deus; que temos?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(36428,2,9,9,7,'Então Saul disse ao seu moço: Eis, porém, se lá formos, que levaremos então àquele homem? Porque o pão de nossos alforjes se acabou, e presente nenhum temos para levar ao homem de Deus; que temos?'),
 (36429,2,9,9,8,'E o moço tornou a responder a Saul, e disse: Eis que ainda se acha na minha mão um quarto de um siclo de prata, o qual darei ao homem de Deus, para que nos mostre o caminho'),
 (36430,2,9,9,9,'(Antigamente em Israel, indo alguém consultar a Deus, dizia assim: Vinde, e vamos ao vidente; porque ao profeta de hoje, antigamente se chamava vidente).'),
 (36431,2,9,9,10,'Então disse Saul ao moço: Bem dizes; vem, pois, vamos. E foram-se à cidade onde estava o homem de Deus.'),
@@ -7599,8 +7458,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (36475,2,9,10,27,'Mas os filhos de Belial disseram: É este o que nos há de livrar? E o desprezaram, e não lhe trouxeram presentes; porém ele se fez como surdo.'),
 (36476,2,9,11,1,'Então subiu Naás, amonita, e sitiou a Jabes-Gileade; e disseram todos os homens de Jabes a Naás: Faze aliança conosco, e te serviremos.'),
 (36477,2,9,11,2,'Porém Naás, amonita, lhes disse: Com esta condição farei aliança convosco: que a todos vos arranque o olho direito, e assim ponha esta afronta sobre todo o Israel.'),
-(36478,2,9,11,3,'Então os anciãos de Jabes lhe disseram: Deixa-nos por sete dias, para que enviemos mensageiros por todos os termos de Israel, e, não havendo ninguém que nos livre, então viremos a ti.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(36478,2,9,11,3,'Então os anciãos de Jabes lhe disseram: Deixa-nos por sete dias, para que enviemos mensageiros por todos os termos de Israel, e, não havendo ninguém que nos livre, então viremos a ti.'),
 (36479,2,9,11,4,'E, vindo os mensageiros a Gibeá de Saul, falaram estas palavras aos ouvidos do povo. Então todo o povo levantou a sua voz, e chorou.'),
 (36480,2,9,11,5,'E eis que Saul vinha do campo, atrás dos bois; e disse Saul: Que tem o povo, que chora? E contaram-lhe as palavras dos homens de Jabes.'),
 (36481,2,9,11,6,'Então o Espírito de Deus se apoderou de Saul, ouvindo estas palavras; e acendeu-se em grande maneira a sua ira.'),
@@ -7650,8 +7508,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (36525,2,9,13,10,'E sucedeu que, acabando ele de oferecer o holocausto, eis que Samuel chegou; e Saul lhe saiu ao encontro, para o saudar.'),
 (36526,2,9,13,11,'Então disse Samuel: Que fizeste? Disse Saul: Porquanto via que o povo se espalhava de mim, e tu não vinhas nos dias aprazados, e os filisteus já se tinham ajuntado em Micmás,'),
 (36527,2,9,13,12,'Eu disse: Agora descerão os filisteus sobre mim a Gilgal, e ainda à face do Senhor não orei; e constrangi-me, e ofereci holocausto.'),
-(36528,2,9,13,13,'Então disse Samuel a Saul: Procedeste nesciamente, e não guardaste o mandamento que o Senhor teu Deus te ordenou; porque agora o Senhor teria confirmado o teu reino sobre Israel para sempre;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(36528,2,9,13,13,'Então disse Samuel a Saul: Procedeste nesciamente, e não guardaste o mandamento que o Senhor teu Deus te ordenou; porque agora o Senhor teria confirmado o teu reino sobre Israel para sempre;'),
 (36529,2,9,13,14,'Porém agora não subsistirá o teu reino; já tem buscado o Senhor para si um homem segundo o seu coração, e já lhe tem ordenado o Senhor, que seja capitão sobre o seu povo, porquanto não guardaste o que o Senhor te ordenou.'),
 (36530,2,9,13,15,'Então se levantou Samuel, e subiu de Gilgal a Gibeá de Benjamim; e Saul contou o povo que se achava com ele, uns seiscentos homens.'),
 (36531,2,9,13,16,'E Saul e Jônatas, seu filho, e o povo que se achou com eles, ficaram em Gibeá de Benjamim; porém os filisteus se acamparam em Micmás.'),
@@ -7701,8 +7558,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (36575,2,9,14,37,'Então consultou Saul a Deus, dizendo: Descerei atrás dos filisteus? Entregá-los-ás na mão de Israel? Porém aquele dia não lhe respondeu.'),
 (36576,2,9,14,38,'Então disse Saul: Chegai-vos para cá, todos os chefes do povo, e informai-vos, e vede em que se cometeu hoje este pecado.'),
 (36577,2,9,14,39,'Porque vive o Senhor que salva a Israel, que, ainda que seja em meu filho Jônatas, certamente morrerá. E nenhum de todo o povo lhe respondeu.'),
-(36578,2,9,14,40,'Disse mais a todo o Israel: Vós estareis de um lado, e eu e meu filho Jônatas estaremos do outro lado. Então disse o povo a Saul: Faze o que parecer bem aos teus olhos.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(36578,2,9,14,40,'Disse mais a todo o Israel: Vós estareis de um lado, e eu e meu filho Jônatas estaremos do outro lado. Então disse o povo a Saul: Faze o que parecer bem aos teus olhos.'),
 (36579,2,9,14,41,'Falou, pois, Saul ao Senhor Deus de Israel: Mostra o inocente. Então Jônatas e Saul foram tomados por sorte, e o povo saiu livre.'),
 (36580,2,9,14,42,'Então disse Saul: Lançai a sorte entre mim e Jônatas, meu filho. E foi tomado Jônatas.'),
 (36581,2,9,14,43,'Disse então Saul a Jônatas: Declara-me o que tens feito. E Jônatas lho declarou, e disse: Tão-somente provei um pouco de mel com a ponta da vara que tinha na mão; eis que devo morrer?'),
@@ -7752,8 +7608,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (36625,2,9,15,35,'E nunca mais viu Samuel a Saul até ao dia da sua morte; porque Samuel teve dó de Saul. E o Senhor se arrependeu de haver posto a Saul rei sobre Israel.'),
 (36626,2,9,16,1,'Então disse o SENHOR a Samuel: Até quando terás dó de Saul, havendo-o eu rejeitado, para que não reine sobre Israel? Enche um chifre de azeite, e vem, enviar-te-ei a Jessé o belemita; porque dentre os seus filhos me tenho provido de um rei.'),
 (36627,2,9,16,2,'Porém disse Samuel: Como irei eu? pois, ouvindo-o Saul, me matará. Então disse o Senhor: Toma uma bezerra das vacas em tuas mãos, e dize: Vim para sacrificar ao Senhor.'),
-(36628,2,9,16,3,'E convidarás a Jessé ao sacrifício; e eu te farei saber o que hás de fazer, e ungir-me-ás a quem eu te disser.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(36628,2,9,16,3,'E convidarás a Jessé ao sacrifício; e eu te farei saber o que hás de fazer, e ungir-me-ás a quem eu te disser.'),
 (36629,2,9,16,4,'Fez, pois, Samuel o que dissera o Senhor, e veio a Belém; então os anciãos da cidade saíram ao encontro, tremendo, e disseram: De paz é a tua vinda?'),
 (36630,2,9,16,5,'E disse ele: É de paz, vim sacrificar ao Senhor; santificai-vos, e vinde comigo ao sacrifício. E santificou ele a Jessé e a seus filhos, e os convidou ao sacrifício.'),
 (36631,2,9,16,6,'E sucedeu que, entrando eles, viu a Eliabe, e disse: Certamente está perante o Senhor o seu ungido.'),
@@ -7803,8 +7658,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (36675,2,9,17,27,'E o povo lhe tornou a falar conforme àquela palavra dizendo: Assim farão ao homem que o ferir.'),
 (36676,2,9,17,28,'E, ouvindo Eliabe, seu irmão mais velho, falar àqueles homens, acendeu-se a ira de Eliabe contra Davi, e disse: Por que desceste aqui? Com quem deixaste aquelas poucas ovelhas no deserto? Bem conheço a tua presunção, e a maldade do teu coração, que desceste para ver a peleja.'),
 (36677,2,9,17,29,'Então disse Davi: Que fiz eu agora? Porventura não há razão para isso?'),
-(36678,2,9,17,30,'E desviou-se dele para outro, e falou conforme àquela palavra; e o povo lhe tornou a responder conforme às primeiras palavras.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(36678,2,9,17,30,'E desviou-se dele para outro, e falou conforme àquela palavra; e o povo lhe tornou a responder conforme às primeiras palavras.'),
 (36679,2,9,17,31,'E, ouvidas as palavras que Davi havia falado, as anunciaram a Saul, que mandou chamá-lo.'),
 (36680,2,9,17,32,'E Davi disse a Saul: Não desfaleça o coração de ninguém por causa dele; teu servo irá, e pelejará contra este filisteu.'),
 (36681,2,9,17,33,'Porém Saul disse a Davi: Contra este filisteu não poderás ir para pelejar com ele; pois tu ainda és moço, e ele homem de guerra desde a sua mocidade.'),
@@ -7854,8 +7708,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (36725,2,9,18,19,'Sucedeu, porém, que ao tempo que Merabe, filha de Saul, devia ser dada a Davi, ela foi dada por mulher a Adriel, meolatita.'),
 (36726,2,9,18,20,'Mas Mical, a outra filha de Saul amava a Davi; o que, sendo anunciado a Saul, pareceu isto bom aos seus olhos.'),
 (36727,2,9,18,21,'E Saul disse: Eu lha darei, para que lhe sirva de laço, e para que a mão dos filisteus venha a ser contra ele. Pelo que Saul disse a Davi: Com a outra serás hoje meu genro.'),
-(36728,2,9,18,22,'E Saul deu ordem aos seus servos: Falai em segredo a Davi, dizendo: Eis que o rei te está mui afeiçoado, e todos os seus servos te amam; agora, pois, consente em ser genro do rei.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(36728,2,9,18,22,'E Saul deu ordem aos seus servos: Falai em segredo a Davi, dizendo: Eis que o rei te está mui afeiçoado, e todos os seus servos te amam; agora, pois, consente em ser genro do rei.'),
 (36729,2,9,18,23,'E os servos de Saul falaram todas estas palavras aos ouvidos de Davi. Então disse Davi: Parece-vos pouco aos vossos olhos ser genro do rei, sendo eu homem pobre e desprezível?'),
 (36730,2,9,18,24,'E os servos de Saul lhe anunciaram isto, dizendo: Foram tais as palavras que falou Davi.'),
 (36731,2,9,18,25,'Então disse Saul: Assim direis a Davi: O rei não tem necessidade de dote, senão de cem prepúcios de filisteus, para se tomar vingança dos inimigos do rei. Porquanto Saul tentava fazer cair a Davi pela mão dos filisteus.'),
@@ -7905,8 +7758,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (36775,2,9,20,15,'Nem tampouco cortarás da minha casa a tua beneficência eternamente; nem ainda quando o Senhor desarraigar da terra a cada um dos inimigos de Davi.'),
 (36776,2,9,20,16,'Assim fez Jônatas aliança com a casa de Davi, dizendo: O Senhor o requeira da mão dos inimigos de Davi.'),
 (36777,2,9,20,17,'E Jônatas fez jurar a Davi de novo, porquanto o amava; porque o amava com todo o amor da sua alma.'),
-(36778,2,9,20,18,'E disse-lhe Jônatas: Amanhã é a lua nova, e não te acharão no teu lugar, pois o teu assento se achará vazio.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(36778,2,9,20,18,'E disse-lhe Jônatas: Amanhã é a lua nova, e não te acharão no teu lugar, pois o teu assento se achará vazio.'),
 (36779,2,9,20,19,'E, ausentando-te tu três dias, desce apressadamente, e vai àquele lugar onde te escondeste no dia do negócio; e fica-te junto à pedra de Ezel.'),
 (36780,2,9,20,20,'E eu atirarei três flechas para aquele lado, como se atirasse ao alvo.'),
 (36781,2,9,20,21,'E eis que mandarei o moço dizendo: Anda, busca as flechas. Se eu expressamente disser ao moço: Olha que as flechas estão para cá de ti; toma-o contigo, e vem, porque há paz para ti, e não há nada, vive o Senhor.'),
@@ -7956,8 +7808,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (36825,2,9,22,7,'Então disse Saul a todos os seus criados que estavam com ele: Ouvi, peço-vos, filhos de Benjamim, dar-vos-á também o filho de Jessé, a todos vós, terras e vinhas, e far-vos-á a todos capitães de milhares e capitães de centenas,'),
 (36826,2,9,22,8,'Para que todos vós tenhais conspirado contra mim, e ninguém há que me dê aviso de que meu filho tem feito aliança com o filho de Jessé, e nenhum dentre vós há que se doa de mim, e mo participe, pois meu filho tem contra mim sublevado a meu servo, para me armar ciladas, como se vê neste dia?'),
 (36827,2,9,22,9,'Então respondeu Doegue, o edomeu, que também estava com os criados de Saul, e disse: Vi o filho de Jessé chegar a Nobe, a Aimeleque, filho de Aitube,'),
-(36828,2,9,22,10,'O qual consultou por ele ao Senhor, e lhe deu mantimento, e lhe deu também a espada de Golias, o filisteu.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(36828,2,9,22,10,'O qual consultou por ele ao Senhor, e lhe deu mantimento, e lhe deu também a espada de Golias, o filisteu.'),
 (36829,2,9,22,11,'Então o rei mandou chamar a Aimeleque, sacerdote, filho de Aitube, e a toda a casa de seu pai, os sacerdotes que estavam em Nobe; e todos eles vieram ao rei.'),
 (36830,2,9,22,12,'E disse Saul: Ouve, peço-te, filho de Aitube. E ele disse: Eis-me aqui, senhor meu.'),
 (36831,2,9,22,13,'Então lhe disse Saul: Por que conspirastes contra mim, tu e o filho de Jessé? Pois deste-lhe pão e espada, e consultaste por ele a Deus, para que se levantasse contra mim a armar-me ciladas, como se vê neste dia?'),
@@ -8007,8 +7858,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (36875,2,9,24,5,'Sucedeu, porém, que depois o coração doeu a Davi, por ter cortado a orla do manto de Saul.'),
 (36876,2,9,24,6,'E disse aos seus homens: O SENHOR me guarde de que eu faça tal coisa ao meu senhor, ao ungido do SENHOR, estendendo eu a minha mão contra ele; pois é o ungido do SENHOR.'),
 (36877,2,9,24,7,'E com estas palavras Davi conteve os seus homens, e não lhes permitiu que se levantassem contra Saul; e Saul se levantou da caverna, e prosseguiu o seu caminho.'),
-(36878,2,9,24,8,'Depois também Davi se levantou, e saiu da caverna, e gritou por detrás de Saul, dizendo: Rei, meu senhor! E, olhando Saul para trás, Davi se inclinou com o rosto em terra, e se prostrou.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(36878,2,9,24,8,'Depois também Davi se levantou, e saiu da caverna, e gritou por detrás de Saul, dizendo: Rei, meu senhor! E, olhando Saul para trás, Davi se inclinou com o rosto em terra, e se prostrou.'),
 (36879,2,9,24,9,'E disse Davi a Saul: Por que dás tu ouvidos às palavras dos homens que dizem: Eis que Davi procura o teu mal?'),
 (36880,2,9,24,10,'Eis que este dia os teus olhos viram, que o SENHOR hoje te pôs em minhas mãos nesta caverna, e alguns disseram que te matasse; porém a minha mão te poupou; porque disse: Não estenderei a minha mão contra o meu senhor, pois é o ungido do SENHOR.'),
 (36881,2,9,24,11,'Olha, pois, meu pai, vê aqui a orla do teu manto na minha mão; porque cortando-te eu a orla do manto, não te matei. Sabe, pois, e vê que não há na minha mão nem mal nem rebeldia alguma, e não pequei contra ti; porém tu andas à caça da minha vida, para ma tirares.'),
@@ -8058,8 +7908,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (36925,2,9,25,33,'E bendito o teu conselho, e bendita tu, que hoje me impediste de derramar sangue, e de vingar-me pela minha própria mão.'),
 (36926,2,9,25,34,'Porque, na verdade, vive o Senhor Deus de Israel, que me impediu de que te fizesse mal, que se tu não te apressaras, e não me vieras ao encontro, não ficaria a Nabal até a luz da manhã nem mesmo um menino.'),
 (36927,2,9,25,35,'Então Davi tomou da sua mão o que tinha trazido, e lhe disse: Sobe em paz à tua casa; vês aqui que tenho dado ouvidos à tua voz, e tenho aceitado a tua face.'),
-(36928,2,9,25,36,'E, vindo Abigail a Nabal, eis que tinha em sua casa um banquete, como banquete de rei; e o coração de Nabal estava alegre nele, e ele já muito embriagado, pelo que ela não lhe deu a entender coisa alguma, pequena nem grande, até à luz da manhã.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(36928,2,9,25,36,'E, vindo Abigail a Nabal, eis que tinha em sua casa um banquete, como banquete de rei; e o coração de Nabal estava alegre nele, e ele já muito embriagado, pelo que ela não lhe deu a entender coisa alguma, pequena nem grande, até à luz da manhã.'),
 (36929,2,9,25,37,'Sucedeu, pois, que pela manhã, estando Nabal já livre do vinho, sua mulher lhe deu a entender aquelas coisas; e se amorteceu o seu coração, e ficou ele como pedra.'),
 (36930,2,9,25,38,'E aconteceu que, passados quase dez dias, feriu o Senhor a Nabal, e este morreu.'),
 (36931,2,9,25,39,'E, ouvindo Davi que Nabal morrera, disse: Bendito seja o Senhor, que julgou a causa de minha afronta recebida da mão de Nabal, e deteve a seu servo do mal, fazendo o Senhor tornar o mal de Nabal sobre a sua cabeça. E mandou Davi falar a Abigail, para tomá-la por sua mulher.'),
@@ -8109,8 +7958,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (36975,2,9,28,2,'Então disse Davi a Aquis: Assim saberás o que fará o teu servo. E disse Aquis a Davi: Por isso te terei por guarda da minha pessoa para sempre.'),
 (36976,2,9,28,3,'E Samuel já estava morto, e todo o Israel o tinha chorado, e o tinha sepultado em Ramá, que era a sua cidade; e Saul tinha desterrado os adivinhos e os encantadores.'),
 (36977,2,9,28,4,'E ajuntaram-se os filisteus, e vieram, e acamparam-se em Suném; e ajuntou Saul a todo o Israel, e se acamparam em Gilboa.'),
-(36978,2,9,28,5,'E, vendo Saul o arraial dos filisteus, temeu, e estremeceu muito o seu coração.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(36978,2,9,28,5,'E, vendo Saul o arraial dos filisteus, temeu, e estremeceu muito o seu coração.'),
 (36979,2,9,28,6,'E perguntou Saul ao Senhor, porém o Senhor não lhe respondeu, nem por sonhos, nem por Urim, nem por profetas.'),
 (36980,2,9,28,7,'Então disse Saul aos seus criados: Buscai-me uma mulher que tenha o espírito de feiticeira, para que vá a ela, e consulte por ela. E os seus criados lhe disseram: Eis que em En-Dor há uma mulher que tem o espírito de adivinhar.'),
 (36981,2,9,28,8,'E Saul se disfarçou, e vestiu outras roupas, e foi ele com dois homens, e de noite chegaram à mulher; e disse: Peço-te que me adivinhes pelo espírito de feiticeira, e me faças subir a quem eu te disser.'),
@@ -8211,8 +8059,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (37075,2,10,1,22,'Do sangue dos feridos, da gordura dos valentes, nunca se retirou para trás o arco de Jônatas, nem voltou vazia a espada de Saul.'),
 (37076,2,10,1,23,'Saul e Jônatas, tão amados e queridos na sua vida, também na sua morte não se separaram; eram mais ligeiros do que as águias, mais fortes do que os leões.'),
 (37077,2,10,1,24,'Vós, filhas de Israel, chorai por Saul, que vos vestia de escarlata em delícias, que vos fazia trazer ornamentos de ouro sobre as vossas vestes.'),
-(37078,2,10,1,25,'Como caíram os poderosos, no meio da peleja! Jônatas nos teus altos foi morto.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(37078,2,10,1,25,'Como caíram os poderosos, no meio da peleja! Jônatas nos teus altos foi morto.'),
 (37079,2,10,1,26,'Angustiado estou por ti, meu irmão Jônatas; quão amabilíssimo me eras! Mais maravilhoso me era o teu amor do que o amor das mulheres.'),
 (37080,2,10,1,27,'Como caíram os poderosos, e pereceram as armas de guerra!'),
 (37081,2,10,2,1,'E sucedeu depois disto que Davi consultou ao SENHOR, dizendo: Subirei a alguma das cidades de Judá? E disse-lhe o SENHOR: Sobe. E falou Davi: Para onde subirei? E disse: Para Hebrom.'),
@@ -8262,8 +8109,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (37125,2,10,3,13,'E disse Davi: Bem, eu farei contigo acordo, porém uma coisa te peço: não verás a minha face, se primeiro não me trouxeres a Mical, filha de Saul, quando vieres ver a minha face.'),
 (37126,2,10,3,14,'Também enviou Davi mensageiros a Is-Bosete, filho de Saul, dizendo: Dá-me minha mulher Mical, que eu desposei por cem prepúcios de filisteus.'),
 (37127,2,10,3,15,'E enviou Is-Bosete, e tirou-a de seu marido, a Paltiel, filho de Laís.'),
-(37128,2,10,3,16,'E ia com ela seu marido, caminhando, e chorando atrás dela, até Baurim. Então lhe disse Abner: Vai-te, agora volta. E ele voltou.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(37128,2,10,3,16,'E ia com ela seu marido, caminhando, e chorando atrás dela, até Baurim. Então lhe disse Abner: Vai-te, agora volta. E ele voltou.'),
 (37129,2,10,3,17,'E falou Abner com os anciãos de Israel, dizendo: Já há muito tempo que procuráveis que Davi reinasse sobre vós.'),
 (37130,2,10,3,18,'Fazei-o, pois, agora, porque o Senhor falou a Davi, dizendo: Pela mão de Davi meu servo livrarei o meu povo das mãos dos filisteus e das mãos de todos os seus inimigos.'),
 (37131,2,10,3,19,'E falou também Abner aos de Benjamim; e foi também Abner dizer aos de Davi, em Hebrom, tudo o que era bom aos olhos de Israel e aos olhos de toda a casa de Benjamim.'),
@@ -8313,8 +8159,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (37175,2,10,5,12,'E entendeu Davi que o Senhor o confirmara rei sobre Israel, e que exaltara o seu reino por amor do seu povo.'),
 (37176,2,10,5,13,'E tomou Davi mais concubinas e mulheres de Jerusalém, depois que viera de Hebrom; e nasceram a Davi mais filhos e filhas.'),
 (37177,2,10,5,14,'E estes são os nomes dos que lhe nasceram em Jerusalém: Samua, e Sobabe, e Natã, e Salomão,'),
-(37178,2,10,5,15,'E Ibar, e Elisua, e Nefegue, e Jafia,');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(37178,2,10,5,15,'E Ibar, e Elisua, e Nefegue, e Jafia,'),
 (37179,2,10,5,16,'E Elisama, e Eliada, e Elifelete.'),
 (37180,2,10,5,17,'Ouvindo, pois, os filisteus que haviam ungido a Davi rei sobre Israel, todos os filisteus subiram em busca de Davi; o que ouvindo Davi, desceu à fortaleza.'),
 (37181,2,10,5,18,'E os filisteus vieram, e se estenderam pelo vale de Refaim.'),
@@ -8364,8 +8209,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (37225,2,10,7,14,'Eu lhe serei por pai, e ele me será por filho; e, se vier a transgredir, castigá-lo-ei com vara de homens, e com açoites de filhos de homens.'),
 (37226,2,10,7,15,'Mas a minha benignidade não se apartará dele; como a tirei de Saul, a quem tirei de diante de ti.'),
 (37227,2,10,7,16,'Porém a tua casa e o teu reino serão firmados para sempre diante de ti; teu trono será firme para sempre.'),
-(37228,2,10,7,17,'Conforme a todas estas palavras, e conforme a toda esta visão, assim falou Natã a Davi.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(37228,2,10,7,17,'Conforme a todas estas palavras, e conforme a toda esta visão, assim falou Natã a Davi.'),
 (37229,2,10,7,18,'Então entrou o rei Davi, e ficou perante o SENHOR, e disse: Quem sou eu, Senhor DEUS, e qual é a minha casa, para que me tenhas trazido até aqui?'),
 (37230,2,10,7,19,'E ainda foi isto pouco aos teus olhos, Senhor DEUS, senão que também falaste da casa de teu servo para tempos distantes; é este o procedimento dos homens, ó Senhor DEUS?'),
 (37231,2,10,7,20,'E que mais te pode dizer ainda Davi? Pois tu conheces bem a teu servo, ó Senhor DEUS.'),
@@ -8415,8 +8259,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (37275,2,10,10,4,'Então tomou Hanum os servos de Davi, e lhes raspou metade da barba, e lhes cortou metade das vestes, até às nádegas, e os despediu.'),
 (37276,2,10,10,5,'Quando isso foi informado a Davi, enviou ele mensageiros a encontrá-los, porque estavam aqueles homens sobremaneira envergonhados. Mandou o rei dizer-lhes: Deixai-vos estar em Jericó, até que vos torne a crescer a barba, e então voltai.'),
 (37277,2,10,10,6,'Vendo, pois, os filhos de Amom que se tinham feito abomináveis para com Davi, enviaram os filhos de Amom, e alugaram dos sírios de Bete-Reobe e dos sírios de Zobá vinte mil homens de pé, e do rei de Maaca mil homens e dos homens de Tobe doze mil homens.'),
-(37278,2,10,10,7,'E ouvindo Davi, enviou a Joabe e a todo o exército dos valentes.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(37278,2,10,10,7,'E ouvindo Davi, enviou a Joabe e a todo o exército dos valentes.'),
 (37279,2,10,10,8,'E saíram os filhos de Amom, e ordenaram a batalha à entrada da porta; mas os sírios de Zobá e Reobe, e os homens de Tobe e Maaca estavam à parte no campo.'),
 (37280,2,10,10,9,'Vendo, pois, Joabe que a batalha estava preparada contra ele pela frente e pela retaguarda, escolheu dentre todos os homens de Israel, e formou-os em linha contra os sírios.'),
 (37281,2,10,10,10,'E o restante do povo entregou na mão de Abisai seu irmão, o qual formou em linha contra os filhos de Amom.'),
@@ -8466,8 +8309,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (37325,2,10,12,8,'E te dei a casa de teu senhor, e as mulheres de teu senhor em teu seio, e também te dei a casa de Israel e de Judá, e, se isto é pouco, mais te acrescentaria tais e tais coisas.'),
 (37326,2,10,12,9,'Por que, pois, desprezaste a palavra do Senhor, fazendo o mal diante de seus olhos? A Urias, o heteu, feriste à espada, e a sua mulher tomaste por tua mulher; e a ele mataste com a espada dos filhos de Amom.'),
 (37327,2,10,12,10,'Agora, pois, não se apartará a espada jamais da tua casa, porquanto me desprezaste, e tomaste a mulher de Urias, o heteu, para ser tua mulher.'),
-(37328,2,10,12,11,'Assim diz o Senhor: Eis que suscitarei da tua própria casa o mal sobre ti, e tomarei tuas mulheres perante os teus olhos, e as darei a teu próximo, o qual se deitará com tuas mulheres perante este sol.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(37328,2,10,12,11,'Assim diz o Senhor: Eis que suscitarei da tua própria casa o mal sobre ti, e tomarei tuas mulheres perante os teus olhos, e as darei a teu próximo, o qual se deitará com tuas mulheres perante este sol.'),
 (37329,2,10,12,12,'Porque tu o fizeste em oculto, mas eu farei este negócio perante todo o Israel e perante o sol.'),
 (37330,2,10,12,13,'Então disse Davi a Natã: Pequei contra o Senhor. E disse Natã a Davi: Também o Senhor perdoou o teu pecado; não morrerás.'),
 (37331,2,10,12,14,'Todavia, porquanto com este feito deste lugar sobremaneira a que os inimigos do Senhor blasfemem, também o filho que te nasceu certamente morrerá.'),
@@ -8517,8 +8359,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (37375,2,10,13,27,'E, instando Absalão com ele, deixou ir com ele a Amnom, e a todos os filhos do rei.'),
 (37376,2,10,13,28,'E Absalão deu ordem aos seus servos, dizendo: Tomai sentido; quando o coração de Amnom estiver alegre do vinho, e eu vos disser: Feri a Amnom, então o matareis; não temais: porque porventura não sou eu quem vo-lo ordenei? Esforçai-vos, e sede valentes.'),
 (37377,2,10,13,29,'E os servos de Absalão fizeram a Amnom como Absalão lho havia ordenado. Então todos os filhos do rei se levantaram, e montaram cada um no seu mulo, e fugiram.'),
-(37378,2,10,13,30,'E aconteceu que, estando eles ainda no caminho, chegou a nova a Davi, dizendo-se: Absalão feriu a todos os filhos do rei, e nenhum deles ficou.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(37378,2,10,13,30,'E aconteceu que, estando eles ainda no caminho, chegou a nova a Davi, dizendo-se: Absalão feriu a todos os filhos do rei, e nenhum deles ficou.'),
 (37379,2,10,13,31,'Então o rei se levantou, e rasgou as suas vestes, e se lançou por terra; da mesma maneira todos os seus servos estavam com vestes rotas.'),
 (37380,2,10,13,32,'Mas Jonadabe, filho de Siméia, irmão de Davi, respondeu, e disse: Não diga o meu senhor que mataram a todos os moços filhos do rei, porque só morreu Amnom; porque assim tinha resolvido fazer Absalão, desde o dia em que forçou a Tamar sua irmã.'),
 (37381,2,10,13,33,'Não se lhe ponha, pois, agora no coração do rei meu senhor tal coisa, dizendo: Morreram todos os filhos do rei; porque só morreu Amnom.'),
@@ -8568,8 +8409,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (37425,2,10,15,5,'Sucedia também que, quando alguém se chegava a ele para se inclinar diante dele, ele estendia a sua mão, e pegava dele, e o beijava.'),
 (37426,2,10,15,6,'E desta maneira fazia Absalão a todo o Israel que vinha ao rei para juízo; assim furtava Absalão o coração dos homens de Israel.'),
 (37427,2,10,15,7,'Aconteceu, pois, ao cabo de quarenta anos, que Absalão disse ao rei: Deixa-me ir pagar em Hebrom o meu voto que fiz ao Senhor.'),
-(37428,2,10,15,8,'Porque, morando eu em Gesur, na Síria, fez o teu servo um voto, dizendo: Se o Senhor outra vez me fizer tornar a Jerusalém, servirei ao Senhor.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(37428,2,10,15,8,'Porque, morando eu em Gesur, na Síria, fez o teu servo um voto, dizendo: Se o Senhor outra vez me fizer tornar a Jerusalém, servirei ao Senhor.'),
 (37429,2,10,15,9,'Então lhe disse o rei: Vai em paz. Levantou-se, pois, e foi para Hebrom.'),
 (37430,2,10,15,10,'E enviou Absalão espias por todas as tribos de Israel, dizendo: Quando ouvirdes o som das trombetas, direis: Absalão reina em Hebrom.'),
 (37431,2,10,15,11,'E de Jerusalém foram com Absalão duzentos homens convidados, porém iam na sua simplicidade, porque nada sabiam daquele negócio.'),
@@ -8619,8 +8459,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (37475,2,10,16,18,'E disse Husai a Absalão: Não, porém daquele que eleger o Senhor, e todo este povo, e todos os homens de Israel, dele serei e com ele ficarei.'),
 (37476,2,10,16,19,'E, demais disto, a quem serviria eu? Porventura não seria diante de seu filho? Como servi diante de teu pai, assim serei diante de ti.'),
 (37477,2,10,16,20,'Então disse Absalão a Aitofel: Dai conselho entre vós sobre o que devemos fazer.'),
-(37478,2,10,16,21,'E disse Aitofel a Absalão: Possue as concubinas de teu pai, que deixou para guardarem a casa; e assim todo o Israel ouvirá que te fizeste aborrecível para com teu pai; e se fortalecerão as mãos de todos os que estão contigo.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(37478,2,10,16,21,'E disse Aitofel a Absalão: Possue as concubinas de teu pai, que deixou para guardarem a casa; e assim todo o Israel ouvirá que te fizeste aborrecível para com teu pai; e se fortalecerão as mãos de todos os que estão contigo.'),
 (37479,2,10,16,22,'Estenderam, pois, para Absalão uma tenda no terraço; e Absalão possuiu as concubinas de seu pai, perante os olhos de todo o Israel.'),
 (37480,2,10,16,23,'E era o conselho de Aitofel, que aconselhava naqueles dias, como se a palavra de Deus se consultara; tal era todo o conselho de Aitofel, assim para com Davi como para com Absalão.'),
 (37481,2,10,17,1,'Disse mais Aitofel a Absalão: Deixa-me escolher doze mil homens, e me levantarei, e perseguirei a Davi esta noite.'),
@@ -8670,8 +8509,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (37525,2,10,18,16,'Então tocou Joabe a buzina, e voltou o povo de perseguir a Israel, porque Joabe deteve o povo.'),
 (37526,2,10,18,17,'E tomaram a Absalão, e o lançaram no bosque, numa grande cova, e levantaram sobre ele um mui grande montão de pedras; e todo o Israel fugiu, cada um para a sua tenda.'),
 (37527,2,10,18,18,'Ora, Absalão, quando ainda vivia, tinha tomado e levantado para si uma coluna, que está no vale do rei, porque dizia: Filho nenhum tenho para conservar a memória do meu nome. E chamou aquela coluna pelo seu próprio nome; por isso até ao dia de hoje se chama o Pilar de Absalão.'),
-(37528,2,10,18,19,'Então disse Aimaás, filho de Zadoque: Deixa-me correr, e denunciarei ao rei que já o Senhor o vingou da mão de seus inimigos.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(37528,2,10,18,19,'Então disse Aimaás, filho de Zadoque: Deixa-me correr, e denunciarei ao rei que já o Senhor o vingou da mão de seus inimigos.'),
 (37529,2,10,18,20,'Mas Joabe lhe disse: Tu não serás hoje o portador de novas, porém outro dia as levarás; mas hoje não darás a nova, porque é morto o filho do rei.'),
 (37530,2,10,18,21,'E disse Joabe a Cusi: Vai tu, e dize ao rei o que viste. E Cusi se inclinou a Joabe, e correu.'),
 (37531,2,10,18,22,'E prosseguiu Aimaás, filho de Zadoque, e disse a Joabe: Seja o que for deixa-me também correr após Cusi. E disse Joabe: Para que agora correrias tu, meu filho, pois não tens mensagem conveniente?'),
@@ -8721,8 +8559,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (37575,2,10,19,33,'E disse o rei a Barzilai: Passa tu comigo, e sustentar-te-ei comigo em Jerusalém.'),
 (37576,2,10,19,34,'Porém Barzilai disse ao rei: Quantos serão os dias dos anos da minha vida, para que suba com o rei a Jerusalém?'),
 (37577,2,10,19,35,'Da idade de oitenta anos sou eu hoje; poderia eu discernir entre o bom e o mau? Poderia o teu servo ter gosto no que comer e beber? Poderia eu mais ouvir a voz dos cantores e cantoras? E por que será o teu servo ainda pesado ao rei meu senhor?'),
-(37578,2,10,19,36,'Com o rei passará teu servo ainda um pouco mais além do Jordão; e por que me recompensará o rei com tal recompensa?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(37578,2,10,19,36,'Com o rei passará teu servo ainda um pouco mais além do Jordão; e por que me recompensará o rei com tal recompensa?'),
 (37579,2,10,19,37,'Deixa voltar o teu servo, e morrerei na minha cidade, junto à sepultura de meu pai e de minha mãe; mas eis aí está o teu servo Quimã; passe ele com o rei meu senhor, e faze-lhe o que bem parecer aos teus olhos.'),
 (37580,2,10,19,38,'Então disse o rei: Quimã passará comigo, e eu lhe farei como bem parecer aos teus olhos, e tudo quanto me pedires te farei.'),
 (37581,2,10,19,39,'Havendo, pois, todo o povo passado o Jordão, e passando também o rei, beijou o rei a Barzilai, e o abençoou; e ele voltou para o seu lugar.'),
@@ -8772,8 +8609,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (37625,2,10,21,14,'Enterraram os ossos de Saul, e de Jônatas seu filho na terra de Benjamim, em Zela, na sepultura de seu pai Quis, e fizeram tudo o que o rei ordenara; e depois disto Deus se aplacou com a terra.'),
 (37626,2,10,21,15,'Tiveram mais os filisteus uma peleja contra Israel; e desceu Davi, e com ele os seus servos; e tanto pelejaram contra os filisteus, que Davi se cansou.'),
 (37627,2,10,21,16,'E Isbi-Benobe, que era dos filhos do gigante, cuja lança pesava trezentos siclos de cobre, e que cingia uma espada nova, intentou ferir a Davi.'),
-(37628,2,10,21,17,'Porém, Abisai, filho de Zeruia, o socorreu, e feriu o filisteu, e o matou. Então os homens de Davi lhe juraram, dizendo: Nunca mais sairás conosco à peleja, para que não apagues a lâmpada de Israel.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(37628,2,10,21,17,'Porém, Abisai, filho de Zeruia, o socorreu, e feriu o filisteu, e o matou. Então os homens de Davi lhe juraram, dizendo: Nunca mais sairás conosco à peleja, para que não apagues a lâmpada de Israel.'),
 (37629,2,10,21,18,'E aconteceu depois disto que houve em Gobe ainda outra peleja contra os filisteus; então Sibecai, o husatita, feriu a Safe, que era dos filhos do gigante.'),
 (37630,2,10,21,19,'Houve mais outra peleja contra os filisteus em Gobe; e El-Hanã, filho de Jaaré-Oregim, o belemita, feriu Golias, o giteu, de cuja lança era a haste como órgão de tecelão.'),
 (37631,2,10,21,20,'Houve ainda também outra peleja em Gate, onde estava um homem de alta estatura, que tinha em cada mão seis dedos, e em cada pé outros seis, vinte e quatro ao todo, e também este nascera do gigante.'),
@@ -8823,8 +8659,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (37675,2,10,22,42,'Olharam, porém não houve libertador; sim, para o Senhor, porém não lhes respondeu.'),
 (37676,2,10,22,43,'Então os moí como o pó da terra; como a lama das ruas os trilhei e dissipei.'),
 (37677,2,10,22,44,'Também me livraste das contendas do meu povo; guardaste-me para cabeça das nações; o povo que não conhecia me servirá.'),
-(37678,2,10,22,45,'Os filhos de estranhos se me sujeitaram; ouvindo a minha voz, me obedeceram.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(37678,2,10,22,45,'Os filhos de estranhos se me sujeitaram; ouvindo a minha voz, me obedeceram.'),
 (37679,2,10,22,46,'Os filhos de estranhos desfaleceram; e, cingindo-se, saíram dos seus esconderijos.'),
 (37680,2,10,22,47,'Vive o Senhor, e bendito seja o meu rochedo; e exaltado seja Deus, a rocha da minha salvação,'),
 (37681,2,10,22,48,'O Deus que me dá inteira vingança, e sujeita os povos debaixo de mim.'),
@@ -8874,8 +8709,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (37725,2,10,24,2,'Disse, pois, o rei a Joabe, capitão do exército, o qual tinha consigo: Agora percorre todas as tribos de Israel, desde Dã até Berseba, e numera o povo, para que eu saiba o número do povo.'),
 (37726,2,10,24,3,'Então disse Joabe ao rei: Ora, multiplique o SENHOR teu Deus a este povo cem vezes tanto quanto agora é, e os olhos do rei meu senhor o vejam; mas, por que deseja o rei meu senhor este negócio?'),
 (37727,2,10,24,4,'Porém a palavra do rei prevaleceu contra Joabe, e contra os capitães do exército; Joabe, pois, saiu com os capitães do exército da presença do rei, para numerar o povo de Israel.'),
-(37728,2,10,24,5,'E passaram o Jordão; e acamparam-se em Aroer, à direita da cidade que está no meio do ribeiro de Gade, junto a Jazer.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(37728,2,10,24,5,'E passaram o Jordão; e acamparam-se em Aroer, à direita da cidade que está no meio do ribeiro de Gade, junto a Jazer.'),
 (37729,2,10,24,6,'E foram a Gileade, e à terra baixa de Hodsi; também foram até Dã-Jaã, e ao redor de Sidom.'),
 (37730,2,10,24,7,'E foram à fortaleza de Tiro, e a todas as cidades dos heveus e dos cananeus; e saíram para o lado do sul de Judá, a Berseba.'),
 (37731,2,10,24,8,'Assim percorreram toda a terra; e ao cabo de nove meses e vinte dias voltaram a Jerusalém.'),
@@ -8925,8 +8759,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (37775,2,11,1,27,'Foi feito isto da parte do rei meu senhor? E não fizeste saber a teu servo quem se assentaria no trono do rei meu senhor depois dele?'),
 (37776,2,11,1,28,'E respondeu o rei Davi, e disse: Chamai-me a Bate-Seba. E ela entrou à presença do rei; e ficou em pé diante do rei.'),
 (37777,2,11,1,29,'Então jurou o rei e disse: Vive o Senhor, o qual remiu a minha alma de toda a angústia,'),
-(37778,2,11,1,30,'Que, como te jurei pelo Senhor Deus de Israel, dizendo: Certamente teu filho Salomão reinará depois de mim, e ele se assentará no meu trono, em meu lugar, assim o farei no dia de hoje.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(37778,2,11,1,30,'Que, como te jurei pelo Senhor Deus de Israel, dizendo: Certamente teu filho Salomão reinará depois de mim, e ele se assentará no meu trono, em meu lugar, assim o farei no dia de hoje.'),
 (37779,2,11,1,31,'Então Bate-Seba se inclinou com o rosto em terra e se prostrou diante do rei, e disse: Viva o rei Davi meu senhor para sempre.'),
 (37780,2,11,1,32,'E disse o rei Davi: Chamai-me a Zadoque, o sacerdote, e a Natã, o profeta, e a Benaia, filho de Joiada. E eles entraram à presença do rei.'),
 (37781,2,11,1,33,'E o rei lhes disse: Tomai convosco os servos de vosso senhor, e fazei subir a meu filho Salomão na mula que é minha; e levai-o a Giom.'),
@@ -8976,8 +8809,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (37825,2,11,2,24,'Agora, pois, vive o Senhor, que me confirmou, e me fez assentar no trono de Davi, meu pai, e que me tem feito casa, como tinha falado, que hoje morrerá Adonias.'),
 (37826,2,11,2,25,'E enviou o rei Salomão pela mão de Benaia, filho de Joiada, o qual arremeteu contra ele de modo que morreu.'),
 (37827,2,11,2,26,'E a Abiatar, o sacerdote, disse o rei: Vai para Anatote, para os teus campos, porque és homem digno de morte; porém hoje não te matarei, porquanto levaste a arca do Senhor DEUS diante de Davi, meu pai, e porquanto foste aflito em tudo quanto meu pai foi aflito.'),
-(37828,2,11,2,27,'Lançou, pois, Salomão fora a Abiatar, para que não fosse sacerdote do Senhor, para cumprir a palavra do Senhor, que tinha falado sobre a casa de Eli em Siló.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(37828,2,11,2,27,'Lançou, pois, Salomão fora a Abiatar, para que não fosse sacerdote do Senhor, para cumprir a palavra do Senhor, que tinha falado sobre a casa de Eli em Siló.'),
 (37829,2,11,2,28,'E chegou a notícia até Joabe (porque Joabe tinha se desviado seguindo a Adonias, ainda que não tinha se desviado seguindo a Absalão), e Joabe fugiu para o tabernáculo do Senhor, e apegou-se às pontas do altar.'),
 (37830,2,11,2,29,'E disseram ao rei Salomão que Joabe tinha fugido para o tabernáculo do Senhor; e eis que está junto ao altar; então Salomão enviou Benaia, filho de Joiada, dizendo: Vai, arremete sobre ele.'),
 (37831,2,11,2,30,'E foi Benaia ao tabernáculo do Senhor, e lhe disse: Assim diz o rei: Sai daí. E disse ele: Não, porém aqui morrerei. E Benaia tornou com a resposta ao rei, dizendo: Assim falou Joabe, e assim me respondeu.'),
@@ -9027,8 +8859,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (37875,2,11,3,28,'E todo o Israel ouviu o juízo que havia dado o rei, e temeu ao rei; porque viram que havia nele a sabedoria de Deus, para fazer justiça.'),
 (37876,2,11,4,1,'Assim foi Salomão rei sobre todo o Israel.'),
 (37877,2,11,4,2,'E estes eram os príncipes que tinha: Azarias, filho de Zadoque, sacerdote;'),
-(37878,2,11,4,3,'Eliorefe e Aías, filhos de Sisa, secretários; Jeosafá, filho de Ailude, cronista;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(37878,2,11,4,3,'Eliorefe e Aías, filhos de Sisa, secretários; Jeosafá, filho de Ailude, cronista;'),
 (37879,2,11,4,4,'Benaia, filho de Joiada, sobre o exército; e Zadoque e Abiatar eram sacerdotes;'),
 (37880,2,11,4,5,'E Azarias, filho de Natã, sobre os provedores; e Zabude, filho de Natã, oficial-mor, amigo do rei;'),
 (37881,2,11,4,6,'E Aisar, mordomo; Adonirão, filho de Abda, sobre o tributo.'),
@@ -9078,8 +8909,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (37925,2,11,5,16,'Afora os chefes dos oficiais de Salomão, que estavam sobre aquela obra, três mil e trezentos, os quais davam as ordens ao povo que fazia aquela obra.'),
 (37926,2,11,5,17,'E mandou o rei que trouxessem pedras grandes, e pedras valiosas, pedras lavradas, para fundarem a casa.'),
 (37927,2,11,5,18,'E as lavraram os edificadores de Hirão, e os giblitas; e preparavam a madeira e as pedras para edificar a casa.'),
-(37928,2,11,6,1,'E sucedeu que no ano de quatrocentos e oitenta, depois de saírem os filhos de Israel do Egito, no ano quarto do reinado de Salomão sobre Israel, no mês de Zive (este é o mês segundo), começou a edificar a casa do SENHOR.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(37928,2,11,6,1,'E sucedeu que no ano de quatrocentos e oitenta, depois de saírem os filhos de Israel do Egito, no ano quarto do reinado de Salomão sobre Israel, no mês de Zive (este é o mês segundo), começou a edificar a casa do SENHOR.'),
 (37929,2,11,6,2,'E a casa que o rei Salomão edificou ao Senhor era de sessenta côvados de comprimento, e de vinte côvados de largura, e de trinta côvados de altura.'),
 (37930,2,11,6,3,'E o pórtico diante do templo da casa era de vinte côvados de comprimento, segundo a largura da casa, e de dez côvados de largura diante da casa.'),
 (37931,2,11,6,4,'E fez para a casa janelas de gelósias fixas.'),
@@ -9129,8 +8959,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (37975,2,11,7,10,'Também estava fundado sobre pedras finas, pedras grandes; sobre pedras de dez côvados e pedras de oito côvados.'),
 (37976,2,11,7,11,'E em cima delas pedras de grande valor, lavradas segundo as medidas, e madeira de cedro.'),
 (37977,2,11,7,12,'Havia três ordens de pedras lavradas, com uma ordem de vigas de cedro; assim era também o pátio interior da casa do Senhor e o pórtico daquela casa.'),
-(37978,2,11,7,13,'E enviou o rei Salomão um mensageiro e mandou trazer a Hirão de Tiro.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(37978,2,11,7,13,'E enviou o rei Salomão um mensageiro e mandou trazer a Hirão de Tiro.'),
 (37979,2,11,7,14,'Era ele filho de uma mulher viúva, da tribo de Naftali, e fora seu pai um homem de Tiro, que trabalhava em cobre; e era cheio de sabedoria, e de entendimento, e de ciência para fazer toda a obra de cobre; este veio ao rei Salomão, e fez toda a sua obra.'),
 (37980,2,11,7,15,'E formou duas colunas de cobre; a altura de cada coluna era de dezoito côvados, e um fio de doze côvados cercava cada uma das colunas.'),
 (37981,2,11,7,16,'Também fez dois capitéis de fundição de cobre para pôr sobre as cabeças das colunas; de cinco côvados era a altura de um capitel, e de cinco côvados a altura do outro capitel.'),
@@ -9231,8 +9060,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (38075,2,11,8,59,'E que estas minhas palavras, com que supliquei perante o Senhor, estejam perto, diante do Senhor nosso Deus, de dia e de noite, para que execute o juízo do seu servo e o juízo do seu povo Israel, a cada qual no seu dia.'),
 (38076,2,11,8,60,'Para que todos os povos da terra saibam que o Senhor é Deus, e que não há outro.'),
 (38077,2,11,8,61,'E seja o vosso coração inteiro para com o Senhor nosso Deus, para andardes nos seus estatutos, e guardardes os seus mandamentos como hoje.'),
-(38078,2,11,8,62,'E o rei e todo o Israel com ele ofereceram sacrifícios perante a face do Senhor.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(38078,2,11,8,62,'E o rei e todo o Israel com ele ofereceram sacrifícios perante a face do Senhor.'),
 (38079,2,11,8,63,'E deu Salomão para o sacrifício pacífico que ofereceu ao Senhor, vinte e duas mil vacas e cento e vinte mil ovelhas; assim o rei e todos os filhos de Israel consagraram a casa do Senhor.'),
 (38080,2,11,8,64,'No mesmo dia santificou o rei o meio do átrio que estava diante da casa do Senhor; porquanto ali preparara os holocaustos e as ofertas com a gordura dos sacrifícios pacíficos; porque o altar de cobre que estava diante da face do Senhor era muito pequeno para nele caberem os holocaustos e as ofertas, e a gordura dos sacrifícios pacíficos.'),
 (38081,2,11,8,65,'No mesmo tempo celebrou Salomão a festa, e todo o Israel com ele, uma grande congregação, desde a entrada de Hamate até ao rio do Egito, perante a face do Senhor nosso Deus; por sete dias, e mais sete dias; catorze dias.'),
@@ -9282,8 +9110,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (38125,2,11,10,15,'Além do que entrava dos negociantes, e do contrato dos especieiros, e de todos os reis da Arábia, e dos governadores da mesma terra.'),
 (38126,2,11,10,16,'Também o rei Salomão fez duzentos paveses de ouro batido; seiscentos siclos de ouro destinou para cada pavês;'),
 (38127,2,11,10,17,'Fez também trezentos escudos de ouro batido; três arráteis de ouro destinou para cada escudo; e o rei os pôs na casa do bosque do Líbano.'),
-(38128,2,11,10,18,'Fez mais o rei um grande trono de marfim, e o revestiu de ouro puríssimo.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(38128,2,11,10,18,'Fez mais o rei um grande trono de marfim, e o revestiu de ouro puríssimo.'),
 (38129,2,11,10,19,'Tinha este trono seis degraus, e era o alto do trono por detrás redondo, e de ambos os lados tinha encostos até ao assento; e dois leões, em pé, juntos aos encostos.'),
 (38130,2,11,10,20,'Também doze leões estavam ali sobre os seis degraus de ambos os lados; nunca se tinha feito obra semelhante em nenhum dos reinos.'),
 (38131,2,11,10,21,'Também todas as taças de beber do rei Salomão eram de ouro, e todos os vasos da casa do bosque do Líbano eram de ouro puro; não havia neles prata, porque nos dias de Salomão não tinha valor algum.'),
@@ -9333,8 +9160,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (38175,2,11,11,36,'E a seu filho darei uma tribo; para que Davi, meu servo, sempre tenha uma lâmpada diante de mim em Jerusalém, a cidade que escolhi para pôr ali o meu nome.'),
 (38176,2,11,11,37,'E te tomarei, e reinarás sobre tudo o que desejar a tua alma; e serás rei sobre Israel.'),
 (38177,2,11,11,38,'E há de ser que, se ouvires tudo o que eu te mandar, e andares pelos meus caminhos, e fizeres o que é reto aos meus olhos, guardando os meus estatutos e os meus mandamentos, como fez Davi, meu servo, eu serei contigo, e te edificarei uma casa firme, como edifiquei a Davi, e te darei Israel.'),
-(38178,2,11,11,39,'E por isso afligirei a descendência de Davi; todavia não para sempre.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(38178,2,11,11,39,'E por isso afligirei a descendência de Davi; todavia não para sempre.'),
 (38179,2,11,11,40,'Assim Salomão procurou matar Jeroboão; porém Jeroboão se levantou, e fugiu para o Egito, a ter com Sisaque, rei do Egito; e esteve no Egito até que Salomão morreu.'),
 (38180,2,11,11,41,'Quanto ao mais dos atos de Salomão, e a tudo quanto fez, e à sua sabedoria, porventura não está escrito no livro dos feitos de Salomão?'),
 (38181,2,11,11,42,'E o tempo que reinou Salomão, em Jerusalém, sobre todo o Israel foi quarenta anos.'),
@@ -9384,8 +9210,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (38225,2,11,13,10,'Assim foi por outro caminho; e não voltou pelo caminho, por onde viera a Betel.'),
 (38226,2,11,13,11,'E morava em Betel um velho profeta; e vieram seus filhos, e contaram-lhe tudo o que o homem de Deus fizera aquele dia em Betel, e as palavras que dissera ao rei; e as contaram a seu pai.'),
 (38227,2,11,13,12,'E disse-lhes seu pai: Por que caminho se foi? E seus filhos lhe mostraram o caminho por onde fora o homem de Deus que viera de Judá.'),
-(38228,2,11,13,13,'Então disse a seus filhos: Albardai-me um jumento. E albardaram-lhe o jumento no qual ele montou.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(38228,2,11,13,13,'Então disse a seus filhos: Albardai-me um jumento. E albardaram-lhe o jumento no qual ele montou.'),
 (38229,2,11,13,14,'E foi após o homem de Deus, e achou-o assentado debaixo de um carvalho, e disse-lhe: És tu o homem de Deus que vieste de Judá? E ele disse: Sou.'),
 (38230,2,11,13,15,'Então lhe disse: Vem comigo à casa, e come pão.'),
 (38231,2,11,13,16,'Porém ele disse: Não posso voltar contigo, nem entrarei contigo; nem tampouco comerei pão, nem beberei contigo água neste lugar.'),
@@ -9435,8 +9260,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (38275,2,11,14,26,'E tomou os tesouros da casa do Senhor e os tesouros da casa do rei; e levou tudo. Também tomou todos os escudos de ouro que Salomão tinha feito.'),
 (38276,2,11,14,27,'E em lugar deles fez o rei Roboão escudos de cobre, e os entregou nas mãos dos chefes da guarda que guardavam a porta da casa do rei.'),
 (38277,2,11,14,28,'E todas as vezes que o rei entrava na casa do Senhor, os da guarda os levavam, e depois os tornavam à câmara da guarda.'),
-(38278,2,11,14,29,'Quanto ao mais dos atos de Roboão, e a tudo quanto fez, porventura não está escrito no livro das crônicas dos reis de Judá?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(38278,2,11,14,29,'Quanto ao mais dos atos de Roboão, e a tudo quanto fez, porventura não está escrito no livro das crônicas dos reis de Judá?'),
 (38279,2,11,14,30,'E houve guerra entre Roboão e Jeroboão todos os seus dias.'),
 (38280,2,11,14,31,'E Roboão dormiu com seus pais, e foi sepultado com seus pais na cidade de Davi; e era o nome de sua mãe Naamá, amonita; e Abias, seu filho, reinou em seu lugar.'),
 (38281,2,11,15,1,'E no décimo oitavo ano do rei Jeroboão, filho de Nebate, Abias começou a reinar sobre Judá.'),
@@ -9486,8 +9310,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (38325,2,11,16,11,'E sucedeu que, reinando ele, e estando assentado no seu trono, feriu a toda a casa de Baasa; não lhe deixou homem algum, nem a seus parentes, nem a seus amigos.'),
 (38326,2,11,16,12,'Assim destruiu Zinri toda a casa de Baasa, conforme à palavra do Senhor que, contra Baasa, ele falara pelo ministério do profeta Jeú,'),
 (38327,2,11,16,13,'Por todos os pecados de Baasa, e os pecados de Elá, seu filho, que cometeram, e com que fizeram pecar a Israel, irritando ao Senhor Deus de Israel com as suas vaidades.'),
-(38328,2,11,16,14,'Quanto ao mais dos atos de Elá, e a tudo quanto fez, não está escrito no livro das crônicas dos reis de Israel?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(38328,2,11,16,14,'Quanto ao mais dos atos de Elá, e a tudo quanto fez, não está escrito no livro das crônicas dos reis de Israel?'),
 (38329,2,11,16,15,'No ano vigésimo sétimo de Asa, rei de Judá, reinou Zinri sete dias em Tirza; e o povo estava acampado contra Gibetom, que era dos filisteus.'),
 (38330,2,11,16,16,'E o povo que estava acampado ouviu dizer: Zinri tem conspirado, e até matou o rei. Todo o Israel pois, no mesmo dia, no arraial, constituiu rei sobre Israel a Onri, capitão do exército.'),
 (38331,2,11,16,17,'E subiu Onri, e todo o Israel com ele, de Gibetom, e cercaram a Tirza.'),
@@ -9537,8 +9360,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (38375,2,11,18,3,'E Acabe chamou a Obadias, o mordomo; e Obadias temia muito ao Senhor,'),
 (38376,2,11,18,4,'Porque sucedeu que, destruindo Jezabel os profetas do Senhor, Obadias tomou cem profetas, e de cinqüenta em cinqüenta os escondeu numa cova, e os sustentou com pão e água.'),
 (38377,2,11,18,5,'E disse Acabe a Obadias: Vai pela terra a todas as fontes de água, e a todos os rios; pode ser que achemos erva, para que em vida conservemos os cavalos e mulas, e não percamos todos os animais.'),
-(38378,2,11,18,6,'E repartiram entre si a terra, para a percorrerem: Acabe foi à parte por um caminho, e Obadias também foi sozinho por outro caminho.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(38378,2,11,18,6,'E repartiram entre si a terra, para a percorrerem: Acabe foi à parte por um caminho, e Obadias também foi sozinho por outro caminho.'),
 (38379,2,11,18,7,'Estando, pois, Obadias já em caminho, eis que Elias o encontrou; e Obadias, reconhecendo-o, prostrou-se sobre o seu rosto, e disse: És tu o meu senhor Elias?'),
 (38380,2,11,18,8,'E disse-lhe ele: Eu sou; vai, e dize a teu senhor: Eis que Elias está aqui.'),
 (38381,2,11,18,9,'Porém ele disse: Em que pequei, para que entregues a teu servo na mão de Acabe, para que me mate?'),
@@ -9588,8 +9410,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (38425,2,11,19,7,'E o anjo do Senhor tornou segunda vez, e o tocou, e disse: Levanta-te e come, porque te será muito longo o caminho.'),
 (38426,2,11,19,8,'Levantou-se, pois, e comeu e bebeu; e com a força daquela comida caminhou quarenta dias e quarenta noites até Horebe, o monte de Deus.'),
 (38427,2,11,19,9,'E ali entrou numa caverna e passou ali a noite; e eis que a palavra do Senhor veio a ele, e lhe disse: Que fazes aqui Elias?'),
-(38428,2,11,19,10,'E ele disse: Tenho sido muito zeloso pelo Senhor Deus dos Exércitos, porque os filhos de Israel deixaram a tua aliança, derrubaram os teus altares, e mataram os teus profetas à espada, e só eu fiquei, e buscam a minha vida para ma tirarem.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(38428,2,11,19,10,'E ele disse: Tenho sido muito zeloso pelo Senhor Deus dos Exércitos, porque os filhos de Israel deixaram a tua aliança, derrubaram os teus altares, e mataram os teus profetas à espada, e só eu fiquei, e buscam a minha vida para ma tirarem.'),
 (38429,2,11,19,11,'E Deus lhe disse: Sai para fora, e põe-te neste monte perante o Senhor. E eis que passava o Senhor, como também um grande e forte vento que fendia os montes e quebrava as penhas diante do Senhor; porém o Senhor não estava no vento; e depois do vento um terremoto; também o Senhor não estava no terremoto;'),
 (38430,2,11,19,12,'E depois do terremoto um fogo; porém também o Senhor não estava no fogo; e depois do fogo uma voz mansa e delicada.'),
 (38431,2,11,19,13,'E sucedeu que, ouvindo-a Elias, envolveu o seu rosto na sua capa, e saiu para fora, e pôs-se à entrada da caverna; e eis que veio a ele uma voz, que dizia: Que fazes aqui, Elias?'),
@@ -9639,8 +9460,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (38475,2,11,20,36,'E ele lhe disse: Porque não obedeceste à voz do Senhor, eis que, em te apartando de mim, um leão te ferirá. E como dele se apartou, um leão o encontrou e o feriu.'),
 (38476,2,11,20,37,'Depois encontrou outro homem, e disse-lhe: Ora fere-me. E aquele homem deu-lhe um golpe, ferindo-o.'),
 (38477,2,11,20,38,'Então foi o profeta, e pôs-se perante o rei no caminho; e disfarçou-se com cinza sobre os seus olhos.'),
-(38478,2,11,20,39,'E sucedeu que, passando o rei, clamou ele ao rei, dizendo: Teu servo estava no meio da peleja, e eis que, desviando-se um homem, trouxe-me outro homem, e disse: Guarda-me este homem; se vier a faltar, será a tua vida em lugar da vida dele, ou pagarás um talento de prata.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(38478,2,11,20,39,'E sucedeu que, passando o rei, clamou ele ao rei, dizendo: Teu servo estava no meio da peleja, e eis que, desviando-se um homem, trouxe-me outro homem, e disse: Guarda-me este homem; se vier a faltar, será a tua vida em lugar da vida dele, ou pagarás um talento de prata.'),
 (38479,2,11,20,40,'Sucedeu, pois, que, estando o teu servo ocupado de uma e de outra parte, eis que o homem desapareceu. Então o rei de Israel lhe disse: Esta é a tua sentença; tu mesmo a pronunciaste.'),
 (38480,2,11,20,41,'Então ele se apressou, e tirou a cinza de sobre os seus olhos; e o rei de Israel o reconheceu, que era um dos profetas.'),
 (38481,2,11,20,42,'E disse-lhe: Assim diz o Senhor: Porquanto soltaste da mão o homem que eu havia posto para destruição, a tua vida será em lugar da sua vida, e o teu povo em lugar do seu povo.'),
@@ -9690,8 +9510,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (38525,2,11,22,14,'Porém Micaías disse: Vive o Senhor que o que o Senhor me disser isso falarei.'),
 (38526,2,11,22,15,'E, vindo ele ao rei, o rei lhe disse: Micaías, iremos a Ramote de Gileade à peleja, ou deixaremos de ir? E ele lhe disse: Sobe, e serás bem sucedido; porque o Senhor a entregará na mão do rei.'),
 (38527,2,11,22,16,'E o rei lhe disse: Até quantas vezes te conjurarei, que não me fales senão a verdade em nome do Senhor?'),
-(38528,2,11,22,17,'Então disse ele: Vi a todo o Israel disperso pelos montes, como ovelhas que não tem pastor; e disse o Senhor: Estes não têm senhor; torne cada um em paz para sua casa.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(38528,2,11,22,17,'Então disse ele: Vi a todo o Israel disperso pelos montes, como ovelhas que não tem pastor; e disse o Senhor: Estes não têm senhor; torne cada um em paz para sua casa.'),
 (38529,2,11,22,18,'Então o rei de Israel disse a Jeosafá: Não te disse eu, que nunca profetizará de mim o que é bom, senão só o que é mal?'),
 (38530,2,11,22,19,'Então ele disse: Ouve, pois, a palavra do Senhor: Vi ao Senhor assentado sobre o seu trono, e todo o exército do céu estava junto a ele, à sua mão direita e à sua esquerda.'),
 (38531,2,11,22,20,'E disse o Senhor: Quem induzirá Acabe, para que suba, e caia em Ramote de Gileade? E um dizia desta maneira e outro de outra.'),
@@ -9741,8 +9560,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (38575,2,12,1,10,'Mas Elias respondeu, e disse ao capitão de cinqüenta: Se eu, pois, sou homem de Deus, desça fogo do céu, e te consuma a ti e aos teus cinqüenta. Então fogo desceu do céu, e consumiu a ele e aos seus cinqüenta.'),
 (38576,2,12,1,11,'E tornou o rei a enviar-lhe outro capitão de cinqüenta, com os seus cinqüenta; ele lhe respondeu, dizendo: Homem de Deus, assim diz o rei: Desce depressa.'),
 (38577,2,12,1,12,'E respondeu Elias: Se eu sou homem de Deus, desça fogo do céu, e te consuma a ti e aos teus cinqüenta. Então o fogo de Deus desceu do céu, e o consumiu a ele e aos seus cinqüenta.'),
-(38578,2,12,1,13,'E tornou a enviar um terceiro capitão de cinqüenta, com os seus cinqüenta; então subiu o capitão de cinqüenta e, chegando, pôs-se de joelhos diante de Elias, e suplicou-lhe, dizendo: Homem de Deus, seja, peço-te, preciosa aos teus olhos a minha vida, e a vida destes cinqüenta teus servos.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(38578,2,12,1,13,'E tornou a enviar um terceiro capitão de cinqüenta, com os seus cinqüenta; então subiu o capitão de cinqüenta e, chegando, pôs-se de joelhos diante de Elias, e suplicou-lhe, dizendo: Homem de Deus, seja, peço-te, preciosa aos teus olhos a minha vida, e a vida destes cinqüenta teus servos.'),
 (38579,2,12,1,14,'Eis que fogo desceu do céu, e consumiu aqueles dois primeiros capitães de cinqüenta, com os seus cinqüenta; porém, agora seja preciosa aos teus olhos a minha vida.'),
 (38580,2,12,1,15,'Então o anjo do Senhor disse a Elias: Desce com este, não temas. E levantou-se, e desceu com ele ao rei.'),
 (38581,2,12,1,16,'E disse-lhe: Assim diz o Senhor: Por que enviaste mensageiros a consultar a Baal-Zebube, deus de Ecrom? Porventura é porque não há Deus em Israel, para consultar a sua palavra? Portanto desta cama, a que subiste, não descerás, mas certamente morrerás.'),
@@ -9792,8 +9610,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (38625,2,12,3,17,'Porque assim diz o Senhor: Não vereis vento, e não vereis chuva; todavia este vale se encherá de tanta água, que bebereis vós, o vosso gado e os vossos animais.'),
 (38626,2,12,3,18,'E ainda isto é pouco aos olhos do Senhor; também entregará ele os moabitas nas vossas mãos.'),
 (38627,2,12,3,19,'E ferireis a todas as cidades fortes, e a todas as cidades escolhidas, e todas as boas árvores cortareis, e entupireis todas as fontes de água, e danificareis com pedras todos os bons campos.'),
-(38628,2,12,3,20,'E sucedeu que, pela manhã, oferecendo-se a oferta de alimentos, eis que vinham as águas pelo caminho de Edom; e a terra se encheu de água.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(38628,2,12,3,20,'E sucedeu que, pela manhã, oferecendo-se a oferta de alimentos, eis que vinham as águas pelo caminho de Edom; e a terra se encheu de água.'),
 (38629,2,12,3,21,'Ouvindo, pois, todos os moabitas que os reis tinham subido para pelejarem contra eles, convocaram a todos os que estavam em idade de cingir cinto e daí para cima, e puseram-se às fronteiras.'),
 (38630,2,12,3,22,'E, levantando-se de madrugada, e saindo o sol sobre as águas, viram os moabitas, defronte deles, as águas vermelhas como sangue.'),
 (38631,2,12,3,23,'E disseram: Isto é sangue; certamente que os reis se destruíram à espada e se mataram um ao outro! Agora, pois, à presa, moabitas!'),
@@ -9843,8 +9660,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (38675,2,12,4,40,'Assim deram de comer para os homens. E sucedeu que, comendo eles daquele caldo, clamaram e disseram: Homem de Deus, há morte na panela. Não puderam comer.'),
 (38676,2,12,4,41,'Porém ele disse: Trazei farinha. E deitou-a na panela, e disse: Dai de comer ao povo. E já não havia mal nenhum na panela.'),
 (38677,2,12,4,42,'E um homem veio de Baal-Salisa, e trouxe ao homem de Deus pães das primícias, vinte pães de cevada, e espigas verdes na sua palha, e disse: Dá ao povo, para que coma.'),
-(38678,2,12,4,43,'Porém seu servo disse: Como hei de pôr isto diante de cem homens? E disse ele: Dá ao povo, para que coma; porque assim diz o Senhor: Comerão, e sobejará.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(38678,2,12,4,43,'Porém seu servo disse: Como hei de pôr isto diante de cem homens? E disse ele: Dá ao povo, para que coma; porque assim diz o Senhor: Comerão, e sobejará.'),
 (38679,2,12,4,44,'Então lhos pôs diante, e comeram e ainda sobrou, conforme a palavra do Senhor.'),
 (38680,2,12,5,1,'E Naamã, capitão do exército do rei da Síria, era um grande homem diante do seu SENHOR, e de muito respeito; porque por ele o SENHOR dera livramento aos sírios; e era este homem herói valoroso, porém leproso.'),
 (38681,2,12,5,2,'E saíram tropas da Síria, da terra de Israel, e levaram presa uma menina que ficou ao serviço da mulher de Naamã.'),
@@ -9894,8 +9710,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (38725,2,12,6,19,'Então Eliseu lhes disse: Não é este o caminho, nem é esta a cidade; segui-me, e guiar-vos-ei ao homem que buscais. E os guiou a Samaria.'),
 (38726,2,12,6,20,'E sucedeu que, chegando eles a Samaria, disse Eliseu: Ó Senhor, abre a estes os olhos para que vejam. O Senhor lhes abriu os olhos, para que vissem, e eis que estavam no meio de Samaria.'),
 (38727,2,12,6,21,'E, quando o rei de Israel os viu, disse a Eliseu: Feri-los-ei, feri-los-ei, meu pai?'),
-(38728,2,12,6,22,'Mas ele disse: Não os ferirás; feririas tu os que tomasses prisioneiros com a tua espada e com o teu arco? Põe-lhes diante pão e água, para que comam e bebam, e se vão para seu senhor.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(38728,2,12,6,22,'Mas ele disse: Não os ferirás; feririas tu os que tomasses prisioneiros com a tua espada e com o teu arco? Põe-lhes diante pão e água, para que comam e bebam, e se vão para seu senhor.'),
 (38729,2,12,6,23,'E apresentou-lhes um grande banquete, e comeram e beberam; e os despediu e foram para seu senhor; e não entraram mais tropas de sírios na terra de Israel.'),
 (38730,2,12,6,24,'E sucedeu, depois disto, que Ben-Hadade, rei da Síria, ajuntou todo o seu exército; e subiu e cercou a Samaria.'),
 (38731,2,12,6,25,'E houve grande fome em Samaria, porque eis que a cercaram, até que se vendeu uma cabeça de um jumento por oitenta peças de prata, e a quarta parte de um cabo de esterco de pombas por cinco peças de prata.'),
@@ -9945,8 +9760,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (38775,2,12,8,16,'E no ano quinto de Jorão, filho de Acabe, rei de Israel, reinando ainda Jeosafá em Judá, começou a reinar Jeorão, filho de Jeosafá, rei de Judá.'),
 (38776,2,12,8,17,'Era ele da idade de trinta e dois anos quando começou a reinar, e oito anos reinou em Jerusalém.'),
 (38777,2,12,8,18,'E andou no caminho dos reis de Israel, como também fizeram os da casa de Acabe, porque tinha por mulher a filha de Acabe, e fez o que era mal aos olhos do Senhor.'),
-(38778,2,12,8,19,'Porém o Senhor não quis destruir a Judá por amor de Davi, seu servo, como lhe tinha falado que lhe daria, para sempre, uma lâmpada, a ele e a seus filhos.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(38778,2,12,8,19,'Porém o Senhor não quis destruir a Judá por amor de Davi, seu servo, como lhe tinha falado que lhe daria, para sempre, uma lâmpada, a ele e a seus filhos.'),
 (38779,2,12,8,20,'Nos seus dias se rebelaram os edomitas, contra o mando de Judá, e puseram sobre si um rei.'),
 (38780,2,12,8,21,'Por isso Jeorão passou a Zair, e todos os carros com ele; e ele se levantou de noite, e feriu os edomitas que estavam ao redor dele, e os capitães dos carros; e o povo foi para as suas tendas.'),
 (38781,2,12,8,22,'Todavia os edomitas ficaram rebeldes, contra o mando de Judá, até ao dia de hoje; então, no mesmo tempo, Libna também se rebelou.'),
@@ -9996,8 +9810,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (38825,2,12,9,37,'E o cadáver de Jezabel será como esterco sobre o campo, na herdade de Jizreel; de modo que não se possa dizer: Esta é Jezabel.'),
 (38826,2,12,10,1,'E Acabe tinha setenta filhos em Samaria. Jeú escreveu cartas, e as enviou a Samaria, aos chefes de Jizreel, aos anciãos e aos aios dos filhos de Acabe, dizendo:'),
 (38827,2,12,10,2,'Logo, em chegando a vós esta carta, pois estão convosco os filhos de vosso senhor, como também os carros, os cavalos, a cidade fortalecida e as armas,'),
-(38828,2,12,10,3,'Olhai pelo melhor e mais reto dos filhos de vosso senhor, o qual ponde sobre o trono de seu pai, e pelejai pela casa de vosso senhor.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(38828,2,12,10,3,'Olhai pelo melhor e mais reto dos filhos de vosso senhor, o qual ponde sobre o trono de seu pai, e pelejai pela casa de vosso senhor.'),
 (38829,2,12,10,4,'Porém eles temeram muitíssimo, e disseram: Eis que dois reis não puderam resistir a ele; como, pois, poderemos nós resistir-lhe?'),
 (38830,2,12,10,5,'Então o que tinha cargo da casa, e o que tinha cargo da cidade, os anciãos e os aios mandaram dizer a Jeú: Teus servos somos, e tudo quanto nos disseres faremos; a ninguém constituiremos rei; faze o que parecer bom aos teus olhos.'),
 (38831,2,12,10,6,'Então segunda vez lhes escreveu outra carta, dizendo: Se fordes meus, e ouvirdes a minha voz, tomai as cabeças dos homens, filhos de vosso senhor, e vinde a mim amanhã, a este tempo, a Jizreel (os filhos do rei, setenta homens, estavam com os grandes da cidade, que os mantinham).'),
@@ -10047,8 +9860,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (38875,2,12,11,14,'E olhou, e eis que o rei estava junto à coluna, conforme o costume, e os príncipes e os trombeteiros junto ao rei, e todo o povo da terra estava alegre e tocava as trombetas; então Atalia rasgou as suas vestes, e clamou: Traição! Traição!'),
 (38876,2,12,11,15,'Porém o sacerdote Joiada deu ordem aos centuriões que comandavam as tropas, dizendo-lhes: Tirai-a para fora das fileiras, e a quem a seguir matai-o à espada. Porque o sacerdote disse: Não a matem na casa do Senhor.'),
 (38877,2,12,11,16,'E lançaram mão dela; e ela foi, pelo caminho da entrada dos cavalos, à casa do rei, e ali a mataram.'),
-(38878,2,12,11,17,'E Joiada fez uma aliança entre o Senhor e o rei e o povo, para que fosse o povo do Senhor; como também entre o rei e o povo.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(38878,2,12,11,17,'E Joiada fez uma aliança entre o Senhor e o rei e o povo, para que fosse o povo do Senhor; como também entre o rei e o povo.'),
 (38879,2,12,11,18,'Então todo o povo da terra entrou na casa de Baal, e a derrubaram, como também os seus altares, e as suas imagens, totalmente quebraram, e a Matã, sacerdote de Baal, mataram diante dos altares; então o sacerdote pôs oficiais sobre a casa do Senhor.'),
 (38880,2,12,11,19,'E tomou os centuriões, e os capitães, e os da guarda, e todo o povo da terra; e conduziram da casa do Senhor, o rei, e foram, pelo caminho da porta dos da guarda, à casa do rei, e ele se assentou no trono dos reis.'),
 (38881,2,12,11,20,'E todo o povo da terra se alegrou, e a cidade repousou, depois que mataram a Atalia, à espada, junto à casa do rei,'),
@@ -10098,8 +9910,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (38925,2,12,13,22,'E Hazael, rei da Síria, oprimiu a Israel todos os dias de Jeoacaz.'),
 (38926,2,12,13,23,'Porém o Senhor teve misericórdia deles, e se compadeceu deles, e tornou-se para eles por amor da sua aliança com Abraão, Isaque e Jacó, e não os quis destruir, e não os lançou ainda da sua presença.'),
 (38927,2,12,13,24,'E morreu Hazael, rei da Síria e Ben-Hadade, seu filho, reinou em seu lugar.'),
-(38928,2,12,13,25,'E Jeoás, filho de Jeoacaz, tornou a tomar as cidades das mãos de Ben-Hadade, que ele tinha tomado das mãos de Jeoacaz, seu pai, na guerra; três vezes Jeoás o feriu, e recuperou as cidades de Israel.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(38928,2,12,13,25,'E Jeoás, filho de Jeoacaz, tornou a tomar as cidades das mãos de Ben-Hadade, que ele tinha tomado das mãos de Jeoacaz, seu pai, na guerra; três vezes Jeoás o feriu, e recuperou as cidades de Israel.'),
 (38929,2,12,14,1,'No segundo ano de Jeoás, filho de Jeoacaz, rei de Israel, começou a reinar Amazias, filho de Joás, rei de Judá.'),
 (38930,2,12,14,2,'Tinha vinte e cinco anos quando começou a reinar, e vinte e nove anos reinou em Jerusalém. E era o nome de sua mãe Joadã, de Jerusalém.'),
 (38931,2,12,14,3,'E fez o que era reto aos olhos do Senhor, ainda que não como seu pai Davi; fez, porém, conforme tudo o que fizera Joás seu pai.'),
@@ -10149,8 +9960,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (38975,2,12,15,18,'E fez o que era mau aos olhos do Senhor; todos os seus dias não se apartou dos pecados de Jeroboão, filho de Nebate, com que fez pecar a Israel.'),
 (38976,2,12,15,19,'Então veio Pul, rei da Assíria, contra a terra; e Menaém deu a Pul mil talentos de prata, para que este o ajudasse a firmar o reino na sua mão.'),
 (38977,2,12,15,20,'E Menaém tirou este dinheiro de Israel, de todos os poderosos e ricos, para dá-lo ao rei da Assíria, de cada homem cinqüenta siclos de prata; assim voltou o rei da Assíria, e não ficou ali na terra.'),
-(38978,2,12,15,21,'Ora, o mais dos atos de Menaém, e tudo quanto fez, porventura não está escrito no livro das crônicas dos reis de Israel?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(38978,2,12,15,21,'Ora, o mais dos atos de Menaém, e tudo quanto fez, porventura não está escrito no livro das crônicas dos reis de Israel?'),
 (38979,2,12,15,22,'E Menaém dormiu com seus pais; e Pecaías, seu filho, reinou em seu lugar.'),
 (38980,2,12,15,23,'No ano cinqüenta de Azarias, rei de Judá, começou a reinar Pecaías, filho de Menaém, sobre Israel, em Samaria, e reinou dois anos.'),
 (38981,2,12,15,24,'E fez o que era mau aos olhos do Senhor; nunca se apartou dos pecados de Jeroboão, filho de Nebate, com que fez pecar a Israel.'),
@@ -10251,8 +10061,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (39075,2,12,18,19,'E Rabsaqué lhes disse: Ora, dizei a Ezequias: Assim diz o grande rei, o rei da Assíria: Que confiança é esta em que te estribas?'),
 (39076,2,12,18,20,'Dizes tu (porém são palavras só de lábios): Há conselho e poder para a guerra. Em quem, pois, agora confias, que contra mim te rebelas?'),
 (39077,2,12,18,21,'Eis que agora tu confias naquele bordão de cana quebrada, no Egito, no qual, se alguém se encostar, entrar-lhe-á pela mão e a furará; assim é Faraó, rei do Egito, para com todos os que nele confiam.'),
-(39078,2,12,18,22,'Se, porém, me disserdes: No Senhor nosso Deus confiamos; porventura não é esse aquele cujos altos e cujos altares Ezequias tirou, dizendo a Judá e a Jerusalém: Perante este altar vos inclinareis em Jerusalém?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(39078,2,12,18,22,'Se, porém, me disserdes: No Senhor nosso Deus confiamos; porventura não é esse aquele cujos altos e cujos altares Ezequias tirou, dizendo a Judá e a Jerusalém: Perante este altar vos inclinareis em Jerusalém?'),
 (39079,2,12,18,23,'Ora, pois, dá agora reféns ao meu senhor, o rei da Assíria, e dar-te-ei dois mil cavalos, se tu puderes dar cavaleiros para eles.'),
 (39080,2,12,18,24,'Como, pois, farias virar o rosto de um só capitão dos menores servos de meu senhor, quando tu confias no Egito, por causa dos carros e cavaleiros?'),
 (39081,2,12,18,25,'Agora, pois, subi eu porventura sem o Senhor contra este lugar, para o destruir? O Senhor me disse: Sobe contra esta terra, e destrói-a.'),
@@ -10302,8 +10111,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (39125,2,12,19,32,'Portanto, assim diz o Senhor acerca do rei da Assíria: Não entrará nesta cidade, nem lançará nela flecha alguma; tampouco virá perante ela com escudo, nem levantará contra ela trincheira alguma.'),
 (39126,2,12,19,33,'Pelo caminho por onde vier, por ele voltará; porém nesta cidade não entrará, diz o Senhor.'),
 (39127,2,12,19,34,'Porque eu ampararei a esta cidade, para a livrar, por amor de mim e por amor do meu servo Davi.'),
-(39128,2,12,19,35,'Sucedeu, pois, que naquela mesma noite saiu o anjo do Senhor, e feriu no arraial dos assírios a cento e oitenta e cinco mil deles; e, levantando-se pela manhã cedo, eis que todos eram cadáveres.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(39128,2,12,19,35,'Sucedeu, pois, que naquela mesma noite saiu o anjo do Senhor, e feriu no arraial dos assírios a cento e oitenta e cinco mil deles; e, levantando-se pela manhã cedo, eis que todos eram cadáveres.'),
 (39129,2,12,19,36,'Então Senaqueribe, rei da Assíria, partiu, e se foi, e voltou e ficou em Nínive.'),
 (39130,2,12,19,37,'E sucedeu que, estando ele prostrado na casa de Nisroque, seu deus, Adrameleque e Sarezer, seus filhos, o feriram à espada; porém eles escaparam para a terra de Ararate; e Esar-Hadom, seu filho, reinou em seu lugar.'),
 (39131,2,12,20,1,'Naqueles dias adoeceu Ezequias mortalmente; e o profeta Isaías, filho de Amós, veio a ele e lhe disse: Assim diz o SENHOR: Põe em ordem a tua casa, porque morrerás, e não viverás.'),
@@ -10353,8 +10161,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (39175,2,12,21,24,'Porém o povo da terra feriu a todos os que conspiraram contra o rei Amom; e o povo da terra pôs Josias, seu filho, rei em seu lugar.'),
 (39176,2,12,21,25,'Quanto ao mais dos atos de Amom, que fez, porventura não está escrito no livro das crônicas dos reis de Judá?'),
 (39177,2,12,21,26,'E o sepultaram na sua sepultura, no jardim de Uzá; e Josias, seu filho, reinou em seu lugar.'),
-(39178,2,12,22,1,'Tinha Josias oito anos de idade quando começou a reinar, e reinou trinta e um anos em Jerusalém; e era o nome de sua mãe, Jedida, filha de Adaías, de Bozcate.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(39178,2,12,22,1,'Tinha Josias oito anos de idade quando começou a reinar, e reinou trinta e um anos em Jerusalém; e era o nome de sua mãe, Jedida, filha de Adaías, de Bozcate.'),
 (39179,2,12,22,2,'E fez o que era reto aos olhos do Senhor; e andou em todo o caminho de Davi, seu pai, e não se apartou dele nem para a direita nem para a esquerda.'),
 (39180,2,12,22,3,'Sucedeu que, no ano décimo oitavo do rei Josias, o rei mandou ao escrivão Safã, filho de Azalias, filho de Mesulão, à casa do Senhor, dizendo:'),
 (39181,2,12,22,4,'Sobe a Hilquias, o sumo sacerdote, para que tome o dinheiro que se trouxe à casa do Senhor, o qual os guardas do umbral da porta ajuntaram do povo,'),
@@ -10404,8 +10211,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (39225,2,12,23,28,'Ora, o mais dos atos de Josias e tudo quanto fez, porventura não está escrito no livro das crônicas dos reis de Judá?'),
 (39226,2,12,23,29,'Nos seus dias subiu Faraó Neco, rei do Egito, contra o rei da Assíria, ao rio Eufrates; e o rei Josias lhe foi ao encontro; e, vendo-o ele, o matou em Megido.'),
 (39227,2,12,23,30,'E seus servos, num carro, o levaram morto, de Megido, e o trouxeram a Jerusalém, e o sepultaram na sua sepultura; e o povo da terra tomou a Jeoacaz, filho de Josias, e ungiram-no, e fizeram-no rei em lugar de seu pai.'),
-(39228,2,12,23,31,'Tinha Jeoacaz vinte e três anos de idade quando começou a reinar, e três meses reinou em Jerusalém; e era o nome de sua mãe Hamutal, filha de Jeremias, de Libna.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(39228,2,12,23,31,'Tinha Jeoacaz vinte e três anos de idade quando começou a reinar, e três meses reinou em Jerusalém; e era o nome de sua mãe Hamutal, filha de Jeremias, de Libna.'),
 (39229,2,12,23,32,'E fez o que era mau aos olhos do Senhor, conforme tudo o que fizeram seus pais.'),
 (39230,2,12,23,33,'Porém Faraó Neco o mandou prender em Ribla, em terra de Hamate, para que não reinasse em Jerusalém; e à terra impôs pena de cem talentos de prata e um talento de ouro.'),
 (39231,2,12,23,34,'Também Faraó Neco constituiu rei a Eliaquim, filho de Josias, em lugar de seu pai Josias, e lhe mudou o nome para Jeoiaquim; porém a Jeoacaz tomou consigo, e foi ao Egito, e morreu ali.'),
@@ -10455,8 +10261,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (39275,2,12,25,21,'E o rei de babilônia os feriu e os matou em Ribla, na terra de Hamate; e Judá foi levado preso para fora da sua terra.'),
 (39276,2,12,25,22,'Porém, quanto ao povo que ficara na terra de Judá, que Nabucodonosor, rei de babilônia, deixou ficar, pôs sobre ele, por governador a Gedalias, filho de Aicão, filho de Safã.'),
 (39277,2,12,25,23,'Ouvindo, pois, os capitães dos exércitos, eles e os seus homens, que o rei de babilônia pusera a Gedalias por governador, vieram a Gedalias, a Mizpá, a saber: Ismael, filho de Netanias, e Joanã, filho de Careá, e Seraías, filho de Tanumete, o netofatita, e Jazanias, filho do maacatita, eles e os seus homens.'),
-(39278,2,12,25,24,'E Gedalias jurou a eles e aos seus homens, e lhes disse: Não temais ser servos dos caldeus; ficai na terra, servi ao rei de babilônia, e bem vos irá.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(39278,2,12,25,24,'E Gedalias jurou a eles e aos seus homens, e lhes disse: Não temais ser servos dos caldeus; ficai na terra, servi ao rei de babilônia, e bem vos irá.'),
 (39279,2,12,25,25,'Sucedeu, porém, que, no sétimo mês, veio Ismael, filho de Netanias, o filho de Elisama, da descendência real, e dez homens com ele, e feriram a Gedalias, e ele morreu, como também aos judeus, e aos caldeus que estavam com ele em Mizpá.'),
 (39280,2,12,25,26,'Então todo o povo se levantou, desde o menor até ao maior, como também os capitães dos exércitos, e foram ao Egito, porque temiam os caldeus.'),
 (39281,2,12,25,27,'Depois disto sucedeu que, no ano trinta e sete do cativeiro de Joaquim, rei de Judá, no mês duodécimo, aos vinte e sete do mês, Evil-Merodaque, rei de babilônia, no ano em que reinou, levantou a cabeça de Joaquim, rei de Judá, tirando-o da casa da prisão.'),
@@ -10506,8 +10311,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (39325,2,13,1,41,'O filho de Aná foi Disom; e os filhos de Disom foram Hanrão, Esbã, Itrã e Querã.'),
 (39326,2,13,1,42,'Os filhos de Eser eram: Bilã, Zaavã e Jaacã; os filhos de Disã eram: Uz e Arã.'),
 (39327,2,13,1,43,'E estes são os reis que reinaram na terra de Edom, antes que reinasse rei sobre os filhos de Israel: Bela, filho de Beor, e era o nome da sua cidade Dinabá.'),
-(39328,2,13,1,44,'E morreu Bela, e reinou em seu lugar Jobabe, filho de Zerá, de Bozra.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(39328,2,13,1,44,'E morreu Bela, e reinou em seu lugar Jobabe, filho de Zerá, de Bozra.'),
 (39329,2,13,1,45,'E morreu Jobabe, e reinou em seu lugar Husão, da terra dos temanitas.'),
 (39330,2,13,1,46,'E morreu Husão, e reinou em seu lugar Hadade, filho de Bedade; este feriu os midianitas no campo de Moabe; e era o nome da sua cidade Avite.'),
 (39331,2,13,1,47,'E morreu Hadade, e reinou em seu lugar Samlá, de Masreca.'),
@@ -10557,8 +10361,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (39375,2,13,2,37,'E Zabade gerou a Eflal, e Eflal gerou a Obede.'),
 (39376,2,13,2,38,'E Obede gerou a Jeú, e Jeú gerou a Azarias.'),
 (39377,2,13,2,39,'E Azarias gerou a Helez, e Helez gerou a Eleasá.'),
-(39378,2,13,2,40,'E Eleasá gerou a Sismai, e Sismai gerou a Salum.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(39378,2,13,2,40,'E Eleasá gerou a Sismai, e Sismai gerou a Salum.'),
 (39379,2,13,2,41,'E Salum gerou a Jecamias, e Jecamias gerou a Elisama.'),
 (39380,2,13,2,42,'E foram os filhos de Calebe, irmão de Jerameel, Messa, seu primogênito (este foi o pai de Zife), e os filhos de Maressa, pai de Hebrom.'),
 (39381,2,13,2,43,'E foram os filhos de Hebrom: Coré, Tápua, Requém e Sema.'),
@@ -10608,8 +10411,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (39425,2,13,4,8,'E Coz gerou a Anube e a Zobeba e as famílias de Aarel, filho de Harum.'),
 (39426,2,13,4,9,'E foi Jabez mais ilustre do que seus irmãos; e sua mãe deu-lhe o nome de Jabez, dizendo: Porquanto com dores o dei à luz.'),
 (39427,2,13,4,10,'Porque Jabez invocou o Deus de Israel, dizendo: Se me abençoares muitíssimo, e meus termos ampliares, e a tua mão for comigo, e fizeres que do mal não seja afligido! E Deus lhe concedeu o que lhe tinha pedido.'),
-(39428,2,13,4,11,'E Quelube, irmão de Suá, gerou a Meir; este é o pai de Estom.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(39428,2,13,4,11,'E Quelube, irmão de Suá, gerou a Meir; este é o pai de Estom.'),
 (39429,2,13,4,12,'E Estom gerou a Bete-Rafa, a Pasea, e a Teina, pai de Ir-Naás; estes foram os homens de Reca.'),
 (39430,2,13,4,13,'E foram os filhos de Quenaz: Otniel e Seraías; o filho de Otniel: Hatate.'),
 (39431,2,13,4,14,'E Meonotai gerou a Ofra, e Seraías gerou a Joabe, pai dos do vale dos artífices; porque os dali eram artífices.'),
@@ -10659,8 +10461,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (39475,2,13,5,15,'Aí, filho de Abdiel, filho de Guni, foi chefe da casa de seus pais.'),
 (39476,2,13,5,16,'E habitaram em Gileade, em Basã e nos lugares da sua jurisdição; como também em todos os arrabaldes de Sarom, até aos seus termos.'),
 (39477,2,13,5,17,'Todos estes foram registrados, segundo as suas genealogias, nos dias de Jotão, rei de Judá, e nos dias de Jeroboão, rei de Israel.'),
-(39478,2,13,5,18,'Dos filhos de Rúben, e dos gaditas, e da meia tribo de Manassés, homens muito valentes, que traziam escudo e espada, e entesavam o arco, e eram destros na guerra; houve quarenta e quatro mil e setecentos e sessenta, que saíam à peleja.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(39478,2,13,5,18,'Dos filhos de Rúben, e dos gaditas, e da meia tribo de Manassés, homens muito valentes, que traziam escudo e espada, e entesavam o arco, e eram destros na guerra; houve quarenta e quatro mil e setecentos e sessenta, que saíam à peleja.'),
 (39479,2,13,5,19,'E fizeram guerra aos hagarenos, como a Jetur, e a Nafis e a Nodabe.'),
 (39480,2,13,5,20,'E foram ajudados contra eles, e os hagarenos e todos quantos estavam com eles foram entregues em sua mão; porque, na peleja, clamaram a Deus que lhes deu ouvidos, porquanto confiaram nele.'),
 (39481,2,13,5,21,'E levaram preso o seu gado; seus camelos, cinqüenta mil, e duzentas e cinqüenta mil ovelhas, e dois mil jumentos, e cem mil homens.'),
@@ -10710,8 +10511,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (39525,2,13,6,39,'E seu irmão Asafe estava à sua direita; e era Asafe filho de Berequias, filho de Siméia,'),
 (39526,2,13,6,40,'Filho de Micael, filho de Baaséias, filho de Malquias,'),
 (39527,2,13,6,41,'Filho de Etni, filho de Zerá, filho de Adaías,'),
-(39528,2,13,6,42,'Filho de Etã, filho de Zima, filho de Simei,');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(39528,2,13,6,42,'Filho de Etã, filho de Zima, filho de Simei,'),
 (39529,2,13,6,43,'Filho de Jaate, filho de Gérson, filho de Levi.'),
 (39530,2,13,6,44,'E seus irmãos, os filhos de Merari, estavam à esquerda; a saber: Etã, filho de Quisi, filho de Abdi, filho de Maluque,'),
 (39531,2,13,6,45,'Filho de Hasabias, filho de Amazias, filho de Hilquias,'),
@@ -10761,8 +10561,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (39575,2,13,7,8,'E os filhos de Bequer: Zemira, Joás, Eliezer, Elioenai, Onri, Jerimote, Abias, Anatote, e Alemete; todos estes foram filhos de Bequer.'),
 (39576,2,13,7,9,'E foram contados pelas suas genealogias, segundo as suas gerações, e chefes das casas de seus pais, homens valentes, vinte mil e duzentos.'),
 (39577,2,13,7,10,'E foi o filho de Jediael, Bilã; e os filhos de Bilã foram Jeús, Benjamim, Eúde, Quenaaná, Zetã, Társis e Aisaar.'),
-(39578,2,13,7,11,'Todos estes filhos de Jediael foram chefes das famílias dos pais, homens valentes, dezessete mil e duzentos, que saíam no exército à peleja.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(39578,2,13,7,11,'Todos estes filhos de Jediael foram chefes das famílias dos pais, homens valentes, dezessete mil e duzentos, que saíam no exército à peleja.'),
 (39579,2,13,7,12,'E Supim, e Hupim, filhos de Ir, e Husim, dos filhos de Aer.'),
 (39580,2,13,7,13,'Os filhos de Naftali: Jaziel, e Guni, e Jezer, e Salum, filhos de Bila.'),
 (39581,2,13,7,14,'Os filhos de Manassés: Asriel, que a mulher de Gileade concebeu (porém a sua concubina, a síria, concebeu a Maquir, pai de Gileade;'),
@@ -10812,8 +10611,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (39625,2,13,8,18,'Ismerai, Izlias e Jobabe, filhos de Elpaal.'),
 (39626,2,13,8,19,'Jaquim, Zicri, Zabdi,'),
 (39627,2,13,8,20,'Elienai, Ziletai, Eliel,'),
-(39628,2,13,8,21,'Adaías, Beraías e Sinrate, filhos de Simei.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(39628,2,13,8,21,'Adaías, Beraías e Sinrate, filhos de Simei.'),
 (39629,2,13,8,22,'E Ispã, Éber, Eliel,'),
 (39630,2,13,8,23,'Abdom, Zicri, Hanã,'),
 (39631,2,13,8,24,'Hananias, Elão, Antotias,'),
@@ -10863,8 +10661,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (39675,2,13,9,28,'E alguns deles estavam encarregados dos utensílios do ministério, porque por conta os traziam e por conta os tiravam.'),
 (39676,2,13,9,29,'Porque deles havia alguns que tinham o encargo dos objetos e de todos os utensílios do santuário; como também da flor de farinha, do vinho, do azeite, do incenso, e das especiarias.'),
 (39677,2,13,9,30,'E alguns dos filhos dos sacerdotes eram os obreiros da confecção das especiarias.'),
-(39678,2,13,9,31,'E Matitias, dentre os levitas, o primogênito de Salum, o coraíta, tinha o encargo da obra que se fazia em sertãs.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(39678,2,13,9,31,'E Matitias, dentre os levitas, o primogênito de Salum, o coraíta, tinha o encargo da obra que se fazia em sertãs.'),
 (39679,2,13,9,32,'E alguns dos seus irmãos, dos filhos dos coatitas, tinham o encargo de preparar os pães da proposição para todos os sábados.'),
 (39680,2,13,9,33,'Destes foram também os cantores, chefes dos pais entre os levitas, habitando nas câmaras, isentos de serviços; porque de dia e de noite estava a seu cargo ocuparem-se naquela obra.'),
 (39681,2,13,9,34,'Estes foram cabeças dos pais entre os levitas, chefes em suas gerações; estes habitaram em Jerusalém.'),
@@ -10914,8 +10711,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (39725,2,13,11,20,'E também Abisai, irmão de Joabe, era chefe de três, o qual, brandindo a sua lança contra trezentos, os feriu; e teve nome entre os três.'),
 (39726,2,13,11,21,'Ele foi o mais ilustre dos três, pelo que foi capitão deles; porém não igualou aos primeiros três.'),
 (39727,2,13,11,22,'Também Benaia, filho de Joiada, filho de um homem poderoso de Cabzeel, grande em obras; ele feriu a dois heróis de Moabe; e também desceu, e feriu um leão dentro de uma cova, no tempo da neve.'),
-(39728,2,13,11,23,'Também feriu ele a um homem egípcio, homem de grande altura, de cinco côvados; e trazia o egípcio uma lança na mão, como o órgão do tecelão; mas Benaia desceu contra ele com uma vara, e arrancou a lança da mão do egípcio, e com ela o matou.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(39728,2,13,11,23,'Também feriu ele a um homem egípcio, homem de grande altura, de cinco côvados; e trazia o egípcio uma lança na mão, como o órgão do tecelão; mas Benaia desceu contra ele com uma vara, e arrancou a lança da mão do egípcio, e com ela o matou.'),
 (39729,2,13,11,24,'Estas coisas fez Benaia, filho de Joiada; pelo que teve nome entre aqueles três poderosos.'),
 (39730,2,13,11,25,'Eis que dos trinta foi ele o mais ilustre; contudo não chegou aos primeiros três; e Davi o pôs sobre os da sua guarda.'),
 (39731,2,13,11,26,'E foram os poderosos dos exércitos: Asael, irmão de Joabe, El-Hanã, filho de Dodó, de Belém;'),
@@ -10965,8 +10761,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (39775,2,13,12,23,'Ora este é o número dos chefes armados para a peleja, que vieram a Davi em Hebrom, para transferir a ele o reino de Saul, conforme a palavra do Senhor.'),
 (39776,2,13,12,24,'Dos filhos de Judá, que traziam escudo e lança, seis mil e oitocentos, armados para a peleja;'),
 (39777,2,13,12,25,'Dos filhos de Simeão, homens poderosos para pelejar, sete mil e cem;'),
-(39778,2,13,12,26,'Dos filhos de Levi, quatro mil e seiscentos.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(39778,2,13,12,26,'Dos filhos de Levi, quatro mil e seiscentos.'),
 (39779,2,13,12,27,'Joiada, que era o líder dos de Arão, e com ele três mil e setecentos.'),
 (39780,2,13,12,28,'E Zadoque, sendo ainda jovem, homem poderoso, com vinte e dois capitães da família de seu pai;'),
 (39781,2,13,12,29,'E dos filhos de Benjamim, irmãos de Saul, três mil; porque até então havia ainda muitos deles que eram pela casa de Saul.'),
@@ -11016,8 +10811,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (39825,2,13,15,2,'Então disse Davi: Ninguém pode levar a arca de Deus, senão os levitas; porque o Senhor os escolheu, para levar a arca de Deus, e para o servirem eternamente.'),
 (39826,2,13,15,3,'E Davi convocou a todo o Israel em Jerusalém, para fazer subir a arca do Senhor ao seu lugar, que lhe tinha preparado.'),
 (39827,2,13,15,4,'E Davi reuniu os filhos de Arão e os levitas:'),
-(39828,2,13,15,5,'Dos filhos de Coate: Uriel, o chefe, e de seus irmãos cento e vinte.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(39828,2,13,15,5,'Dos filhos de Coate: Uriel, o chefe, e de seus irmãos cento e vinte.'),
 (39829,2,13,15,6,'Dos filhos de Merari: Asaías, o chefe, e de seus irmãos duzentos e vinte.'),
 (39830,2,13,15,7,'Dos filhos de Gérson: Joel, o chefe, e de seus irmãos cento e trinta.'),
 (39831,2,13,15,8,'Dos filhos de Elizafã: Semaías, o chefe, e de seus irmãos duzentos.'),
@@ -11067,8 +10861,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (39875,2,13,16,23,'Cantai ao Senhor em toda a terra; anunciai de dia em dia a sua salvação.'),
 (39876,2,13,16,24,'Contai entre as nações a sua glória, entre todos os povos as suas maravilhas.'),
 (39877,2,13,16,25,'Porque grande é o Senhor, e mui digno de louvor, e mais temível é do que todos os deuses.'),
-(39878,2,13,16,26,'Porque todos os deuses dos povos são ídolos; porém o Senhor fez os céus.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(39878,2,13,16,26,'Porque todos os deuses dos povos são ídolos; porém o Senhor fez os céus.'),
 (39879,2,13,16,27,'Louvor e majestade há diante dele, força e alegria no seu lugar.'),
 (39880,2,13,16,28,'Tributai ao Senhor, ó famílias dos povos, tributai ao Senhor glória e força.'),
 (39881,2,13,16,29,'Tributai ao Senhor a glória de seu nome; trazei presentes, e vinde perante ele; adorai ao Senhor na beleza da sua santidade.'),
@@ -11118,8 +10911,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (39925,2,13,18,3,'Também Davi derrotou a Hadar-Ezer, rei de Zobá, junto a Hamate, quando ele ia estabelecer o seu domínio sobre o rio Eufrates.'),
 (39926,2,13,18,4,'E Davi lhe tomou mil carros, e sete mil cavaleiros, e vinte mil homens de pé; e Davi jarretou todos os cavalos dos carros; porém reservou deles para cem carros.'),
 (39927,2,13,18,5,'E vieram os sírios de Damasco a socorrer a Hadar-Ezer, rei de Zobá; porém Davi feriu dos sírios vinte e dois mil homens.'),
-(39928,2,13,18,6,'E Davi pôs guarnições na Síria de Damasco, e os sírios ficaram por servos de Davi, pagando-lhe tributo; e o Senhor guardava a Davi, por onde quer que ia.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(39928,2,13,18,6,'E Davi pôs guarnições na Síria de Damasco, e os sírios ficaram por servos de Davi, pagando-lhe tributo; e o Senhor guardava a Davi, por onde quer que ia.'),
 (39929,2,13,18,7,'E Davi tomou os escudos de ouro, que tinham os servos de Hadar-Ezer, e os trouxe a Jerusalém.'),
 (39930,2,13,18,8,'Também de Tibate, e de Cum, cidades de Hadar-Ezer, tomou Davi muitíssimo cobre, de que Salomão fez o mar de cobre, e as colunas, e os utensílios de cobre.'),
 (39931,2,13,18,9,'E ouvindo Toí, rei de Hamate, que Davi destruíra todo o exército de Hadar-Ezer, rei de Zobá,'),
@@ -11169,8 +10961,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (39975,2,13,21,9,'Falou, pois, o Senhor a Gade, o vidente de Davi, dizendo:'),
 (39976,2,13,21,10,'Vai, e fala a Davi, dizendo: Assim diz o Senhor: Três coisas te proponho; escolhe uma delas, para que eu ta faça.'),
 (39977,2,13,21,11,'E Gade veio a Davi, e lhe disse: Assim diz o Senhor: Escolhe para ti,'),
-(39978,2,13,21,12,'Ou três anos de fome, ou que três meses sejas consumido diante dos teus adversários, e a espada de teus inimigos te alcance, ou que três dias a espada do Senhor, isto é, a peste na terra, e o anjo do Senhor destrua todos os termos de Israel; vê, pois, agora, que resposta hei de levar a quem me enviou.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(39978,2,13,21,12,'Ou três anos de fome, ou que três meses sejas consumido diante dos teus adversários, e a espada de teus inimigos te alcance, ou que três dias a espada do Senhor, isto é, a peste na terra, e o anjo do Senhor destrua todos os termos de Israel; vê, pois, agora, que resposta hei de levar a quem me enviou.'),
 (39979,2,13,21,13,'Então disse Davi a Gade: Estou em grande angústia; caia eu, pois, nas mãos do Senhor, porque são muitíssimas as suas misericórdias; mas que eu não caia nas mãos dos homens.'),
 (39980,2,13,21,14,'Mandou, pois, o Senhor a peste a Israel; e caíram de Israel setenta mil homens.'),
 (39981,2,13,21,15,'E Deus mandou um anjo a Jerusalém para a destruir; e, destruindo-a ele, o Senhor olhou, e se arrependeu daquele mal, e disse ao anjo destruidor: Basta, agora retira a tua mão. E o anjo do Senhor estava junto à eira de Ornã, o jebuseu.'),
@@ -11271,8 +11062,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (40075,2,13,24,28,'De Mali, Eleazar; e este não teve filhos.'),
 (40076,2,13,24,29,'Quanto a Quis: dos filhos de Quis, Jerameel;'),
 (40077,2,13,24,30,'E os filhos de Musi: Mali, e Eder, e Jerimote; estes foram os filhos dos levitas, segundo as suas casas paternas.'),
-(40078,2,13,24,31,'Estes também lançaram sortes como seus irmãos, os filhos de Arão, perante o rei Davi, e Zadoque, e Aimeleque, e os chefes das famílias entre os sacerdotes e entre os levitas; assim fizeram, tanto os pais principais como os irmãos menores.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(40078,2,13,24,31,'Estes também lançaram sortes como seus irmãos, os filhos de Arão, perante o rei Davi, e Zadoque, e Aimeleque, e os chefes das famílias entre os sacerdotes e entre os levitas; assim fizeram, tanto os pais principais como os irmãos menores.'),
 (40079,2,13,25,1,'E Davi, juntamente com os capitães do exército, separou para o ministério os filhos de Asafe, e de Hemã, e de Jedutum, para profetizarem com harpas, com címbalos, e com saltérios; e este foi o número dos homens aptos para a obra do seu ministério:'),
 (40080,2,13,25,2,'Dos filhos de Asafe: Zacur, José, Netanias, e Asarela, filhos de Asafe; a cargo de Asafe, que profetizava debaixo das ordens do rei Davi.'),
 (40081,2,13,25,3,'Quanto a Jedutum, os filhos: Gedalias, Zeri, Jesaías, Hasabias, e Matitias, seis, a cargo de seu pai, Jedutum, o qual profetizava com a harpa, louvando e dando graças ao Senhor.'),
@@ -11322,8 +11112,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (40125,2,13,26,16,'Para Supim e Hosa a do ocidente, junto a porta Salequete, perto do caminho da subida; uma guarda defronte de outra guarda.'),
 (40126,2,13,26,17,'Ao oriente seis levitas; ao norte quatro por dia, ao sul quatro por dia, porém para as casas dos depósitos de dois em dois.'),
 (40127,2,13,26,18,'Em Parbar, ao ocidente, quatro junto ao caminho, e dois junto a Parbar.'),
-(40128,2,13,26,19,'Estas são as turmas dos porteiros dentre os filhos dos coraítas, e dentre os filhos de Merari.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(40128,2,13,26,19,'Estas são as turmas dos porteiros dentre os filhos dos coraítas, e dentre os filhos de Merari.'),
 (40129,2,13,26,20,'E dos levitas: Aías tinha cargo dos tesouros da casa de Deus e dos tesouros das coisas sagradas.'),
 (40130,2,13,26,21,'Quanto aos filhos de Ladã, os filhos dos gersonitas que pertencem a Ladã, chefes das casas paternas de Ladã: Jeieli.'),
 (40131,2,13,26,22,'Os filhos de Jeieli: Zetã e Joel, seu irmão; estes tinham cargo dos tesouros da casa do Senhor,'),
@@ -11373,8 +11162,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (40175,2,13,27,34,'E depois de Aitofel, Joiada, filho de Benaia, e Abiatar; porém Joabe era o general do exército do rei.'),
 (40176,2,13,28,1,'Então Davi reuniu em Jerusalém todos os príncipes de Israel, os príncipes das tribos, e os capitães das turmas, que serviam o rei, e os capitães dos milhares, e os capitães das centenas, e os administradores de toda a fazenda e possessão do rei, e de seus filhos, como também os oficiais, os poderosos, e todo o homem valente.'),
 (40177,2,13,28,2,'E pôs-se o rei Davi em pé, e disse: Ouvi-me, irmãos meus, e povo meu; em meu coração propus eu edificar uma casa de repouso para a arca da aliança do Senhor e para o estrado dos pés do nosso Deus, e eu tinha feito o preparo para a edificar.'),
-(40178,2,13,28,3,'Porém Deus me disse: Não edificarás casa ao meu nome, porque és homem de guerra, e derramaste muito sangue.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(40178,2,13,28,3,'Porém Deus me disse: Não edificarás casa ao meu nome, porque és homem de guerra, e derramaste muito sangue.'),
 (40179,2,13,28,4,'E o Senhor Deus de Israel escolheu-me de toda a casa de meu pai, para que eternamente fosse rei sobre Israel; porque a Judá escolheu por soberano, e a casa de meu pai na casa de Judá; e entre os filhos de meu pai se agradou de mim para me fazer reinar sobre todo o Israel.'),
 (40180,2,13,28,5,'E, de todos os meus filhos (porque muitos filhos me deu o Senhor), escolheu ele o meu filho Salomão para se assentar no trono do reino do Senhor sobre Israel.'),
 (40181,2,13,28,6,'E me disse: Teu filho Salomão, ele edificará a minha casa e os meus átrios; porque o escolhi para filho, e eu lhe serei por pai.'),
@@ -11424,8 +11212,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (40225,2,13,29,29,'Os atos, pois, do rei Davi, assim os primeiros como os últimos, eis que estão escritos nas crônicas de Samuel, o vidente, e nas crônicas do profeta Natã, e nas crônicas de Gade, o vidente,'),
 (40226,2,13,29,30,'Juntamente com todo o seu reinado e o seu poder; e os tempos que passaram sobre ele, e sobre Israel, e sobre todos os reinos daquelas terras.'),
 (40227,2,14,1,1,'Salomão, filho de Davi, fortaleceu-se no seu reino; e o SENHOR seu Deus era com ele, e o engrandeceu sobremaneira.'),
-(40228,2,14,1,2,'E falou Salomão a todo o Israel, aos capitães de mil e de cem, aos juízes e a todos os governadores em todo o Israel, chefes das famílias.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(40228,2,14,1,2,'E falou Salomão a todo o Israel, aos capitães de mil e de cem, aos juízes e a todos os governadores em todo o Israel, chefes das famílias.'),
 (40229,2,14,1,3,'E foi Salomão, e toda a congregação com ele, ao alto que estava em Gibeom, porque ali estava a tenda da congregação de Deus, que Moisés, servo do Senhor, tinha feito no deserto.'),
 (40230,2,14,1,4,'Mas Davi tinha feito subir a arca de Deus de Quiriate-Jearim ao lugar que lhe preparara; porque lhe tinha armado uma tenda em Jerusalém.'),
 (40231,2,14,1,5,'Também o altar de cobre que tinha feito Bezaleel, filho de Uri, filho de Hur, estava ali diante do tabernáculo do Senhor; e Salomão e a congregação o buscavam.'),
@@ -11475,8 +11262,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (40275,2,14,3,14,'Também fez o véu de azul, púrpura, carmesim e linho fino; e pôs sobre ele querubins;'),
 (40276,2,14,3,15,'Fez também, diante da casa, duas colunas de trinta e cinco côvados de altura; e o capitel, que estava sobre cada uma, era de cinco côvados.'),
 (40277,2,14,3,16,'Também fez cadeias no oráculo, e as pôs sobre as cabeças das colunas; fez também cem romãs, as quais pôs entre as cadeias.'),
-(40278,2,14,3,17,'E levantou as colunas diante do templo, uma à direita, e outra à esquerda; e chamou o nome da que estava à direita Jaquim, e o nome da que estava à esquerda Boaz.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(40278,2,14,3,17,'E levantou as colunas diante do templo, uma à direita, e outra à esquerda; e chamou o nome da que estava à direita Jaquim, e o nome da que estava à esquerda Boaz.'),
 (40279,2,14,4,1,'Também fez um altar de metal, de vinte côvados de comprimento, de vinte côvados de largura e de dez côvados de altura.'),
 (40280,2,14,4,2,'Fez também o mar de fundição, de dez côvados de uma borda até a outra, redondo, e de cinco côvados de altura; cingia-o ao redor um cordão de trinta côvados.'),
 (40281,2,14,4,3,'E por baixo dele havia figuras de bois, que cingiam o mar ao redor, dez em cada côvado, contornando-o; e tinha duas fileiras de bois, fundidos juntamente com o mar.'),
@@ -11526,8 +11312,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (40325,2,14,6,11,'E pus nela a arca, em que está a aliança que o Senhor fez com os filhos de Israel.'),
 (40326,2,14,6,12,'E pôs-se em pé, perante o altar do Senhor, na presença de toda a congregação de Israel, e estendeu as suas mãos.'),
 (40327,2,14,6,13,'Porque Salomão tinha feito uma plataforma de metal, de cinco côvados de comprimento, de cinco côvados de largura e de três côvados de altura, e a tinha posto no meio do pátio, e pôs-se em pé sobre ela, e ajoelhou-se em presença de toda a congregação de Israel, e estendeu as suas mãos para o céu.'),
-(40328,2,14,6,14,'E disse: Ó Senhor Deus de Israel, não há Deus semelhante a ti, nem nos céus nem na terra; que guardas a aliança e a beneficência aos teus servos que caminham perante ti de todo o seu coração.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(40328,2,14,6,14,'E disse: Ó Senhor Deus de Israel, não há Deus semelhante a ti, nem nos céus nem na terra; que guardas a aliança e a beneficência aos teus servos que caminham perante ti de todo o seu coração.'),
 (40329,2,14,6,15,'Que guardaste ao teu servo Davi, meu pai, o que lhe falaste; porque tu pela tua boca o disseste, e pela tua mão o cumpriste, como se vê neste dia.'),
 (40330,2,14,6,16,'Agora, pois, Senhor Deus de Israel, guarda ao teu servo Davi, meu pai, o que falaste, dizendo: Nunca homem algum será cortado de diante de mim, que se assente sobre o trono de Israel; tão-somente que teus filhos guardem seu caminho, andando na minha lei, como tu andaste diante de mim.'),
 (40331,2,14,6,17,'E agora, Senhor Deus de Israel, cumpra-se a tua palavra, que disseste ao teu servo Davi.'),
@@ -11577,8 +11362,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (40375,2,14,7,19,'Porém se vós vos desviardes, e deixardes os meus estatutos, e os meus mandamentos, que vos tenho proposto, e fordes, e servirdes a outros deuses, e vos prostrardes a eles,'),
 (40376,2,14,7,20,'Então os arrancarei da minha terra que lhes dei, e lançarei da minha presença esta casa que consagrei ao meu nome, e farei com que seja por provérbio e motejo entre todos os povos.'),
 (40377,2,14,7,21,'E desta casa, que é tão exaltada, qualquer que passar por ela se espantará e dirá: Por que fez o Senhor assim com esta terra e com esta casa?'),
-(40378,2,14,7,22,'E dirão: Porque deixaram ao Senhor Deus de seus pais, que os tirou da terra do Egito, e se deram a outros deuses, e se prostraram a eles, e os serviram; por isso ele trouxe sobre eles todo este mal.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(40378,2,14,7,22,'E dirão: Porque deixaram ao Senhor Deus de seus pais, que os tirou da terra do Egito, e se deram a outros deuses, e se prostraram a eles, e os serviram; por isso ele trouxe sobre eles todo este mal.'),
 (40379,2,14,8,1,'E sucedeu, ao fim de vinte anos, nos quais Salomão edificou a casa do SENHOR, e a sua própria casa,'),
 (40380,2,14,8,2,'Que Salomão edificou as cidades que Hirão lhe tinha dado; e fez habitar nelas os filhos de Israel.'),
 (40381,2,14,8,3,'Depois foi Salomão a Hamate-Zobá, e a tomou.'),
@@ -11628,8 +11412,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (40425,2,14,9,29,'Os demais atos de Salomão, tanto os primeiros como os últimos, porventura não estão escritos no livro das crônicas de Natã, o profeta, e na profecia de Aías, o silonita, e nas visões de Ido, o vidente, acerca de Jeroboão, filho de Nebate?'),
 (40426,2,14,9,30,'E reinou Salomão em Jerusalém quarenta anos sobre todo o Israel.'),
 (40427,2,14,9,31,'E dormiu Salomão com seus pais, e o sepultaram na cidade de Davi seu pai; e Roboão, seu filho, reinou em seu lugar.'),
-(40428,2,14,10,1,'E foi Roboão a Siquém, porque todo o Israel se reunira ali, para fazê-lo rei.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(40428,2,14,10,1,'E foi Roboão a Siquém, porque todo o Israel se reunira ali, para fazê-lo rei.'),
 (40429,2,14,10,2,'Sucedeu que, ouvindo-o Jero-boão, filho de Nebate (o qual estava então no Egito para onde fugira da presença do rei Salomão), voltou do Egito,'),
 (40430,2,14,10,3,'Porque enviaram a ele, e o chamaram; e vieram, Jeroboão e todo o Israel, e falaram a Roboão dizendo:'),
 (40431,2,14,10,4,'Teu pai fez duro o nosso jugo; agora, pois, alivia tu a dura servidão de teu pai, e o pesado jugo que nos impôs, e nós te serviremos.'),
@@ -11679,8 +11462,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (40475,2,14,12,6,'Então se humilharam os príncipes de Israel, e o rei, e disseram: O Senhor é justo.'),
 (40476,2,14,12,7,'Vendo, pois, o Senhor que se humilhavam, veio a palavra do Senhor a Semaías, dizendo: Humilharam-se, não os destruirei; antes em breve lhes darei algum socorro, para que o meu furor não se derrame sobre Jerusalém, por mão de Sisaque.'),
 (40477,2,14,12,8,'Porém serão seus servos; para que conheçam a diferença da minha servidão e da servidão dos reinos da terra.'),
-(40478,2,14,12,9,'Subiu, pois, Sisaque, rei do Egito, contra Jerusalém, e tomou os tesouros da casa do Senhor, e os tesouros da casa do rei; levou tudo; também tomou os escudos de ouro, que Salomão fizera.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(40478,2,14,12,9,'Subiu, pois, Sisaque, rei do Egito, contra Jerusalém, e tomou os tesouros da casa do Senhor, e os tesouros da casa do rei; levou tudo; também tomou os escudos de ouro, que Salomão fizera.'),
 (40479,2,14,12,10,'E fez o rei Roboão em lugar deles escudos de cobre, e os entregou na mão dos chefes da guarda, que guardavam a porta da casa do rei.'),
 (40480,2,14,12,11,'E todas as vezes que o rei entrava na casa do Senhor, vinham os da guarda, e os levavam; depois tornavam a pô-los na câmara da guarda.'),
 (40481,2,14,12,12,'E humilhando-se ele, a ira do Senhor se desviou dele, para que não o destruísse de todo; porque em Judá ainda havia boas coisas.'),
@@ -11730,8 +11512,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (40525,2,14,15,3,'E Israel esteve por muitos dias sem o verdadeiro Deus, e sem sacerdote que o ensinasse, e sem lei.'),
 (40526,2,14,15,4,'Mas quando na sua angústia voltaram para o Senhor Deus de Israel, e o buscaram, o acharam.'),
 (40527,2,14,15,5,'E naqueles tempos não havia paz, nem para o que saía, nem para o que entrava, mas muitas perturbações sobre todos os habitantes daquelas terras.'),
-(40528,2,14,15,6,'Porque nação contra nação e cidade contra cidade se despedaçavam; porque Deus os perturbara com toda a angústia.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(40528,2,14,15,6,'Porque nação contra nação e cidade contra cidade se despedaçavam; porque Deus os perturbara com toda a angústia.'),
 (40529,2,14,15,7,'Mas esforçai-vos, e não desfaleçam as vossas mãos; porque a vossa obra tem uma recompensa.'),
 (40530,2,14,15,8,'Ouvindo, pois, Asa estas palavras, e a profecia do profeta Odede, cobrou ânimo e tirou as abominações de toda a terra, de Judá e de Benjamim, como também das cidades que tomara nas montanhas de Efraim, e renovou o altar do Senhor, que estava diante do pórtico do Senhor.'),
 (40531,2,14,15,9,'E reuniu a todo o Judá, e Benjamim, e com eles os estrangeiros de Efraim e Manassés, e de Simeão; porque muitos de Israel tinham passado a ele, vendo que o Senhor seu Deus era com ele.'),
@@ -11781,8 +11562,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (40575,2,14,18,1,'Tinha, pois, Jeosafá riquezas e glória em abundância, e aparentou-se com Acabe.'),
 (40576,2,14,18,2,'E depois de alguns anos desceu ele para Acabe em Samaria; e Acabe matou ovelhas e bois em abundância, para ele e para o povo que vinha com ele; e o persuadiu a subir com ele a Ramote de Gileade.'),
 (40577,2,14,18,3,'Porque Acabe, rei de Israel, disse a Jeosafá, rei de Judá: Irás tu comigo a Ramote de Gileade? E ele lhe disse: Como tu és, serei eu; e o meu povo, como o teu povo; iremos contigo à guerra.'),
-(40578,2,14,18,4,'Disse mais Jeosafá ao rei de Israel: Peço-te, consulta hoje a palavra do Senhor.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(40578,2,14,18,4,'Disse mais Jeosafá ao rei de Israel: Peço-te, consulta hoje a palavra do Senhor.'),
 (40579,2,14,18,5,'Então o rei de Israel reuniu os profetas, quatrocentos homens, e disse-lhes: Iremos à guerra contra Ramote de Gileade, ou deixarei de ir? E eles disseram: Sobe; porque Deus a entregará na mão do rei.'),
 (40580,2,14,18,6,'Disse, porém, Jeosafá: Não há ainda aqui algum profeta do Senhor, para que o consultemos?'),
 (40581,2,14,18,7,'Então o rei de Israel disse a Jeosafá: Ainda há um homem por quem podemos consultar ao Senhor; porém eu o odeio, porque nunca profetiza de mim o que é bom, senão sempre o mal; este é Micaías, filho de Inlá. E disse Jeosafá: Não fale o rei assim.'),
@@ -11832,8 +11612,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (40625,2,14,20,6,'E disse: Ah! Senhor Deus de nossos pais, porventura não és tu Deus nos céus? Não és tu que dominas sobre todos os reinos das nações? Na tua mão há força e potência, e não há quem te possa resistir.'),
 (40626,2,14,20,7,'Porventura, ó nosso Deus, não lançaste fora os moradores desta terra de diante do teu povo Israel, e não a deste para sempre à descendência de Abraão, teu amigo?'),
 (40627,2,14,20,8,'E habitaram nela e edificaram-te nela um santuário ao teu nome, dizendo:'),
-(40628,2,14,20,9,'Se algum mal nos sobrevier, espada, juízo, peste, ou fome, nós nos apresentaremos diante desta casa e diante de ti, pois teu nome está nesta casa, e clamaremos a ti na nossa angústia, e tu nos ouvirás e livrarás.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(40628,2,14,20,9,'Se algum mal nos sobrevier, espada, juízo, peste, ou fome, nós nos apresentaremos diante desta casa e diante de ti, pois teu nome está nesta casa, e clamaremos a ti na nossa angústia, e tu nos ouvirás e livrarás.'),
 (40629,2,14,20,10,'Agora, pois, eis que os filhos de Amom, e de Moabe e os das montanhas de Seir, pelos quais não permitiste passar a Israel, quando vinham da terra do Egito, mas deles se desviaram e não os destruíram,'),
 (40630,2,14,20,11,'Eis que nos dão o pago, vindo para lançar-nos fora da tua herança, que nos fizeste herdar.'),
 (40631,2,14,20,12,'Ah! nosso Deus, porventura não os julgarás? Porque em nós não há força perante esta grande multidão que vem contra nós, e não sabemos o que faremos; porém os nossos olhos estão postos em ti.'),
@@ -11883,8 +11662,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (40675,2,14,21,19,'E sucedeu que, depois de muito tempo, ao fim de dois anos, saíram-lhe as entranhas por causa da doença; e morreu daquela grave enfermidade; e o seu povo não lhe queimou aroma como queimara a seus pais.'),
 (40676,2,14,21,20,'Era da idade de trinta e dois anos quando começou a reinar, e reinou oito anos em Jerusalém; e foi sem deixar de si saudades; e sepultaram-no na cidade de Davi, porém não nos sepulcros dos reis.'),
 (40677,2,14,22,1,'E os moradores de Jerusalém, em lugar de Jeorão, fizeram rei a Acazias, seu filho mais moço, porque a tropa, que viera com os árabes ao arraial, tinha matado a todos os mais velhos. Assim reinou Acazias, filho de Jeorão, rei de Judá.'),
-(40678,2,14,22,2,'Era da idade de quarenta e dois anos, quando começou a reinar, e reinou um ano em Jerusalém; e era o nome de sua mãe Atalia, filha de Onri.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(40678,2,14,22,2,'Era da idade de quarenta e dois anos, quando começou a reinar, e reinou um ano em Jerusalém; e era o nome de sua mãe Atalia, filha de Onri.'),
 (40679,2,14,22,3,'Também ele andou nos caminhos da casa de Acabe, porque sua mãe era sua conselheira, para proceder impiamente.'),
 (40680,2,14,22,4,'E fez o que era mau aos olhos do Senhor, como a casa de Acabe, porque eles eram seus conselheiros depois da morte de seu pai, para a sua perdição.'),
 (40681,2,14,22,5,'Também andou nos conselhos deles, e foi com Jorão, filho de Acabe, rei de Israel, à peleja contra Hazael, rei da Síria, junto a Ramote de Gileade; e os sírios feriram a Jorão.'),
@@ -11934,8 +11712,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (40725,2,14,24,16,'E o sepultaram na cidade de Davi com os reis; porque tinha feito bem em Israel, e para com Deus e a sua casa.'),
 (40726,2,14,24,17,'Porém, depois da morte de Joiada vieram os príncipes de Judá e prostraram-se perante o rei; e o rei os ouviu.'),
 (40727,2,14,24,18,'E deixaram a casa do Senhor Deus de seus pais, e serviram às imagens do bosque e aos ídolos. Então, por causa desta sua culpa, veio grande ira sobre Judá e Jerusalém.'),
-(40728,2,14,24,19,'Porém enviou profetas entre eles, para os reconduzir ao Senhor, os quais protestaram contra eles; mas eles não deram ouvidos.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(40728,2,14,24,19,'Porém enviou profetas entre eles, para os reconduzir ao Senhor, os quais protestaram contra eles; mas eles não deram ouvidos.'),
 (40729,2,14,24,20,'E o Espírito de Deus revestiu a Zacarias, filho do sacerdote Joiada, o qual se pôs em pé acima do povo, e lhes disse: Assim diz Deus: Por que transgredis os mandamentos do Senhor, de modo que não possais prosperar? Porque deixastes ao Senhor, também ele vos deixará.'),
 (40730,2,14,24,21,'E eles conspiraram contra ele, e o apedrejaram por mandado do rei, no pátio da casa do Senhor.'),
 (40731,2,14,24,22,'Assim o rei Joás não se lembrou da beneficência que Joiada, pai de Zacarias, lhe fizera; porém matou-lhe o filho, o qual, morrendo, disse: O Senhor o verá, e o requererá.'),
@@ -11985,8 +11762,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (40775,2,14,26,11,'Tinha também Uzias um exército de homens destros na guerra, que saíam à guerra em tropas, segundo o número da resenha feita por mão de Jeiel, o escrivão, e Maaséias, oficial, sob a direção de Hananias, um dos capitàes do rei.'),
 (40776,2,14,26,12,'O total dos chefes dos pais, homens valentes, era de dois mil e seiscentos.'),
 (40777,2,14,26,13,'E debaixo das suas ordens havia um exército guerreiro de trezentos e sete mil e quinhentos homens, que faziam a guerra com força belicosa, para ajudar o rei contra os inimigos.'),
-(40778,2,14,26,14,'E preparou Uzias, para todo o exército, escudos, lanças, capacetes, couraças e arcos, e até fundas para atirar pedras.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(40778,2,14,26,14,'E preparou Uzias, para todo o exército, escudos, lanças, capacetes, couraças e arcos, e até fundas para atirar pedras.'),
 (40779,2,14,26,15,'Também fez em Jerusalém máquinas da invenção de engenheiros, que estivessem nas torres e nos cantos, para atirarem flechas e grandes pedras; e propagou a sua fama até muito longe; porque foi maravilhosamente ajudado, até que se fortificou.'),
 (40780,2,14,26,16,'Mas, havendo-se já fortificado, exaltou-se o seu coração até se corromper; e transgrediu contra o Senhor seu Deus, porque entrou no templo do Senhor para queimar incenso no altar do incenso.'),
 (40781,2,14,26,17,'Porém o sacerdote Azarias entrou após ele, e com ele oitenta sacerdotes do Senhor, homens valentes.'),
@@ -12036,8 +11812,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (40825,2,14,29,2,'E fez o que era reto aos olhos do Senhor, conforme a tudo quanto fizera Davi, seu pai.'),
 (40826,2,14,29,3,'Ele, no primeiro ano do seu reinado, no primeiro mês, abriu as portas da casa do Senhor, e as reparou.'),
 (40827,2,14,29,4,'E trouxe os sacerdotes, e os levitas, e ajuntou-os na praça oriental,'),
-(40828,2,14,29,5,'E lhes disse: Ouvi-me, ó levitas, santificai-vos agora, e santificai a casa do Senhor Deus de vossos pais, e tirai do santuário a imundícia.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(40828,2,14,29,5,'E lhes disse: Ouvi-me, ó levitas, santificai-vos agora, e santificai a casa do Senhor Deus de vossos pais, e tirai do santuário a imundícia.'),
 (40829,2,14,29,6,'Porque nossos pais transgrediram, e fizeram o que era mau aos olhos do Senhor nosso Deus, e o deixaram, e desviaram os seus rostos do tabernáculo do Senhor, e lhe deram as costas.'),
 (40830,2,14,29,7,'Também fecharam as portas do alpendre, e apagaram as lâmpadas, e não queimaram incenso nem ofereceram holocaustos no santuário ao Deus de Israel.'),
 (40831,2,14,29,8,'Por isso veio grande ira do Senhor sobre Judá e Jerusalém, e os entregou à perturbação, à assolação, e ao escárnio, como vós o estais vendo com os vossos olhos.'),
@@ -12087,8 +11862,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (40875,2,14,30,16,'E puseram-se no seu posto, segundo o seu costume, conforme a lei de Moisés, o homem de Deus; e os sacerdotes espargiam o sangue, tomando-o da mão dos levitas.'),
 (40876,2,14,30,17,'Porque havia muitos na congregação que não se tinham santificado; pelo que os levitas tinham o encargo de matarem os cordeiros da páscoa por todo aquele que não estava limpo, para o santificarem ao Senhor.'),
 (40877,2,14,30,18,'Porque uma multidão do povo, muitos de Efraim e Manassés, Issacar e Zebulom, não se tinham purificado, e contudo comeram a páscoa, não como está escrito; porém Ezequias orou por eles, dizendo: O Senhor, que é bom, perdoa todo aquele'),
-(40878,2,14,30,19,'Que tem preparado o seu coração para buscar ao Senhor Deus, o Deus de seus pais, ainda que não esteja purificado segundo a purificação do santuário.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(40878,2,14,30,19,'Que tem preparado o seu coração para buscar ao Senhor Deus, o Deus de seus pais, ainda que não esteja purificado segundo a purificação do santuário.'),
 (40879,2,14,30,20,'E ouviu o Senhor a Ezequias, e sarou o povo.'),
 (40880,2,14,30,21,'E os filhos de Israel, que se acharam em Jerusalém, celebraram a festa dos pães ázimos sete dias com grande alegria; e os levitas e os sacerdotes louvaram ao Senhor de dia em dia, com estrondosos instrumentos ao Senhor.'),
 (40881,2,14,30,22,'E Ezequias falou benignamente a todos os levitas, que tinham bom entendimento no conhecimento do Senhor; e comeram as ofertas da solenidade por sete dias, oferecendo ofertas pacíficas, e louvando ao Senhor Deus de seus pais.'),
@@ -12138,8 +11912,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (40925,2,14,32,18,'E clamaram em alta voz em judaico contra o povo de Jerusalém, que estava em cima do muro, para os atemorizar e os perturbar, para que tomassem a cidade.'),
 (40926,2,14,32,19,'E falaram do Deus de Jerusalém, como dos deuses dos povos da terra, obras das mãos dos homens.'),
 (40927,2,14,32,20,'Porém o rei Ezequias e o profeta Isaías, filho de Amós, oraram contra isso, e clamaram ao céu.'),
-(40928,2,14,32,21,'Então o Senhor enviou um anjo que destruiu a todos os homens valentes, e os líderes, e os capitàes no arraial do rei da Assíria; e envergonhado voltou à sua terra; e, entrando na casa de seu deus, alguns dos seus próprios filhos, o mataram ali à espada.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(40928,2,14,32,21,'Então o Senhor enviou um anjo que destruiu a todos os homens valentes, e os líderes, e os capitàes no arraial do rei da Assíria; e envergonhado voltou à sua terra; e, entrando na casa de seu deus, alguns dos seus próprios filhos, o mataram ali à espada.'),
 (40929,2,14,32,22,'Assim livrou o Senhor a Ezequias, e aos moradores de Jerusalém, da mão de Senaqueribe, rei da Assíria, e da mão de todos; e de todos os lados os guiou.'),
 (40930,2,14,32,23,'E muitos traziam a Jerusalém presentes ao Senhor, e coisas preciosíssimas a Ezequias, rei de Judá, de modo que depois disto foi exaltado perante os olhos de todas as nações.'),
 (40931,2,14,32,24,'Naqueles dias Ezequias adoeceu mortalmente; e orou ao Senhor, o qual lhe falou, e lhe deu um sinal.'),
@@ -12189,8 +11962,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (40975,2,14,34,10,'E eles o entregaram aos que tinham o encargo da obra, e superintendiam a casa do Senhor; e estes o deram aos que faziam a obra, e trabalhavam na casa do Senhor, para consertarem e repararem a casa.'),
 (40976,2,14,34,11,'E deram-no aos carpinteiros e aos edificadores, para comprarem pedras lavradas, e madeiras para as junturas e para servirem de vigas para as casas que os reis de Judá tinham destruído.'),
 (40977,2,14,34,12,'E estes homens trabalhavam fielmente na obra; e os superintendentes sobre eles eram: Jaate e Obadias, levitas, dos filhos de Merari, como também Zacarias e Mesulão, dos filhos dos coatitas, para adiantarem a obra; e todos os levitas que eram entendidos em instrumentos de música.'),
-(40978,2,14,34,13,'Estavam também sobre os carregadores e dirigiam todos os que trabalhavam em alguma obra; e dentre os levitas havia escrivães, oficiais e porteiros.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(40978,2,14,34,13,'Estavam também sobre os carregadores e dirigiam todos os que trabalhavam em alguma obra; e dentre os levitas havia escrivães, oficiais e porteiros.'),
 (40979,2,14,34,14,'E, tirando eles o dinheiro que se tinha trazido à casa do Senhor, Hilquias, o sacerdote, achou o livro da lei do Senhor, dada pela mão de Moisés.'),
 (40980,2,14,34,15,'E Hilquias disse a Safã, o escrivão: Achei o livro da lei na casa do Senhor. E Hilquias deu o livro a Safã.'),
 (40981,2,14,34,16,'E Safã levou o livro ao rei, e deu-lhe conta, dizendo: Teus servos fazem tudo quanto se lhes encomendou.'),
@@ -12291,8 +12063,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (41075,2,15,2,16,'Os filhos de Ater, de Ezequias, noventa e oito.'),
 (41076,2,15,2,17,'Os filhos de Bezai, trezentos e vinte e três.'),
 (41077,2,15,2,18,'Os filhos de Jora, cento e doze.'),
-(41078,2,15,2,19,'Os filhos de Hasum, duzentos e vinte e três.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(41078,2,15,2,19,'Os filhos de Hasum, duzentos e vinte e três.'),
 (41079,2,15,2,20,'Os filhos de Gibar, noventa e cinco.'),
 (41080,2,15,2,21,'Os filhos de Belém, cento e vinte e três.'),
 (41081,2,15,2,22,'Os homens de Netofá, cinqüenta e seis.'),
@@ -12342,8 +12113,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (41125,2,15,2,66,'Os seus cavalos, setecentos e trinta e seis; os seus mulos, duzentos e quarenta e cinco;'),
 (41126,2,15,2,67,'Os seus camelos, quatrocentos e trinta e cinco; os jumentos, seis mil setecentos e vinte.'),
 (41127,2,15,2,68,'E alguns dos chefes dos pais, vindo à casa do Senhor, que habita em Jerusalém, deram ofertas voluntárias para a casa de Deus, para a estabelecerem no seu lugar.'),
-(41128,2,15,2,69,'Conforme as suas posses, deram para o tesouro da obra, em ouro, sessenta e uma mil dracmas, e em prata cinco mil libras, e cem vestes sacerdotais.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(41128,2,15,2,69,'Conforme as suas posses, deram para o tesouro da obra, em ouro, sessenta e uma mil dracmas, e em prata cinco mil libras, e cem vestes sacerdotais.'),
 (41129,2,15,2,70,'E habitaram os sacerdotes e os levitas, e alguns do povo, tanto os cantores, como os porteiros, e os netinins, nas suas cidades; como também todo o Israel nas suas cidades.'),
 (41130,2,15,3,1,'Chegando, pois, o sétimo mês, e estando os filhos de Israel já nas cidades, ajuntou-se o povo, como um só homem, em Jerusalém.'),
 (41131,2,15,3,2,'E levantou-se Jesuá, filho de Jozadaque, e seus irmãos, os sacerdotes, e Zorobabel, filho de Sealtiel, e seus irmãos, e edificaram o altar do Deus de Israel, para oferecerem sobre ele holocaustos, como está escrito na lei de Moisés, o homem de Deus.'),
@@ -12393,8 +12163,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (41175,2,15,5,9,'Então perguntamos aos anciãos, e assim lhes dissemos: Quem vos deu ordem para reedificardes esta casa, e restaurardes este muro?'),
 (41176,2,15,5,10,'Além disso, lhes perguntamos também pelos seus nomes, para tos declararmos; para que te pudéssemos escrever os nomes dos homens que entre eles são os chefes.'),
 (41177,2,15,5,11,'E esta foi a resposta que nos deram: Nós somos servos do Deus dos céus e da terra, e reedificamos a casa que há muitos anos foi edificada; porque um grande rei de Israel a edificou e a terminou.'),
-(41178,2,15,5,12,'Mas depois que nossos pais provocaram à ira o Deus dos céus, ele os entregou nas mãos de Nabucodonosor, rei de babilônia, o caldeu, o qual destruiu esta casa, e transportou o povo para babilônia.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(41178,2,15,5,12,'Mas depois que nossos pais provocaram à ira o Deus dos céus, ele os entregou nas mãos de Nabucodonosor, rei de babilônia, o caldeu, o qual destruiu esta casa, e transportou o povo para babilônia.'),
 (41179,2,15,5,13,'Porém, no primeiro ano de Ciro, rei de babilônia, o rei Ciro deu ordem para que esta casa de Deus se reedificasse.'),
 (41180,2,15,5,14,'E até os utensílios de ouro e prata, da casa de Deus, que Nabucodonosor tomou do templo que estava em Jerusalém e os levou para o templo de babilônia, o rei Ciro os tirou do templo de babilônia, e foram dados a um homem cujo nome era Sesbazar, a quem nomeou governador.'),
 (41181,2,15,5,15,'E disse-lhe: Toma estes utensílios, vai e leva-os ao templo que está em Jerusalém, e faze reedificar a casa de Deus, no seu lugar.'),
@@ -12444,8 +12213,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (41225,2,15,7,20,'E tudo mais que for necessário para a casa de teu Deus, que te convenha dar, dá-lo-ás da casa dos tesouros do rei.'),
 (41226,2,15,7,21,'E por mim mesmo, o rei Artaxerxes, se decreta a todos os tesoureiros que estão dalém do rio que tudo quanto vos pedir o sacerdote Esdras, escriba da lei do Deus dos céus, prontamente se faça.'),
 (41227,2,15,7,22,'Até cem talentos de prata, e até cem coros de trigo, e até cem batos de vinho, e até cem batos de azeite; e sal à vontade.'),
-(41228,2,15,7,23,'Tudo quanto se ordenar, segundo o mandado do Deus do céu, prontamente se faça para a casa do Deus dos céus; pois, para que haveria grande ira sobre o reino do rei e de seus filhos?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(41228,2,15,7,23,'Tudo quanto se ordenar, segundo o mandado do Deus do céu, prontamente se faça para a casa do Deus dos céus; pois, para que haveria grande ira sobre o reino do rei e de seus filhos?'),
 (41229,2,15,7,24,'Também vos fazemos saber acerca de todos os sacerdotes e levitas, cantores, porteiros, servidores do templo e ministros desta casa de Deus, que não será lícito impor-lhes, nem tributo, nem contribuição, nem renda.'),
 (41230,2,15,7,25,'E tu, Esdras, conforme a sabedoria do teu Deus, que possues, nomeia magistrados e juízes, que julguem a todo o povo que está dalém do rio, a todos os que sabem as leis do teu Deus; e ao que não as sabe, lhe ensinarás.'),
 (41231,2,15,7,26,'E todo aquele que não observar a lei do teu Deus e a lei do rei, seja julgado prontamente; quer seja morte, quer desterro, quer multa sobre os seus bens, quer prisão.'),
@@ -12495,8 +12263,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (41275,2,15,9,6,'E disse: Meu Deus! Estou confuso e envergonhado, para levantar a ti a minha face, meu Deus; porque as nossas iniqüidades se multiplicaram sobre a nossa cabeça, e a nossa culpa tem crescido até aos céus.'),
 (41276,2,15,9,7,'Desde os dias de nossos pais até ao dia de hoje estamos em grande culpa, e por causa das nossas iniqüidades somos entregues, nós e nossos reis e os nossos sacerdotes, na mão dos reis das terras, à espada, ao cativeiro, e ao roubo, e à confusão do rosto, como hoje se vê.'),
 (41277,2,15,9,8,'E agora, por um pequeno momento, se manifestou a graça da parte do Senhor, nosso Deus, para nos deixar alguns que escapem, e para dar-nos uma estaca no seu santo lugar; para nos iluminar os olhos, ó Deus nosso, e para nos dar um pouco de vida na nossa servidão.'),
-(41278,2,15,9,9,'Porque somos servos; porém na nossa servidão não nos desamparou o nosso Deus; antes estendeu sobre nós a sua benignidade perante os reis da Pérsia, para que nos desse vida, para levantarmos a casa do nosso Deus, e para restaurarmos as suas assolações; e para que nos desse uma parede de proteção em Judá e em Jerusalém.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(41278,2,15,9,9,'Porque somos servos; porém na nossa servidão não nos desamparou o nosso Deus; antes estendeu sobre nós a sua benignidade perante os reis da Pérsia, para que nos desse vida, para levantarmos a casa do nosso Deus, e para restaurarmos as suas assolações; e para que nos desse uma parede de proteção em Judá e em Jerusalém.'),
 (41279,2,15,9,10,'Agora, pois, ó nosso Deus, que diremos depois disto? Pois deixamos os teus mandamentos,'),
 (41280,2,15,9,11,'Os quais mandaste pelo ministério de teus servos, os profetas, dizendo: A terra em que entrais para a possuir, terra imunda é pelas imundícias dos povos das terras, pelas suas abominações com que, na sua corrupção a encheram, de uma extremidade à outra.'),
 (41281,2,15,9,12,'Agora, pois, vossas filhas não dareis a seus filhos, e suas filhas não tomareis para vossos filhos, e nunca procurareis a sua paz e o seu bem; para que sejais fortes, e comais o bem da terra, e a deixeis por herança a vossos filhos para sempre.'),
@@ -12546,8 +12313,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (41325,2,15,10,41,'Azareel, Selemias, Semarias,'),
 (41326,2,15,10,42,'Salum, Amarias e José.'),
 (41327,2,15,10,43,'Dos filhos de Nebo: Jeiel, Matitias, Zabade, Zebina, Jadai, Joel e Benaia.'),
-(41328,2,15,10,44,'Todos estes tomaram mulheres estrangeiras; e alguns deles tinham mulheres de quem tiveram filhos.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(41328,2,15,10,44,'Todos estes tomaram mulheres estrangeiras; e alguns deles tinham mulheres de quem tiveram filhos.'),
 (41329,2,16,1,1,'As palavras de Neemias, filho de Hacalias. E sucedeu no mês de Quislev, no ano vigésimo, estando eu em Susã, a fortaleza,'),
 (41330,2,16,1,2,'Que veio Hanani, um de meus irmãos, ele e alguns de Judá; e perguntei-lhes pelos judeus que escaparam, e que restaram do cativeiro, e acerca de Jerusalém.'),
 (41331,2,16,1,3,'E disseram-me: Os restantes, que ficaram do cativeiro, lá na província estão em grande miséria e desprezo; e o muro de Jerusalém fendido e as suas portas queimadas a fogo.'),
@@ -12597,8 +12363,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (41375,2,16,3,16,'Depois dele edificou Neemias, filho de Azbuque, líder da metade de Bete-Zur, até defronte dos sepulcros de Davi, até ao tanque artificial e até à casa dos valentes.'),
 (41376,2,16,3,17,'Depois dele repararam os levitas, Reum, filho de Bani; ao seu lado reparou Hasabias, líder da metade de Queila, no seu distrito.'),
 (41377,2,16,3,18,'Depois dele repararam seus irmãos, Bavai, filho de Henadade, líder da outra meia parte de Queila.'),
-(41378,2,16,3,19,'Ao seu lado reparou Ezer, filho de Jesuá, líder de Mizpá, outra porção, defronte da subida à casa das armas, à esquina.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(41378,2,16,3,19,'Ao seu lado reparou Ezer, filho de Jesuá, líder de Mizpá, outra porção, defronte da subida à casa das armas, à esquina.'),
 (41379,2,16,3,20,'Depois dele reparou com grande ardor Baruque, filho de Zabai, outra medida, desde a esquina até à porta da casa de Eliasibe, o sumo sacerdote.'),
 (41380,2,16,3,21,'Depois dele reparou Meremote, filho de Urias, o filho de Coz, outra porção, desde a porta da casa de Eliasibe, até à extremidade da casa de Eliasibe.'),
 (41381,2,16,3,22,'E depois dele repararam os sacerdotes que habitavam na campina.'),
@@ -12648,8 +12413,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (41425,2,16,5,11,'Restituí-lhes hoje, vos peço, as suas terras, as suas vinhas, os seus olivais e as suas casas; como também a centésima parte do dinheiro, do trigo, do mosto e do azeite, que vós exigis deles.'),
 (41426,2,16,5,12,'Então disseram: Restituir-lhes-emos, e nada procuraremos deles; faremos assim como dizes. Então chamei os sacerdotes, e os fiz jurar que fariam conforme a esta palavra.'),
 (41427,2,16,5,13,'Também sacudi as minhas vestes, e disse: Assim sacuda Deus todo o homem da sua casa e do seu trabalho que não confirmar esta palavra, e assim seja sacudido e vazio. E toda a congregação disse: Amém! E louvaram ao Senhor; e o povo fez conforme a esta palavra.'),
-(41428,2,16,5,14,'Também desde o dia em que me mandou que eu fosse seu governador na terra de Judá, desde o ano vinte, até ao ano trinta e dois do rei Artaxerxes, doze anos, nem eu nem meus irmãos comemos o pão do governador.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(41428,2,16,5,14,'Também desde o dia em que me mandou que eu fosse seu governador na terra de Judá, desde o ano vinte, até ao ano trinta e dois do rei Artaxerxes, doze anos, nem eu nem meus irmãos comemos o pão do governador.'),
 (41429,2,16,5,15,'Mas os primeiros governadores, que foram antes de mim, oprimiram o povo, e tomaram-lhe pão e vinho e, além disso, quarenta siclos de prata, como também os seus servos dominavam sobre o povo; porém eu assim não fiz, por causa do temor de Deus.'),
 (41430,2,16,5,16,'Como também na obra deste muro fiz reparação, e terra nenhuma compramos; e todos os meus servos se ajuntaram ali à obra.'),
 (41431,2,16,5,17,'Também dos judeus e dos magistrados, cento e cinqüenta homens, e os que vinham a nós dentre as nações que estão ao redor de nós, se punham à minha mesa.'),
@@ -12699,8 +12463,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (41475,2,16,7,23,'Os filhos de Bezai, trezentos e vinte e quatro.'),
 (41476,2,16,7,24,'Os filhos de Harife, cento e doze.'),
 (41477,2,16,7,25,'Os filhos de Gibeom, noventa e cinco.'),
-(41478,2,16,7,26,'Os homens de Belém e de Netofa, cento e oitenta e oito.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(41478,2,16,7,26,'Os homens de Belém e de Netofa, cento e oitenta e oito.'),
 (41479,2,16,7,27,'Os homens de Anatote, cento e vinte e oito.'),
 (41480,2,16,7,28,'Os homens de Bete-Azmavete, quarenta e dois.'),
 (41481,2,16,7,29,'Os homens de Quiriate-Jearim, Quefira e Beerote, setecentos e quarenta e três.'),
@@ -12750,8 +12513,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (41525,2,16,7,73,'E habitaram os sacerdotes, os levitas, os porteiros, os cantores, alguns do povo, os servidores do templo, e todo o Israel nas suas cidades.'),
 (41526,2,16,8,1,'E chegado o sétimo mês, e estando os filhos de Israel nas suas cidades, todo o povo se ajuntou como um só homem, na praça, diante da porta das águas; e disseram a Esdras, o escriba, que trouxesse o livro da lei de Moisés, que o SENHOR tinha ordenado a Israel.'),
 (41527,2,16,8,2,'E Esdras, o sacerdote, trouxe a lei perante a congregação, tanto de homens como de mulheres, e todos os que podiam ouvir com entendimento, no primeiro dia do sétimo mês.'),
-(41528,2,16,8,3,'E leu no livro diante da praça, que está diante da porta das águas, desde a alva até ao meio-dia, perante homens e mulheres, e os que podiam entender; e os ouvidos de todo o povo estavam atentos ao livro da lei.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(41528,2,16,8,3,'E leu no livro diante da praça, que está diante da porta das águas, desde a alva até ao meio-dia, perante homens e mulheres, e os que podiam entender; e os ouvidos de todo o povo estavam atentos ao livro da lei.'),
 (41529,2,16,8,4,'E Esdras, o escriba, estava sobre um púlpito de madeira, que fizeram para aquele fim; e estava em pé junto a ele, à sua mão direita, Matitias, Sema, Anaías, Urias, Hilquias e Maaséias; e à sua mão esquerda, Pedaías, Misael, Melquias, Hasum, Hasbadana, Zacarias e Mesulão.'),
 (41530,2,16,8,5,'E Esdras abriu o livro perante à vista de todo o povo; porque estava acima de todo o povo; e, abrindo-o ele, todo o povo se pôs em pé.'),
 (41531,2,16,8,6,'E Esdras louvou ao Senhor, o grande Deus; e todo o povo respondeu: Amém, Amém! levantando as suas mãos; e inclinaram suas cabeças, e adoraram ao Senhor, com os rostos em terra.'),
@@ -12801,8 +12563,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (41575,2,16,9,32,'Agora, pois, nosso Deus, o grande, poderoso e terrível Deus, que guardas a aliança e a beneficência, não tenhas em pouca conta toda a aflição que nos alcançou a nós, aos nossos reis, aos nossos príncipes, aos nossos sacerdotes, aos nossos profetas, aos nossos pais e a todo o teu povo, desde os dias dos reis da Assíria até ao dia de hoje.'),
 (41576,2,16,9,33,'Porém tu és justo em tudo quanto tem vindo sobre nós; porque tu tens agido fielmente, e nós temos agido impiamente.'),
 (41577,2,16,9,34,'E os nossos reis, os nossos príncipes, os nossos sacerdotes, e os nossos pais não guardaram a tua lei, e não deram ouvidos aos teus mandamentos e aos teus testemunhos, que testificaste contra eles.'),
-(41578,2,16,9,35,'Porque eles nem no seu reino, nem na muita abundância de bens que lhes deste, nem na terra espaçosa e fértil que puseste diante deles, te serviram, nem se converteram de suas más obras.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(41578,2,16,9,35,'Porque eles nem no seu reino, nem na muita abundância de bens que lhes deste, nem na terra espaçosa e fértil que puseste diante deles, te serviram, nem se converteram de suas más obras.'),
 (41579,2,16,9,36,'Eis que hoje somos servos; e até na terra que deste a nossos pais, para comerem o seu fruto e o seu bem, eis que somos servos nela.'),
 (41580,2,16,9,37,'E ela multiplica os seus produtos para os reis, que puseste sobre nós, por causa dos nossos pecados; e conforme a sua vontade dominam sobre os nossos corpos e sobre o nosso gado; e estamos numa grande angústia.'),
 (41581,2,16,9,38,'E, todavia fizemos uma firme aliança, e o escrevemos; e selaram-no os nossos príncipes, os nossos levitas e os nossos sacerdotes.'),
@@ -12852,8 +12613,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (41625,2,16,11,5,'E Maaséias, filho de Baruque, filho de Col-Hoze, filho de Hazaías, filho de Adaías, filho de Joiaribe, filho de Zacarias, filho de Siloni.'),
 (41626,2,16,11,6,'Todos os filhos de Perez, que habitaram em Jerusalém, foram quatrocentos e sessenta e oito homens valentes.'),
 (41627,2,16,11,7,'E estes são os filhos de Benjamim: Salu, filho de Mesulão, filho de Joede, filho de Pedaías, filho de Colaías, filho de Maaséias, filho de Itiel, filho de Jesaías.'),
-(41628,2,16,11,8,'E depois dele Gabai e Salai, ao todo novecentos e vinte e oito.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(41628,2,16,11,8,'E depois dele Gabai e Salai, ao todo novecentos e vinte e oito.'),
 (41629,2,16,11,9,'E Joel, filho de Zicri, superintendente sobre eles; e Judá, filho de Senua, o segundo sobre a cidade.'),
 (41630,2,16,11,10,'Dos sacerdotes: Jedaías, filho de Joiaribe, Jaquim,'),
 (41631,2,16,11,11,'Seraías, filho de Hilquias, filho de Mesulão, filho de Zadoque, filho de Meraiote, filho de Aitube, líder da casa de Deus,'),
@@ -12903,8 +12663,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (41675,2,16,12,19,'E de Joiaribe, Matenai; de Jedaías, Uzi;'),
 (41676,2,16,12,20,'De Salai, Calai; de Amoque, Éber;'),
 (41677,2,16,12,21,'De Hilquias, Hasabias; de Jedaías, Natanael.'),
-(41678,2,16,12,22,'Dos levitas, nos dias de Eliasibe, foram inscritos como chefes de pais, Joiada, Joanã e Jadua; como também os sacerdotes, até ao reinado de Dario, o persa.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(41678,2,16,12,22,'Dos levitas, nos dias de Eliasibe, foram inscritos como chefes de pais, Joiada, Joanã e Jadua; como também os sacerdotes, até ao reinado de Dario, o persa.'),
 (41679,2,16,12,23,'Os filhos de Levi foram inscritos, como chefes de pais, no livro das crônicas, até aos dias de Joanã, filho de Eliasibe.'),
 (41680,2,16,12,24,'Foram, pois, os chefes dos levitas: Hasabias, Serabias, e Jesuá, filho de Cadmiel; e seus irmãos estavam defronte deles, para louvarem e darem graças, segundo o mandado de Davi, homem de Deus; guarda contra guarda.'),
 (41681,2,16,12,25,'Matanias, Bacbuquias, Obadias, Mesulão, Talmom e Acube, eram porteiros, que faziam a guarda às tesourarias das portas.'),
@@ -12954,8 +12713,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (41725,2,16,13,22,'Também disse aos levitas que se purificassem, e viessem guardar as portas, para santificar o sábado. Nisto também, Deus meu, lembra-te de mim e perdoa-me segundo a abundância da tua benignidade.'),
 (41726,2,16,13,23,'Vi também naqueles dias judeus que tinham casado com mulheres asdoditas, amonitas e moabitas.'),
 (41727,2,16,13,24,'E seus filhos falavam meio asdodita, e não podiam falar judaico, senão segundo a língua de cada povo.'),
-(41728,2,16,13,25,'E contendi com eles, e os amaldiçoei e espanquei alguns deles, e lhes arranquei os cabelos, e os fiz jurar por Deus, dizendo: Não dareis mais vossas filhas a seus filhos, e não tomareis mais suas filhas, nem para vossos filhos nem para vós mesmos.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(41728,2,16,13,25,'E contendi com eles, e os amaldiçoei e espanquei alguns deles, e lhes arranquei os cabelos, e os fiz jurar por Deus, dizendo: Não dareis mais vossas filhas a seus filhos, e não tomareis mais suas filhas, nem para vossos filhos nem para vós mesmos.'),
 (41729,2,16,13,26,'Porventura não pecou nisto Salomão, rei de Israel, não havendo entre muitas nações rei semelhante a ele, e sendo ele amado de seu Deus, e pondo-o Deus rei sobre todo o Israel? E contudo as mulheres estrangeiras o fizeram pecar.'),
 (41730,2,16,13,27,'E dar-vos-íamos nós ouvidos, para fazermos todo este grande mal, prevaricando contra o nosso Deus, casando com mulheres estrangeiras?'),
 (41731,2,16,13,28,'Também um dos filhos de Joiada, filho de Eliasibe, o sumo sacerdote, era genro de Sambalate, o horonita, por isso o afugentei de mim.'),
@@ -13005,8 +12763,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (41775,2,17,2,19,'E reunindo-se segunda vez as virgens, Mardoqueu estava assentado à porta do rei.'),
 (41776,2,17,2,20,'Ester, porém, não declarava a sua parentela e o seu povo, como Mardoqueu lhe ordenara; porque Ester cumpria o mandado de Mardoqueu, como quando a criara.'),
 (41777,2,17,2,21,'Naqueles dias, assentando-se Mardoqueu à porta do rei, dois camareiros do rei, dos guardas da porta, Bigtã e Teres, grandemente se indignaram, e procuraram atentar contra o rei Assuero.'),
-(41778,2,17,2,22,'E veio isto ao conhecimento de Mardoqueu, e ele o fez saber à rainha Ester; e Ester o disse ao rei, em nome de Mardoqueu.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(41778,2,17,2,22,'E veio isto ao conhecimento de Mardoqueu, e ele o fez saber à rainha Ester; e Ester o disse ao rei, em nome de Mardoqueu.'),
 (41779,2,17,2,23,'E inquiriu-se o negócio, e se descobriu, e ambos foram pendurados numa forca; e foi escrito nas crônicas perante o rei.'),
 (41780,2,17,3,1,'Depois destas coisas o rei Assuero engrandeceu a Hamã, filho de Hamedata, agagita, e o exaltou, e pôs o seu assento acima de todos os príncipes que estavam com ele.'),
 (41781,2,17,3,2,'E todos os servos do rei, que estavam à porta do rei, se inclinavam e se prostravam perante Hamã; porque assim tinha ordenado o rei acerca dele; porém Mardoqueu não se inclinava nem se prostrava.'),
@@ -13056,8 +12813,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (41825,2,17,5,14,'Então lhe disseram Zeres, sua mulher, e todos os seus amigos: Faça-se uma forca de cinqüenta côvados de altura, e amanhã dize ao rei que nela seja enforcado Mardoqueu; e então entra alegre com o rei ao banquete. E este conselho bem pareceu a Hamã, que mandou fazer a forca.'),
 (41826,2,17,6,1,'Naquela mesma noite fugiu o sono do rei; então mandou trazer o livro de registro das crônicas, as quais se leram diante do rei.'),
 (41827,2,17,6,2,'E achou-se escrito que Mardoqueu tinha denunciado Bigtã e Teres, dois dos camareiros do rei, da guarda da porta, que tinham procurado lançar mão do rei Assuero.'),
-(41828,2,17,6,3,'Então disse o rei: Que honra e distinção se deu por isso a Mardoqueu? E os servos do rei, que ministravam junto a ele, disseram: Coisa nenhuma se lhe fez.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(41828,2,17,6,3,'Então disse o rei: Que honra e distinção se deu por isso a Mardoqueu? E os servos do rei, que ministravam junto a ele, disseram: Coisa nenhuma se lhe fez.'),
 (41829,2,17,6,4,'Então disse o rei: Quem está no pátio? E Hamã tinha entrado no pátio exterior da casa do rei, para dizer ao rei que enforcassem a Mardoqueu na forca que lhe tinha preparado.'),
 (41830,2,17,6,5,'E os servos do rei lhe disseram: Eis que Hamã está no pátio. E disse o rei que entrasse.'),
 (41831,2,17,6,6,'E, entrando Hamã, o rei lhe disse: Que se fará ao homem de cuja honra o rei se agrada? Então Hamã disse no seu coração: De quem se agradaria o rei para lhe fazer honra mais do que a mim?'),
@@ -13107,8 +12863,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (41875,2,17,9,9,'E a Farmasta, e a Arisai, e a Aridai, e a Vaisata; ú'),
 (41876,2,17,9,10,'Os dez filhos de Hamã, filho de Hamedata, o inimigo dos judeus, mataram, porém ao despojo não estenderam a sua mão.'),
 (41877,2,17,9,11,'No mesmo dia foi comunicado ao rei o número dos mortos na fortaleza de Susã.'),
-(41878,2,17,9,12,'E disse o rei à rainha Ester: Na fortaleza de Susã os judeus mataram e destruíram quinhentos homens, e os dez filhos de Hamã; nas mais províncias do rei que teriam feito? Qual é, pois, a tua petição? E dar-se-te-á. Ou qual é ainda o teu requerimento? E far-se-á.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(41878,2,17,9,12,'E disse o rei à rainha Ester: Na fortaleza de Susã os judeus mataram e destruíram quinhentos homens, e os dez filhos de Hamã; nas mais províncias do rei que teriam feito? Qual é, pois, a tua petição? E dar-se-te-á. Ou qual é ainda o teu requerimento? E far-se-á.'),
 (41879,2,17,9,13,'Então disse Ester: Se bem parecer ao rei, conceda-se aos judeus que se acham em Susã que também façam amanhã conforme ao mandado de hoje; e pendurem numa forca os dez filhos de Hamã.'),
 (41880,2,17,9,14,'Então disse o rei que assim se fizesse; e publicou-se um edito em Susã, e enforcaram os dez filhos de Hamã.'),
 (41881,2,17,9,15,'E reuniram-se os judeus que se achavam em Susã também no dia catorze do mês de Adar, e mataram em Susã trezentos homens; porém ao despojo não estenderam a sua mão.'),
@@ -13158,8 +12913,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (41925,2,19,3,6,'Não temerei dez milhares de pessoas que se puseram contra mim e me cercam.'),
 (41926,2,19,3,7,'Levanta-te, Senhor; salva-me, Deus meu; pois feriste a todos os meus inimigos nos queixos; quebraste os dentes aos ímpios.'),
 (41927,2,19,3,8,'A salvação vem do Senhor; sobre o teu povo seja a tua bênção. (Selá.)'),
-(41928,2,19,4,1,'Ouve-me quando eu clamo, ó Deus da minha justiça, na angústia me deste largueza; tem misericórdia de mim e ouve a minha oração.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(41928,2,19,4,1,'Ouve-me quando eu clamo, ó Deus da minha justiça, na angústia me deste largueza; tem misericórdia de mim e ouve a minha oração.'),
 (41929,2,19,4,2,'Filhos dos homens, até quando convertereis a minha glória em infâmia? Até quando amareis a vaidade e buscareis a mentira? (Selá.)'),
 (41930,2,19,4,3,'Sabei, pois, que o Senhor separou para si aquele que é piedoso; o Senhor ouvirá quando eu clamar a ele.'),
 (41931,2,19,4,4,'Perturbai-vos e não pequeis; falai com o vosso coração sobre a vossa cama, e calai-vos. (Selá.)'),
@@ -13209,8 +12963,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (41975,2,19,8,1,'Ó Senhor, Senhor nosso, quão admirável é o teu nome em toda a terra, pois puseste a tua glória sobre os céus!'),
 (41976,2,19,8,2,'Tu ordenaste força da boca das crianças e dos que mamam, por causa dos teus inimigos, para fazer calar ao inimigo e ao vingador.'),
 (41977,2,19,8,3,'Quando vejo os teus céus, obra dos teus dedos, a lua e as estrelas que preparaste;'),
-(41978,2,19,8,4,'Que é o homem mortal para que te lembres dele? e o filho do homem, para que o visites?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(41978,2,19,8,4,'Que é o homem mortal para que te lembres dele? e o filho do homem, para que o visites?'),
 (41979,2,19,8,5,'Pois pouco menor o fizeste do que os anjos, e de glória e de honra o coroaste.'),
 (41980,2,19,8,6,'Fazes com que ele tenha domínio sobre as obras das tuas mãos; tudo puseste debaixo de seus pés:'),
 (41981,2,19,8,7,'Todas as ovelhas e bois, assim como os animais do campo,'),
@@ -13311,8 +13064,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (42075,2,19,17,10,'Na sua gordura se encerram, com a boca falam soberbamente.'),
 (42076,2,19,17,11,'Têm-nos cercado agora nossos passos; e baixaram os seus olhos para a terra;'),
 (42077,2,19,17,12,'Parecem-se com o leão que deseja arrebatar a sua presa, e com o leãozinho que se põe em esconderijos.'),
-(42078,2,19,17,13,'Levanta-te, Senhor, detém-no, derriba-o, livra a minha alma do ímpio, com a tua espada;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(42078,2,19,17,13,'Levanta-te, Senhor, detém-no, derriba-o, livra a minha alma do ímpio, com a tua espada;'),
 (42079,2,19,17,14,'Dos homens com a tua mão, Senhor, dos homens do mundo, cuja porção está nesta vida, e cujo ventre enches do teu tesouro oculto. Estão fartos de filhos e dão os seus sobejos às suas crianças.'),
 (42080,2,19,17,15,'Quanto a mim, contemplarei a tua face na justiça; eu me satisfarei da tua semelhança quando acordar.'),
 (42081,2,19,18,1,'Eu te amarei, ó SENHOR, fortaleza minha.'),
@@ -13362,8 +13114,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (42125,2,19,18,45,'Os estranhos descairão, e terão medo nos seus esconderijos.'),
 (42126,2,19,18,46,'O Senhor vive; e bendito seja o meu rochedo, e exaltado seja o Deus da minha salvação.'),
 (42127,2,19,18,47,'É Deus que me vinga inteiramente, e sujeita os povos debaixo de mim;'),
-(42128,2,19,18,48,'O que me livra de meus inimigos; sim, tu me exaltas sobre os que se levantam contra mim, tu me livras do homem violento.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(42128,2,19,18,48,'O que me livra de meus inimigos; sim, tu me exaltas sobre os que se levantam contra mim, tu me livras do homem violento.'),
 (42129,2,19,18,49,'Assim que, ó Senhor, te louvarei entre os gentios, e cantarei louvores ao teu nome,'),
 (42130,2,19,18,50,'Pois engrandece a salvação do seu rei, e usa de benignidade com o seu ungido, com Davi, e com a sua semente para sempre.'),
 (42131,2,19,19,1,'Os céus declaram a glória de Deus e o firmamento anuncia a obra das suas mãos.'),
@@ -13413,8 +13164,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (42175,2,19,22,9,'Mas tu és o que me tiraste do ventre; fizeste-me confiar, estando aos seios de minha mãe.'),
 (42176,2,19,22,10,'Sobre ti fui lançado desde a madre; tu és o meu Deus desde o ventre de minha mãe.'),
 (42177,2,19,22,11,'Não te alongues de mim, pois a angústia está perto, e não há quem ajude.'),
-(42178,2,19,22,12,'Muitos touros me cercaram; fortes touros de Basã me rodearam.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(42178,2,19,22,12,'Muitos touros me cercaram; fortes touros de Basã me rodearam.'),
 (42179,2,19,22,13,'Abriram contra mim suas bocas, como um leão que despedaça e que ruge.'),
 (42180,2,19,22,14,'Como água me derramei, e todos os meus ossos se desconjuntaram; o meu coração é como cera, derreteu-se no meio das minhas entranhas.'),
 (42181,2,19,22,15,'A minha força se secou como um caco, e a língua se me pega ao paladar; e me puseste no pó da morte.'),
@@ -13464,8 +13214,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (42225,2,19,25,12,'Qual é o homem que teme ao Senhor? Ele o ensinará no caminho que deve escolher.'),
 (42226,2,19,25,13,'A sua alma pousará no bem, e a sua semente herdará a terra.'),
 (42227,2,19,25,14,'O segredo do Senhor é com aqueles que o temem; e ele lhes mostrará a sua aliança.'),
-(42228,2,19,25,15,'Os meus olhos estão continuamente no Senhor, pois ele tirará os meus pés da rede.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(42228,2,19,25,15,'Os meus olhos estão continuamente no Senhor, pois ele tirará os meus pés da rede.'),
 (42229,2,19,25,16,'Olha para mim, e tem piedade de mim, porque estou solitário e aflito.'),
 (42230,2,19,25,17,'As ânsias do meu coração se têm multiplicado; tira-me dos meus apertos.'),
 (42231,2,19,25,18,'Olha para a minha aflição e para a minha dor, e perdoa todos os meus pecados.'),
@@ -13515,8 +13264,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (42275,2,19,29,5,'A voz do Senhor quebra os cedros; sim, o Senhor quebra os cedros do Líbano.'),
 (42276,2,19,29,6,'Ele os faz saltar como um bezerro; ao Líbano e Siriom, como filhotes de bois selvagens.'),
 (42277,2,19,29,7,'A voz do Senhor separa as labaredas do fogo.'),
-(42278,2,19,29,8,'A voz do Senhor faz tremer o deserto; o Senhor faz tremer o deserto de Cades.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(42278,2,19,29,8,'A voz do Senhor faz tremer o deserto; o Senhor faz tremer o deserto de Cades.'),
 (42279,2,19,29,9,'A voz do Senhor faz parir as cervas, e descobre as brenhas; e no seu templo cada um fala da sua glória.'),
 (42280,2,19,29,10,'O Senhor se assentou sobre o dilúvio; o Senhor se assenta como Rei, perpetuamente.'),
 (42281,2,19,29,11,'O Senhor dará força ao seu povo; o Senhor abençoará o seu povo com paz.'),
@@ -13566,8 +13314,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (42325,2,19,32,8,'Instruir-te-ei, e ensinar-te-ei o caminho que deves seguir; guiar-te-ei com os meus olhos.'),
 (42326,2,19,32,9,'Não sejais como o cavalo, nem como a mula, que não têm entendimento, cuja boca precisa de cabresto e freio para que não se cheguem a ti.'),
 (42327,2,19,32,10,'O ímpio tem muitas dores, mas àquele que confia no Senhor a misericórdia o cercará.'),
-(42328,2,19,32,11,'Alegrai-vos no Senhor, e regozijai-vos, vós os justos; e cantai alegremente, todos vós que sois retos de coração.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(42328,2,19,32,11,'Alegrai-vos no Senhor, e regozijai-vos, vós os justos; e cantai alegremente, todos vós que sois retos de coração.'),
 (42329,2,19,33,1,'Regozijai-vos no SENHOR, vós justos, pois aos retos convém o louvor.'),
 (42330,2,19,33,2,'Louvai ao Senhor com harpa, cantai a ele com o saltério e um instrumento de dez cordas.'),
 (42331,2,19,33,3,'Cantai-lhe um cântico novo; tocai bem e com júbilo.'),
@@ -13617,8 +13364,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (42375,2,19,35,3,'Tira da lança e obstrui o caminho aos que me perseguem; dize à minha alma: Eu sou a tua salvação.'),
 (42376,2,19,35,4,'Sejam confundidos e envergonhados os que buscam a minha vida; voltem atrás e envergonhem-se os que contra mim tentam mal.'),
 (42377,2,19,35,5,'Sejam como a moinha perante o vento; o anjo do Senhor os faça fugir.'),
-(42378,2,19,35,6,'Seja o seu caminho tenebroso e escorregadio, e o anjo do Senhor os persiga.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(42378,2,19,35,6,'Seja o seu caminho tenebroso e escorregadio, e o anjo do Senhor os persiga.'),
 (42379,2,19,35,7,'Porque sem causa encobriram de mim a rede na cova, a qual sem razão cavaram para a minha alma.'),
 (42380,2,19,35,8,'Sobrevenha-lhe destruição sem o saber, e prenda-o a rede que ocultou; caia ele nessa mesma destruição.'),
 (42381,2,19,35,9,'E a minha alma se alegrará no Senhor; alegrar-se-á na sua salvação.'),
@@ -13668,8 +13414,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (42425,2,19,37,13,'O Senhor se rirá dele, pois vê que vem chegando o seu dia.'),
 (42426,2,19,37,14,'Os ímpios puxaram da espada e armaram o arco, para derrubarem o pobre e necessitado, e para matarem os de reta conduta.'),
 (42427,2,19,37,15,'Porém a sua espada lhes entrará no coração, e os seus arcos se quebrarão.'),
-(42428,2,19,37,16,'Vale mais o pouco que tem o justo, do que as riquezas de muitos ímpios.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(42428,2,19,37,16,'Vale mais o pouco que tem o justo, do que as riquezas de muitos ímpios.'),
 (42429,2,19,37,17,'Pois os braços dos ímpios se quebrarão, mas o Senhor sustém os justos.'),
 (42430,2,19,37,18,'O Senhor conhece os dias dos retos, e a sua herança permanecerá para sempre.'),
 (42431,2,19,37,19,'Não serão envergonhados nos dias maus, e nos dias de fome se fartarão.'),
@@ -13719,8 +13464,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (42475,2,19,39,1,'Eu disse: Guardarei os meus caminhos para não pecar com a minha língua; guardarei a boca com um freio, enquanto o ímpio estiver diante de mim.'),
 (42476,2,19,39,2,'Com o silêncio fiquei mudo; calava-me mesmo acerca do bem, e a minha dor se agravou.'),
 (42477,2,19,39,3,'Esquentou-se-me o coração dentro de mim; enquanto eu meditava se acendeu um fogo; então falei com a minha língua:'),
-(42478,2,19,39,4,'Faze-me conhecer, Senhor, o meu fim, e a medida dos meus dias qual é, para que eu sinta quanto sou frágil.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(42478,2,19,39,4,'Faze-me conhecer, Senhor, o meu fim, e a medida dos meus dias qual é, para que eu sinta quanto sou frágil.'),
 (42479,2,19,39,5,'Eis que fizeste os meus dias como a palmos; o tempo da minha vida é como nada diante de ti; na verdade, todo homem, por mais firme que esteja, é totalmente vaidade. (Selá.)'),
 (42480,2,19,39,6,'Na verdade, todo homem anda numa và aparência; na verdade, em vão se inquietam; amontoam riquezas, e não sabem quem as levará.'),
 (42481,2,19,39,7,'Agora, pois, Senhor, que espero eu? A minha esperança está em ti.'),
@@ -13770,8 +13514,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (42525,2,19,42,8,'Contudo o Senhor mandará a sua misericórdia de dia, e de noite a sua canção estará comigo, uma oração ao Deus da minha vida.'),
 (42526,2,19,42,9,'Direi a Deus, minha rocha: Por que te esqueceste de mim? Por que ando lamentando por causa da opressão do inimigo?'),
 (42527,2,19,42,10,'Com ferida mortal em meus ossos me afrontam os meus adversários, quando todo dia me dizem: Onde está o teu Deus?'),
-(42528,2,19,42,11,'Por que estás abatida, ó minha alma, e por que te perturbas dentro de mim? Espera em Deus, pois ainda o louvarei, o qual é a salvação da minha face, e o meu Deus.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(42528,2,19,42,11,'Por que estás abatida, ó minha alma, e por que te perturbas dentro de mim? Espera em Deus, pois ainda o louvarei, o qual é a salvação da minha face, e o meu Deus.'),
 (42529,2,19,43,1,'Faze-me justiça, ó Deus, e pleiteia a minha causa contra a nação ímpia. Livra-me do homem fraudulento e injusto.'),
 (42530,2,19,43,2,'Pois tu és o Deus da minha fortaleza; por que me rejeitas? Por que ando lamentando por causa da opressão do inimigo?'),
 (42531,2,19,43,3,'Envia a tua luz e a tua verdade, para que me guiem e me levem ao teu santo monte, e aos teus tabernáculos.'),
@@ -13821,8 +13564,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (42575,2,19,45,16,'Em lugar de teus pais estarão teus filhos; deles farás príncipes sobre toda a terra.'),
 (42576,2,19,45,17,'Farei lembrado o teu nome de geração em geração; por isso os povos te louvarão eternamente.'),
 (42577,2,19,46,1,'Deus é o nosso refúgio e fortaleza, socorro bem presente na angústia.'),
-(42578,2,19,46,2,'Portanto não temeremos, ainda que a terra se mude, e ainda que os montes se transportem para o meio dos mares.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(42578,2,19,46,2,'Portanto não temeremos, ainda que a terra se mude, e ainda que os montes se transportem para o meio dos mares.'),
 (42579,2,19,46,3,'Ainda que as águas rujam e se perturbem, ainda que os montes se abalem pela sua braveza. (Selá.)'),
 (42580,2,19,46,4,'Há um rio cujas correntes alegram a cidade de Deus, o santuário das moradas do Altíssimo.'),
 (42581,2,19,46,5,'Deus está no meio dela; não se abalará. Deus a ajudará, já ao romper da manhã.'),
@@ -13872,8 +13614,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (42625,2,19,49,15,'Mas Deus remirá a minha alma do poder da sepultura, pois me receberá. (Selá.)'),
 (42626,2,19,49,16,'Não temas, quando alguém se enriquece, quando a glória da sua casa se engrandece.'),
 (42627,2,19,49,17,'Porque, quando morrer, nada levará consigo, nem a sua glória o acompanhará.'),
-(42628,2,19,49,18,'Ainda que na sua vida ele bendisse a sua alma; e os homens te louvarão, quando fizeres bem a ti mesmo,');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(42628,2,19,49,18,'Ainda que na sua vida ele bendisse a sua alma; e os homens te louvarão, quando fizeres bem a ti mesmo,'),
 (42629,2,19,49,19,'Irá para a geração de seus pais; eles nunca verão a luz.'),
 (42630,2,19,49,20,'O homem que está em honra, e não tem entendimento, é semelhante aos animais, que perecem.'),
 (42631,2,19,50,1,'O Deus poderoso, o SENHOR, falou e chamou a terra desde o nascimento do sol até ao seu ocaso.'),
@@ -13923,8 +13664,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (42675,2,19,52,3,'Tu amas mais o mal do que o bem, e a mentira mais do que o falar a retidão. (Selá.)'),
 (42676,2,19,52,4,'Amas todas as palavras devoradoras, ó língua fraudulenta.'),
 (42677,2,19,52,5,'Também Deus te destruirá para sempre; arrebatar-te-á e arrancar-te-á da tua habitação, e desarraigar-te-á da terra dos viventes. (Selá.)'),
-(42678,2,19,52,6,'E os justos o verão, e temerão: e se rirão dele, dizendo:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(42678,2,19,52,6,'E os justos o verão, e temerão: e se rirão dele, dizendo:'),
 (42679,2,19,52,7,'Eis aqui o homem que não pôs em Deus a sua fortaleza, antes confiou na abundância das suas riquezas, e se fortaleceu na sua maldade.'),
 (42680,2,19,52,8,'Mas eu sou como a oliveira verde na casa de Deus; confio na misericórdia de Deus para sempre, eternamente.'),
 (42681,2,19,52,9,'Para sempre te louvarei, porque tu o fizeste, e esperarei no teu nome, porque é bom diante de teus santos.'),
@@ -13974,8 +13714,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (42725,2,19,56,8,'Tu contas as minhas vagueações; põe as minhas lágrimas no teu odre. Não estão elas no teu livro?'),
 (42726,2,19,56,9,'Quando eu a ti clamar, então voltarão para trás os meus inimigos: isto sei eu, porque Deus é por mim.'),
 (42727,2,19,56,10,'Em Deus louvarei a sua palavra; no Senhor louvarei a sua palavra.'),
-(42728,2,19,56,11,'Em Deus tenho posto a minha confiança; não temerei o que me possa fazer o homem.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(42728,2,19,56,11,'Em Deus tenho posto a minha confiança; não temerei o que me possa fazer o homem.'),
 (42729,2,19,56,12,'Os teus votos estão sobre mim, ó Deus; eu te renderei ações de graças;'),
 (42730,2,19,56,13,'Pois tu livraste a minha alma da morte; não livrarás os meus pés da queda, para andar diante de Deus na luz dos viventes?'),
 (42731,2,19,57,1,'Tem misericórdia de mim, ó Deus, tem misericórdia de mim, porque a minha alma confia em ti; e à sombra das tuas asas me abrigo, até que passem as calamidades.'),
@@ -14025,8 +13764,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (42775,2,19,60,6,'Deus falou na sua santidade; eu me regozijarei, repartirei a Siquém e medirei o vale de Sucote.'),
 (42776,2,19,60,7,'Meu é Gileade, e meu é Manassés; Efraim é a força da minha cabeça; Judá é o meu legislador.'),
 (42777,2,19,60,8,'Moabe é a minha bacia de lavar; sobre Edom lançarei o meu sapato; alegra-te, ó Filístia, por minha causa.'),
-(42778,2,19,60,9,'Quem me conduzirá à cidade forte? Quem me guiará até Edom?.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(42778,2,19,60,9,'Quem me conduzirá à cidade forte? Quem me guiará até Edom?.'),
 (42779,2,19,60,10,'Não serás tu, ó Deus, que nos tinhas rejeitado? tu, ó Deus, que não saíste com os nossos exércitos?'),
 (42780,2,19,60,11,'Dá-nos auxílio na angústia, porque vão é o socorro do homem.'),
 (42781,2,19,60,12,'Em Deus faremos proezas; porque ele é que pisará os nossos inimigos.'),
@@ -14076,8 +13814,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (42825,2,19,65,2,'Ó tu que ouves as orações, a ti virá toda a carne.'),
 (42826,2,19,65,3,'Prevalecem as iniqüidades contra mim; porém tu limpas as nossas transgressões.'),
 (42827,2,19,65,4,'Bem-aventurado aquele a quem tu escolhes, e fazes chegar a ti, para que habite em teus átrios; nós seremos fartos da bondade da tua casa e do teu santo templo.'),
-(42828,2,19,65,5,'Com coisas tremendas em justiça nos responderás, ó Deus da nossa salvação; tu és a esperança de todas as extremidades da terra, e daqueles que estão longe sobre o mar.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(42828,2,19,65,5,'Com coisas tremendas em justiça nos responderás, ó Deus da nossa salvação; tu és a esperança de todas as extremidades da terra, e daqueles que estão longe sobre o mar.'),
 (42829,2,19,65,6,'O que pela sua força consolida os montes, cingido de fortaleza;'),
 (42830,2,19,65,7,'O que aplaca o ruído dos mares, o ruído das suas ondas, e o tumulto dos povos.'),
 (42831,2,19,65,8,'E os que habitam nos fins da terra temem os teus sinais; tu fazes alegres as saídas da manhã e da tarde.'),
@@ -14127,8 +13864,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (42875,2,19,68,12,'Reis de exércitos fugiram à pressa; e aquela que ficava em casa repartia os despojos.'),
 (42876,2,19,68,13,'Ainda que vos tenhais deitado entre redis, contudo sereis como as asas duma pomba, cobertas de prata, e as suas penas, de ouro amarelo.'),
 (42877,2,19,68,14,'Quando o Onipotente ali espalhou os reis, foi como a neve em Salmon.'),
-(42878,2,19,68,15,'O monte de Deus é como o monte de Basã, um monte elevado como o monte de Basã.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(42878,2,19,68,15,'O monte de Deus é como o monte de Basã, um monte elevado como o monte de Basã.'),
 (42879,2,19,68,16,'Por que saltais, ó montes elevados? Este é o monte que Deus desejou para a sua habitação, e o Senhor habitará nele eternamente.'),
 (42880,2,19,68,17,'Os carros de Deus são vinte milhares, milhares de milhares. O Senhor está entre eles, como em Sinai, no lugar santo.'),
 (42881,2,19,68,18,'Tu subiste ao alto, levaste cativo o cativeiro, recebeste dons para os homens, e até para os rebeldes, para que o Senhor Deus habitasse entre eles.'),
@@ -14178,8 +13914,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (42925,2,19,69,27,'Acrescenta iniqüidade à iniqüidade deles, e não entrem na tua justiça.'),
 (42926,2,19,69,28,'Sejam riscados do livro dos vivos, e não sejam inscritos com os justos.'),
 (42927,2,19,69,29,'Eu, porém, sou pobre e estou triste; ponha-me a tua salvação, ó Deus, num alto retiro.'),
-(42928,2,19,69,30,'Louvarei o nome de Deus com um cântico, e engrandecê-lo-ei com ação de graças.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(42928,2,19,69,30,'Louvarei o nome de Deus com um cântico, e engrandecê-lo-ei com ação de graças.'),
 (42929,2,19,69,31,'Isto será mais agradável ao Senhor do que boi, ou bezerro que tem chifres e unhas.'),
 (42930,2,19,69,32,'Os mansos verão isto, e se agradarão; o vosso coração viverá, pois que buscais a Deus.'),
 (42931,2,19,69,33,'Porque o Senhor ouve os necessitados, e não despreza os seus cativos.'),
@@ -14229,8 +13964,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (42975,2,19,72,12,'Porque ele livrará ao necessitado quando clamar, como também ao aflito e ao que não tem quem o ajude.'),
 (42976,2,19,72,13,'Compadecer-se-á do pobre e do aflito, e salvará as almas dos necessitados.'),
 (42977,2,19,72,14,'Libertará as suas almas do engano e da violência, e precioso será o seu sangue aos olhos dele.'),
-(42978,2,19,72,15,'E viverá, e se lhe dará do ouro de Sabá; e continuamente se fará por ele oração; e todos os dias o bendirão.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(42978,2,19,72,15,'E viverá, e se lhe dará do ouro de Sabá; e continuamente se fará por ele oração; e todos os dias o bendirão.'),
 (42979,2,19,72,16,'Haverá um punhado de trigo na terra sobre as cabeças dos montes; o seu fruto se moverá como o Líbano, e os da cidade florescerão como a erva da terra.'),
 (42980,2,19,72,17,'O seu nome permanecerá eternamente; o seu nome se irá propagando de pais a filhos enquanto o sol durar, e os homens serão abençoados nele; todas as nações lhe chamarão bem-aventurado.'),
 (42981,2,19,72,18,'Bendito seja o Senhor Deus, o Deus de Israel, que só ele faz maravilhas.'),
@@ -14331,8 +14065,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (43075,2,19,77,19,'O teu caminho é no mar, e as tuas veredas nas águas grandes, e os teus passos não são conhecidos.'),
 (43076,2,19,77,20,'Guiaste o teu povo, como a um rebanho, pela mão de Moisés e de Arão.'),
 (43077,2,19,78,1,'Escutai a minha lei, povo meu; inclinai os vossos ouvidos às palavras da minha boca.'),
-(43078,2,19,78,2,'Abrirei a minha boca numa parábola; falarei enigmas da antiguidade.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(43078,2,19,78,2,'Abrirei a minha boca numa parábola; falarei enigmas da antiguidade.'),
 (43079,2,19,78,3,'Os quais temos ouvido e sabido, e nossos pais no-los têm contado.'),
 (43080,2,19,78,4,'Não os encobriremos aos seus filhos, mostrando à geração futura os louvores do Senhor, assim como a sua força e as maravilhas que fez.'),
 (43081,2,19,78,5,'Porque ele estabeleceu um testemunho em Jacó, e pôs uma lei em Israel, a qual deu aos nossos pais para que a fizessem conhecer a seus filhos;'),
@@ -14382,8 +14115,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (43125,2,19,78,49,'Lançou sobre eles o ardor da sua ira, furor, indignação, e angústia, mandando maus anjos contra eles.'),
 (43126,2,19,78,50,'Preparou caminho à sua ira; não poupou as suas almas da morte, mas entregou à pestilência as suas vidas.'),
 (43127,2,19,78,51,'E feriu a todo primogênito no Egito, primícias da sua força nas tendas de Cão.'),
-(43128,2,19,78,52,'Mas fez com que o seu povo saísse como ovelhas, e os guiou pelo deserto como um rebanho.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(43128,2,19,78,52,'Mas fez com que o seu povo saísse como ovelhas, e os guiou pelo deserto como um rebanho.'),
 (43129,2,19,78,53,'E os guiou com segurança, que não temeram; mas o mar cobriu os seus inimigos.'),
 (43130,2,19,78,54,'E os trouxe até ao termo do seu santuário, até este monte que a sua destra adquiriu.'),
 (43131,2,19,78,55,'E expulsou os gentios de diante deles, e lhes dividiu uma herança por linha, e fez habitar em suas tendas as tribos de Israel.'),
@@ -14433,8 +14165,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (43175,2,19,80,14,'Oh! Deus dos Exércitos, volta-te, nós te rogamos, atende dos céus, e vê, e visita esta vide;'),
 (43176,2,19,80,15,'E a videira que a tua destra plantou, e o sarmento que fortificaste para ti.'),
 (43177,2,19,80,16,'Está queimada pelo fogo, está cortada; pereceu pela repreensão da tua face.'),
-(43178,2,19,80,17,'Seja a tua mão sobre o homem da tua destra, sobre o filho do homem, que fortificaste para ti.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(43178,2,19,80,17,'Seja a tua mão sobre o homem da tua destra, sobre o filho do homem, que fortificaste para ti.'),
 (43179,2,19,80,18,'Assim nós não te viraremos as costas; guarda-nos em vida, e invocaremos o teu nome.'),
 (43180,2,19,80,19,'Faze-nos voltar, Senhor Deus dos Exércitos; faze resplandecer o teu rosto, e seremos salvos.'),
 (43181,2,19,81,1,'Exultai a Deus, nossa fortaleza; jubilai ao Deus de Jacó.'),
@@ -14484,8 +14215,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (43225,2,19,84,3,'Até o pardal encontrou casa, e a andorinha ninho para si, onde ponha seus filhos, até mesmo nos teus altares, Senhor dos Exércitos, Rei meu e Deus meu.'),
 (43226,2,19,84,4,'Bem-aventurados os que habitam em tua casa; louvar-te-ão continuamente. (Selá.)'),
 (43227,2,19,84,5,'Bem-aventurado o homem cuja força está em ti, em cujo coração estão os caminhos aplanados.'),
-(43228,2,19,84,6,'Que, passando pelo vale de Baca, faz dele uma fonte; a chuva também enche os tanques.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(43228,2,19,84,6,'Que, passando pelo vale de Baca, faz dele uma fonte; a chuva também enche os tanques.'),
 (43229,2,19,84,7,'Vão indo de força em força; cada um deles em Sião aparece perante Deus.'),
 (43230,2,19,84,8,'Senhor Deus dos Exércitos, escuta a minha oração; inclina os ouvidos, ó Deus de Jacó! (Selá.)'),
 (43231,2,19,84,9,'Olha, ó Deus, escudo nosso, e contempla o rosto do teu ungido.'),
@@ -14535,8 +14265,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (43275,2,19,88,4,'Estou contado com aqueles que descem ao abismo; estou como homem sem forças,'),
 (43276,2,19,88,5,'Livre entre os mortos, como os feridos de morte que jazem na sepultura, dos quais te não lembras mais, e estão cortados da tua mão.'),
 (43277,2,19,88,6,'Puseste-me no abismo mais profundo, em trevas e nas profundezas.'),
-(43278,2,19,88,7,'Sobre mim pesa o teu furor; tu me afligiste com todas as tuas ondas. (Selá.)');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(43278,2,19,88,7,'Sobre mim pesa o teu furor; tu me afligiste com todas as tuas ondas. (Selá.)'),
 (43279,2,19,88,8,'Alongaste de mim os meus conhecidos, puseste-me em extrema abominação para com eles. Estou fechado, e não posso sair.'),
 (43280,2,19,88,9,'A minha vista desmaia por causa da aflição. Senhor, tenho clamado a ti todo o dia, tenho estendido para ti as minhas mãos.'),
 (43281,2,19,88,10,'Mostrarás, tu, maravilhas aos mortos, ou os mortos se levantarão e te louvarão? (Selá.)'),
@@ -14586,8 +14315,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (43325,2,19,89,36,'A sua semente durará para sempre, e o seu trono, como o sol diante de mim.'),
 (43326,2,19,89,37,'Será estabelecido para sempre como a lua e como uma testemunha fiel no céu. (Selá.)'),
 (43327,2,19,89,38,'Mas tu rejeitaste e aborreceste; tu te indignaste contra o teu ungido.'),
-(43328,2,19,89,39,'Abominaste a aliança do teu servo; profanaste a sua coroa, lançando-a por terra.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(43328,2,19,89,39,'Abominaste a aliança do teu servo; profanaste a sua coroa, lançando-a por terra.'),
 (43329,2,19,89,40,'Derrubaste todos os seus muros; arruinaste as suas fortificações.'),
 (43330,2,19,89,41,'Todos os que passam pelo caminho o despojam; é um opróbrio para os seus vizinhos.'),
 (43331,2,19,89,42,'Exaltaste a destra dos seus adversários; fizeste com que todos os seus inimigos se regozijassem.'),
@@ -14637,8 +14365,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (43375,2,19,92,1,'Bom é louvar ao SENHOR, e cantar louvores ao teu nome, ó Altíssimo;'),
 (43376,2,19,92,2,'Para de manhã anunciar a tua benignidade, e todas as noites a tua fidelidade;'),
 (43377,2,19,92,3,'Sobre um instrumento de dez cordas, e sobre o saltério; sobre a harpa com som solene.'),
-(43378,2,19,92,4,'Pois tu, Senhor, me alegraste pelos teus feitos; exultarei nas obras das tuas mãos.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(43378,2,19,92,4,'Pois tu, Senhor, me alegraste pelos teus feitos; exultarei nas obras das tuas mãos.'),
 (43379,2,19,92,5,'Quão grandes são, Senhor, as tuas obras! Mui profundos são os teus pensamentos.'),
 (43380,2,19,92,6,'O homem brutal não conhece, nem o louco entende isto.'),
 (43381,2,19,92,7,'Quando o ímpio crescer como a erva, e quando florescerem todos os que praticam a iniqüidade, é que serão destruídos perpetuamente.'),
@@ -14688,8 +14415,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (43425,2,19,95,8,'Não endureçais os vossos corações, assim como na provocação e como no dia da tentação no deserto;'),
 (43426,2,19,95,9,'Quando vossos pais me tentaram, me provaram, e viram a minha obra.'),
 (43427,2,19,95,10,'Quarenta anos estive desgostado com esta geração, e disse: É um povo que erra de coração, e não tem conhecido os meus caminhos.'),
-(43428,2,19,95,11,'A quem jurei na minha ira que não entrarão no meu repouso.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(43428,2,19,95,11,'A quem jurei na minha ira que não entrarão no meu repouso.'),
 (43429,2,19,96,1,'Cantai ao SENHOR um cântico novo, cantai ao SENHOR toda a terra.'),
 (43430,2,19,96,2,'Cantai ao Senhor, bendizei o seu nome; anunciai a sua salvação de dia em dia.'),
 (43431,2,19,96,3,'Anunciai entre as nações a sua glória; entre todos os povos as suas maravilhas.'),
@@ -14739,8 +14465,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (43475,2,19,100,4,'Entrai pelas portas dele com gratidão, e em seus átrios com louvor; louvai-o, e bendizei o seu nome.'),
 (43476,2,19,100,5,'Porque o Senhor é bom, e eterna a sua misericórdia; e a sua verdade dura de geração em geração.'),
 (43477,2,19,101,1,'Cantarei a misericórdia e o juízo; a ti, SENHOR, cantarei.'),
-(43478,2,19,101,2,'Portar-me-ei com inteligência no caminho reto. Quando virás a mim? Andarei em minha casa com um coração sincero.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(43478,2,19,101,2,'Portar-me-ei com inteligência no caminho reto. Quando virás a mim? Andarei em minha casa com um coração sincero.'),
 (43479,2,19,101,3,'Não porei coisa má diante dos meus olhos. Odeio a obra daqueles que se desviam; não se me pegará a mim.'),
 (43480,2,19,101,4,'Um coração perverso se apartará de mim; não conhecerei o homem mau.'),
 (43481,2,19,101,5,'Aquele que murmura do seu próximo às escondidas, eu o destruirei; aquele que tem olhar altivo e coração soberbo, não suportarei.'),
@@ -14790,8 +14515,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (43525,2,19,103,13,'Assim como um pai se compadece de seus filhos, assim o Senhor se compadece daqueles que o temem.'),
 (43526,2,19,103,14,'Pois ele conhece a nossa estrutura; lembra-se de que somos pó.'),
 (43527,2,19,103,15,'Quanto ao homem, os seus dias são como a erva, como a flor do campo assim floresce.'),
-(43528,2,19,103,16,'Passando por ela o vento, logo se vai, e o seu lugar não será mais conhecido.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(43528,2,19,103,16,'Passando por ela o vento, logo se vai, e o seu lugar não será mais conhecido.'),
 (43529,2,19,103,17,'Mas a misericórdia do Senhor é desde a eternidade e até a eternidade sobre aqueles que o temem, e a sua justiça sobre os filhos dos filhos;'),
 (43530,2,19,103,18,'Sobre aqueles que guardam a sua aliança, e sobre os que se lembram dos seus mandamentos para os cumprir.'),
 (43531,2,19,103,19,'O Senhor tem estabelecido o seu trono nos céus, e o seu reino domina sobre tudo.'),
@@ -14841,8 +14565,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (43575,2,19,105,6,'Vós, semente de Abraão, seu servo, vós, filhos de Jacó, seus escolhidos.'),
 (43576,2,19,105,7,'Ele é o Senhor nosso Deus; os seus juízos estão em toda a terra.'),
 (43577,2,19,105,8,'Lembrou-se da sua aliança para sempre, da palavra que mandou a milhares de gerações.'),
-(43578,2,19,105,9,'A qual aliança fez com Abraão, e o seu juramento a Isaque.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(43578,2,19,105,9,'A qual aliança fez com Abraão, e o seu juramento a Isaque.'),
 (43579,2,19,105,10,'E confirmou o mesmo a Jacó por lei, e a Israel por aliança eterna,'),
 (43580,2,19,105,11,'Dizendo: A ti darei a terra de Canaã, a região da vossa herança.'),
 (43581,2,19,105,12,'Quando eram poucos homens em número, sim, mui poucos, e estrangeiros nela;'),
@@ -14892,8 +14615,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (43625,2,19,106,11,'E as águas cobriram os seus adversários; nem um só deles ficou.'),
 (43626,2,19,106,12,'Então creram nas suas palavras, e cantaram os seus louvores.'),
 (43627,2,19,106,13,'Porém cedo se esqueceram das suas obras; não esperaram o seu conselho.'),
-(43628,2,19,106,14,'Mas deixaram-se levar à cobiça no deserto, e tentaram a Deus na solidão.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(43628,2,19,106,14,'Mas deixaram-se levar à cobiça no deserto, e tentaram a Deus na solidão.'),
 (43629,2,19,106,15,'E ele lhes cumpriu o seu desejo, mas enviou magreza às suas almas.'),
 (43630,2,19,106,16,'E invejaram a Moisés no campo, e a Arão, o santo do Senhor.'),
 (43631,2,19,106,17,'Abriu-se a terra, e engoliu a Datã, e cobriu o grupo de Abirão.'),
@@ -14943,8 +14665,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (43675,2,19,107,13,'Então clamaram ao Senhor na sua angústia, e os livrou das suas dificuldades.'),
 (43676,2,19,107,14,'Tirou-os das trevas e sombra da morte; e quebrou as suas prisões.'),
 (43677,2,19,107,15,'Louvem ao Senhor pela sua bondade, e pelas suas maravilhas para com os filhos dos homens.'),
-(43678,2,19,107,16,'Pois quebrou as portas de bronze, e despedaçou os ferrolhos de ferro.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(43678,2,19,107,16,'Pois quebrou as portas de bronze, e despedaçou os ferrolhos de ferro.'),
 (43679,2,19,107,17,'Os loucos, por causa da sua transgressão, e por causa das suas iniqüidades, são aflitos.'),
 (43680,2,19,107,18,'A sua alma aborreceu toda a comida, e chegaram até às portas da morte.'),
 (43681,2,19,107,19,'Então clamaram ao Senhor na sua angústia, e ele os livrou das suas dificuldades.'),
@@ -14994,8 +14715,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (43725,2,19,109,7,'Quando for julgado, saia condenado; e a sua oração se lhe torne em pecado.'),
 (43726,2,19,109,8,'Sejam poucos os seus dias, e outro tome o seu ofício.'),
 (43727,2,19,109,9,'Sejam órfãos os seus filhos, e viúva sua mulher.'),
-(43728,2,19,109,10,'Sejam vagabundos e pedintes os seus filhos, e busquem pão fora dos seus lugares desolados.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(43728,2,19,109,10,'Sejam vagabundos e pedintes os seus filhos, e busquem pão fora dos seus lugares desolados.'),
 (43729,2,19,109,11,'Lance o credor mão de tudo quanto tenha, e despojem os estranhos o seu trabalho.'),
 (43730,2,19,109,12,'Não haja ninguém que se compadeça dele, nem haja quem favoreça os seus órfãos.'),
 (43731,2,19,109,13,'Desapareça a sua posteridade, o seu nome seja apagado na seguinte geração.'),
@@ -15045,8 +14765,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (43775,2,19,112,9,'Ele espalhou, deu aos necessitados; a sua justiça permanece para sempre, e a sua força se exaltará em glória.'),
 (43776,2,19,112,10,'O ímpio o verá, e se entristecerá; rangerá os dentes, e se consumirá; o desejo dos ímpios perecerá.'),
 (43777,2,19,113,1,'Louvai ao SENHOR. Louvai, servos do SENHOR, louvai o nome do SENHOR.'),
-(43778,2,19,113,2,'Seja bendito o nome do Senhor, desde agora para sempre.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(43778,2,19,113,2,'Seja bendito o nome do Senhor, desde agora para sempre.'),
 (43779,2,19,113,3,'Desde o nascimento do sol até ao ocaso, seja louvado o nome do Senhor.'),
 (43780,2,19,113,4,'Exaltado está o Senhor acima de todas as nações, e a sua glória sobre os céus.'),
 (43781,2,19,113,5,'Quem é como o Senhor nosso Deus, que habita nas alturas?'),
@@ -15096,8 +14815,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (43825,2,19,116,14,'Pagarei os meus votos ao Senhor, agora, na presença de todo o seu povo.'),
 (43826,2,19,116,15,'Preciosa é à vista do Senhor a morte dos seus santos.'),
 (43827,2,19,116,16,'Ó Senhor, deveras sou teu servo; sou teu servo, filho da tua serva; soltaste as minhas ataduras.'),
-(43828,2,19,116,17,'Oferecer-te-ei sacrifícios de louvor, e invocarei o nome do Senhor.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(43828,2,19,116,17,'Oferecer-te-ei sacrifícios de louvor, e invocarei o nome do Senhor.'),
 (43829,2,19,116,18,'Pagarei os meus votos ao Senhor, na presença de todo o meu povo,'),
 (43830,2,19,116,19,'Nos átrios da casa do Senhor, no meio de ti, ó Jerusalém. Louvai ao Senhor.'),
 (43831,2,19,117,1,'Louvai ao SENHOR todas as nações, louvai-o todos os povos.'),
@@ -15147,8 +14865,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (43875,2,19,119,14,'Folguei tanto no caminho dos teus testemunhos, como em todas as riquezas.'),
 (43876,2,19,119,15,'Meditarei nos teus preceitos, e terei respeito aos teus caminhos.'),
 (43877,2,19,119,16,'Recrear-me-ei nos teus estatutos; não me esquecerei da tua palavra.'),
-(43878,2,19,119,17,'Faze bem ao teu servo, para que viva e observe a tua palavra.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(43878,2,19,119,17,'Faze bem ao teu servo, para que viva e observe a tua palavra.'),
 (43879,2,19,119,18,'Abre tu os meus olhos, para que veja as maravilhas da tua lei.'),
 (43880,2,19,119,19,'Sou peregrino na terra; não escondas de mim os teus mandamentos.'),
 (43881,2,19,119,20,'A minha alma está quebrantada de desejar os teus juízos em todo o tempo.'),
@@ -15198,8 +14915,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (43925,2,19,119,64,'A terra, ó Senhor, está cheia da tua benignidade; ensina-me os teus estatutos.'),
 (43926,2,19,119,65,'Fizeste bem ao teu servo, Senhor, segundo a tua palavra.'),
 (43927,2,19,119,66,'Ensina-me bom juízo e ciência, pois cri nos teus mandamentos.'),
-(43928,2,19,119,67,'Antes de ser afligido andava errado; mas agora tenho guardado a tua palavra.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(43928,2,19,119,67,'Antes de ser afligido andava errado; mas agora tenho guardado a tua palavra.'),
 (43929,2,19,119,68,'Tu és bom e fazes bem; ensina-me os teus estatutos.'),
 (43930,2,19,119,69,'Os soberbos forjaram mentiras contra mim; mas eu com todo o meu coração guardarei os teus preceitos.'),
 (43931,2,19,119,70,'Engrossa-se-lhes o coração como gordura, mas eu me recreio na tua lei.'),
@@ -15249,8 +14965,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (43975,2,19,119,114,'Tu és o meu refúgio e o meu escudo; espero na tua palavra.'),
 (43976,2,19,119,115,'Apartai-vos de mim, malfeitores, pois guardarei os mandamentos do meu Deus.'),
 (43977,2,19,119,116,'Sustenta-me conforme a tua palavra, para que viva, e não me deixes envergonhado da minha esperança.'),
-(43978,2,19,119,117,'Sustenta-me, e serei salvo, e de contínuo terei respeito aos teus estatutos.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(43978,2,19,119,117,'Sustenta-me, e serei salvo, e de contínuo terei respeito aos teus estatutos.'),
 (43979,2,19,119,118,'Tu tens pisado aos pés todos os que se desviam dos teus estatutos, pois o engano deles é falsidade.'),
 (43980,2,19,119,119,'Tu tiraste da terra todos os ímpios, como a escória, por isso amo os teus testemunhos.'),
 (43981,2,19,119,120,'O meu corpo se arrepiou com temor de ti, e temi os teus juízos.'),
@@ -15351,8 +15066,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (44075,2,19,125,1,'Os que confiam no SENHOR serão como o monte de Sião, que não se abala, mas permanece para sempre.'),
 (44076,2,19,125,2,'Assim como estão os montes à roda de Jerusalém, assim o Senhor está em volta do seu povo desde agora e para sempre.'),
 (44077,2,19,125,3,'Porque o cetro da impiedade não permanecerá sobre a sorte dos justos, para que o justo não estenda as suas mãos para a iniqüidade.'),
-(44078,2,19,125,4,'Faze bem, ó Senhor, aos bons e aos que são retos de coração.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(44078,2,19,125,4,'Faze bem, ó Senhor, aos bons e aos que são retos de coração.'),
 (44079,2,19,125,5,'Quanto àqueles que se desviam para os seus caminhos tortuosos, levá-los-á o SENHOR com os que praticam a maldade; paz haverá sobre Israel.'),
 (44080,2,19,126,1,'Quando o SENHOR trouxe do cativeiro os que voltaram a Sião, estávamos como os que sonham.'),
 (44081,2,19,126,2,'Então a nossa boca se encheu de riso e a nossa língua de cântico; então se dizia entre os gentios: Grandes coisas fez o Senhor a estes.'),
@@ -15402,8 +15116,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (44125,2,19,132,10,'Por amor de Davi, teu servo, não faças virar o rosto do teu ungido.'),
 (44126,2,19,132,11,'O Senhor jurou com verdade a Davi, e não se apartará dela: Do fruto do teu ventre porei sobre o teu trono.'),
 (44127,2,19,132,12,'Se os teus filhos guardarem a minha aliança, e os meus testemunhos, que eu lhes hei de ensinar, também os seus filhos se assentarão perpetuamente no teu trono.'),
-(44128,2,19,132,13,'Porque o Senhor escolheu a Sião; desejou-a para a sua habitação, dizendo:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(44128,2,19,132,13,'Porque o Senhor escolheu a Sião; desejou-a para a sua habitação, dizendo:'),
 (44129,2,19,132,14,'Este é o meu repouso para sempre; aqui habitarei, pois o desejei.'),
 (44130,2,19,132,15,'Abençoarei abundantemente o seu mantimento; fartarei de pão os seus necessitados.'),
 (44131,2,19,132,16,'Também vestirei os seus sacerdotes de salvação, e os seus santos saltarão de prazer.'),
@@ -15453,8 +15166,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (44175,2,19,136,15,'Mas derrubou a Faraó com o seu exército no Mar Vermelho; porque a sua benignidade dura para sempre.'),
 (44176,2,19,136,16,'Aquele que guiou o seu povo pelo deserto; porque a sua benignidade dura para sempre;'),
 (44177,2,19,136,17,'Aquele que feriu os grandes reis; porque a sua benignidade dura para sempre;'),
-(44178,2,19,136,18,'E matou reis famosos; porque a sua benignidade dura para sempre;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(44178,2,19,136,18,'E matou reis famosos; porque a sua benignidade dura para sempre;'),
 (44179,2,19,136,19,'Siom, rei dos amorreus; porque a sua benignidade dura para sempre;'),
 (44180,2,19,136,20,'E Ogue, rei de Basã; porque a sua benignidade dura para sempre;'),
 (44181,2,19,136,21,'E deu a terra deles em herança; porque a sua benignidade dura para sempre;'),
@@ -15504,8 +15216,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (44225,2,19,139,22,'Odeio-os com ódio perfeito; tenho-os por inimigos.'),
 (44226,2,19,139,23,'Sonda-me, ó Deus, e conhece o meu coração; prova-me, e conhece os meus pensamentos.'),
 (44227,2,19,139,24,'E vê se há em mim algum caminho mau, e guia-me pelo caminho eterno.'),
-(44228,2,19,140,1,'Livra-me, ó SENHOR, do homem mau; guarda-me do homem violento,');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(44228,2,19,140,1,'Livra-me, ó SENHOR, do homem mau; guarda-me do homem violento,'),
 (44229,2,19,140,2,'Que pensa o mal no coração; continuamente se ajuntam para a guerra.'),
 (44230,2,19,140,3,'Aguçaram as línguas como a serpente; o veneno das víboras está debaixo dos seus lábios. (Selá.)'),
 (44231,2,19,140,4,'Guarda-me, ó Senhor, das mãos do ímpio; guarda-me do homem violento; os quais se propuseram transtornar os meus passos.'),
@@ -15555,8 +15266,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (44275,2,19,144,6,'Vibra os teus raios e dissipa-os; envia as tuas flechas, e desbarata-os.'),
 (44276,2,19,144,7,'Estende as tuas mãos desde o alto; livra-me, e arrebata-me das muitas águas e das mãos dos filhos estranhos,'),
 (44277,2,19,144,8,'Cuja boca fala vaidade, e a sua mão direita é a destra de falsidade.'),
-(44278,2,19,144,9,'A ti, ó Deus, cantarei um cântico novo; com o saltério e instrumento de dez cordas te cantarei louvores;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(44278,2,19,144,9,'A ti, ó Deus, cantarei um cântico novo; com o saltério e instrumento de dez cordas te cantarei louvores;'),
 (44279,2,19,144,10,'A ti, que dás a salvação aos reis, e que livras a Davi, teu servo, da espada maligna.'),
 (44280,2,19,144,11,'Livra-me, e tira-me das mãos dos filhos estranhos, cuja boca fala vaidade, e a sua mão direita é a destra de iniqüidade,'),
 (44281,2,19,144,12,'Para que nossos filhos sejam como plantas crescidas na sua mocidade; para que as nossas filhas sejam como pedras de esquina lavradas à moda de palácio;'),
@@ -15606,8 +15316,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (44325,2,19,147,10,'Não se deleita na força do cavalo, nem se compraz nas pernas do homem.'),
 (44326,2,19,147,11,'O Senhor se agrada dos que o temem e dos que esperam na sua misericórdia.'),
 (44327,2,19,147,12,'Louva, ó Jerusalém, ao Senhor; louva, ó Sião, ao teu Deus.'),
-(44328,2,19,147,13,'Porque fortaleceu os ferrolhos das tuas portas; abençoa aos teus filhos dentro de ti.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(44328,2,19,147,13,'Porque fortaleceu os ferrolhos das tuas portas; abençoa aos teus filhos dentro de ti.'),
 (44329,2,19,147,14,'Ele é o que põe em paz os teus termos, e da flor da farinha te farta.'),
 (44330,2,19,147,15,'O que envia o seu mandamento à terra; a sua palavra corre velozmente.'),
 (44331,2,19,147,16,'O que dá a neve como lã; esparge a geada como cinza;'),
@@ -15657,8 +15366,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (44375,2,20,1,11,'Se disserem: Vem conosco a tocaias de sangue; embosquemos o inocente sem motivo;'),
 (44376,2,20,1,12,'Traguemo-los vivos, como a sepultura; e inteiros, como os que descem à cova;'),
 (44377,2,20,1,13,'Acharemos toda sorte de bens preciosos; encheremos as nossas casas de despojos;'),
-(44378,2,20,1,14,'Lança a tua sorte conosco; teremos todos uma só bolsa!');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(44378,2,20,1,14,'Lança a tua sorte conosco; teremos todos uma só bolsa!'),
 (44379,2,20,1,15,'Filho meu, não te ponhas a caminho com eles; desvia o teu pé das suas veredas;'),
 (44380,2,20,1,16,'Porque os seus pés correm para o mal, e se apressam a derramar sangue.'),
 (44381,2,20,1,17,'Na verdade é inútil estender-se a rede ante os olhos de qualquer ave.'),
@@ -15708,8 +15416,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (44425,2,20,3,6,'Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas.'),
 (44426,2,20,3,7,'Não sejas sábio a teus próprios olhos; teme ao Senhor e aparta-te do mal.'),
 (44427,2,20,3,8,'Isto será saúde para o teu âmago, e medula para os teus ossos.'),
-(44428,2,20,3,9,'Honra ao Senhor com os teus bens, e com a primeira parte de todos os teus ganhos;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(44428,2,20,3,9,'Honra ao Senhor com os teus bens, e com a primeira parte de todos os teus ganhos;'),
 (44429,2,20,3,10,'E se encherão os teus celeiros, e transbordarão de vinho os teus lagares.'),
 (44430,2,20,3,11,'Filho meu, não rejeites a correção do Senhor, nem te enojes da sua repreensão.'),
 (44431,2,20,3,12,'Porque o Senhor repreende aquele a quem ama, assim como o pai ao filho a quem quer bem.'),
@@ -15759,8 +15466,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (44475,2,20,4,21,'Não as deixes apartar-se dos teus olhos; guarda-as no íntimo do teu coração.'),
 (44476,2,20,4,22,'Porque são vida para os que as acham, e saúde para todo o seu corpo.'),
 (44477,2,20,4,23,'Sobre tudo o que se deve guardar, guarda o teu coração, porque dele procedem as fontes da vida.'),
-(44478,2,20,4,24,'Desvia de ti a falsidade da boca, e afasta de ti a perversidade dos lábios.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(44478,2,20,4,24,'Desvia de ti a falsidade da boca, e afasta de ti a perversidade dos lábios.'),
 (44479,2,20,4,25,'Os teus olhos olhem para a frente, e as tuas pálpebras olhem direto diante de ti.'),
 (44480,2,20,4,26,'Pondera a vereda de teus pés, e todos os teus caminhos sejam bem ordenados!'),
 (44481,2,20,4,27,'Não declines nem para a direita nem para a esquerda; retira o teu pé do mal.'),
@@ -15810,8 +15516,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (44525,2,20,6,21,'Ata-os perpetuamente ao teu coração, e pendura-os ao teu pescoço.'),
 (44526,2,20,6,22,'Quando caminhares, te guiará; quando te deitares, te guardará; quando acordares, falará contigo.'),
 (44527,2,20,6,23,'Porque o mandamento é lâmpada, e a lei é luz; e as repreensões da correção são o caminho da vida,'),
-(44528,2,20,6,24,'Para te guardarem da mulher vil, e das lisonjas da estranha.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(44528,2,20,6,24,'Para te guardarem da mulher vil, e das lisonjas da estranha.'),
 (44529,2,20,6,25,'Não cobices no teu coração a sua formosura, nem te prendas aos seus olhos.'),
 (44530,2,20,6,26,'Porque por causa duma prostituta se chega a pedir um bocado de pão; e a adúltera anda à caça da alma preciosa.'),
 (44531,2,20,6,27,'Porventura tomará alguém fogo no seu seio, sem que suas vestes se queimem?'),
@@ -15861,8 +15566,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (44575,2,20,8,9,'Todas elas são retas para aquele que as entende bem, e justas para os que acham o conhecimento.'),
 (44576,2,20,8,10,'Aceitai a minha correção, e não a prata; e o conhecimento, mais do que o ouro fino escolhido.'),
 (44577,2,20,8,11,'Porque melhor é a sabedoria do que os rubis; e tudo o que mais se deseja não se pode comparar com ela.'),
-(44578,2,20,8,12,'Eu, a sabedoria, habito com a prudência, e acho o conhecimento dos conselhos.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(44578,2,20,8,12,'Eu, a sabedoria, habito com a prudência, e acho o conhecimento dos conselhos.'),
 (44579,2,20,8,13,'O temor do Senhor é odiar o mal; a soberba e a arrogância, o mau caminho e a boca perversa, eu odeio.'),
 (44580,2,20,8,14,'Meu é o conselho e a verdadeira sabedoria; eu sou o entendimento; minha é a fortaleza.'),
 (44581,2,20,8,15,'Por mim reinam os reis e os príncipes decretam justiça.'),
@@ -15912,8 +15616,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (44625,2,20,10,5,'O que ajunta no verão é filho ajuizado, mas o que dorme na sega é filho que envergonha.'),
 (44626,2,20,10,6,'Bênçãos há sobre a cabeça do justo, mas a violência cobre a boca dos perversos.'),
 (44627,2,20,10,7,'A memória do justo é abençoada, mas o nome dos perversos apodrecerá.'),
-(44628,2,20,10,8,'O sábio de coração aceita os mandamentos, mas o insensato de lábios ficará transtornado.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(44628,2,20,10,8,'O sábio de coração aceita os mandamentos, mas o insensato de lábios ficará transtornado.'),
 (44629,2,20,10,9,'Quem anda em sinceridade, anda seguro; mas o que perverte os seus caminhos ficará conhecido.'),
 (44630,2,20,10,10,'O que acena com os olhos causa dores, e o tolo de lábios ficará transtornado.'),
 (44631,2,20,10,11,'A boca do justo é fonte de vida, mas a violência cobre a boca dos perversos.'),
@@ -15963,8 +15666,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (44675,2,20,11,23,'O desejo dos justos é tão somente para o bem, mas a esperança dos ímpios é criar contrariedades.'),
 (44676,2,20,11,24,'Ao que distribui mais se lhe acrescenta, e ao que retém mais do que é justo, é para a sua perda.'),
 (44677,2,20,11,25,'A alma generosa prosperará e aquele que atende também será atendido.'),
-(44678,2,20,11,26,'Ao que retém o trigo o povo amaldiçoa, mas bênção haverá sobre a cabeça do que o vende.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(44678,2,20,11,26,'Ao que retém o trigo o povo amaldiçoa, mas bênção haverá sobre a cabeça do que o vende.'),
 (44679,2,20,11,27,'O que cedo busca o bem, busca favor, mas o que procura o mal, esse lhe sobrevirá.'),
 (44680,2,20,11,28,'Aquele que confia nas suas riquezas cairá, mas os justos reverdecerão como a folhagem.'),
 (44681,2,20,11,29,'O que perturba a sua casa herdará o vento, e o tolo será servo do sábio de coração.'),
@@ -16014,8 +15716,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (44725,2,20,13,14,'A doutrina do sábio é uma fonte de vida para se desviar dos laços da morte.'),
 (44726,2,20,13,15,'O bom entendimento favorece, mas o caminho dos prevaricadores é áspero.'),
 (44727,2,20,13,16,'Todo prudente procede com conhecimento, mas o insensato espraia a sua loucura.'),
-(44728,2,20,13,17,'O que prega a maldade cai no mal, mas o embaixador fiel é saúde.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(44728,2,20,13,17,'O que prega a maldade cai no mal, mas o embaixador fiel é saúde.'),
 (44729,2,20,13,18,'Pobreza e afronta virão ao que rejeita a instrução, mas o que guarda a repreensão será honrado.'),
 (44730,2,20,13,19,'O desejo que se alcança deleita a alma, mas apartar-se do mal é abominável para os insensatos.'),
 (44731,2,20,13,20,'O que anda com os sábios ficará sábio, mas o companheiro dos tolos será destruído.'),
@@ -16065,8 +15766,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (44775,2,21,1,4,'Uma geração vai, e outra geração vem; mas a terra para sempre permanece.'),
 (44776,2,21,1,5,'Nasce o sol, e o sol se põe, e apressa-se e volta ao seu lugar de onde nasceu.'),
 (44777,2,21,1,6,'O vento vai para o sul, e faz o seu giro para o norte; continuamente vai girando o vento, e volta fazendo os seus circuitos.'),
-(44778,2,21,1,7,'Todos os rios vão para o mar, e contudo o mar não se enche; ao lugar para onde os rios vão, para ali tornam eles a correr.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(44778,2,21,1,7,'Todos os rios vão para o mar, e contudo o mar não se enche; ao lugar para onde os rios vão, para ali tornam eles a correr.'),
 (44779,2,21,1,8,'Todas as coisas são trabalhosas; o homem não o pode exprimir; os olhos não se fartam de ver, nem os ouvidos se enchem de ouvir.'),
 (44780,2,21,1,9,'O que foi, isso é o que há de ser; e o que se fez, isso se fará; de modo que nada há de novo debaixo do sol.'),
 (44781,2,21,1,10,'Há alguma coisa de que se possa dizer: Vê, isto é novo? Já foi nos séculos passados, que foram antes de nós.'),
@@ -16116,8 +15816,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (44825,2,21,3,10,'Tenho visto o trabalho que Deus deu aos filhos dos homens, para com ele os exercitar.'),
 (44826,2,21,3,11,'Tudo fez formoso em seu tempo; também pôs o mundo no coração do homem, sem que este possa descobrir a obra que Deus fez desde o princípio até ao fim.'),
 (44827,2,21,3,12,'Já tenho entendido que não há coisa melhor para eles do que alegrar-se e fazer bem na sua vida;'),
-(44828,2,21,3,13,'E também que todo o homem coma e beba, e goze do bem de todo o seu trabalho; isto é um dom de Deus.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(44828,2,21,3,13,'E também que todo o homem coma e beba, e goze do bem de todo o seu trabalho; isto é um dom de Deus.'),
 (44829,2,21,3,14,'Eu sei que tudo quanto Deus faz durará eternamente; nada se lhe deve acrescentar, e nada se lhe deve tirar; e isto faz Deus para que haja temor diante dele.'),
 (44830,2,21,3,15,'O que é, já foi; e o que há de ser, também já foi; e Deus pede conta do que passou.'),
 (44831,2,21,3,16,'Vi mais debaixo do sol que no lugar do juízo havia impiedade, e no lugar da justiça havia iniqüidade.'),
@@ -16167,8 +15866,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (44875,2,21,6,2,'Um homem a quem Deus deu riquezas, bens e honra, e nada lhe falta de tudo quanto a sua alma deseja, e Deus não lhe dá poder para daí comer, antes o estranho lho come; também isto é vaidade e má enfermidade.'),
 (44876,2,21,6,3,'Se o homem gerar cem filhos, e viver muitos anos, e os dias dos seus anos forem muitos, e se a sua alma não se fartar do bem, e além disso não tiver sepultura, digo que um aborto é melhor do que ele.'),
 (44877,2,21,6,4,'Porquanto debalde veio, e em trevas se vai, e de trevas se cobre o seu nome.'),
-(44878,2,21,6,5,'E ainda que nunca viu o sol, nem conheceu nada, mais descanso tem este do que aquele.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(44878,2,21,6,5,'E ainda que nunca viu o sol, nem conheceu nada, mais descanso tem este do que aquele.'),
 (44879,2,21,6,6,'E, ainda que vivesse duas vezes mil anos e não gozasse o bem, não vão todos para um mesmo lugar?'),
 (44880,2,21,6,7,'Todo o trabalho do homem é para a sua boca, e contudo nunca se satisfaz o seu apetite.'),
 (44881,2,21,6,8,'Porque, que mais tem o sábio do que o tolo? E que mais tem o pobre que sabe andar perante os vivos?'),
@@ -16218,8 +15916,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (44925,2,21,8,11,'Porquanto não se executa logo o juízo sobre a má obra, por isso o coração dos filhos dos homens está inteiramente disposto para fazer o mal.'),
 (44926,2,21,8,12,'Ainda que o pecador faça o mal cem vezes, e os dias se lhe prolonguem, contudo eu sei com certeza que bem sucede aos que temem a Deus, aos que temem diante dele.'),
 (44927,2,21,8,13,'Porém o ímpio não irá bem, e ele não prolongará os seus dias, que são como a sombra; porque ele não teme diante de Deus.'),
-(44928,2,21,8,14,'Ainda há outra vaidade que se faz sobre a terra: que há justos a quem sucede segundo as obras dos ímpios, e há ímpios a quem sucede segundo as obras dos justos. Digo que também isto é vaidade.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(44928,2,21,8,14,'Ainda há outra vaidade que se faz sobre a terra: que há justos a quem sucede segundo as obras dos ímpios, e há ímpios a quem sucede segundo as obras dos justos. Digo que também isto é vaidade.'),
 (44929,2,21,8,15,'Então louvei eu a alegria, porquanto para o homem nada há melhor debaixo do sol do que comer, beber e alegrar-se; porque isso o acompanhará no seu trabalho nos dias da sua vida que Deus lhe dá debaixo do sol.'),
 (44930,2,21,8,16,'Aplicando eu o meu coração a conhecer a sabedoria, e a ver o trabalho que há sobre a terra (que nem de dia nem de noite vê o homem sono nos seus olhos);'),
 (44931,2,21,8,17,'Então vi toda a obra de Deus, que o homem não pode perceber, a obra que se faz debaixo do sol; por mais que trabalhe o homem para a descobrir, não a achará; e, ainda que diga o sábio que a conhece, nem por isso a poderá compreender.'),
@@ -16269,8 +15966,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (44975,2,21,11,6,'Pela manhã semeia a tua semente, e à tarde não retires a tua mão, porque tu não sabes qual prosperará, se esta, se aquela, ou se ambas serão igualmente boas.'),
 (44976,2,21,11,7,'Certamente suave é a luz, e agradável é aos olhos ver o sol.'),
 (44977,2,21,11,8,'Porém, se o homem viver muitos anos, e em todos eles se alegrar, também se deve lembrar dos dias das trevas, porque hão de ser muitos. Tudo quanto sucede é vaidade.'),
-(44978,2,21,11,9,'Alegra-te, jovem, na tua mocidade, e recreie-se o teu coração nos dias da tua mocidade, e anda pelos caminhos do teu coração, e pela vista dos teus olhos; sabe, porém, que por todas estas coisas te trará Deus a juízo.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(44978,2,21,11,9,'Alegra-te, jovem, na tua mocidade, e recreie-se o teu coração nos dias da tua mocidade, e anda pelos caminhos do teu coração, e pela vista dos teus olhos; sabe, porém, que por todas estas coisas te trará Deus a juízo.'),
 (44979,2,21,11,10,'Afasta, pois, a ira do teu coração, e remove da tua carne o mal, porque a adolescência e a juventude são vaidade.'),
 (44980,2,21,12,1,'Lembra-te também do teu Criador nos dias da tua mocidade, antes que venham os maus dias, e cheguem os anos dos quais venhas a dizer: Não tenho neles contentamento;'),
 (44981,2,21,12,2,'Antes que se escureçam o sol, e a luz, e a lua, e as estrelas, e tornem a vir as nuvens depois da chuva;'),
@@ -16371,8 +16067,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (45075,2,22,6,5,'Desvia de mim os teus olhos, porque eles me dominam. O teu cabelo é como o rebanho das cabras que aparecem em Gileade.'),
 (45076,2,22,6,6,'Os teus dentes são como o rebanho de ovelhas que sobem do lavadouro, e das quais todas produzem gêmeos, e não há estéril entre elas.'),
 (45077,2,22,6,7,'Como um pedaço de romã, assim são as tuas faces entre os teus cabelos.'),
-(45078,2,22,6,8,'Sessenta são as rainhas, e oitenta as concubinas, e as virgens sem número.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(45078,2,22,6,8,'Sessenta são as rainhas, e oitenta as concubinas, e as virgens sem número.'),
 (45079,2,22,6,9,'Porém uma é a minha pomba, a minha imaculada, a única de sua mãe, e a mais querida daquela que a deu à luz; viram-na as filhas e chamaram-na bem-aventurada, as rainhas e as concubinas louvaram-na.'),
 (45080,2,22,6,10,'Quem é esta que aparece como a alva do dia, formosa como a lua, brilhante como o sol, terrível como um exército com bandeiras?'),
 (45081,2,22,6,11,'Desci ao jardim das nogueiras, para ver os frutos do vale, a ver se floresciam as vides e brotavam as romãzeiras.'),
@@ -16422,8 +16117,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (45125,2,23,1,20,'Mas se recusardes, e fordes rebeldes, sereis devorados à espada; porque a boca do Senhor o disse.'),
 (45126,2,23,1,21,'Como se fez prostituta a cidade fiel! Ela que estava cheia de retidão! A justiça habitava nela, mas agora homicidas.'),
 (45127,2,23,1,22,'A tua prata tornou-se em escórias, o teu vinho se misturou com água.'),
-(45128,2,23,1,23,'Os teus príncipes são rebeldes, e companheiros de ladrões; cada um deles ama as peitas, e anda atrás das recompensas; não fazem justiça ao órfão, e não chega perante eles a causa da viúva.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(45128,2,23,1,23,'Os teus príncipes são rebeldes, e companheiros de ladrões; cada um deles ama as peitas, e anda atrás das recompensas; não fazem justiça ao órfão, e não chega perante eles a causa da viúva.'),
 (45129,2,23,1,24,'Portanto diz o Senhor, o Senhor dos Exércitos, o Forte de Israel: Ah! tomarei satisfações dos meus adversários, e vingar-me-ei dos meus inimigos.'),
 (45130,2,23,1,25,'E voltarei contra ti a minha mão, e purificarei inteiramente as tuas escórias; e tirar-te-ei toda a impureza.'),
 (45131,2,23,1,26,'E te restituirei os teus juízes, como foram dantes; e os teus conselheiros, como antigamente; e então te chamarão cidade de justiça, cidade fiel.'),
@@ -16473,8 +16167,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (45175,2,23,3,17,'Portanto o Senhor fará tinhoso o alto da cabeça das filhas de Sião, e o Senhor porá a descoberto a sua nudez,'),
 (45176,2,23,3,18,'Naquele dia tirará o Senhor os ornamentos dos pés, e as toucas, e adornos em forma de lua,'),
 (45177,2,23,3,19,'Os pendentes, e os braceletes, as estolas,'),
-(45178,2,23,3,20,'Os gorros, e os ornamentos das pernas, e os cintos e as caixinhas de perfumes, e os brincos,');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(45178,2,23,3,20,'Os gorros, e os ornamentos das pernas, e os cintos e as caixinhas de perfumes, e os brincos,'),
 (45179,2,23,3,21,'Os anéis, e as jóias do nariz,'),
 (45180,2,23,3,22,'Os vestidos de festa, e os mantos, e os xales, e as bolsas.'),
 (45181,2,23,3,23,'Os espelhos, e o linho finíssimo, e os turbantes, e os véus.'),
@@ -16524,8 +16217,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (45225,2,23,6,5,'Então disse eu: Ai de mim! Pois estou perdido; porque sou um homem de lábios impuros, e habito no meio de um povo de impuros lábios; os meus olhos viram o Rei, o Senhor dos Exércitos.'),
 (45226,2,23,6,6,'Porém um dos serafins voou para mim, trazendo na sua mão uma brasa viva, que tirara do altar com uma tenaz;'),
 (45227,2,23,6,7,'E com a brasa tocou a minha boca, e disse: Eis que isto tocou os teus lábios; e a tua iniqüidade foi tirada, e expiado o teu pecado.'),
-(45228,2,23,6,8,'Depois disto ouvi a voz do Senhor, que dizia: A quem enviarei, e quem há de ir por nós? Então disse eu: Eis-me aqui, envia-me a mim.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(45228,2,23,6,8,'Depois disto ouvi a voz do Senhor, que dizia: A quem enviarei, e quem há de ir por nós? Então disse eu: Eis-me aqui, envia-me a mim.'),
 (45229,2,23,6,9,'Então disse ele: Vai, e dize a este povo: Ouvis, de fato, e não entendeis, e vedes, em verdade, mas não percebeis.'),
 (45230,2,23,6,10,'Engorda o coração deste povo, e faze-lhe pesados os ouvidos, e fecha-lhe os olhos; para que ele não veja com os seus olhos, e não ouça com os seus ouvidos, nem entenda com o seu coração, nem se converta e seja sarado.'),
 (45231,2,23,6,11,'Então disse eu: Até quando Senhor? E respondeu: Até que sejam desoladas as cidades e fiquem sem habitantes, e as casas sem moradores, e a terra seja de todo assolada.'),
@@ -16575,8 +16267,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (45275,2,23,8,17,'E esperarei ao Senhor, que esconde o seu rosto da casa de Jacó, e a ele aguardarei.'),
 (45276,2,23,8,18,'Eis-me aqui, com os filhos que me deu o Senhor, por sinais e por maravilhas em Israel, da parte do Senhor dos Exércitos, que habita no monte de Sião.'),
 (45277,2,23,8,19,'Quando, pois, vos disserem: Consultai os que têm espíritos familiares e os adivinhos, que chilreiam e murmuram: Porventura não consultará o povo a seu Deus? A favor dos vivos consultar-se-á aos mortos?'),
-(45278,2,23,8,20,'À lei e ao testemunho! Se eles não falarem segundo esta palavra, é porque não há luz neles.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(45278,2,23,8,20,'À lei e ao testemunho! Se eles não falarem segundo esta palavra, é porque não há luz neles.'),
 (45279,2,23,8,21,'E passarão pela terra duramente oprimidos e famintos; e será que, tendo fome, e enfurecendo-se, então amaldiçoarão ao seu rei e ao seu Deus, olhando para cima.'),
 (45280,2,23,8,22,'E, olhando para a terra, eis que haverá angústia e escuridão, e sombras de ansiedade, e serão empurrados para as trevas.'),
 (45281,2,23,9,1,'Mas a terra, que foi angustiada, não será entenebrecida; envileceu nos primeiros tempos, a terra de Zebulom, e a terra de Naftali; mas nos últimos tempos a enobreceu junto ao caminho do mar, além do Jordão, na Galiléia das nações.'),
@@ -16626,8 +16317,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (45325,2,23,10,24,'Por isso assim diz o Senhor DEUS dos Exércitos: Povo meu, que habitas em Sião, não temas à Assíria, quando te ferir com a vara, e contra ti levantar o seu bordão à maneira dos egípcios.'),
 (45326,2,23,10,25,'Porque daqui a bem pouco se cumprirá a minha indignação e a minha ira, para a consumir.'),
 (45327,2,23,10,26,'Porque o Senhor dos Exércitos suscitará contra ela um flagelo, como na matança de Midiã junto à rocha de Orebe; e a sua vara estará sobre o mar, e ele a levantará como sucedeu aos egípcios.'),
-(45328,2,23,10,27,'E acontecerá, naquele dia, que a sua carga será tirada do teu ombro, e o seu jugo do teu pescoço; e o jugo será despedaçado por causa da unção.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(45328,2,23,10,27,'E acontecerá, naquele dia, que a sua carga será tirada do teu ombro, e o seu jugo do teu pescoço; e o jugo será despedaçado por causa da unção.'),
 (45329,2,23,10,28,'Já vem chegando a Aiate, já vai passando por Migrom, e em Micmás deixa a sua bagagem.'),
 (45330,2,23,10,29,'Já passaram o desfiladeiro, já se alojam em Geba; já Ramá treme, e Gibeá de Saul vai fugindo.'),
 (45331,2,23,10,30,'Clama alto com a tua voz, ó filha de Galim! Ouve, ó Laís! Ó tu pobre Anatote!'),
@@ -16677,8 +16367,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (45375,2,23,13,18,'E os seus arcos despedaçarão os jovens, e não se compadecerão do fruto do ventre; os seus olhos não pouparão aos filhos.'),
 (45376,2,23,13,19,'E babilônia, o ornamento dos reinos, a glória e a soberba dos caldeus, será como Sodoma e Gomorra, quando Deus as transtornou.'),
 (45377,2,23,13,20,'Nunca mais será habitada, nem nela morará alguém de geração em geração; nem o árabe armará ali a sua tenda, nem tampouco os pastores ali farão deitar os seus rebanhos.'),
-(45378,2,23,13,21,'Mas as feras do deserto repousarão ali, e as suas casas se encherão de horríveis animais; e ali habitarão os avestruzes, e os sátiros pularão ali.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(45378,2,23,13,21,'Mas as feras do deserto repousarão ali, e as suas casas se encherão de horríveis animais; e ali habitarão os avestruzes, e os sátiros pularão ali.'),
 (45379,2,23,13,22,'E os animais selvagens das ilhas uivarão em suas casas vazias, como também os chacais nos seus palácios de prazer; pois bem perto já vem chegando o seu tempo, e os seus dias não se prolongarão.'),
 (45380,2,23,14,1,'Porque o SENHOR se compadecerá de Jacó, e ainda escolherá a Israel e os porá na sua própria terra; e ajuntar-se-ão com eles os estrangeiros, e se achegarão à casa de Jacó.'),
 (45381,2,23,14,2,'E os povos os receberão, e os levarão aos seus lugares, e a casa de Israel os possuirá por servos, e por servas, na terra do Senhor; e cativarão aqueles que os cativaram, e dominarão sobre os seus opressores.'),
@@ -16728,8 +16417,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (45425,2,23,16,5,'Porque o trono se firmará em benignidade, e sobre ele no tabernáculo de Davi se assentará em verdade um que julgue, e busque o juízo, e se apresse a fazer justiça.'),
 (45426,2,23,16,6,'Ouvimos da soberba de Moabe, que é soberbíssimo; da sua altivez, da sua soberba, e do seu furor; porém, as suas mentiras não serão firmes.'),
 (45427,2,23,16,7,'Portanto Moabe clamará por Moabe; todos clamarão; gemereis pelos fundamentos de Quir-Haresete, pois certamente já estão abatidos.'),
-(45428,2,23,16,8,'Porque os campos de Hesbom enfraqueceram, e a vinha de Sibma; os senhores dos gentios quebraram as suas melhores plantas que haviam chegado a Jazer e vagueiam no deserto; os seus rebentos se estenderam e passaram além do mar.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(45428,2,23,16,8,'Porque os campos de Hesbom enfraqueceram, e a vinha de Sibma; os senhores dos gentios quebraram as suas melhores plantas que haviam chegado a Jazer e vagueiam no deserto; os seus rebentos se estenderam e passaram além do mar.'),
 (45429,2,23,16,9,'Por isso prantearei, com o pranto de Jazer, a vinha de Sibma; regar-te-ei com as minhas lágrimas, ó Hesbom e Eleale; porque o júbilo dos teus frutos de verão e da tua sega desapareceu.'),
 (45430,2,23,16,10,'E fugiu a alegria e o regozijo do campo fértil, e nas vinhas não se canta, nem há júbilo algum; já não se pisarão as uvas nos lagares. Eu fiz cessar o júbilo.'),
 (45431,2,23,16,11,'Por isso o meu íntimo vibra por Moabe como harpa, e o meu interior por Quir-Heres.'),
@@ -16779,8 +16467,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (45475,2,23,19,20,'E servirá de sinal e de testemunho ao Senhor dos Exércitos na terra do Egito, porque ao Senhor clamarão por causa dos opressores, e ele lhes enviará um salvador e um protetor, que os livrará.'),
 (45476,2,23,19,21,'E o Senhor se dará a conhecer ao Egito, e os egípcios conhecerão ao Senhor naquele dia, e o adorarão com sacrifícios e ofertas, e farão votos ao Senhor, e os cumprirão.'),
 (45477,2,23,19,22,'E ferirá o Senhor ao Egito, ferirá e o curará; e converter-se-ão ao Senhor, e mover-se-á às suas orações, e os curará;'),
-(45478,2,23,19,23,'Naquele dia haverá estrada do Egito até à Assíria, e os assírios virão ao Egito, e os egípcios irão à Assíria; e os egípcios servirão com os assírios.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(45478,2,23,19,23,'Naquele dia haverá estrada do Egito até à Assíria, e os assírios virão ao Egito, e os egípcios irão à Assíria; e os egípcios servirão com os assírios.'),
 (45479,2,23,19,24,'Naquele dia Israel será o terceiro com os egípcios e os assírios, uma bênção no meio da terra.'),
 (45480,2,23,19,25,'Porque o Senhor dos Exércitos os abençoará, dizendo: Bendito seja o Egito, meu povo, e a Assíria, obra de minhas mãos, e Israel, minha herança.'),
 (45481,2,23,20,1,'No ano em que Tartã, enviado por Sargom, rei da Assíria, veio a Asdode, e guerreou contra ela, e a tomou,'),
@@ -16830,8 +16517,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (45525,2,23,22,22,'E porei a chave da casa de Davi sobre o seu ombro, e abrirá, e ninguém fechará; e fechará, e ninguém abrirá.'),
 (45526,2,23,22,23,'E fixá-lo-ei como a um prego num lugar firme, e será como um trono de honra para a casa de seu pai.'),
 (45527,2,23,22,24,'E nele pendurarão toda a honra da casa de seu pai, a prole e os descendentes, como também todos os vasos menores, desde as taças até os frascos.'),
-(45528,2,23,22,25,'Naquele dia, diz o Senhor dos Exércitos, o prego fincado em lugar firme será tirado; e será cortado, e cairá, e a carga que nele estava se desprenderá, porque o Senhor o disse.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(45528,2,23,22,25,'Naquele dia, diz o Senhor dos Exércitos, o prego fincado em lugar firme será tirado; e será cortado, e cairá, e a carga que nele estava se desprenderá, porque o Senhor o disse.'),
 (45529,2,23,23,1,'Peso de Tiro. Uivai, navios de Társis, porque está assolada, a ponto de não haver nela casa nenhuma, e de ninguém mais entrar nela; desde a terra de Quitim lhes foi isto revelado.'),
 (45530,2,23,23,2,'Calai-vos, moradores da ilha, vós a quem encheram os mercadores de Sidom, navegando pelo mar.'),
 (45531,2,23,23,3,'E a sua provisão era a semente de Sior, que vinha com as muitas águas, a ceifa do Nilo, e ela era a feira das nações.'),
@@ -16881,8 +16567,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (45575,2,23,25,6,'E o Senhor dos Exércitos dará neste monte a todos os povos uma festa com animais gordos, uma festa de vinhos velhos, com tutanos gordos, e com vinhos velhos, bem purificados.'),
 (45576,2,23,25,7,'E destruirá neste monte a face da cobertura, com que todos os povos andam cobertos, e o véu com que todas as nações se cobrem.'),
 (45577,2,23,25,8,'Aniquilará a morte para sempre, e assim enxugará o Senhor DEUS as lágrimas de todos os rostos, e tirará o opróbrio do seu povo de toda a terra; porque o SENHOR o disse.'),
-(45578,2,23,25,9,'E naquele dia se dirá: Eis que este é o nosso Deus, a quem aguardávamos, e ele nos salvará; este é o Senhor, a quem aguardávamos; na sua salvação gozaremos e nos alegraremos.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(45578,2,23,25,9,'E naquele dia se dirá: Eis que este é o nosso Deus, a quem aguardávamos, e ele nos salvará; este é o Senhor, a quem aguardávamos; na sua salvação gozaremos e nos alegraremos.'),
 (45579,2,23,25,10,'Porque a mão do Senhor descansará neste monte; mas Moabe será trilhado debaixo dele, como se trilha a palha no monturo.'),
 (45580,2,23,25,11,'E estenderá as suas mãos por entre eles, como as estende o nadador para nadar; e abaterá a sua altivez com as ciladas das suas mãos.'),
 (45581,2,23,25,12,'E abaixará as altas fortalezas dos teus muros, abatê-las-á e derrubá-las-á por terra até ao pó.'),
@@ -16932,8 +16617,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (45625,2,23,28,10,'Porque é mandamento sobre mandamento, mandamento sobre mandamento, regra sobre regra, regra sobre regra, um pouco aqui, um pouco ali.'),
 (45626,2,23,28,11,'Assim por lábios gaguejantes, e por outra língua, falará a este povo.'),
 (45627,2,23,28,12,'Ao qual disse: Este é o descanso, dai descanso ao cansado; e este é o refrigério; porém não quiseram ouvir.'),
-(45628,2,23,28,13,'Assim, pois, a palavra do Senhor lhes será mandamento sobre mandamento, mandamento sobre mandamento, regra sobre regra, regra sobre regra, um pouco aqui, um pouco ali; para que vão, e caiam para trás, e se quebrantem e se enlacem, e sejam presos.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(45628,2,23,28,13,'Assim, pois, a palavra do Senhor lhes será mandamento sobre mandamento, mandamento sobre mandamento, regra sobre regra, regra sobre regra, um pouco aqui, um pouco ali; para que vão, e caiam para trás, e se quebrantem e se enlacem, e sejam presos.'),
 (45629,2,23,28,14,'Ouvi, pois, a palavra do Senhor, homens escarnecedores, que dominais este povo que está em Jerusalém.'),
 (45630,2,23,28,15,'Porquanto dizeis: Fizemos aliança com a morte, e com o inferno fizemos acordo; quando passar o dilúvio do açoite, não chegará a nós, porque pusemos a mentira por nosso refúgio, e debaixo da falsidade nos escondemos.'),
 (45631,2,23,28,16,'Portanto assim diz o Senhor DEUS: Eis que eu assentei em Sião uma pedra, uma pedra já provada, pedra preciosa de esquina, que está bem firme e fundada; aquele que crer não se apresse.'),
@@ -16983,8 +16667,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (45675,2,23,30,7,'Porque o Egito os ajudará em vão, e para nenhum fim; por isso clamei acerca disto: No estarem quietos será a sua força.'),
 (45676,2,23,30,8,'Vai, pois, agora, escreve isto numa tábua perante eles e registra-o num livro; para que fique até ao último dia, para sempre e perpetuamente.'),
 (45677,2,23,30,9,'Porque este é um povo rebelde, filhos mentirosos, filhos que não querem ouvir a lei do Senhor.'),
-(45678,2,23,30,10,'Que dizem aos videntes: Não vejais; e aos profetas: Não profetizeis para nós o que é reto; dizei-nos coisas aprazíveis, e vede para nós enganos.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(45678,2,23,30,10,'Que dizem aos videntes: Não vejais; e aos profetas: Não profetizeis para nós o que é reto; dizei-nos coisas aprazíveis, e vede para nós enganos.'),
 (45679,2,23,30,11,'Desviai-vos do caminho, apartai-vos da vereda; fazei que o Santo de Israel cesse de estar perante nós.'),
 (45680,2,23,30,12,'Por isso, assim diz o Santo de Israel: porquanto rejeitais esta palavra, e confiais na opressão e perversidade, e sobre isso vos estribais,'),
 (45681,2,23,30,13,'Por isso esta maldade vos será como a brecha de um alto muro que, formando uma barriga, está prestes a cair e cuja quebra virá subitamente.'),
@@ -17034,8 +16717,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (45725,2,23,32,15,'Até que se derrame sobre nós o espírito lá do alto; então o deserto se tornará em campo fértil, e o campo fértil será reputado por um bosque.'),
 (45726,2,23,32,16,'E o juízo habitará no deserto, e a justiça morará no campo fértil.'),
 (45727,2,23,32,17,'E o efeito da justiça será paz, e a operação da justiça, repouso e segurança para sempre.'),
-(45728,2,23,32,18,'E o meu povo habitará em morada de paz, e em moradas bem seguras, e em lugares quietos de descanso.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(45728,2,23,32,18,'E o meu povo habitará em morada de paz, e em moradas bem seguras, e em lugares quietos de descanso.'),
 (45729,2,23,32,19,'Mas, descendo ao bosque, cairá saraiva e a cidade será inteiramente abatida.'),
 (45730,2,23,32,20,'Bem-aventurados vós os que semeais junto a todas as águas; e deixais livres os pés do boi e do jumento.'),
 (45731,2,23,33,1,'Ai de ti, despojador, que não foste despojado, e que procedes perfidamente contra os que não procederam perfidamente contra ti! Acabando tu de despojar, serás despojado; e, acabando tu de tratar perfidamente, perfidamente te tratarão.'),
@@ -17085,8 +16767,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (45775,2,23,35,4,'Dizei aos turbados de coração: Sede fortes, não temais; eis que o vosso Deus virá com vingança, com recompensa de Deus; ele virá, e vos salvará.'),
 (45776,2,23,35,5,'Então os olhos dos cegos serão abertos, e os ouvidos dos surdos se abrirão.'),
 (45777,2,23,35,6,'Então os coxos saltarão como cervos, e a língua dos mudos cantará; porque águas arrebentarão no deserto e ribeiros no ermo.'),
-(45778,2,23,35,7,'E a terra seca se tornará em lagos, e a terra sedenta em mananciais de águas; e nas habitações em que jaziam os chacais haverá erva com canas e juncos.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(45778,2,23,35,7,'E a terra seca se tornará em lagos, e a terra sedenta em mananciais de águas; e nas habitações em que jaziam os chacais haverá erva com canas e juncos.'),
 (45779,2,23,35,8,'E ali haverá uma estrada, um caminho, que se chamará o caminho santo; o imundo não passará por ele, mas será para aqueles; os caminhantes, até mesmo os loucos, não errarão.'),
 (45780,2,23,35,9,'Ali não haverá leão, nem animal feroz subirá a ele, nem se achará nele; porém só os remidos andarão por ele.'),
 (45781,2,23,35,10,'E os resgatados do Senhor voltarão; e virão a Sião com júbilo, e alegria eterna haverá sobre as suas cabeças; gozo e alegria alcançarão, e deles fugirá a tristeza e o gemido.'),
@@ -17136,8 +16817,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (45825,2,23,37,22,'Esta é a palavra que o Senhor falou a respeito dele: A virgem, a filha de Sião, te despreza, de ti zomba; a filha de Jerusalém meneia a cabeça por detrás de ti.'),
 (45826,2,23,37,23,'A quem afrontaste e blasfemaste? E contra quem alçaste a voz, e ergueste os teus olhos ao alto? Contra o Santo de Israel.'),
 (45827,2,23,37,24,'Por meio de teus servos afrontaste o Senhor, e disseste: Com a multidão dos meus carros subi eu aos cumes dos montes, aos últimos recessos do Líbano; e cortarei os seus altos cedros e as suas faias escolhidas, e entrarei na altura do seu cume, ao bosque do seu campo fértil.'),
-(45828,2,23,37,25,'Eu cavei, e bebi as águas; e com as plantas de meus pés sequei todos os rios dos lugares sitiados.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(45828,2,23,37,25,'Eu cavei, e bebi as águas; e com as plantas de meus pés sequei todos os rios dos lugares sitiados.'),
 (45829,2,23,37,26,'Porventura não ouviste que já há muito tempo eu fiz isto, e já desde os dias antigos o tinha formado? Agora porém o fiz vir, para que tu fosses o que destruísse as cidades fortificadas, e as reduzisse a montões de ruínas.'),
 (45830,2,23,37,27,'Por isso os seus moradores, dispondo de pouca força, andaram atemorizados e envergonhados; tornaram-se como a erva do campo, e a relva verde, e o feno dos telhados, e o trigo queimado antes da seara.'),
 (45831,2,23,37,28,'Porém eu conheço o teu assentar, e o teu sair, e o teu entrar, e o teu furor contra mim.'),
@@ -17187,8 +16867,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (45875,2,23,40,4,'Todo o vale será exaltado, e todo o monte e todo o outeiro será abatido; e o que é torcido se endireitará, e o que é áspero se aplainará.'),
 (45876,2,23,40,5,'E a glória do Senhor se manifestará, e toda a carne juntamente a verá, pois a boca do Senhor o disse.'),
 (45877,2,23,40,6,'Uma voz diz: Clama; e alguém disse: Que hei de clamar? Toda a carne é erva e toda a sua beleza como a flor do campo.'),
-(45878,2,23,40,7,'Seca-se a erva, e cai a flor, soprando nela o Espírito do Senhor. Na verdade o povo é erva.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(45878,2,23,40,7,'Seca-se a erva, e cai a flor, soprando nela o Espírito do Senhor. Na verdade o povo é erva.'),
 (45879,2,23,40,8,'Seca-se a erva, e cai a flor, porém a palavra de nosso Deus subsiste eternamente.'),
 (45880,2,23,40,9,'Tu, ó Sião, que anuncias boas novas, sobe a um monte alto. Tu, ó Jerusalém, que anuncias boas novas, levanta a tua voz fortemente; levanta-a, não temas, e dize às cidades de Judá: Eis aqui está o vosso Deus.'),
 (45881,2,23,40,10,'Eis que o Senhor DEUS virá com poder e seu braço dominará por ele; eis que o seu galardão está com ele, e o seu salário diante da sua face.'),
@@ -17238,8 +16917,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (45925,2,23,41,23,'Anunciai-nos as coisas que ainda hão de vir, para que saibamos que sois deuses; ou fazei bem, ou fazei mal, para que nos assombremos, e juntamente o vejamos.'),
 (45926,2,23,41,24,'Eis que sois menos do que nada e a vossa obra é menos do que nada; abominação é quem vos escolhe.'),
 (45927,2,23,41,25,'Suscitei a um do norte, e ele há de vir; desde o nascimento do sol invocará o meu nome; e virá sobre os príncipes, como sobre o lodo e, como o oleiro pisa o barro, os pisará.'),
-(45928,2,23,41,26,'Quem anunciou isto desde o princípio, para que o possamos saber, ou desde antes, para que digamos: Justo é? Porém não há quem anuncie, nem tampouco quem manifeste, nem tampouco quem ouça as vossas palavras.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(45928,2,23,41,26,'Quem anunciou isto desde o princípio, para que o possamos saber, ou desde antes, para que digamos: Justo é? Porém não há quem anuncie, nem tampouco quem manifeste, nem tampouco quem ouça as vossas palavras.'),
 (45929,2,23,41,27,'Eu sou o que primeiro direi a Sião: Eis que ali estão; e a Jerusalém darei um anunciador de boas novas.'),
 (45930,2,23,41,28,'E quando olhei, não havia ninguém; nem mesmo entre estes, conselheiro algum havia a quem perguntasse ou que me respondesse palavra.'),
 (45931,2,23,41,29,'Eis que todos são vaidade; as suas obras não são coisa alguma; as suas imagens de fundição são vento e confusão.'),
@@ -17289,8 +16967,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (45975,2,23,43,19,'Eis que faço uma coisa nova, agora sairá à luz; porventura não a percebeis? Eis que porei um caminho no deserto, e rios no ermo.'),
 (45976,2,23,43,20,'Os animais do campo me honrarão, os chacais, e os avestruzes; porque porei águas no deserto, e rios no ermo, para dar de beber ao meu povo, ao meu eleito.'),
 (45977,2,23,43,21,'A esse povo que formei para mim; o meu louvor relatarão.'),
-(45978,2,23,43,22,'Contudo tu não me invocaste a mim, ó Jacó, mas te cansaste de mim, ó Israel.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(45978,2,23,43,22,'Contudo tu não me invocaste a mim, ó Jacó, mas te cansaste de mim, ó Israel.'),
 (45979,2,23,43,23,'Não me trouxeste o gado miúdo dos teus holocaustos, nem me honraste com os teus sacrifícios; não te fiz servir com ofertas, nem te fatiguei com incenso.'),
 (45980,2,23,43,24,'Não me compraste por dinheiro cana aromática, nem com a gordura dos teus sacrifícios me satisfizeste, mas me deste trabalho com os teus pecados, e me cansaste com as tuas iniqüidades.'),
 (45981,2,23,43,25,'Eu, eu mesmo, sou o que apago as tuas transgressões por amor de mim, e dos teus pecados não me lembro.'),
@@ -17391,8 +17068,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (46075,2,23,48,10,'Eis que já te purifiquei, mas não como a prata; escolhi-te na fornalha da aflição.'),
 (46076,2,23,48,11,'Por amor de mim, por amor de mim o farei, porque, como seria profanado o meu nome? E a minha glória não a darei a outrem.'),
 (46077,2,23,48,12,'Dá-me ouvidos, ó Jacó, e tu, ó Israel, a quem chamei; eu sou o mesmo, eu o primeiro, eu também o último.'),
-(46078,2,23,48,13,'Também a minha mão fundou a terra, e a minha destra mediu os céus a palmos; eu os chamarei, e aparecerão juntos.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(46078,2,23,48,13,'Também a minha mão fundou a terra, e a minha destra mediu os céus a palmos; eu os chamarei, e aparecerão juntos.'),
 (46079,2,23,48,14,'Ajuntai-vos todos vós, e ouvi: Quem, dentre eles, tem anunciado estas coisas? O SENHOR o amou, e executará a sua vontade contra babilônia, e o seu braço será contra os caldeus.'),
 (46080,2,23,48,15,'Eu, eu o tenho falado; também já o chamei, e o trarei, e farei próspero o seu caminho.'),
 (46081,2,23,48,16,'Chegai-vos a mim, ouvi isto: Não falei em segredo desde o princípio; desde o tempo em que aquilo se fez eu estava ali, e agora o Senhor DEUS me enviou a mim, e o seu Espírito.'),
@@ -17442,8 +17118,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (46125,2,23,51,1,'Ouvi-me, vós os que seguis a justiça, os que buscais ao SENHOR. Olhai para a rocha de onde fostes cortados, e para a caverna do poço de onde fostes cavados.'),
 (46126,2,23,51,2,'Olhai para Abraão, vosso pai, e para Sara, que vos deu à luz; porque, sendo ele só, o chamei, e o abençoei e o multipliquei.'),
 (46127,2,23,51,3,'Porque o Senhor consolará a Sião; consolará a todos os seus lugares assolados, e fará o seu deserto como o Éden, e a sua solidão como o jardim do Senhor; gozo e alegria se achará nela, ação de graças, e voz de melodia.'),
-(46128,2,23,51,4,'Atendei-me, povo meu, e nação minha, inclinai os ouvidos para mim; porque de mim sairá a lei, e o meu juízo farei repousar para a luz dos povos.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(46128,2,23,51,4,'Atendei-me, povo meu, e nação minha, inclinai os ouvidos para mim; porque de mim sairá a lei, e o meu juízo farei repousar para a luz dos povos.'),
 (46129,2,23,51,5,'Perto está a minha justiça, vem saindo a minha salvação, e os meus braços julgarão os povos; as ilhas me aguardarão, e no meu braço esperarão.'),
 (46130,2,23,51,6,'Levantai os vossos olhos para os céus, e olhai para a terra em baixo, porque os céus desaparecerão como a fumaça, e a terra se envelhecerá como roupa, e os seus moradores morrerão semelhantemente; porém a minha salvação durará para sempre, e a minha justiça não será abolida.'),
 (46131,2,23,51,7,'Ouvi-me, vós que conheceis a justiça, povo em cujo coração está a minha lei; não temais o opróbrio dos homens, nem vos turbeis pelas suas injúrias.'),
@@ -17493,8 +17168,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (46175,2,23,54,1,'Canta alegremente, ó estéril, que não deste à luz; rompe em cântico, e exclama com alegria, tu que não tiveste dores de parto; porque mais são os filhos da mulher solitária, do que os filhos da casada, diz o SENHOR.'),
 (46176,2,23,54,2,'Amplia o lugar da tua tenda, e estendam-se as cortinas das tuas habitações; não o impeças; alonga as tuas cordas, e fixa bem as tuas estacas.'),
 (46177,2,23,54,3,'Porque transbordarás para a direita e para a esquerda; e a tua descendência possuirá os gentios e fará que sejam habitadas as cidades assoladas.'),
-(46178,2,23,54,4,'Não temas, porque não serás envergonhada; e não te envergonhes, porque não serás humilhada; antes te esquecerás da vergonha da tua mocidade, e não te lembrarás mais do opróbrio da tua viuvez.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(46178,2,23,54,4,'Não temas, porque não serás envergonhada; e não te envergonhes, porque não serás humilhada; antes te esquecerás da vergonha da tua mocidade, e não te lembrarás mais do opróbrio da tua viuvez.'),
 (46179,2,23,54,5,'Porque o teu Criador é o teu marido; o Senhor dos Exércitos é o seu nome; e o Santo de Israel é o teu Redentor; que é chamado o Deus de toda a terra.'),
 (46180,2,23,54,6,'Porque o Senhor te chamou como a mulher desamparada e triste de espírito; como a mulher da mocidade, que fora desprezada, diz o teu Deus.'),
 (46181,2,23,54,7,'Por um breve momento te deixei, mas com grandes misericórdias te recolherei;'),
@@ -17544,8 +17218,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (46225,2,23,57,9,'E foste ao rei com óleo, e multiplicaste os teus perfumes e enviaste os teus embaixadores para longe, e te abateste até ao inferno.'),
 (46226,2,23,57,10,'Na tua comprida viagem te cansaste; porém não disseste: Não há esperança; achaste novo vigor na tua mão; por isso não adoeceste.'),
 (46227,2,23,57,11,'Mas de quem tiveste receio, ou temor, para que mentisses, e não te lembrasses de mim, nem no teu coração me pusesses? Não é porventura porque eu me calei, e isso há muito tempo, e não me temes?'),
-(46228,2,23,57,12,'Eu publicarei a tua justiça, e as tuas obras, que não te aproveitarão.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(46228,2,23,57,12,'Eu publicarei a tua justiça, e as tuas obras, que não te aproveitarão.'),
 (46229,2,23,57,13,'Quando clamares, livrem-te os ídolos que ajuntaste; mas o vento a todos levará, e um sopro os arrebatará; mas o que confia em mim possuirá a terra, e herdará o meu santo monte.'),
 (46230,2,23,57,14,'E dir-se-á: Aplanai, aplanai a estrada, preparai o caminho; tirai os tropeços do caminho do meu povo.'),
 (46231,2,23,57,15,'Porque assim diz o Alto e o Sublime, que habita na eternidade, e cujo nome é Santo: Num alto e santo lugar habito; como também com o contrito e abatido de espírito, para vivificar o espírito dos abatidos, e para vivificar o coração dos contritos.'),
@@ -17595,8 +17268,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (46275,2,23,60,3,'E os gentios caminharão à tua luz, e os reis ao resplendor que te nasceu.'),
 (46276,2,23,60,4,'Levanta em redor os teus olhos, e vê; todos estes já se ajuntaram, e vêm a ti; teus filhos virão de longe, e tuas filhas serão criadas ao teu lado.'),
 (46277,2,23,60,5,'Então o verás, e serás iluminado, e o teu coração estremecerá e se alargará; porque a abundância do mar se tornará a ti, e as riquezas dos gentios virão a ti.'),
-(46278,2,23,60,6,'A multidão de camelos te cobrirá, os dromedários de Midiã e Efá; todos virão de Sabá; ouro e incenso trarão, e publicarão os louvores do Senhor.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(46278,2,23,60,6,'A multidão de camelos te cobrirá, os dromedários de Midiã e Efá; todos virão de Sabá; ouro e incenso trarão, e publicarão os louvores do Senhor.'),
 (46279,2,23,60,7,'Todas as ovelhas de Quedar se congregarão a ti; os carneiros de Nebaiote te servirão; com agrado subirão ao meu altar, e eu glorificarei a casa da minha glória.'),
 (46280,2,23,60,8,'Quem são estes que vêm voando como nuvens, e como pombas às suas janelas?'),
 (46281,2,23,60,9,'Certamente as ilhas me aguardarão, e primeiro os navios de Társis, para trazer teus filhos de longe, e com eles a sua prata e o seu ouro, para o nome do Senhor teu Deus, e para o Santo de Israel, porquanto ele te glorificou.'),
@@ -17646,8 +17318,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (46325,2,23,63,8,'Porque dizia: Certamente eles são meu povo, filhos que não mentirão; assim ele se fez o seu Salvador.'),
 (46326,2,23,63,9,'Em toda a angústia deles ele foi angustiado, e o anjo da sua presença os salvou; pelo seu amor, e pela sua compaixão ele os remiu; e os tomou, e os conduziu todos os dias da antiguidade.'),
 (46327,2,23,63,10,'Mas eles foram rebeldes, e contristaram o seu Espírito Santo; por isso se lhes tornou em inimigo, e ele mesmo pelejou contra eles.'),
-(46328,2,23,63,11,'Todavia se lembrou dos dias da antiguidade, de Moisés, e do seu povo, dizendo: Onde está agora o que os fez subir do mar com os pastores do seu rebanho? Onde está o que pôs no meio deles o seu Espírito Santo?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(46328,2,23,63,11,'Todavia se lembrou dos dias da antiguidade, de Moisés, e do seu povo, dizendo: Onde está agora o que os fez subir do mar com os pastores do seu rebanho? Onde está o que pôs no meio deles o seu Espírito Santo?'),
 (46329,2,23,63,12,'Aquele cujo braço glorioso ele fez andar à mão direita de Moisés, que fendeu as águas diante deles, para fazer para si um nome eterno?'),
 (46330,2,23,63,13,'Aquele que os guiou pelos abismos, como o cavalo no deserto, de modo que nunca tropeçaram?'),
 (46331,2,23,63,14,'Como o animal que desce ao vale, o Espírito do Senhor lhes deu descanso; assim guiaste ao teu povo, para te fazeres um nome glorioso.'),
@@ -17697,8 +17368,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (46375,2,23,66,2,'Porque a minha mão fez todas estas coisas, e assim todas elas foram feitas, diz o Senhor; mas para esse olharei, para o pobre e abatido de espírito, e que treme da minha palavra.'),
 (46376,2,23,66,3,'Quem mata um boi é como o que tira a vida a um homem; quem sacrifica um cordeiro é como o que degola um cão; quem oferece uma oblação é como o que oferece sangue de porco; quem queima incenso em memorial é como o que bendiz a um ídolo; também estes escolhem os seus próprios caminhos, e a sua alma se deleita nas suas abominações.'),
 (46377,2,23,66,4,'Também eu escolherei as suas calamidades, farei vir sobre eles os seus temores; porquanto clamei e ninguém respondeu, falei e não escutaram; mas fizeram o que era mau aos meus olhos, e escolheram aquilo em que eu não tinha prazer.'),
-(46378,2,23,66,5,'Ouvi a palavra do Senhor, os que tremeis da sua palavra. Vossos irmãos, que vos odeiam e que para longe vos lançam por amor do meu nome, dizem: Seja glorificado o Senhor, para que vejamos a vossa alegria; mas eles serão confundidos.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(46378,2,23,66,5,'Ouvi a palavra do Senhor, os que tremeis da sua palavra. Vossos irmãos, que vos odeiam e que para longe vos lançam por amor do meu nome, dizem: Seja glorificado o Senhor, para que vejamos a vossa alegria; mas eles serão confundidos.'),
 (46379,2,23,66,6,'Uma voz de grande rumor virá da cidade, uma voz do templo, a voz do Senhor, que dá o pago aos seus inimigos.'),
 (46380,2,23,66,7,'Antes que estivesse de parto, deu à luz; antes que lhe viessem as dores, deu à luz um menino.'),
 (46381,2,23,66,8,'Quem jamais ouviu tal coisa? Quem viu coisas semelhantes? Poder-se-ia fazer nascer uma terra num só dia? Nasceria uma nação de uma só vez? Mas Sião esteve de parto e já deu à luz seus filhos.'),
@@ -17748,8 +17418,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (46425,2,24,2,9,'Portanto ainda contenderei convosco, diz o Senhor; e até com os filhos de vossos filhos contenderei.'),
 (46426,2,24,2,10,'Pois, passai às ilhas de Quitim, e vede; e enviai a Quedar, e atentai bem, e vede se jamais sucedeu coisa semelhante.'),
 (46427,2,24,2,11,'Houve alguma nação que trocasse os seus deuses, ainda que não fossem deuses? Todavia o meu povo trocou a sua glória por aquilo que é de nenhum proveito.'),
-(46428,2,24,2,12,'Espantai-vos disto, ó céus, e horrorizai-vos! Ficai verdadeiramente desolados, diz o Senhor.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(46428,2,24,2,12,'Espantai-vos disto, ó céus, e horrorizai-vos! Ficai verdadeiramente desolados, diz o Senhor.'),
 (46429,2,24,2,13,'Porque o meu povo fez duas maldades: a mim me deixaram, o manancial de águas vivas, e cavaram cisternas, cisternas rotas, que não retêm águas.'),
 (46430,2,24,2,14,'Acaso é Israel um servo? É ele um escravo nascido em casa? Por que, pois, veio a ser presa?'),
 (46431,2,24,2,15,'Os filhos de leão rugiram sobre ele, levantaram a sua voz; e fizeram da sua terra uma desolação; as suas cidades se queimaram, e ninguém habita nelas.'),
@@ -17799,8 +17468,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (46475,2,24,3,22,'Voltai, ó filhos rebeldes, eu curarei as vossas rebeliões. Eis-nos aqui, vimos a ti; porque tu és o Senhor nosso Deus.'),
 (46476,2,24,3,23,'Certamente em vão se confia nos outeiros e na multidão das montanhas; deveras no Senhor nosso Deus está a salvação de Israel.'),
 (46477,2,24,3,24,'Porque a confusão devorou o trabalho de nossos pais desde a nossa mocidade; as suas ovelhas e o seu gado, os seus filhos e as suas filhas.'),
-(46478,2,24,3,25,'Deitemo-nos em nossa vergonha; e cubra-nos a nossa confusão, porque pecamos contra o Senhor nosso Deus, nós e nossos pais, desde a nossa mocidade até o dia de hoje; e não demos ouvidos à voz do Senhor nosso Deus.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(46478,2,24,3,25,'Deitemo-nos em nossa vergonha; e cubra-nos a nossa confusão, porque pecamos contra o Senhor nosso Deus, nós e nossos pais, desde a nossa mocidade até o dia de hoje; e não demos ouvidos à voz do Senhor nosso Deus.'),
 (46479,2,24,4,1,'Se voltares, ó Israel, diz o SENHOR, volta para mim; e se tirares as tuas abominações de diante de mim, não andarás mais vagueando,'),
 (46480,2,24,4,2,'E jurarás: Vive o Senhor na verdade, no juízo e na justiça; e nele se bendirão as nações, e nele se gloriarão.'),
 (46481,2,24,4,3,'Porque assim diz o Senhor aos homens de Judá e a Jerusalém: Preparai para vós o campo de lavoura, e não semeeis entre espinhos.'),
@@ -17850,8 +17518,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (46525,2,24,5,16,'A sua aljava é como uma sepultura aberta; todos eles são poderosos.'),
 (46526,2,24,5,17,'E comerão a tua sega e o teu pão, que teus filhos e tuas filhas haviam de comer; comerão as tuas ovelhas e as tuas vacas; comerão a tua vide e a tua figueira; as tuas cidades fortificadas, em que confiavas, abatê-las-ão à espada.'),
 (46527,2,24,5,18,'Contudo, ainda naqueles dias, diz o Senhor, não farei de vós uma destruição final.'),
-(46528,2,24,5,19,'E sucederá que, quando disserdes: Por que nos fez o Senhor nosso Deus todas estas coisas? Então lhes dirás: Como vós me deixastes, e servistes a deuses estranhos na vossa terra, assim servireis a estrangeiros, em terra que não é vossa.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(46528,2,24,5,19,'E sucederá que, quando disserdes: Por que nos fez o Senhor nosso Deus todas estas coisas? Então lhes dirás: Como vós me deixastes, e servistes a deuses estranhos na vossa terra, assim servireis a estrangeiros, em terra que não é vossa.'),
 (46529,2,24,5,20,'Anunciai isto na casa de Jacó, e fazei-o ouvir em Judá, dizendo:'),
 (46530,2,24,5,21,'Ouvi agora isto, ó povo insensato, e sem coração, que tendes olhos e não vedes, que tendes ouvidos e não ouvis.'),
 (46531,2,24,5,22,'Porventura não me temereis a mim? diz o Senhor; não temereis diante de mim, que pus a areia por limite ao mar, por ordenança eterna, que ele não traspassará? Ainda que se levantem as suas ondas, não prevalecerão; ainda que bramem, não a traspassarão.'),
@@ -17901,8 +17568,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (46575,2,24,7,5,'Mas, se deveras melhorardes os vossos caminhos e as vossas obras; se deveras praticardes o juízo entre um homem e o seu próximo;'),
 (46576,2,24,7,6,'Se não oprimirdes o estrangeiro, e o órfão, e a viúva, nem derramardes sangue inocente neste lugar, nem andardes após outros deuses para vosso próprio mal,'),
 (46577,2,24,7,7,'Eu vos farei habitar neste lugar, na terra que dei a vossos pais, desde os tempos antigos e para sempre.'),
-(46578,2,24,7,8,'Eis que vós confiais em palavras falsas, que para nada vos aproveitam.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(46578,2,24,7,8,'Eis que vós confiais em palavras falsas, que para nada vos aproveitam.'),
 (46579,2,24,7,9,'Porventura furtareis, e matareis, e adulterareis, e jurareis falsamente, e queimareis incenso a Baal, e andareis após outros deuses que não conhecestes,'),
 (46580,2,24,7,10,'E então vireis, e vos poreis diante de mim nesta casa, que se chama pelo meu nome, e direis: Fomos libertados para fazermos todas estas abominações?'),
 (46581,2,24,7,11,'É pois esta casa, que se chama pelo meu nome, uma caverna de salteadores aos vossos olhos? Eis que eu, eu mesmo, vi isto, diz o Senhor.'),
@@ -17952,8 +17618,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (46625,2,24,8,21,'Estou quebrantado pela ferida da filha do meu povo; ando de luto; o espanto se apoderou de mim.'),
 (46626,2,24,8,22,'Porventura não há bálsamo em Gileade? Ou não há lá médico? Por que, pois, não se realizou a cura da filha do meu povo?'),
 (46627,2,24,9,1,'Oh! se a minha cabeça se tornasse em águas, e os meus olhos numa fonte de lágrimas! Então choraria de dia e de noite os mortos da filha do meu povo.'),
-(46628,2,24,9,2,'Oh! se tivesse no deserto uma estalagem de caminhantes! Então deixaria o meu povo, e me apartaria dele, porque todos eles são adúlteros, um bando de aleivosos.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(46628,2,24,9,2,'Oh! se tivesse no deserto uma estalagem de caminhantes! Então deixaria o meu povo, e me apartaria dele, porque todos eles são adúlteros, um bando de aleivosos.'),
 (46629,2,24,9,3,'E encurvam a língua como se fosse o seu arco, para a mentira; fortalecem-se na terra, mas não para a verdade; porque avançam de malícia em malícia, e a mim não me conhecem, diz o Senhor.'),
 (46630,2,24,9,4,'Guardai-vos cada um do seu próximo, e de irmão nenhum vos fieis; porque todo o irmão não faz mais do que enganar, e todo o próximo anda caluniando.'),
 (46631,2,24,9,5,'E zombará cada um do seu próximo, e não falam a verdade; ensinam a sua língua a falar a mentira, andam-se cansando em proceder perversamente.'),
@@ -18003,8 +17668,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (46675,2,24,10,23,'Eu sei, ó Senhor, que não é do homem o seu caminho; nem do homem que caminha o dirigir os seus passos.'),
 (46676,2,24,10,24,'Castiga-me, ó Senhor, porém com juízo, não na tua ira, para que não me reduzas a nada.'),
 (46677,2,24,10,25,'Derrama a tua indignação sobre os gentios que não te conhecem, e sobre as gerações que não invocam o teu nome; porque devoraram a Jacó, e devoraram-no e consumiram-no, e assolaram a sua morada.'),
-(46678,2,24,11,1,'A palavra que veio a Jeremias, da parte do SENHOR, dizendo:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(46678,2,24,11,1,'A palavra que veio a Jeremias, da parte do SENHOR, dizendo:'),
 (46679,2,24,11,2,'Ouvi as palavras desta aliança, e falai aos homens de Judá, e aos habitantes de Jerusalém.'),
 (46680,2,24,11,3,'Dize-lhes pois: Assim diz o Senhor Deus de Israel: Maldito o homem que não escutar as palavras desta aliança,'),
 (46681,2,24,11,4,'Que ordenei a vossos pais no dia em que os tirei da terra do Egito, da fornalha de ferro, dizendo: Dai ouvidos à minha voz, e fazei conforme a tudo quanto vos mando; e vós sereis o meu povo, e eu serei o vosso Deus.'),
@@ -18054,8 +17718,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (46725,2,24,13,8,'Então veio a mim a palavra do Senhor, dizendo:'),
 (46726,2,24,13,9,'Assim diz o Senhor: Do mesmo modo farei apodrecer a soberba de Judá, e a muita soberba de Jerusalém.'),
 (46727,2,24,13,10,'Este povo maligno, que recusa ouvir as minhas palavras, que caminha segundo a dureza do seu coração, e anda após deuses alheios, para servi-los, e inclinar-se diante deles, será tal como este cinto, que para nada presta.'),
-(46728,2,24,13,11,'Porque, como o cinto está pegado aos lombos do homem, assim eu liguei a mim toda a casa de Israel, e toda a casa de Judá, diz o Senhor, para me serem por povo, e por nome, e por louvor, e por glória; mas não deram ouvidos.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(46728,2,24,13,11,'Porque, como o cinto está pegado aos lombos do homem, assim eu liguei a mim toda a casa de Israel, e toda a casa de Judá, diz o Senhor, para me serem por povo, e por nome, e por louvor, e por glória; mas não deram ouvidos.'),
 (46729,2,24,13,12,'Portanto, dize-lhes esta palavra: Assim diz o Senhor Deus de Israel: Todo o odre se encherá de vinho; e dir-te-ão: Porventura não sabemos nós muito bem que todo o odre se encherá de vinho?'),
 (46730,2,24,13,13,'Mas tu dize-lhes: Assim diz o Senhor: Eis que eu encherei de embriaguez a todos os habitantes desta terra, e aos reis da estirpe de Davi, que estão assentados sobre o seu trono, e aos sacerdotes, e aos profetas, e a todos os habitantes de Jerusalém.'),
 (46731,2,24,13,14,'E fá-los-ei em pedaços atirando uns contra os outros, e juntamente os pais com os filhos, diz o Senhor; não perdoarei, nem pouparei, nem terei deles compaixão, para que não os destrua.'),
@@ -18105,8 +17768,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (46775,2,24,15,9,'A que dava à luz sete se enfraqueceu; expirou a sua alma; pôs-se-lhe o sol sendo ainda de dia, confundiu-se, e envergonhou-se; e os que ficarem dela entregarei à espada, diante dos seus inimigos, diz o Senhor.'),
 (46776,2,24,15,10,'Ai de mim, minha mãe, por que me deste à luz homem de rixa e homem de contendas para toda a terra? Nunca lhes emprestei com usura, nem eles me emprestaram com usura, todavia cada um deles me amaldiçoa.'),
 (46777,2,24,15,11,'Disse o Senhor: De certo que o teu remanescente será para o bem; de certo, no tempo da calamidade, e no tempo da angústia, farei que o inimigo te dirija súplicas.'),
-(46778,2,24,15,12,'Pode alguém quebrar o ferro, o ferro do norte, ou o aço?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(46778,2,24,15,12,'Pode alguém quebrar o ferro, o ferro do norte, ou o aço?'),
 (46779,2,24,15,13,'As tuas riquezas e os teus tesouros entregarei sem preço ao saque; e isso por todos os teus pecados, mesmo em todos os teus limites.'),
 (46780,2,24,15,14,'E te farei passar aos teus inimigos numa terra que não conheces; porque o fogo se acendeu em minha ira, e sobre vós arderá;'),
 (46781,2,24,15,15,'Tu, ó Senhor, o sabes; lembra-te de mim, e visita-me, e vinga-me dos meus perseguidores; não me arrebates por tua longanimidade; sabe que por amor de ti tenho sofrido afronta.'),
@@ -18156,8 +17818,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (46825,2,24,17,17,'Não me sejas por espanto; meu refúgio és tu no dia do mal.'),
 (46826,2,24,17,18,'Envergonhem-se os que me perseguem, e não me envergonhe eu; assombrem-se eles, e não me assombre eu; traze sobre eles o dia do mal, e destrói-os com dobrada destruição.'),
 (46827,2,24,17,19,'Assim me disse o Senhor: Vai, e põe-te à porta dos filhos do povo, pela qual entram os reis de Judá, e pela qual saem; como também em todas as portas de Jerusalém.'),
-(46828,2,24,17,20,'E dize-lhes: Ouvi a palavra do Senhor, vós, reis de Judá e todo o Judá, e todos os moradores de Jerusalém que entrais por estas portas.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(46828,2,24,17,20,'E dize-lhes: Ouvi a palavra do Senhor, vós, reis de Judá e todo o Judá, e todos os moradores de Jerusalém que entrais por estas portas.'),
 (46829,2,24,17,21,'Assim diz o Senhor: Guardai as vossas almas, e não tragais cargas no dia de sábado, nem as introduzais pelas portas de Jerusalém;'),
 (46830,2,24,17,22,'Nem tireis cargas de vossas casas no dia de sábado, nem façais obra alguma; antes santificai o dia de sábado, como eu ordenei a vossos pais.'),
 (46831,2,24,17,23,'Mas não escutaram, nem inclinaram os seus ouvidos; antes endureceram a sua cerviz, para não ouvirem, e para não receberem correção.'),
@@ -18207,8 +17868,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (46875,2,24,20,2,'E feriu Pasur ao profeta Jeremias, e o colocou no cepo que está na porta superior de Benjamim, na casa do Senhor.'),
 (46876,2,24,20,3,'E sucedeu que no dia seguinte Pasur tirou a Jeremias do cepo. Então disse-lhe Jeremias: O Senhor não chama o teu nome Pasur, mas, Terror por todos os lados.'),
 (46877,2,24,20,4,'Porque assim diz o SENHOR: Eis que farei de ti um terror para ti mesmo, e para todos os teus amigos. Eles cairão à espada de seus inimigos, e teus olhos o verão. Entregarei todo o Judá na mão do rei de babilônia; ele os levará presos a babilônia, e feri-los-á à espada.'),
-(46878,2,24,20,5,'Também entregarei toda a riqueza desta cidade, e todo o seu trabalho, e todas as suas coisas preciosas, sim, todos os tesouros dos reis de Judá entregarei na mão de seus inimigos, e saqueá-los-ão, e tomá-los-ão e levá-los-ão a babilônia.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(46878,2,24,20,5,'Também entregarei toda a riqueza desta cidade, e todo o seu trabalho, e todas as suas coisas preciosas, sim, todos os tesouros dos reis de Judá entregarei na mão de seus inimigos, e saqueá-los-ão, e tomá-los-ão e levá-los-ão a babilônia.'),
 (46879,2,24,20,6,'E tu, Pasur, e todos os moradores da tua casa ireis para o cativeiro; e virás a babilônia, e ali morrerás, e ali serás sepultado, tu, e todos os teus amigos, aos quais profetizaste falsamente.'),
 (46880,2,24,20,7,'Persuadiste-me, ó Senhor, e persuadido fiquei; mais forte foste do que eu, e prevaleceste; sirvo de escárnio todo o dia; cada um deles zomba de mim.'),
 (46881,2,24,20,8,'Porque desde que falo, grito, clamo: Violência e destruição; porque se tornou a palavra do Senhor um opróbrio e ludíbrio todo o dia.'),
@@ -18258,8 +17918,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (46925,2,24,22,20,'Sobe ao Líbano, e clama, e levanta a tua voz em Basã, e clama desde Abarim; porque estão destruídos todos os teus namorados.'),
 (46926,2,24,22,21,'Falei contigo na tua prosperidade, mas tu disseste: Não ouvirei. Este tem sido o teu caminho, desde a tua mocidade, pois nunca deste ouvidos à minha voz.'),
 (46927,2,24,22,22,'O vento apascentará a todos os teus pastores, e os teus namorados irão para o cativeiro; certamente então te confundirás, e te envergonharás por causa de toda a tua maldade.'),
-(46928,2,24,22,23,'Ó tu, que habitas no Líbano e fazes o teu ninho nos cedros, quão lastimada serás quando te vierem as dores e os ais como da que está de parto.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(46928,2,24,22,23,'Ó tu, que habitas no Líbano e fazes o teu ninho nos cedros, quão lastimada serás quando te vierem as dores e os ais como da que está de parto.'),
 (46929,2,24,22,24,'Vivo eu, diz o Senhor, que ainda que Conias, filho de Jeoiaquim, rei de Judá, fosse o anel do selo na minha mão direita, contudo dali te arrancaria.'),
 (46930,2,24,22,25,'E entregar-te-ei na mão dos que buscam a tua vida, e na mão daqueles diante de quem tu temes, a saber, na mão de Nabucodonosor, rei de babilônia, e na mão dos caldeus.'),
 (46931,2,24,22,26,'E lançar-te-ei, a ti e à tua mãe que te deu à luz, para uma terra estranha, em que não nasceste, e ali morrereis.'),
@@ -18309,8 +17968,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (46975,2,24,23,40,'E porei sobre vós perpétuo opróbrio, e eterna vergonha, que não será esquecida.'),
 (46976,2,24,24,1,'Fez-me o SENHOR ver, e eis dois cestos de figos, postos diante do templo do SENHOR, depois que Nabucodonosor, rei de babilônia, levou em cativeiro a Jeconias, filho de Jeoiaquim, rei de Judá, e os príncipes de Judá, e os carpinteiros, e os ferreiros de Jerusalém, e os trouxe a babilônia.'),
 (46977,2,24,24,2,'Um cesto tinha figos muito bons, como os figos temporãos; mas o outro cesto tinha figos muito ruins, que não se podiam comer, de ruins que eram.'),
-(46978,2,24,24,3,'E disse-me o Senhor: Que vês tu, Jeremias? E eu disse: Figos: os figos bons, muito bons e os ruins, muito ruins, que não se podem comer, de ruins que são.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(46978,2,24,24,3,'E disse-me o Senhor: Que vês tu, Jeremias? E eu disse: Figos: os figos bons, muito bons e os ruins, muito ruins, que não se podem comer, de ruins que são.'),
 (46979,2,24,24,4,'Então veio a mim a palavra do Senhor, dizendo:'),
 (46980,2,24,24,5,'Assim diz o Senhor, o Deus de Israel: Como a estes bons figos, assim também conhecerei aos de Judá, levados em cativeiro; os quais enviei deste lugar para a terra dos caldeus, para o seu bem.'),
 (46981,2,24,24,6,'Porei os meus olhos sobre eles, para o seu bem, e os farei voltar a esta terra, e edificá-los-ei, e não os destruirei; e plantá-los-ei, e não os arrancarei.'),
@@ -18411,8 +18069,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (47075,2,24,28,6,'Disse, pois, Jeremias, o profeta: Amém! Assim faça o SENHOR; confirme o SENHOR as tuas palavras, que profetizaste, e torne ele a trazer os utensílios da casa do SENHOR, e todos os do cativeiro de babilônia a este lugar.'),
 (47076,2,24,28,7,'Mas ouve agora esta palavra, que eu falo aos teus ouvidos e aos ouvidos de todo o povo:'),
 (47077,2,24,28,8,'Os profetas que houve antes de mim e antes de ti, desde a antiguidade, profetizaram contra muitas terras, e contra grandes reinos, acerca de guerra, e de mal, e de peste.'),
-(47078,2,24,28,9,'O profeta que profetizar de paz, quando se cumprir a palavra desse profeta, será conhecido como aquele a quem o Senhor na verdade enviou.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(47078,2,24,28,9,'O profeta que profetizar de paz, quando se cumprir a palavra desse profeta, será conhecido como aquele a quem o Senhor na verdade enviou.'),
 (47079,2,24,28,10,'Então Hananias, o profeta, tomou o jugo do pescoço do profeta Jeremias, e o quebrou.'),
 (47080,2,24,28,11,'E falou Hananias na presença de todo o povo, dizendo: Assim diz o SENHOR: Assim, passados dois anos completos, quebrarei o jugo de Nabucodonosor, rei de babilônia, de sobre o pescoço de todas as nações. E Jeremias, o profeta, seguiu o seu caminho.'),
 (47081,2,24,28,12,'Mas veio a palavra do Senhor a Jeremias, depois que Hananias, o profeta, quebrou o jugo de sobre o pescoço de Jeremias, o profeta, dizendo:'),
@@ -18462,8 +18119,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (47125,2,24,30,7,'Ah! porque aquele dia é tão grande, que não houve outro semelhante; e é tempo de angústia para Jacó; ele, porém, será salvo dela.'),
 (47126,2,24,30,8,'Porque será naquele dia, diz o Senhor dos Exércitos, que eu quebrarei o seu jugo de sobre o teu pescoço, e quebrarei os teus grilhões; e nunca mais se servirão dele os estrangeiros.'),
 (47127,2,24,30,9,'Mas servirão ao Senhor, seu Deus, como também a Davi, seu rei, que lhes levantarei.'),
-(47128,2,24,30,10,'Não temas, pois, tu, ó meu servo Jacó, diz o Senhor, nem te espantes, ó Israel; porque eis que te livrarei de terras de longe, e à tua descendência da terra do seu cativeiro; e Jacó voltará, e descansará, e ficará em sossego, e não haverá quem o atemorize.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(47128,2,24,30,10,'Não temas, pois, tu, ó meu servo Jacó, diz o Senhor, nem te espantes, ó Israel; porque eis que te livrarei de terras de longe, e à tua descendência da terra do seu cativeiro; e Jacó voltará, e descansará, e ficará em sossego, e não haverá quem o atemorize.'),
 (47129,2,24,30,11,'Porque eu sou contigo, diz o Senhor, para te salvar; porquanto darei fim a todas as nações entre as quais te espalhei; a ti, porém, não darei fim, mas castigar-te-ei com medida, e de todo não te terei por inocente.'),
 (47130,2,24,30,12,'Porque assim diz o Senhor: A tua ferida é incurável; a tua chaga é dolorosa.'),
 (47131,2,24,30,13,'Não há quem defenda a tua causa para te aplicar curativo; não tens remédios que possam curar.'),
@@ -18513,8 +18169,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (47175,2,24,31,33,'Mas esta é a aliança que farei com a casa de Israel depois daqueles dias, diz o Senhor: Porei a minha lei no seu interior, e a escreverei no seu coração; e eu serei o seu Deus e eles serão o meu povo.'),
 (47176,2,24,31,34,'E não ensinará mais cada um a seu próximo, nem cada um a seu irmão, dizendo: Conhecei ao Senhor; porque todos me conhecerão, desde o menor até ao maior deles, diz o Senhor; porque lhes perdoarei a sua maldade, e nunca mais me lembrarei dos seus pecados.'),
 (47177,2,24,31,35,'Assim diz o Senhor, que dá o sol para luz do dia, e as ordenanças da lua e das estrelas para luz da noite, que agita o mar, bramando as suas ondas; o Senhor dos Exércitos é o seu nome.'),
-(47178,2,24,31,36,'Se falharem estas ordenanças de diante de mim, diz o Senhor, deixará também a descendência de Israel de ser uma nação diante de mim para sempre.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(47178,2,24,31,36,'Se falharem estas ordenanças de diante de mim, diz o Senhor, deixará também a descendência de Israel de ser uma nação diante de mim para sempre.'),
 (47179,2,24,31,37,'Assim disse o Senhor: Se puderem ser medidos os céus lá em cima, e sondados os fundamentos da terra cá em baixo, também eu rejeitarei toda a descendência de Israel, por tudo quanto fizeram, diz o Senhor.'),
 (47180,2,24,31,38,'Eis que vêm dias, diz o Senhor, em que esta cidade será reedificada para o Senhor, desde a torre de Hananeel até à porta da esquina.'),
 (47181,2,24,31,39,'E a linha de medir estender-se-á para diante dela, até ao outeiro de Garebe, e virar-se-á para Goa.'),
@@ -18564,8 +18219,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (47225,2,24,32,43,'E comprar-se-ão campos nesta terra, da qual vós dizeis: Está desolada, sem homens, sem animais; está entregue na mão dos caldeus.'),
 (47226,2,24,32,44,'Comprarão campos por dinheiro, e assinarão as escrituras, e as selarão, e farão que confirmem testemunhas, na terra de Benjamim, e nos contornos de Jerusalém, e nas cidades de Judá, e nas cidades das montanhas, e nas cidades das planícies, e nas cidades do sul; porque os farei voltar do seu cativeiro, diz o Senhor.'),
 (47227,2,24,33,1,'E veio a palavra do SENHOR a Jeremias, segunda vez, estando ele ainda encarcerado no pátio da guarda, dizendo:'),
-(47228,2,24,33,2,'Assim diz o Senhor que faz isto, o Senhor que forma isto, para o estabelecer; o Senhor é o seu nome.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(47228,2,24,33,2,'Assim diz o Senhor que faz isto, o Senhor que forma isto, para o estabelecer; o Senhor é o seu nome.'),
 (47229,2,24,33,3,'Clama a mim, e responder-te-ei, e anunciar-te-ei coisas grandes e firmes que não sabes.'),
 (47230,2,24,33,4,'Porque assim diz o Senhor, o Deus de Israel, acerca das casas desta cidade, e das casas dos reis de Judá, que foram derrubadas com os aríetes e à espada.'),
 (47231,2,24,33,5,'Eles entraram a pelejar contra os caldeus, mas isso é para os encher de cadáveres de homens, que feri na minha ira e no meu furor; porquanto escondi o meu rosto desta cidade, por causa de toda a sua maldade.'),
@@ -18615,8 +18269,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (47275,2,24,35,1,'A palavra que do SENHOR veio a Jeremias, nos dias de Jeoiaquim, filho de Josias, rei de Judá, dizendo:'),
 (47276,2,24,35,2,'Vai à casa dos recabitas, e fala com eles, e leva-os à casa do Senhor, a uma das câmaras e dá-lhes vinho a beber.'),
 (47277,2,24,35,3,'Então tomei a Jazanias, filho de Jeremias, filho de Habazinias, e a seus irmãos, e a todos os seus filhos, e a toda a casa dos recabitas;'),
-(47278,2,24,35,4,'E os levei à casa do Senhor, à câmara dos filhos de Hanã, filho de Jigdalias, homem de Deus, que estava junto à câmara dos príncipes, que ficava sobre a câmara de Maaséias, filho de Salum, guarda do vestíbulo;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(47278,2,24,35,4,'E os levei à casa do Senhor, à câmara dos filhos de Hanã, filho de Jigdalias, homem de Deus, que estava junto à câmara dos príncipes, que ficava sobre a câmara de Maaséias, filho de Salum, guarda do vestíbulo;'),
 (47279,2,24,35,5,'E pus diante dos filhos da casa dos recabitas taças cheias de vinho, e copos, e disse-lhes: Bebei vinho.'),
 (47280,2,24,35,6,'Porém eles disseram: Não beberemos vinho, porque Jonadabe, filho de Recabe, nosso pai, nos ordenou, dizendo: Nunca jamais bebereis vinho, nem vós nem vossos filhos;'),
 (47281,2,24,35,7,'Não edificareis casa, nem semeareis semente, nem plantareis vinha, nem a possuireis; mas habitareis em tendas todos os vossos dias, para que vivais muitos dias sobre a face da terra, em que vós andais peregrinando.'),
@@ -18666,8 +18319,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (47325,2,24,36,32,'Tomou, pois, Jeremias outro rolo, e deu-o a Baruque, filho de Nerias, o escrivão, o qual escreveu nele, da boca de Jeremias, todas as palavras do livro que Jeoiaquim, rei de Judá, tinha queimado no fogo; e ainda se lhes acrescentaram muitas palavras semelhantes.'),
 (47326,2,24,37,1,'E Zedequias, filho de Josias, a quem Nabucodonosor, rei de babilônia, constituiu rei na terra de Judá, reinou em lugar de Conias, filho de Jeoiaquim.'),
 (47327,2,24,37,2,'Mas nem ele, nem os seus servos, nem o povo da terra deram ouvidos às palavras do Senhor que falou pelo ministério de Jeremias, o profeta.'),
-(47328,2,24,37,3,'Contudo mandou o rei Zedequias a Jucal, filho de Selemias, e a Sofonias, filho de Maaséias, o sacerdote, ao profeta Jeremias, para lhe dizer: Roga agora por nós ao Senhor nosso Deus.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(47328,2,24,37,3,'Contudo mandou o rei Zedequias a Jucal, filho de Selemias, e a Sofonias, filho de Maaséias, o sacerdote, ao profeta Jeremias, para lhe dizer: Roga agora por nós ao Senhor nosso Deus.'),
 (47329,2,24,37,4,'E entrava e saía Jeremias entre o povo, porque não o tinham posto na prisão.'),
 (47330,2,24,37,5,'E o exército de Faraó saíra do Egito; e quando os caldeus, que tinham sitiado Jerusalém, ouviram esta notícia, retiraram-se de Jerusalém.'),
 (47331,2,24,37,6,'Então veio a Jeremias, o profeta, a palavra do Senhor, dizendo:'),
@@ -18717,8 +18369,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (47375,2,24,39,1,'No ano nono de Zedequias, rei de Judá, no décimo mês, veio Nabucodonosor, rei de babilônia, e todo o seu exército, contra Jerusalém, e a cercaram.'),
 (47376,2,24,39,2,'No ano undécimo de Zedequias, no quarto mês, aos nove do mês, fez-se uma brecha na cidade.'),
 (47377,2,24,39,3,'Entraram nela todos os príncipes do rei de babilônia, e pararam na porta do meio, a saber: Nergal-Sarezer, Sangar-Nebo, Sarsequim, Rabe-Saris, Nergal-Sarezer, Rabe-Mague, e todos os outros príncipes do rei de babilônia.'),
-(47378,2,24,39,4,'E sucedeu que, vendo-os Zedequias, rei de Judá, e todos os homens de guerra, fugiram, saindo de noite da cidade, pelo caminho do jardim do rei, pela porta que está entre os dois muros; e seguiram pelo caminho da campina.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(47378,2,24,39,4,'E sucedeu que, vendo-os Zedequias, rei de Judá, e todos os homens de guerra, fugiram, saindo de noite da cidade, pelo caminho do jardim do rei, pela porta que está entre os dois muros; e seguiram pelo caminho da campina.'),
 (47379,2,24,39,5,'Mas o exército dos caldeus os perseguiu, e alcançou a Zedequias nas campinas de Jericó; e eles o prenderam, e fizeram-no subir a Nabucodonosor, rei de babilônia, a Ribla, na terra de Hamate, e o rei o sentenciou.'),
 (47380,2,24,39,6,'E o rei de babilônia matou em Ribla os filhos de Zedequias, diante dos seus olhos; também matou o rei de babilônia a todos os nobres de Judá.'),
 (47381,2,24,39,7,'E cegou os olhos de Zedequias, e o atou com duas cadeias de bronze, para levá-lo a babilônia.'),
@@ -18768,8 +18419,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (47425,2,24,41,17,'E partiram, indo habitar em Gerute-Quimã, que está perto de Belém, para dali irem e entrarem no Egito,'),
 (47426,2,24,41,18,'Por causa dos caldeus; porque os temiam, por ter Ismael, filho de Netanias, matado a Gedalias, filho de Aicão, a quem o rei de babilônia tinha feito governador sobre a terra.'),
 (47427,2,24,42,1,'Então chegaram todos os capitães dos exércitos, e Joanã, filho de Careá, e Jezanias, filho de Hosaías, e todo o povo, desde o menor até ao maior,'),
-(47428,2,24,42,2,'E disseram a Jeremias, o profeta: Aceita agora a nossa súplica diante de ti, e roga ao Senhor teu Deus, por nós e por todo este remanescente; porque de muitos restamos uns poucos, como nos vêem os teus olhos;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(47428,2,24,42,2,'E disseram a Jeremias, o profeta: Aceita agora a nossa súplica diante de ti, e roga ao Senhor teu Deus, por nós e por todo este remanescente; porque de muitos restamos uns poucos, como nos vêem os teus olhos;'),
 (47429,2,24,42,3,'Para que o Senhor teu Deus nos ensine o caminho por onde havemos de andar e aquilo que havemos de fazer.'),
 (47430,2,24,42,4,'E disse-lhes Jeremias, o profeta: Eu vos tenho ouvido; eis que orarei ao Senhor vosso Deus conforme as vossas palavras; e seja o que for que o Senhor vos responder eu vo-lo declararei; não vos ocultarei uma só palavra.'),
 (47431,2,24,42,5,'Então eles disseram a Jeremias: Seja o Senhor entre nós testemunha verdadeira e fiel, se não fizermos conforme toda a palavra com que te enviar a nós o Senhor teu Deus.'),
@@ -18819,8 +18469,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (47475,2,24,44,14,'De maneira que da parte remanescente de Judá, que entrou na terra do Egito, para lá habitar, não haverá quem escape e fique para tornar à terra de Judá, à qual eles suspiram voltar para nela morar; porém não tornarão senão uns fugitivos.'),
 (47476,2,24,44,15,'Então responderam a Jeremias todos os homens que sabiam que suas mulheres queimavam incenso a deuses estranhos, e todas as mulheres que estavam presentes em grande multidão, como também todo o povo que habitava na terra do Egito, em Patros, dizendo:'),
 (47477,2,24,44,16,'Quanto à palavra que nos anunciaste em nome do Senhor, não obedeceremos a ti;'),
-(47478,2,24,44,17,'Mas certamente cumpriremos toda a palavra que saiu da nossa boca, queimando incenso à rainha dos céus, e oferecendo-lhe libações, como nós e nossos pais, nossos reis e nossos príncipes, temos feito, nas cidades de Judá, e nas ruas de Jerusalém; e então tínhamos fartura de pão, e andávamos alegres, e não víamos mal algum.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(47478,2,24,44,17,'Mas certamente cumpriremos toda a palavra que saiu da nossa boca, queimando incenso à rainha dos céus, e oferecendo-lhe libações, como nós e nossos pais, nossos reis e nossos príncipes, temos feito, nas cidades de Judá, e nas ruas de Jerusalém; e então tínhamos fartura de pão, e andávamos alegres, e não víamos mal algum.'),
 (47479,2,24,44,18,'Mas desde que cessamos de queimar incenso à rainha dos céus, e de lhe oferecer libações, tivemos falta de tudo, e fomos consumidos pela espada e pela fome.'),
 (47480,2,24,44,19,'E quando nós queimávamos incenso à rainha dos céus, e lhe oferecíamos libações, acaso lhe fizemos bolos, para a adorar, e oferecemos-lhe libações sem nossos maridos?'),
 (47481,2,24,44,20,'Então disse Jeremias a todo o povo, aos homens e às mulheres, e a todo o povo que lhe havia dado esta resposta, dizendo:'),
@@ -18870,8 +18519,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (47525,2,24,47,1,'A palavra do SENHOR, que veio a Jeremias, o profeta, contra os filisteus, antes que Faraó ferisse a Gaza.'),
 (47526,2,24,47,2,'Assim diz o Senhor: Eis que se levantam as águas do norte, e tornar-se-ão em torrente transbordante, e alagarão a terra e sua plenitude, a cidade, e os que nela habitam; e os homens clamarão, e todos os moradores da terra se lamentarão;'),
 (47527,2,24,47,3,'Ao ruído estrepitoso dos cascos dos seus fortes cavalos, ao barulho de seus carros, ao estrondo das suas rodas; os pais não atendem aos filhos, por causa da fraqueza das mãos;'),
-(47528,2,24,47,4,'Por causa do dia que vem, para destruir a todos os filisteus, para cortar de Tiro e de Sidom todo o restante que os socorra; porque o Senhor destruirá os filisteus, o remanescente da ilha de Caftor.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(47528,2,24,47,4,'Por causa do dia que vem, para destruir a todos os filisteus, para cortar de Tiro e de Sidom todo o restante que os socorra; porque o Senhor destruirá os filisteus, o remanescente da ilha de Caftor.'),
 (47529,2,24,47,5,'A calvície veio sobre Gaza, foi desarraigada Ascalom, com o restante do seu vale; até quando te retalharás?'),
 (47530,2,24,47,6,'Ah; espada do Senhor! Até quando deixarás de repousar? Volta para a tua bainha, descansa, e aquieta-te.'),
 (47531,2,24,47,7,'Mas como te aquietarás? Pois o Senhor deu ordem à espada contra Ascalom, e contra a praia do mar, para onde ele a enviou.'),
@@ -18921,8 +18569,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (47575,2,24,48,44,'O que fugir do temor cairá na cova, e o que subir da cova ficará preso no laço; porque trarei sobre ele, sobre Moabe, o ano do seu castigo, diz o Senhor.'),
 (47576,2,24,48,45,'Os que fugiam sem força pararam à sombra de Hesbom; pois saiu fogo de Hesbom, e a labareda do meio de Siom, e devorou o canto de Moabe e o alto da cabeça dos turbulentos.'),
 (47577,2,24,48,46,'Ai de ti, Moabe! Pereceu o povo de Quemós; porque teus filhos ficaram cativos, e tuas filhas em cativeiro.'),
-(47578,2,24,48,47,'Mas nos últimos dias farei voltar os cativos de Moabe, diz o Senhor. Até aqui o juízo de Moabe.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(47578,2,24,48,47,'Mas nos últimos dias farei voltar os cativos de Moabe, diz o Senhor. Até aqui o juízo de Moabe.'),
 (47579,2,24,49,1,'Contra os filhos de Amom. Assim diz o SENHOR: Acaso Israel não tem filhos, nem tem herdeiro? Por que, pois, herdou Malcã a Gade e o seu povo habitou nas suas cidades?'),
 (47580,2,24,49,2,'Portanto, eis que vêm dias, diz o Senhor, em que farei ouvir em Rabá dos filhos de Amom o alarido de guerra, e tornar-se-á num montão de ruínas, e os lugares da sua jurisdição serão queimados a fogo; e Israel herdará aos que o herdaram, diz o Senhor.'),
 (47581,2,24,49,3,'Lamenta, ó Hesbom, porque é destruída Ai; clamai, ó filhas de Rabá, cingi-vos de sacos, lamentai, e dai voltas pelos valados; porque Malcã irá em cativeiro, juntamente com seus sacerdotes e os seus príncipes.'),
@@ -18972,8 +18619,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (47625,2,24,50,8,'Fugi do meio de babilônia, e saí da terra dos caldeus, e sede como os bodes diante do rebanho.'),
 (47626,2,24,50,9,'Porque eis que eu suscitarei e farei subir contra a babilônia uma congregação de grandes nações da terra do norte, e se prepararão contra ela; dali será tomada; as suas flechas serão como as de valente herói, nenhuma tornará sem efeito.'),
 (47627,2,24,50,10,'A Caldéia servirá de presa; todos os que a saquearam serão fartos, diz o Senhor.'),
-(47628,2,24,50,11,'Porquanto vos alegrastes, e vos regozijastes, ó saqueadores da minha herança, porquanto vos engordastes como novilha no pasto, e mugistes como touros.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(47628,2,24,50,11,'Porquanto vos alegrastes, e vos regozijastes, ó saqueadores da minha herança, porquanto vos engordastes como novilha no pasto, e mugistes como touros.'),
 (47629,2,24,50,12,'Será mui confundida vossa mãe, ficará envergonhada a que vos deu à luz; eis que ela será a última das nações, um deserto, uma terra seca e uma solidão.'),
 (47630,2,24,50,13,'Por causa do furor do SENHOR não será habitada, antes se tornará em total assolação; qualquer que passar por babilônia se espantará, assobiará por todas as suas pragas.'),
 (47631,2,24,50,14,'Ordenai-vos contra babilônia ao redor, todos os que armais arcos; atirai-lhe, não poupeis as flechas, porque pecou contra o SENHOR.'),
@@ -19023,8 +18669,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (47675,2,24,51,12,'Arvorai um estandarte sobre os muros de babilônia, reforçai a guarda, colocai sentinelas, preparai as ciladas; porque como o SENHOR intentou, assim fez o que tinha falado contra os moradores de babilônia.'),
 (47676,2,24,51,13,'Ó tu, que habitas sobre muitas águas, rica de tesouros, é chegado o teu fim, a medida da tua avareza.'),
 (47677,2,24,51,14,'Jurou o Senhor dos Exércitos por si mesmo, dizendo: Ainda que te enchi de homens, como de lagarta, contudo levantarão gritaria contra ti.'),
-(47678,2,24,51,15,'Ele fez a terra com o seu poder, e ordenou o mundo com a sua sabedoria, e estendeu os céus com o seu entendimento.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(47678,2,24,51,15,'Ele fez a terra com o seu poder, e ordenou o mundo com a sua sabedoria, e estendeu os céus com o seu entendimento.'),
 (47679,2,24,51,16,'Fazendo ele ouvir a sua voz, grande estrondo de águas há nos céus, e faz subir os vapores desde o fim da terra; faz os relâmpagos com a chuva, e tira o vento dos seus tesouros,'),
 (47680,2,24,51,17,'Embrutecido é todo o homem, no seu conhecimento; envergonha-se todo o artífice da imagem de escultura; porque a sua imagem de fundição é mentira, e nelas não há espírito.'),
 (47681,2,24,51,18,'Vaidade são, obra de enganos; no tempo da sua visitação perecerão.'),
@@ -19074,8 +18719,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (47725,2,24,51,62,'E dirás: Senhor, tu falaste contra este lugar, que o havias de desarraigar, até não ficar nele morador algum, nem homem nem animal, e que se tornaria em perpétua desolação.'),
 (47726,2,24,51,63,'E será que, acabando tu de ler este livro, atar-lhe-ás uma pedra e lançá-lo-ás no meio do Eufrates.'),
 (47727,2,24,51,64,'E dirás: Assim será afundada babilônia, e não se levantará, por causa do mal que eu hei de trazer sobre ela; e eles se cansarão. Até aqui são as palavras de Jeremias.'),
-(47728,2,24,52,1,'Era Zedequias da idade de vinte e um anos quando começou a reinar, e reinou onze anos em Jerusalém; e o nome de sua mãe era Hamutal, filha de Jeremias, de Libna.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(47728,2,24,52,1,'Era Zedequias da idade de vinte e um anos quando começou a reinar, e reinou onze anos em Jerusalém; e o nome de sua mãe era Hamutal, filha de Jeremias, de Libna.'),
 (47729,2,24,52,2,'E fez o que era mau aos olhos do Senhor, conforme tudo o que fizera Jeoiaquim.'),
 (47730,2,24,52,3,'Assim, por causa da ira do SENHOR, contra Jerusalém e Judá, ele os lançou de diante dele, e Zedequias se rebelou contra o rei de babilônia.'),
 (47731,2,24,52,4,'E aconteceu, que no ano nono do seu reinado, no décimo mês, no décimo dia do mês, veio Nabucodonosor, rei de babilônia, contra Jerusalém, ele e todo o seu exército, e se acamparam contra ela, e levantaram contra ela trincheiras ao redor.'),
@@ -19125,8 +18769,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (47775,2,25,1,14,'O jugo das minhas transgressões está atado pela sua mão; elas estão entretecidas, subiram sobre o meu pescoço, e ele abateu a minha força; entregou-me o Senhor nas mãos daqueles a quem não posso resistir.'),
 (47776,2,25,1,15,'O Senhor atropelou todos os meus poderosos no meio de mim; convocou contra mim uma assembléia, para esmagar os meus jovens; o Senhor pisou como num lagar a virgem filha de Judá.'),
 (47777,2,25,1,16,'Por estas coisas eu ando chorando; os meus olhos, os meus olhos se desfazem em águas; porque se afastou de mim o consolador que devia restaurar a minha alma; os meus filhos estão assolados, porque prevaleceu o inimigo.'),
-(47778,2,25,1,17,'Estende Sião as suas mãos, não há quem a console; mandou o Senhor acerca de Jacó que lhe fossem inimigos os que estão em redor dele; Jerusalém é entre eles como uma mulher imunda.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(47778,2,25,1,17,'Estende Sião as suas mãos, não há quem a console; mandou o Senhor acerca de Jacó que lhe fossem inimigos os que estão em redor dele; Jerusalém é entre eles como uma mulher imunda.'),
 (47779,2,25,1,18,'Justo é o Senhor, pois me rebelei contra o seu mandamento; ouvi, pois, todos os povos, e vede a minha dor; as minhas virgens e os meus jovens foram levados para o cativeiro.'),
 (47780,2,25,1,19,'Chamei os meus amantes, mas eles me enganaram; os meus sacerdotes e os meus anciãos expiraram na cidade; enquanto buscavam para si mantimento, para restaurarem a sua alma.'),
 (47781,2,25,1,20,'Olha, Senhor, porque estou angustiada; turbadas estão as minhas entranhas; o meu coração está transtornado dentro de mim, porque gravemente me rebelei; fora me desfilhou a espada, em casa está a morte.'),
@@ -19176,8 +18819,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (47825,2,25,3,20,'Minha alma certamente disto se lembra, e se abate dentro de mim.'),
 (47826,2,25,3,21,'Disto me recordarei na minha mente; por isso esperarei.'),
 (47827,2,25,3,22,'As misericórdias do Senhor são a causa de não sermos consumidos, porque as suas misericórdias não têm fim;'),
-(47828,2,25,3,23,'Novas são cada manhã; grande é a tua fidelidade.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(47828,2,25,3,23,'Novas são cada manhã; grande é a tua fidelidade.'),
 (47829,2,25,3,24,'A minha porção é o Senhor, diz a minha alma; portanto esperarei nele.'),
 (47830,2,25,3,25,'Bom é o Senhor para os que esperam por ele, para a alma que o busca.'),
 (47831,2,25,3,26,'Bom é ter esperança, e aguardar em silêncio a salvação do Senhor.'),
@@ -19227,8 +18869,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (47875,2,25,4,4,'A língua do que mama fica pegada pela sede ao seu paladar; os meninos pedem pão, e ninguém lho reparte.'),
 (47876,2,25,4,5,'Os que comiam comidas finas agora desfalecem nas ruas; os que se criaram em carmesim abraçam monturos.'),
 (47877,2,25,4,6,'Porque maior é a iniqüidade da filha do meu povo do que o pecado de Sodoma, a qual foi subvertida como num momento, sem que mãos lhe tocassem.'),
-(47878,2,25,4,7,'Os seus nobres eram mais puros do que a neve, mais brancos do que o leite, mais vermelhos de corpo do que os rubis, e mais polidos do que a safira.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(47878,2,25,4,7,'Os seus nobres eram mais puros do que a neve, mais brancos do que o leite, mais vermelhos de corpo do que os rubis, e mais polidos do que a safira.'),
 (47879,2,25,4,8,'Mas agora escureceu-se o seu aspecto mais do que o negrume; não são conhecidos nas ruas; a sua pele se lhes pegou aos ossos, secou-se, tornou-se como um pau.'),
 (47880,2,25,4,9,'Os mortos à espada foram mais ditosos do que os mortos à fome; porque estes morreram lentamente, por falta dos frutos dos campos.'),
 (47881,2,25,4,10,'As mãos das mulheres compassivas cozeram seus próprios filhos; serviram-lhes de alimento na destruição da filha do meu povo.'),
@@ -19278,8 +18919,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (47925,2,26,1,10,'E a semelhança dos seus rostos era como o rosto de homem; e do lado direito todos os quatro tinham rosto de leão, e do lado esquerdo todos os quatro tinham rosto de boi; e também tinham rosto de águia todos os quatro.'),
 (47926,2,26,1,11,'Assim eram os seus rostos. As suas asas estavam estendidas por cima; cada qual tinha duas asas juntas uma a outra, e duas cobriam os corpos deles.'),
 (47927,2,26,1,12,'E cada qual andava para adiante de si; para onde o espírito havia de ir, iam; não se viravam quando andavam.'),
-(47928,2,26,1,13,'E, quanto à semelhança dos seres viventes, o seu aspecto era como ardentes brasas de fogo, com uma aparência de lâmpadas; o fogo subia e descia por entre os seres viventes, e o fogo resplandecia, e do fogo saíam relâmpagos;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(47928,2,26,1,13,'E, quanto à semelhança dos seres viventes, o seu aspecto era como ardentes brasas de fogo, com uma aparência de lâmpadas; o fogo subia e descia por entre os seres viventes, e o fogo resplandecia, e do fogo saíam relâmpagos;'),
 (47929,2,26,1,14,'E os seres viventes corriam, e voltavam, à semelhança de um clarão de relâmpago.'),
 (47930,2,26,1,15,'E vi os seres viventes; e eis que havia uma roda sobre a terra junto aos seres viventes, uma para cada um dos quatro rostos.'),
 (47931,2,26,1,16,'O aspecto das rodas, e a obra delas, era como a cor de berilo; e as quatro tinham uma mesma semelhança; e o seu aspecto, e a sua obra, era como se estivera uma roda no meio de outra roda.'),
@@ -19329,8 +18969,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (47975,2,26,3,22,'E a mão do Senhor estava sobre mim ali, e ele me disse: Levanta-te, e sai ao vale, e ali falarei contigo.'),
 (47976,2,26,3,23,'E levantei-me, e saí ao vale, e eis que a glória do Senhor estava ali, como a glória que vi junto ao rio Quebar; e caí sobre o meu rosto.'),
 (47977,2,26,3,24,'Então entrou em mim o Espírito, e me pôs em pé, e falou comigo, e me disse: Entra, encerra-te dentro da tua casa.'),
-(47978,2,26,3,25,'E quanto a ti, ó filho do homem, eis que porão cordas sobre ti, e te ligarão com elas; não sairás, pois, ao meio deles.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(47978,2,26,3,25,'E quanto a ti, ó filho do homem, eis que porão cordas sobre ti, e te ligarão com elas; não sairás, pois, ao meio deles.'),
 (47979,2,26,3,26,'E eu farei que a tua língua se pegue ao teu paladar, e ficarás mudo, e não lhes servirás de repreendedor; porque eles são casa rebelde.'),
 (47980,2,26,3,27,'Mas, quando eu falar contigo, abrirei a tua boca, e lhes dirás: Assim diz o Senhor DEUS: Quem ouvir ouça, e quem deixar de ouvir, deixe; porque eles são casa rebelde.'),
 (47981,2,26,4,1,'Tu, pois, ó filho do homem, toma um tijolo, e pô-lo-ás diante de ti, e grava nele a cidade de Jerusalém.'),
@@ -19431,8 +19070,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (48075,2,26,9,2,'E eis que vinham seis homens a caminho da porta superior, que olha para o norte, e cada um com a sua arma destruidora na mão, e entre eles um homem vestido de linho, com um tinteiro de escrivão à sua cintura; e entraram, e se puseram junto ao altar de bronze.'),
 (48076,2,26,9,3,'E a glória do Deus de Israel se levantou de sobre o querubim, sobre o qual estava, indo até a entrada da casa; e clamou ao homem vestido de linho, que tinha o tinteiro de escrivão à sua cintura.'),
 (48077,2,26,9,4,'E disse-lhe o Senhor: Passa pelo meio da cidade, pelo meio de Jerusalém, e marca com um sinal as testas dos homens que suspiram e que gemem por causa de todas as abominações que se cometem no meio dela.'),
-(48078,2,26,9,5,'E aos outros disse ele, ouvindo eu: Passai pela cidade após ele, e feri; não poupe o vosso olho, nem vos compadeçais.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(48078,2,26,9,5,'E aos outros disse ele, ouvindo eu: Passai pela cidade após ele, e feri; não poupe o vosso olho, nem vos compadeçais.'),
 (48079,2,26,9,6,'Matai velhos, jovens, virgens, meninos e mulheres, até exterminá-los; mas a todo o homem que tiver o sinal não vos chegueis; e começai pelo meu santuário. E começaram pelos homens mais velhos que estavam diante da casa.'),
 (48080,2,26,9,7,'E disse-lhes: Contaminai a casa e enchei os átrios de mortos; saí. E saíram, e feriram na cidade.'),
 (48081,2,26,9,8,'Sucedeu, pois, que, havendo-os ferido, e ficando eu sozinho, caí sobre a minha face, e clamei, e disse: Ah! Senhor DEUS! dar-se-á caso que destruas todo o restante de Israel, derramando a tua indignação sobre Jerusalém?'),
@@ -19482,8 +19120,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (48125,2,26,11,19,'E lhes darei um só coração, e um espírito novo porei dentro deles; e tirarei da sua carne o coração de pedra, e lhes darei um coração de carne;'),
 (48126,2,26,11,20,'Para que andem nos meus estatutos, e guardem os meus juízos, e os cumpram; e eles me serão por povo, e eu lhes serei por Deus.'),
 (48127,2,26,11,21,'Mas, quanto àqueles cujo coração andar conforme o coração das suas coisas detestáveis, e as suas abominações, farei recair nas suas cabeças o seu caminho, diz o Senhor DEUS.'),
-(48128,2,26,11,22,'Então os querubins elevaram as suas asas, e as rodas os acompanhavam; e a glória do Deus de Israel estava em cima sobre eles.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(48128,2,26,11,22,'Então os querubins elevaram as suas asas, e as rodas os acompanhavam; e a glória do Deus de Israel estava em cima sobre eles.'),
 (48129,2,26,11,23,'E a glória do Senhor se alçou desde o meio da cidade; e se pôs sobre o monte que está ao oriente da cidade.'),
 (48130,2,26,11,24,'Depois o Espírito me levantou, e me levou à Caldéia, para os do cativeiro, em visão, pelo Espírito de Deus; e subiu de sobre mim a visão que eu tinha tido.'),
 (48131,2,26,11,25,'E falei aos do cativeiro todas as coisas que o Senhor me havia mostrado.'),
@@ -19533,8 +19170,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (48175,2,26,13,16,'Os profetas de Israel, que profetizam acerca de Jerusalém, e vêem para ela visão de paz, não havendo paz, diz o Senhor DEUS.'),
 (48176,2,26,13,17,'E tu, ó filho do homem, dirige o teu rosto contra as filhas do teu povo, que profetizam de seu coração, e profetiza contra elas,'),
 (48177,2,26,13,18,'E dize: Assim diz o Senhor DEUS: Ai das que cosem almofadas para todas as axilas, e que fazem véus para as cabeças de pessoas de toda a estatura, para caçarem as almas! Porventura caçareis as almas do meu povo, e as almas guardareis em vida para vós?'),
-(48178,2,26,13,19,'E vós me profanastes entre o meu povo, por punhados de cevada, e por pedaços de pão, para matardes as almas que não haviam de morrer, e para guardardes em vida as almas que não haviam de viver, mentindo assim ao meu povo que escuta a mentira?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(48178,2,26,13,19,'E vós me profanastes entre o meu povo, por punhados de cevada, e por pedaços de pão, para matardes as almas que não haviam de morrer, e para guardardes em vida as almas que não haviam de viver, mentindo assim ao meu povo que escuta a mentira?'),
 (48179,2,26,13,20,'Portanto assim diz o Senhor DEUS: Eis aí vou eu contra as vossas almofadas, com que vós ali caçais as almas fazendo-as voar, e as arrancarei de vossos braços, e soltarei as almas, sim, as almas que vós caçais fazendo-as voar.'),
 (48180,2,26,13,21,'E rasgarei os vossos véus, e livrarei o meu povo das vossas mãos, e nunca mais estará em vossas mãos para ser caçado; e sabereis que eu sou o Senhor.'),
 (48181,2,26,13,22,'Visto que entristecestes o coração do justo com falsidade, não o havendo eu entristecido; e fortalecestes as mãos do ímpio, para que não se desviasse do seu mau caminho, para conservá-lo em vida.'),
@@ -19584,8 +19220,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (48225,2,26,16,12,'E te pus um pendente na testa, e brincos nas orelhas, e uma coroa de glória na cabeça.'),
 (48226,2,26,16,13,'E assim foste ornada de ouro e prata, e o teu vestido foi de linho fino, e de seda e de bordados; nutriste-te de flor de farinha, e mel e azeite; e foste formosa em extremo, e foste próspera, até chegares a realeza.'),
 (48227,2,26,16,14,'E correu de ti a tua fama entre os gentios, por causa da tua formosura, pois era perfeita, por causa da minha glória que eu pusera em ti, diz o Senhor DEUS.'),
-(48228,2,26,16,15,'Mas confiaste na tua formosura, e te corrompeste por causa da tua fama, e prostituías-te a todo o que passava, para seres dele.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(48228,2,26,16,15,'Mas confiaste na tua formosura, e te corrompeste por causa da tua fama, e prostituías-te a todo o que passava, para seres dele.'),
 (48229,2,26,16,16,'E tomaste dos teus vestidos, e fizeste lugares altos pintados de diversas cores, e te prostituíste sobre eles, como nunca sucedera, nem sucederá.'),
 (48230,2,26,16,17,'E tomaste as tuas jóias de enfeite, que eu te dei do meu ouro e da minha prata, e fizeste imagens de homens, e te prostituíste com elas.'),
 (48231,2,26,16,18,'E tomaste os teus vestidos bordados, e as cobriste; e o meu azeite e o meu perfume puseste diante delas.'),
@@ -19635,8 +19270,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (48275,2,26,16,62,'Porque eu estabelecerei a minha aliança contigo, e saberás que eu sou o Senhor;'),
 (48276,2,26,16,63,'Para que te lembres disso, e te envergonhes, e nunca mais abras a tua boca, por causa da tua vergonha, quando eu te expiar de tudo quanto fizeste, diz o Senhor DEUS.'),
 (48277,2,26,17,1,'E veio a mim a palavra do SENHOR, dizendo:'),
-(48278,2,26,17,2,'Filho do homem, propõe um enigma, e profere uma parábola para com a casa de Israel.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(48278,2,26,17,2,'Filho do homem, propõe um enigma, e profere uma parábola para com a casa de Israel.'),
 (48279,2,26,17,3,'E disse: Assim diz o Senhor DEUS: Uma grande águia, de grandes asas, de plumagem comprida, e cheia de penas de várias cores, veio ao Líbano e levou o mais alto ramo de um cedro.'),
 (48280,2,26,17,4,'E arrancou a ponta mais alta dos seus renovos, e a levou a uma terra de mercancia; numa cidade de mercadores a pôs.'),
 (48281,2,26,17,5,'Tomou da semente da terra, e a lançou num solo frutífero; tomando-a, colocou-a junto às muitas águas, plantando-a como salgueiro.'),
@@ -19686,8 +19320,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (48325,2,26,18,25,'Dizeis, porém: O caminho do Senhor não é direito. Ouvi agora, ó casa de Israel: Porventura não é o meu caminho direito? Não são os vossos caminhos tortuosos?'),
 (48326,2,26,18,26,'Desviando-se o justo da sua justiça, e cometendo iniqüidade, morrerá por ela; na iniqüidade, que cometeu, morrerá.'),
 (48327,2,26,18,27,'Mas, convertendo-se o ímpio da impiedade que cometeu, e procedendo com retidão e justiça, conservará este a sua alma em vida.'),
-(48328,2,26,18,28,'Pois que reconsidera, e se converte de todas as suas transgressões que cometeu; certamente viverá, não morrerá.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(48328,2,26,18,28,'Pois que reconsidera, e se converte de todas as suas transgressões que cometeu; certamente viverá, não morrerá.'),
 (48329,2,26,18,29,'Contudo, diz a casa de Israel: O caminho do Senhor não é direito. Porventura não são direitos os meus caminhos, ó casa de Israel? E não são tortuosos os vossos caminhos?'),
 (48330,2,26,18,30,'Portanto, eu vos julgarei, cada um conforme os seus caminhos, ó casa de Israel, diz o Senhor DEUS. Tornai-vos, e convertei-vos de todas as vossas transgressões, e a iniqüidade não vos servirá de tropeço.'),
 (48331,2,26,18,31,'Lançai de vós todas as vossas transgressões com que transgredistes, e fazei-vos um coração novo e um espírito novo; pois, por que razão morreríeis, ó casa de Israel?'),
@@ -19737,8 +19370,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (48375,2,26,20,29,'E eu lhes disse: Que alto é este, aonde vós ides? E seu nome tem sido Bamá até o dia de hoje.'),
 (48376,2,26,20,30,'Portanto dize à casa de Israel: Assim diz o Senhor DEUS: Contaminai-vos a vós mesmos a maneira de vossos pais? E vos prostituístes com as suas abominações?'),
 (48377,2,26,20,31,'E, quando ofereceis os vossos dons, e fazeis passar os vossos filhos pelo fogo, não é certo que estais contaminados com todos os vossos ídolos, até este dia? E vós me consultaríeis, ó casa de Israel? Vivo eu, diz o Senhor DEUS, que vós não me consultareis.'),
-(48378,2,26,20,32,'E o que veio à vossa mente de modo algum sucederá, quando dizeis: Seremos como os gentios, como as outras famílias da terra, servindo ao madeiro e à pedra.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(48378,2,26,20,32,'E o que veio à vossa mente de modo algum sucederá, quando dizeis: Seremos como os gentios, como as outras famílias da terra, servindo ao madeiro e à pedra.'),
 (48379,2,26,20,33,'Vivo eu, diz o Senhor DEUS, que com mão forte, e com braço estendido, e com indignação derramada, hei de reinar sobre vós.'),
 (48380,2,26,20,34,'E vos tirarei dentre os povos, e vos congregarei das terras nas quais andais espalhados, com mão forte, e com braço estendido, e com indignação derramada.'),
 (48381,2,26,20,35,'E vos levarei ao deserto dos povos; e ali face a face entrarei em juízo convosco;'),
@@ -19788,8 +19420,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (48425,2,26,21,30,'Torne a tua espada à sua bainha. No lugar em que foste criado, na terra do teu nascimento, eu te julgarei.'),
 (48426,2,26,21,31,'E derramarei sobre ti a minha indignação, assoprarei contra ti o fogo do meu furor, entregar-te-ei nas mãos dos homens brutais, inventores de destruição.'),
 (48427,2,26,21,32,'Ao fogo servirás para ser consumido; o teu sangue estará no meio da terra; já não serás mais lembrado, porque eu, o Senhor, o disse.'),
-(48428,2,26,22,1,'E veio a mim a palavra do SENHOR, dizendo:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(48428,2,26,22,1,'E veio a mim a palavra do SENHOR, dizendo:'),
 (48429,2,26,22,2,'Tu, pois, ó filho do homem, porventura julgarás, julgarás a cidade sanguinária? Faze-lhe conhecer, pois, todas as suas abominações.'),
 (48430,2,26,22,3,'E dize: Assim diz o Senhor DEUS: Ai da cidade que derrama o sangue no meio de si para que venha o seu tempo! Que faz ídolos contra si mesma, para se contaminar!'),
 (48431,2,26,22,4,'Pelo teu sangue que derramaste te fizeste culpada, e pelos teus ídolos que fabricaste te contaminaste, e fizeste aproximarem-se os teus dias, e tem chegado o fim dos teus anos; por isso eu te fiz o opróbrio das nações e o escárnio de todas as terras.'),
@@ -19839,8 +19470,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (48475,2,26,23,17,'Então vieram a ela os filhos de babilônia para o leito dos amores, e a contaminaram com as suas impudicícias; e ela se contaminou com eles; então a sua alma apartou-se deles.'),
 (48476,2,26,23,18,'Assim pôs a descoberto as suas devassidões, e descobriu a sua vergonha; então a minha alma se apartou dela, como já tinha se apartado a minha alma de sua irmã.'),
 (48477,2,26,23,19,'Todavia ela multiplicou as suas prostituições, lembrando-se dos dias da sua mocidade, em que se prostituíra na terra do Egito.'),
-(48478,2,26,23,20,'E enamorou-se dos seus amantes, cuja carne é como a de jumentos, e cujo fluxo é como o de cavalos.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(48478,2,26,23,20,'E enamorou-se dos seus amantes, cuja carne é como a de jumentos, e cujo fluxo é como o de cavalos.'),
 (48479,2,26,23,21,'Assim trouxeste à memória a perversidade da tua mocidade, quando os do Egito apalpavam os teus seios, por causa dos peitos da tua mocidade.'),
 (48480,2,26,23,22,'Por isso, ó Aolibá, assim diz o Senhor DEUS: Eis que eu suscitarei contra ti os teus amantes, dos quais se tinha apartado a tua alma, e os trarei contra ti de toda a parte em derredor.'),
 (48481,2,26,23,23,'Os filhos de Babilônia, e todos os caldeus de Pecode, e de Soa, e de Coa, e todos os filhos da Assíria com eles, jovens cobiçáveis, capitàes e magistrados todos eles, grandes e afamados senhores, todos eles montados a cavalo.'),
@@ -19890,8 +19520,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (48525,2,26,24,18,'E falei ao povo pela manhã, e à tarde morreu minha mulher; e fiz pela manhã como me foi mandado.'),
 (48526,2,26,24,19,'E o povo me disse: Porventura não nos farás saber o que significam para nós estas coisas que estás fazendo?'),
 (48527,2,26,24,20,'E eu lhes disse: Veio a mim a palavra do Senhor, dizendo:'),
-(48528,2,26,24,21,'Dize à casa de Israel: Assim diz o Senhor DEUS: Eis que eu profanarei o meu santuário, a glória da vossa força, o desejo dos vossos olhos, e o anelo das vossas almas; e vossos filhos e vossas filhas, que deixastes, cairão à espada.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(48528,2,26,24,21,'Dize à casa de Israel: Assim diz o Senhor DEUS: Eis que eu profanarei o meu santuário, a glória da vossa força, o desejo dos vossos olhos, e o anelo das vossas almas; e vossos filhos e vossas filhas, que deixastes, cairão à espada.'),
 (48529,2,26,24,22,'E fareis como eu fiz; não vos cobrireis os lábios, e não comereis o pão dos homens.'),
 (48530,2,26,24,23,'E tereis nas cabeças os vossos turbantes, e os vossos sapatos nos pés; não lamentareis, nem chorareis, mas definhar-vos-eis nas vossas maldades, e gemereis uns com os outros.'),
 (48531,2,26,24,24,'Assim vos servirá Ezequiel de sinal; conforme tudo quanto ele fez, fareis; quando isso suceder, sabereis que eu sou o Senhor DEUS.'),
@@ -19941,8 +19570,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (48575,2,26,27,3,'E dize a Tiro, que habita nas entradas do mar, e negocia com os povos em muitas ilhas: Assim diz o Senhor Deus: Ó Tiro, tu dizes: Eu sou perfeita em formosura.'),
 (48576,2,26,27,4,'No coração dos mares estão os teus termos; os que te edificaram aperfeiçoaram a tua formosura.'),
 (48577,2,26,27,5,'Fabricaram todos os teus conveses de faias de Senir; trouxeram cedros do Líbano para te fazerem mastros.'),
-(48578,2,26,27,6,'Fizeram os teus remos de carvalhos de Basã; os teus bancos fizeram-nos de marfim engastado em buxo das ilhas dos quiteus.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(48578,2,26,27,6,'Fizeram os teus remos de carvalhos de Basã; os teus bancos fizeram-nos de marfim engastado em buxo das ilhas dos quiteus.'),
 (48579,2,26,27,7,'Linho fino bordado do Egito era a tua cortina, para te servir de vela; azul e púrpura das ilhas de Elisá era a tua cobertura.'),
 (48580,2,26,27,8,'Os moradores de Sidom e de Arvade foram os teus remadores; os teus sábios, ó Tiro, que se achavam em ti, esses foram os teus pilotos.'),
 (48581,2,26,27,9,'Os anciãos de Gebal e seus sábios foram em ti os que consertavam as tuas fendas; todos os navios do mar e os marinheiros se acharam em ti, para tratarem dos teus negócios.'),
@@ -19992,8 +19620,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (48625,2,26,28,17,'Elevou-se o teu coração por causa da tua formosura, corrompeste a tua sabedoria por causa do teu resplendor; por terra te lancei, diante dos reis te pus, para que olhem para ti.'),
 (48626,2,26,28,18,'Pela multidão das tuas iniqüidades, pela injustiça do teu comércio profanaste os teus santuários; eu, pois, fiz sair do meio de ti um fogo, que te consumiu e te tornei em cinza sobre a terra, aos olhos de todos os que te vêem.'),
 (48627,2,26,28,19,'Todos os que te conhecem entre os povos estão espantados de ti; em grande espanto te tornaste, e nunca mais subsistirá.'),
-(48628,2,26,28,20,'E veio a mim a palavra do Senhor, dizendo:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(48628,2,26,28,20,'E veio a mim a palavra do Senhor, dizendo:'),
 (48629,2,26,28,21,'Filho do homem, dirige o teu rosto contra Sidom, e profetiza contra ela,'),
 (48630,2,26,28,22,'E dize: Assim diz o Senhor DEUS: Eis-me contra ti, ó Sidom, e serei glorificado no meio de ti; e saberão que eu sou o SENHOR, quando nela executar juízos e nela me santificar.'),
 (48631,2,26,28,23,'Porque enviarei contra ela a peste, e o sangue nas suas ruas, e os traspassados cairão no meio dela, estando a espada contra ela por todos os lados; e saberão que eu sou o Senhor.'),
@@ -20043,8 +19670,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (48675,2,26,30,20,'E sucedeu que, no ano undécimo, no primeiro mês, aos sete do mês, veio a mim a palavra do Senhor, dizendo:'),
 (48676,2,26,30,21,'Filho do homem, eu quebrei o braço de Faraó, rei do Egito, e eis que não foi atado para se lhe aplicar remédios, nem lhe colocarão ligaduras para o atar, a fim de torná-lo forte, para pegar na espada.'),
 (48677,2,26,30,22,'Portanto assim diz o Senhor DEUS: Eis que eu estou contra Faraó, rei do Egito, e quebrarei os seus braços, assim o forte como o que está quebrado, e farei cair da sua mão a espada.'),
-(48678,2,26,30,23,'E espalharei os egípcios entre as nações, e os dispersarei pelas terras.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(48678,2,26,30,23,'E espalharei os egípcios entre as nações, e os dispersarei pelas terras.'),
 (48679,2,26,30,24,'E fortalecerei os braços do rei de babilônia, e porei a minha espada na sua mão; mas quebrarei os braços de Faraó, e diante dele gemerá como geme o traspassado.'),
 (48680,2,26,30,25,'Eu fortalecerei os braços do rei de babilônia, mas os braços de Faraó cairão; e saberão que eu sou o SENHOR, quando eu puser a minha espada na mão do rei de babilônia, e ele a estender sobre a terra do Egito.'),
 (48681,2,26,30,26,'E espalharei os egípcios entre as nações, e os dispersarei entre as terras; assim saberão que eu sou o Senhor.'),
@@ -20094,8 +19720,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (48725,2,26,32,26,'Ali estão Meseque, Tubal e toda a sua multidão; ao redor deles estão os seus sepulcros; todos eles são incircuncisos, e mortos à espada, porquanto causaram terror na terra dos viventes.'),
 (48726,2,26,32,27,'Porém não jazerão com os poderosos que caíram dos incircuncisos, os quais desceram ao inferno com as suas armas de guerra e puseram as suas espadas debaixo das suas cabeças; e a sua iniqüidade está sobre os seus ossos, porquanto eram o terror dos fortes na terra dos viventes.'),
 (48727,2,26,32,28,'Também tu serás quebrado no meio dos incircuncisos, e jazerás com os que foram mortos à espada.'),
-(48728,2,26,32,29,'Ali está Edom, os seus reis e todos os seus príncipes, que com o seu poder foram postos com os que foram mortos à espada; estes jazem com os incircuncisos e com os que desceram à cova.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(48728,2,26,32,29,'Ali está Edom, os seus reis e todos os seus príncipes, que com o seu poder foram postos com os que foram mortos à espada; estes jazem com os incircuncisos e com os que desceram à cova.'),
 (48729,2,26,32,30,'Ali estão os príncipes do norte, todos eles, e todos os sidônios, que desceram com os mortos, envergonhados com o terror causado pelo seu poder; e jazem incircuncisos com os que foram mortos à espada, e levam a sua vergonha com os que desceram à cova.'),
 (48730,2,26,32,31,'Faraó os verá, e se consolará com toda a sua multidão; sim, o próprio Faraó, e todo o seu exército, mortos à espada, diz o Senhor DEUS.'),
 (48731,2,26,32,32,'Porque também eu pus o meu espanto na terra dos viventes; por isso jazerá no meio dos incircuncisos, com os mortos à espada, Faraó e toda a sua multidão, diz o Senhor DEUS.'),
@@ -20145,8 +19770,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (48775,2,26,34,11,'Porque assim diz o Senhor DEUS: Eis que eu, eu mesmo, procurarei pelas minhas ovelhas, e as buscarei.'),
 (48776,2,26,34,12,'Como o pastor busca o seu rebanho, no dia em que está no meio das suas ovelhas dispersas, assim buscarei as minhas ovelhas; e livrá-las-ei de todos os lugares por onde andam espalhadas, no dia nublado e de escuridão.'),
 (48777,2,26,34,13,'E tirá-las-ei dos povos, e as congregarei dos países, e as trarei à sua própria terra, e as apascentarei nos montes de Israel, junto aos rios, e em todas as habitações da terra.'),
-(48778,2,26,34,14,'Em bons pastos as apascentarei, e nos altos montes de Israel será o seu aprisco; ali se deitarão num bom redil, e pastarão em pastos gordos nos montes de Israel.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(48778,2,26,34,14,'Em bons pastos as apascentarei, e nos altos montes de Israel será o seu aprisco; ali se deitarão num bom redil, e pastarão em pastos gordos nos montes de Israel.'),
 (48779,2,26,34,15,'Eu mesmo apascentarei as minhas ovelhas, e eu as farei repousar, diz o Senhor DEUS.'),
 (48780,2,26,34,16,'A perdida buscarei, e a desgarrada tornarei a trazer, e a quebrada ligarei, e a enferma fortalecerei; mas a gorda e a forte destruirei; apascentá-las-ei com juízo.'),
 (48781,2,26,34,17,'E quanto a vós, ó ovelhas minhas, assim diz o Senhor DEUS: Eis que eu julgarei entre ovelhas e ovelhas, entre carneiros e bodes.'),
@@ -20196,8 +19820,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (48825,2,26,36,15,'E farei que nunca mais tu ouças a afronta dos gentios; nem levarás mais sobre ti o opróbrio das gentes, nem mais desfilharás a tua nação, diz o Senhor DEUS.'),
 (48826,2,26,36,16,'E veio a mim a palavra do Senhor, dizendo:'),
 (48827,2,26,36,17,'Filho do homem, quando a casa de Israel habitava na sua terra, então a contaminaram com os seus caminhos e com as suas ações. Como a imundícia de uma mulher em sua separação, tal era o seu caminho perante o meu rosto.'),
-(48828,2,26,36,18,'Derramei, pois, o meu furor sobre eles, por causa do sangue que derramaram sobre a terra, e dos seus ídolos, com que a contaminaram.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(48828,2,26,36,18,'Derramei, pois, o meu furor sobre eles, por causa do sangue que derramaram sobre a terra, e dos seus ídolos, com que a contaminaram.'),
 (48829,2,26,36,19,'E espalhei-os entre os gentios, e foram dispersos pelas terras; conforme os seus caminhos, e conforme os seus feitos, eu os julguei.'),
 (48830,2,26,36,20,'E, chegando aos gentios para onde foram, profanaram o meu santo nome, porquanto se dizia deles: Estes são o povo do Senhor, e saíram da sua terra.'),
 (48831,2,26,36,21,'Mas eu os poupei por amor do meu santo nome, que a casa de Israel profanou entre os gentios para onde foi.'),
@@ -20247,8 +19870,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (48875,2,26,37,27,'E o meu tabernáculo estará com eles, e eu serei o seu Deus e eles serão o meu povo.'),
 (48876,2,26,37,28,'E os gentios saberão que eu sou o Senhor que santifico a Israel, quando estiver o meu santuário no meio deles para sempre.'),
 (48877,2,26,38,1,'Veio a mim a palavra do SENHOR, dizendo:'),
-(48878,2,26,38,2,'Filho do homem, dirige o teu rosto contra Gogue, terra de Magogue, príncipe e chefe de Meseque, e Tubal, e profetiza contra ele.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(48878,2,26,38,2,'Filho do homem, dirige o teu rosto contra Gogue, terra de Magogue, príncipe e chefe de Meseque, e Tubal, e profetiza contra ele.'),
 (48879,2,26,38,3,'E dize: Assim diz o Senhor DEUS: Eis que eu sou contra ti, ó Gogue, príncipe e chefe de Meseque e de Tubal;'),
 (48880,2,26,38,4,'E te farei voltar, e porei anzóis nos teus queixos, e te levarei a ti, com todo o teu exército, cavalos e cavaleiros, todos vestidos com primor, grande multidão, com escudo e rodela, manejando todos a espada;'),
 (48881,2,26,38,5,'Persas, etíopes, e os de Pute com eles, todos com escudo e capacete;'),
@@ -20298,8 +19920,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (48925,2,26,39,26,'E levarão sobre si a sua vergonha, e toda a sua rebeldia, com que se rebelaram contra mim, quando eles habitarem seguros na sua terra, sem haver quem os espante.'),
 (48926,2,26,39,27,'Quando eu os tornar a trazer de entre os povos, e os houver ajuntado das terras de seus inimigos, e eu for santificado neles aos olhos de muitas nações,'),
 (48927,2,26,39,28,'Então saberão que eu sou o Senhor seu Deus, vendo que eu os fiz ir em cativeiro entre os gentios, e os ajuntarei para voltarem a sua terra, e não mais deixarei lá nenhum deles.'),
-(48928,2,26,39,29,'Nem lhes esconderei mais a minha face, pois derramarei o meu Espírito sobre a casa de Israel, diz o Senhor DEUS.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(48928,2,26,39,29,'Nem lhes esconderei mais a minha face, pois derramarei o meu Espírito sobre a casa de Israel, diz o Senhor DEUS.'),
 (48929,2,26,40,1,'No ano vinte e cinco do nosso cativeiro, no princípio do ano, no décimo dia do mês, catorze anos depois que a cidade foi conquistada, naquele mesmo dia veio sobre mim a mão do SENHOR, e me levou para lá.'),
 (48930,2,26,40,2,'Em visões de Deus me levou à terra de Israel, e me pôs sobre um monte muito alto, sobre o qual havia como que um edifício de cidade para o lado sul.'),
 (48931,2,26,40,3,'E, havendo-me levado ali, eis que um homem cuja aparência era como a do bronze, tendo um cordel de linho na sua mão e uma cana de medir, e estava em pé na porta.'),
@@ -20349,8 +19970,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (48975,2,26,40,47,'E mediu o átrio; o comprimento de cem côvados e a largura de cem côvados, um quadrado; e o altar estava diante da casa.'),
 (48976,2,26,40,48,'Então me levou ao vestíbulo da casa, e mediu a cada pilar do vestíbulo, cinco côvados de um lado, e cinco côvados do outro; e a largura da porta, três côvados de um lado, e três côvados do outro.'),
 (48977,2,26,40,49,'O comprimento do vestíbulo era de vinte côvados, e a largura de onze côvados, e era por degraus, que se subia a ele; e havia colunas junto aos pilares, uma de um lado e outra do outro.'),
-(48978,2,26,41,1,'Então me levou ao templo, e mediu os pilares, seis côvados de largura de um lado, e seis côvados de largura do outro, que era a largura da tenda.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(48978,2,26,41,1,'Então me levou ao templo, e mediu os pilares, seis côvados de largura de um lado, e seis côvados de largura do outro, que era a largura da tenda.'),
 (48979,2,26,41,2,'E a largura da entrada, dez côvados; e os lados da entrada, cinco côvados de um lado e cinco côvados do outro; também mediu o seu comprimento, de quarenta côvados, e a largura, de vinte côvados.'),
 (48980,2,26,41,3,'E entrou no interior, e mediu o pilar da entrada, dois côvados, e a entrada, seis côvados, e a largura da entrada, sete côvados.'),
 (48981,2,26,41,4,'Também mediu o seu comprimento, vinte côvados, e a largura, vinte côvados, diante do templo, e disse-me: Este é o Santo dos Santos.'),
@@ -20451,8 +20071,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (49075,2,26,44,25,'E eles não se aproximarão de nenhum homem morto, para se contaminarem; mas por pai, ou por mãe, ou por filho, ou por filha, ou por irmão, ou por irmã que não tiver marido, se poderão contaminar.'),
 (49076,2,26,44,26,'E, depois da sua purificação, contar-se-lhe-ão sete dias.'),
 (49077,2,26,44,27,'E, no dia em que ele entrar no lugar santo, no átrio interior, para ministrar no lugar santo, oferecerá a sua expiação pelo pecado, diz o Senhor DEUS.'),
-(49078,2,26,44,28,'Eles terão uma herança: eu serei a sua herança. Não lhes dareis, portanto, possessão em Israel; eu sou a sua possessão.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(49078,2,26,44,28,'Eles terão uma herança: eu serei a sua herança. Não lhes dareis, portanto, possessão em Israel; eu sou a sua possessão.'),
 (49079,2,26,44,29,'Eles comerão a oferta de alimentos, e a oferta pelo pecado e a oferta pela culpa; e toda a coisa consagrada em Israel será deles.'),
 (49080,2,26,44,30,'E as primícias de todos os primeiros frutos de tudo, e toda a oblação de tudo, de todas as vossas oblações, serão dos sacerdotes; também as primeiras das vossas massas dareis ao sacerdote, para que faça repousar a bênção sobre a tua casa.'),
 (49081,2,26,44,31,'Nenhuma coisa, que tenha morrido ou tenha sido despedaçada, de aves e de animais, comerão os sacerdotes.'),
@@ -20502,8 +20121,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (49125,2,26,46,19,'Depois disto me trouxe pela entrada que estava ao lado da porta, às câmaras santas dos sacerdotes, que olhavam para o norte; e eis que ali havia um lugar nos fundos extremos, para o lado do ocidente.'),
 (49126,2,26,46,20,'E ele me disse: Este é o lugar onde os sacerdotes cozerão a oferta pela culpa, e a oferta pelo pecado, e onde cozerão a oferta de alimentos, para que não as tragam ao átrio exterior para santificarem o povo.'),
 (49127,2,26,46,21,'Então me levou para fora, para o átrio exterior, e me fez passar pelos quatro cantos do átrio; e eis que em cada canto do átrio havia outro átrio.'),
-(49128,2,26,46,22,'Nos quatro cantos do átrio havia outros átrios juntos, de quarenta côvados de comprimento e de trinta de largura; estes quatro cantos tinham uma mesma medida.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(49128,2,26,46,22,'Nos quatro cantos do átrio havia outros átrios juntos, de quarenta côvados de comprimento e de trinta de largura; estes quatro cantos tinham uma mesma medida.'),
 (49129,2,26,46,23,'E havia uma fileira construída ao redor deles, ao redor dos quatro; e havia cozinhas feitas por baixo das fileiras ao redor.'),
 (49130,2,26,46,24,'E me disse: Estas são as cozinhas, onde os ministros da casa cozerão o sacrifício do povo.'),
 (49131,2,26,47,1,'Depois disto me fez voltar à porta da casa, e eis que saíam águas por debaixo do umbral da casa para o oriente; porque a face da casa dava para o oriente, e as águas desciam de debaixo, desde o lado direito da casa, ao sul do altar.'),
@@ -20553,8 +20171,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (49175,2,26,48,22,'E desde a possessão dos levitas, e desde a possessão da cidade, no meio do que pertencer ao príncipe, entre o termo de Judá, e o termo de Benjamim, será isso para o príncipe.'),
 (49176,2,26,48,23,'E, quanto ao restante das tribos, desde o lado oriental até o lado ocidental, Benjamim terá uma porção.'),
 (49177,2,26,48,24,'E junto ao termo de Benjamim, desde o lado oriental até o lado ocidental, Simeão terá uma porção.'),
-(49178,2,26,48,25,'E junto ao termo de Simeão, desde o lado oriental até o lado ocidental, Issacar terá uma porção.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(49178,2,26,48,25,'E junto ao termo de Simeão, desde o lado oriental até o lado ocidental, Issacar terá uma porção.'),
 (49179,2,26,48,26,'E junto ao termo de Issacar, desde o lado oriental até o lado ocidental, Zebulom terá uma porção.'),
 (49180,2,26,48,27,'E junto ao termo de Zebulom, desde o lado oriental até o lado ocidental, Gade terá uma porção.'),
 (49181,2,26,48,28,'E junto ao termo de Gade, ao sul, do lado sul, será o termo desde Tamar até às águas da contenda de Cades, junto ao rio até ao mar grande.'),
@@ -20604,8 +20221,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (49225,2,27,2,16,'E Daniel entrou; e pediu ao rei que lhe desse tempo, para que lhe pudesse dar a interpretação.'),
 (49226,2,27,2,17,'Então Daniel foi para a sua casa, e fez saber o caso a Hananias, Misael e Azarias, seus companheiros;'),
 (49227,2,27,2,18,'Para que pedissem misericórdia ao Deus do céu, sobre este mistério, a fim de que Daniel e seus companheiros não perecessem, juntamente com o restante dos sábios da Babilônia.'),
-(49228,2,27,2,19,'Então foi revelado o mistério a Daniel numa visão de noite; então Daniel louvou o Deus do céu.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(49228,2,27,2,19,'Então foi revelado o mistério a Daniel numa visão de noite; então Daniel louvou o Deus do céu.'),
 (49229,2,27,2,20,'Falou Daniel, dizendo: Seja bendito o nome de Deus de eternidade a eternidade, porque dele são a sabedoria e a força;'),
 (49230,2,27,2,21,'E ele muda os tempos e as estações; ele remove os reis e estabelece os reis; ele dá sabedoria aos sábios e conhecimento aos entendidos.'),
 (49231,2,27,2,22,'Ele revela o profundo e o escondido; conhece o que está em trevas, e com ele mora a luz.'),
@@ -20655,8 +20271,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (49275,2,27,3,17,'Eis que o nosso Deus, a quem nós servimos, é que nos pode livrar; ele nos livrará da fornalha de fogo ardente, e da tua mão, ó rei.'),
 (49276,2,27,3,18,'E, se não, fica sabendo ó rei, que não serviremos a teus deuses nem adoraremos a estátua de ouro que levantaste.'),
 (49277,2,27,3,19,'Então Nabucodonosor se encheu de furor, e mudou-se o aspecto do seu semblante contra Sadraque, Mesaque e Abednego; falou, e ordenou que a fornalha se aquecesse sete vezes mais do que se costumava aquecer.'),
-(49278,2,27,3,20,'E ordenou aos homens mais poderosos, que estavam no seu exército, que atassem a Sadraque, Mesaque e Abednego, para lançá-los na fornalha de fogo ardente.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(49278,2,27,3,20,'E ordenou aos homens mais poderosos, que estavam no seu exército, que atassem a Sadraque, Mesaque e Abednego, para lançá-los na fornalha de fogo ardente.'),
 (49279,2,27,3,21,'Então estes homens foram atados, vestidos com as suas capas, suas túnicas, e seus chapéus, e demais roupas, e foram lançados dentro da fornalha de fogo ardente.'),
 (49280,2,27,3,22,'E, porque a palavra do rei era urgente, e a fornalha estava sobremaneira quente, a chama do fogo matou aqueles homens que carregaram a Sadraque, Mesaque, e Abednego.'),
 (49281,2,27,3,23,'E estes três homens, Sadraque, Mesaque e Abednego, caíram atados dentro da fornalha de fogo ardente.'),
@@ -20706,8 +20321,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (49325,2,27,4,37,'Agora, pois, eu, Nabucodonosor, louvo, exalço e glorifico ao Rei do céu; porque todas as suas obras são verdade, e os seus caminhos juízo, e pode humilhar aos que andam na soberba.'),
 (49326,2,27,5,1,'O rei Belsazar deu um grande banquete a mil dos seus senhores, e bebeu vinho na presença dos mil.'),
 (49327,2,27,5,2,'Havendo Belsazar provado o vinho, mandou trazer os vasos de ouro e de prata, que Nabucodonosor, seu pai, tinha tirado do templo que estava em Jerusalém, para que bebessem neles o rei, os seus príncipes, as suas mulheres e concubinas.'),
-(49328,2,27,5,3,'Então trouxeram os vasos de ouro, que foram tirados do templo da casa de Deus, que estava em Jerusalém, e beberam neles o rei, os seus príncipes, as suas mulheres e concubinas.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(49328,2,27,5,3,'Então trouxeram os vasos de ouro, que foram tirados do templo da casa de Deus, que estava em Jerusalém, e beberam neles o rei, os seus príncipes, as suas mulheres e concubinas.'),
 (49329,2,27,5,4,'Beberam o vinho, e deram louvores aos deuses de ouro, de prata, de bronze, de ferro, de madeira, e de pedra.'),
 (49330,2,27,5,5,'Na mesma hora apareceram uns dedos de mão de homem, e escreviam, defronte do castiçal, na caiadura da parede do palácio real; e o rei via a parte da mão que estava escrevendo.'),
 (49331,2,27,5,6,'Mudou-se então o semblante do rei, e os seus pensamentos o turbaram; as juntas dos seus lombos se relaxaram, e os seus joelhos batiam um no outro.'),
@@ -20757,8 +20371,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (49375,2,27,6,19,'Pela manhã, ao romper do dia, levantou-se o rei, e foi com pressa à cova dos leões.'),
 (49376,2,27,6,20,'E, chegando-se à cova, chamou por Daniel com voz triste; e disse o rei a Daniel: Daniel, servo do Deus vivo, dar-se-ia o caso que o teu Deus, a quem tu continuamente serves, tenha podido livrar-te dos leões?'),
 (49377,2,27,6,21,'Então Daniel falou ao rei: Ó rei, vive para sempre!'),
-(49378,2,27,6,22,'O meu Deus enviou o seu anjo, e fechou a boca dos leões, para que não me fizessem dano, porque foi achada em mim inocência diante dele; e também contra ti, ó rei, não tenho cometido delito algum.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(49378,2,27,6,22,'O meu Deus enviou o seu anjo, e fechou a boca dos leões, para que não me fizessem dano, porque foi achada em mim inocência diante dele; e também contra ti, ó rei, não tenho cometido delito algum.'),
 (49379,2,27,6,23,'Então o rei muito se alegrou em si mesmo, e mandou tirar a Daniel da cova. Assim foi tirado Daniel da cova, e nenhum dano se achou nele, porque crera no seu Deus.'),
 (49380,2,27,6,24,'E ordenou o rei, e foram trazidos aqueles homens que tinham acusado a Daniel, e foram lançados na cova dos leões, eles, seus filhos e suas mulheres; e ainda não tinham chegado ao fundo da cova quando os leões se apoderaram deles, e lhes esmigalharam todos os ossos.'),
 (49381,2,27,6,25,'Então o rei Dario escreveu a todos os povos, nações e línguas que moram em toda a terra: A paz vos seja multiplicada.'),
@@ -20808,8 +20421,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (49425,2,27,8,13,'Depois ouvi um santo que falava; e disse outro santo àquele que falava: Até quando durará a visão do sacrifício contínuo, e da transgressão assoladora, para que sejam entregues o santuário e o exército, a fim de serem pisados?'),
 (49426,2,27,8,14,'E ele me disse: Até duas mil e trezentas tardes e manhãs; e o santuário será purificado.'),
 (49427,2,27,8,15,'E aconteceu que, havendo eu, Daniel, tido a visão, procurei o significado, e eis que se apresen- tou diante de mim como que uma semelhança de homem.'),
-(49428,2,27,8,16,'E ouvi uma voz de homem entre as margens do Ulai, a qual gritou, e disse: Gabriel, dá a entender a este a visão.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(49428,2,27,8,16,'E ouvi uma voz de homem entre as margens do Ulai, a qual gritou, e disse: Gabriel, dá a entender a este a visão.'),
 (49429,2,27,8,17,'E veio perto de onde eu estava; e, vindo ele, me amedrontei, e caí sobre o meu rosto; mas ele me disse: Entende, filho do homem, porque esta visão acontecerá no fim do tempo.'),
 (49430,2,27,8,18,'E, estando ele falando comigo, caí adormecido com o rosto em terra; ele, porém, me tocou, e me fez estar em pé.'),
 (49431,2,27,8,19,'E disse: Eis que te farei saber o que há de acontecer no último tempo da ira; pois isso pertence ao tempo determinado do fim.'),
@@ -20859,8 +20471,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (49475,2,27,10,9,'Contudo ouvi a voz das suas palavras; e, ouvindo o som das suas palavras, eu caí sobre o meu rosto num profundo sono, com o meu rosto em terra.'),
 (49476,2,27,10,10,'E eis que certa mão me tocou, e fez com que me movesse sobre os meus joelhos e sobre as palmas das minhas mãos.'),
 (49477,2,27,10,11,'E me disse: Daniel, homem muito amado, entende as palavras que vou te dizer, e levanta-te sobre os teus pés, porque a ti sou enviado. E, falando ele comigo esta palavra, levantei-me tremendo.'),
-(49478,2,27,10,12,'Então me disse: Não temas, Daniel, porque desde o primeiro dia em que aplicaste o teu coração a compreender e a humilhar-te perante o teu Deus, são ouvidas as tuas palavras; e eu vim por causa das tuas palavras.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(49478,2,27,10,12,'Então me disse: Não temas, Daniel, porque desde o primeiro dia em que aplicaste o teu coração a compreender e a humilhar-te perante o teu Deus, são ouvidas as tuas palavras; e eu vim por causa das tuas palavras.'),
 (49479,2,27,10,13,'Mas o príncipe do reino da Pérsia me resistiu vinte e um dias, e eis que Miguel, um dos primeiros príncipes, veio para ajudar-me, e eu fiquei ali com os reis da Pérsia.'),
 (49480,2,27,10,14,'Agora vim, para fazer-te entender o que há de acontecer ao teu povo nos derradeiros dias; porque a visão é ainda para muitos dias.'),
 (49481,2,27,10,15,'E, falando ele comigo estas palavras, abaixei o meu rosto para a terra, e emudeci.'),
@@ -20910,8 +20521,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (49525,2,27,11,38,'Mas em seu lugar honrará a um deus das forças; e a um deus a quem seus pais não conheceram honrará com ouro, e com prata, e com pedras preciosas, e com coisas agradáveis.'),
 (49526,2,27,11,39,'Com o auxílio de um deus estranho agirá contra as poderosas fortalezas; aos que o reconhecerem multiplicará a honra, e os fará reinar sobre muitos, e repartirá a terra por preço.'),
 (49527,2,27,11,40,'E, no fim do tempo, o rei do sul lutará com ele, e o rei do norte se levantará contra ele com carros, e com cavaleiros, e com muitos navios; e entrará nas suas terras e as inundará, e passará.'),
-(49528,2,27,11,41,'E entrará na terra gloriosa, e muitos países cairão, mas da sua mão escaparão estes: Edom e Moabe, e os chefes dos filhos de Amom.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(49528,2,27,11,41,'E entrará na terra gloriosa, e muitos países cairão, mas da sua mão escaparão estes: Edom e Moabe, e os chefes dos filhos de Amom.'),
 (49529,2,27,11,42,'E estenderá a sua mão contra os países, e a terra do Egito não escapará.'),
 (49530,2,27,11,43,'E apoderar-se-á dos tesouros de ouro e de prata e de todas as coisas preciosas do Egito; e os líbios e os etíopes o seguirão.'),
 (49531,2,27,11,44,'Mas os rumores do oriente e do norte o espantarão; e sairá com grande furor, para destruir e extirpar a muitos.'),
@@ -20961,8 +20571,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (49575,2,28,2,19,'E desposar-te-ei comigo para sempre; desposar-te-ei comigo em justiça, e em juízo, e em benignidade, e em misericórdias.'),
 (49576,2,28,2,20,'E desposar-te-ei comigo em fidelidade, e conhecerás ao Senhor.'),
 (49577,2,28,2,21,'E acontecerá naquele dia que eu atenderei, diz o Senhor; eu atenderei aos céus, e estes atenderão à terra.'),
-(49578,2,28,2,22,'E a terra atenderá ao trigo, e ao mosto, e ao azeite, e estes atenderão a Jizreel.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(49578,2,28,2,22,'E a terra atenderá ao trigo, e ao mosto, e ao azeite, e estes atenderão a Jizreel.'),
 (49579,2,28,2,23,'E semeá-la-ei para mim na terra, e compadecer-me-ei dela que não obteve misericórdia; e eu direi àquele que não era meu povo: Tu és meu povo; e ele dirá: Tu és meu Deus!'),
 (49580,2,28,3,1,'E o SENHOR me disse: Vai outra vez, ama uma mulher, amada de seu amigo, contudo adúltera, como o SENHOR ama os filhos de Israel, embora eles olhem para outros deuses, e amem os bolos de uvas.'),
 (49581,2,28,3,2,'E comprei-a para mim por quinze peças de prata, e um ômer, e meio ômer de cevada;'),
@@ -21012,8 +20621,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (49625,2,28,6,7,'Mas eles transgrediram a aliança, como Adão; eles se portaram aleivosamente contra mim.'),
 (49626,2,28,6,8,'Gileade é a cidade dos que praticam iniqüidade, manchada de sangue.'),
 (49627,2,28,6,9,'Como as hordas de salteadores que esperam alguns, assim é a companhia dos sacerdotes que matam no caminho num mesmo consenso; sim, eles cometem abominações.'),
-(49628,2,28,6,10,'Vejo uma coisa horrenda na casa de Israel, ali está a prostituição de Efraim; Israel está contaminado.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(49628,2,28,6,10,'Vejo uma coisa horrenda na casa de Israel, ali está a prostituição de Efraim; Israel está contaminado.'),
 (49629,2,28,6,11,'Também para ti, ó Judá, está assinada uma sega, quando eu trouxer o cativeiro do meu povo.'),
 (49630,2,28,7,1,'Sarando eu a Israel, se descobriu a iniqüidade de Efraim, como também as maldades de Samaria, porque praticaram a falsidade; e o ladrão entra, e a horda dos salteadores despoja por fora.'),
 (49631,2,28,7,2,'E não dizem no seu coração que eu me lembro de toda a sua maldade; agora, pois, os cercam as suas obras; diante da minha face estão.'),
@@ -21063,8 +20671,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (49675,2,28,9,16,'Efraim foi ferido, secou-se a sua raiz; não darão fruto; sim, ainda que gerem, matarei os frutos desejáveis do seu ventre.'),
 (49676,2,28,9,17,'O meu Deus os rejeitará, porque não o ouviram, e errantes andarão entre as nações.'),
 (49677,2,28,10,1,'Israel é uma vide estéril que dá fruto para si mesmo; conforme a abundância do seu fruto, multiplicou também os altares; conforme a bondade da sua terra, assim, fizeram boas as estátuas.'),
-(49678,2,28,10,2,'O seu coração está dividido, por isso serão culpados; o Senhor demolirá os seus altares, e destruirá as suas estátuas.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(49678,2,28,10,2,'O seu coração está dividido, por isso serão culpados; o Senhor demolirá os seus altares, e destruirá as suas estátuas.'),
 (49679,2,28,10,3,'Certamente agora dirão: Não temos rei, porque não tememos ao Senhor; e o rei, que faria por nós?'),
 (49680,2,28,10,4,'Falaram palavras, jurando falsamente, fazendo uma aliança; por isso florescerá o juízo como erva peçonhenta nos sulcos dos campos.'),
 (49681,2,28,10,5,'Os moradores de Samaria serão atemorizados pelo bezerro de Bete-«ven; porque o seu povo se lamentará por causa dele, como também os seus sacerdotes idólatras que nele se regozijavam, por causa da sua glória, que se apartou dela.'),
@@ -21114,8 +20721,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (49725,2,28,13,8,'Como ursa roubada dos seus filhos, os encontrarei, e lhes romperei as teias do seu coração, e como leão ali os devorarei; as feras do campo os despedaçarão.'),
 (49726,2,28,13,9,'Para a tua perda, ó Israel, te rebelaste contra mim, a saber, contra o teu ajudador.'),
 (49727,2,28,13,10,'Onde está agora o teu rei, para que te guarde em todas as tuas cidades, e os teus juízes, dos quais disseste: Dá-me rei e príncipes?'),
-(49728,2,28,13,11,'Dei-te um rei na minha ira, e tirei-o no meu furor.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(49728,2,28,13,11,'Dei-te um rei na minha ira, e tirei-o no meu furor.'),
 (49729,2,28,13,12,'A iniqüidade de Efraim está atada, o seu pecado está armazenado.'),
 (49730,2,28,13,13,'Dores de mulher de parto lhe sobrevirão; ele é um filho insensato; porque é tempo e não está no lugar em que deve vir à luz.'),
 (49731,2,28,13,14,'Eu os remirei da mão do inferno, e os resgatarei da morte. Onde estão, ó morte, as tuas pragas? Onde está, ó inferno, a tua perdição? O arrependimento está escondido de meus olhos.'),
@@ -21165,8 +20771,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (49775,2,29,2,13,'E rasgai o vosso coração, e não as vossas vestes, e convertei-vos ao Senhor vosso Deus; porque ele é misericordioso, e compassivo, e tardio em irar-se, e grande em benignidade, e se arrepende do mal.'),
 (49776,2,29,2,14,'Quem sabe se não se voltará e se arrependerá, e deixará após si uma bênção, em oferta de alimentos e libação para o Senhor vosso Deus?'),
 (49777,2,29,2,15,'Tocai a trombeta em Sião, santificai um jejum, convocai uma assembléia solene.'),
-(49778,2,29,2,16,'Congregai o povo, santificai a congregação, ajuntai os anciãos, congregai as crianças, e os que mamam; saia o noivo da sua recâmara, e a noiva do seu aposento.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(49778,2,29,2,16,'Congregai o povo, santificai a congregação, ajuntai os anciãos, congregai as crianças, e os que mamam; saia o noivo da sua recâmara, e a noiva do seu aposento.'),
 (49779,2,29,2,17,'Chorem os sacerdotes, ministros do Senhor, entre o alpendre e o altar, e digam: Poupa a teu povo, ó Senhor, e não entregues a tua herança ao opróbrio, para que os gentios o dominem; por que diriam entre os povos: Onde está o seu Deus?'),
 (49780,2,29,2,18,'Então o Senhor se mostrou zeloso da sua terra, e compadeceu-se do seu povo.'),
 (49781,2,29,2,19,'E o Senhor, respondendo, disse ao seu povo: Eis que vos envio o trigo, e o mosto, e o azeite, e deles sereis fartos, e vos não entregarei mais ao opróbrio entre os gentios.'),
@@ -21216,8 +20821,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (49825,2,30,1,10,'Por isso porei fogo ao muro de Tiro, e ele consumirá os seus palácios.'),
 (49826,2,30,1,11,'Assim diz o Senhor: Por três transgressões de Edom, e por quatro, não retirarei o castigo, porque perseguiu a seu irmão à espada, e aniquilou as suas misericórdias; e a sua ira despedaçou eternamente, e conservou a sua indignação para sempre.'),
 (49827,2,30,1,12,'Por isso porei fogo a Temã, e ele consumirá os palácios de Bozra.'),
-(49828,2,30,1,13,'Assim diz o Senhor: Por três transgressões dos filhos de Amom, e por quatro, não retirarei o castigo, porque fenderam o ventre às grávidas de Gileade, para dilatarem os seus termos.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(49828,2,30,1,13,'Assim diz o Senhor: Por três transgressões dos filhos de Amom, e por quatro, não retirarei o castigo, porque fenderam o ventre às grávidas de Gileade, para dilatarem os seus termos.'),
 (49829,2,30,1,14,'Por isso porei fogo ao muro de Rabá, e ele consumirá os seus palácios, com alarido no dia da batalha, com tempestade no dia da tormenta.'),
 (49830,2,30,1,15,'E o seu rei irá para o cativeiro, ele e os seus príncipes juntamente, diz o Senhor.'),
 (49831,2,30,2,1,'Assim diz o SENHOR: Por três transgressões de Moabe, e por quatro, não retirarei o castigo, porque queimou os ossos do rei de Edom, até os tornar a cal.'),
@@ -21267,8 +20871,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (49875,2,30,5,1,'Ouvi esta palavra, que levanto como uma lamentação sobre vós, ó casa de Israel.'),
 (49876,2,30,5,2,'A virgem de Israel caiu, e não mais tornará a levantar-se; desamparada está na sua terra, não há quem a levante.'),
 (49877,2,30,5,3,'Porque assim diz o Senhor DEUS: A cidade da qual saem mil conservará cem, e aquela da qual saem cem conservará dez, para a casa de Israel.'),
-(49878,2,30,5,4,'Porque assim diz o Senhor à casa de Israel: Buscai-me, e vivei.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(49878,2,30,5,4,'Porque assim diz o Senhor à casa de Israel: Buscai-me, e vivei.'),
 (49879,2,30,5,5,'Mas não busqueis a Betel, nem venhais a Gilgal, nem passeis a Berseba, porque Gilgal certamente será levada ao cativeiro, e Betel será desfeita em nada.'),
 (49880,2,30,5,6,'Buscai ao Senhor, e vivei, para que ele não irrompa na casa de José como um fogo, e a consuma, e não haja em Betel quem o apague.'),
 (49881,2,30,5,7,'Vós que converteis o juízo em alosna, e deitais por terra a justiça,'),
@@ -21318,8 +20921,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (49925,2,30,7,10,'Então Amazias, o sacerdote de Betel, mandou dizer a Jeroboão, rei de Israel: Amós tem conspirado contra ti, no meio da casa de Israel; a terra não poderá sofrer todas as suas palavras.'),
 (49926,2,30,7,11,'Porque assim diz Amós: Jeroboão morrerá à espada, e Israel certamente será levado para fora da sua terra em cativeiro.'),
 (49927,2,30,7,12,'Depois Amazias disse a Amós: Vai-te, ó vidente, e foge para a terra de Judá, e ali come o pão, e ali profetiza;'),
-(49928,2,30,7,13,'Mas em Betel daqui por diante não profetizes mais, porque é o santuário do rei e casa real.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(49928,2,30,7,13,'Mas em Betel daqui por diante não profetizes mais, porque é o santuário do rei e casa real.'),
 (49929,2,30,7,14,'E respondeu Amós, dizendo a Amazias: Eu não sou profeta, nem filho de profeta, mas boiadeiro, e cultivador de sicômoros.'),
 (49930,2,30,7,15,'Mas o Senhor me tirou de seguir o rebanho, e o Senhor me disse: Vai, e profetiza ao meu povo Israel.'),
 (49931,2,30,7,16,'Agora, pois, ouve a palavra do Senhor: Tu dizes: Não profetizes contra Israel, nem fales contra a casa de Isaque.'),
@@ -21369,8 +20971,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (49975,2,32,2,5,'As águas me cercaram até à alma, o abismo me rodeou, e as algas se enrolaram na minha cabeça.'),
 (49976,2,32,2,6,'Eu desci até aos fundamentos dos montes; a terra me encerrou para sempre com os seus ferrolhos; mas tu fizeste subir a minha vida da perdição, ó Senhor meu Deus.'),
 (49977,2,32,2,7,'Quando desfalecia em mim a minha alma, lembrei-me do Senhor; e entrou a ti a minha oração, no teu santo templo.'),
-(49978,2,32,2,8,'Os que observam as falsas vaidades deixam a sua misericórdia.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(49978,2,32,2,8,'Os que observam as falsas vaidades deixam a sua misericórdia.'),
 (49979,2,32,2,9,'Mas eu te oferecerei sacrifício com a voz do agradecimento; o que votei pagarei. Do Senhor vem a salvação.'),
 (49980,2,32,2,10,'Falou, pois, o Senhor ao peixe, e este vomitou a Jonas na terra seca.'),
 (49981,2,32,3,1,'E veio a palavra do SENHOR segunda vez a Jonas, dizendo:'),
@@ -21471,8 +21072,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (50075,2,33,6,5,'Povo meu, lembra-te agora do que consultou Balaque, rei de Moabe, e o que lhe respondeu Balaão, filho de Beor, e do que aconteceu desde Sitim até Gilgal, para que conheças as justiças do Senhor.'),
 (50076,2,33,6,6,'Com que me apresentarei ao Senhor, e me inclinarei diante do Deus altíssimo? Apresentar-me-ei diante dele com holocaustos, com bezerros de um ano?'),
 (50077,2,33,6,7,'Agradar-se-á o Senhor de milhares de carneiros, ou de dez mil ribeiros de azeite? Darei o meu primogênito pela minha transgressão, o fruto do meu ventre pelo pecado da minha alma?'),
-(50078,2,33,6,8,'Ele te declarou, ó homem, o que é bom; e que é o que o Senhor pede de ti, senão que pratiques a justiça, e ames a benignidade, e andes humildemente com o teu Deus?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(50078,2,33,6,8,'Ele te declarou, ó homem, o que é bom; e que é o que o Senhor pede de ti, senão que pratiques a justiça, e ames a benignidade, e andes humildemente com o teu Deus?'),
 (50079,2,33,6,9,'A voz do Senhor clama à cidade e o que é sábio verá o teu nome. Ouvi a vara, e quem a ordenou.'),
 (50080,2,33,6,10,'Ainda há na casa do ímpio tesouros da impiedade, e medida escassa, que é detestável?'),
 (50081,2,33,6,11,'Seria eu limpo com balanças falsas, e com uma bolsa de pesos enganosos?'),
@@ -21522,8 +21122,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (50125,2,34,2,4,'Os carros correrão furiosamente nas ruas, colidirão um contra o outro nos largos caminhos; o seu aspecto será como o de tochas, correrão como relâmpagos.'),
 (50126,2,34,2,5,'Ele se lembrará dos seus valentes; eles, porém, tropeçarão na sua marcha; apressar-se-ão para chegar ao seu muro, quando o amparo for preparado.'),
 (50127,2,34,2,6,'As portas dos rios se abrirão, e o palácio será dissolvido.'),
-(50128,2,34,2,7,'É decretado: ela será levada cativa, conduzida para cima; e as suas servas a acompanharão, gemendo como pombas, batendo em seus peitos.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(50128,2,34,2,7,'É decretado: ela será levada cativa, conduzida para cima; e as suas servas a acompanharão, gemendo como pombas, batendo em seus peitos.'),
 (50129,2,34,2,8,'Nínive desde que existiu tem sido como um tanque de águas, porém elas agora vazam. Parai, parai, clamar-se-á; mas ninguém olhará para trás.'),
 (50130,2,34,2,9,'Saqueai a prata, saqueai o ouro, porque não têm fim as provi-sões, riquezas há de todo o gênero de bens desejáveis.'),
 (50131,2,34,2,10,'Vazia, esgotada e devastada está; derrete-se o coração, e tremem os joelhos, e em todos os lombos há dor, e os rostos de todos eles se enegrecem.'),
@@ -21573,8 +21172,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (50175,2,35,2,5,'Tanto mais que, por ser dado ao vinho é desleal; homem soberbo que não permanecerá; que alarga como o inferno a sua alma; e é como a morte que não se farta, e ajunta a si todas as nações, e congrega a si todos os povos.'),
 (50176,2,35,2,6,'Não levantarão, pois, todos estes contra ele uma parábola e um provérbio sarcástico contra ele? E se dirá: Ai daquele que multiplica o que não é seu! (até quando? ) e daquele que carrega sobre si dívidas!'),
 (50177,2,35,2,7,'Porventura não se levantarão de repente os teus extorquiadores, e não despertarão os que te farão tremer, e não lhes servirás tu de despojo?'),
-(50178,2,35,2,8,'Porquanto despojaste a muitas nações, todos os demais povos te despojarão a ti, por causa do sangue dos homens, e da violência feita à terra, à cidade, e a todos os que nela habitam.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(50178,2,35,2,8,'Porquanto despojaste a muitas nações, todos os demais povos te despojarão a ti, por causa do sangue dos homens, e da violência feita à terra, à cidade, e a todos os que nela habitam.'),
 (50179,2,35,2,9,'Ai daquele que, para a sua casa, ajunta cobiçosamente bens mal adquiridos, para pôr o seu ninho no alto, a fim de se livrar do poder do mal!'),
 (50180,2,35,2,10,'Vergonha maquinaste para a tua casa; destruindo tu a muitos povos, pecaste contra a tua alma.'),
 (50181,2,35,2,11,'Porque a pedra clamará da parede, e a trave lhe responderá do madeiramento.'),
@@ -21624,8 +21222,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (50225,2,36,1,16,'Dia de trombeta e de alarido contra as cidades fortificadas e contra as torres altas.'),
 (50226,2,36,1,17,'E angustiarei os homens, que andarão como cegos, porque pecaram contra o Senhor; e o seu sangue se derramará como pó, e a sua carne será como esterco.'),
 (50227,2,36,1,18,'Nem a sua prata nem o seu ouro os poderá livrar no dia da indignação do Senhor, mas pelo fogo do seu zelo toda esta terra será consumida, porque certamente fará de todos os moradores da terra uma destruição total e apressada.'),
-(50228,2,36,2,1,'Congregai-vos, sim, congregai-vos, ó nação não desejável;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(50228,2,36,2,1,'Congregai-vos, sim, congregai-vos, ó nação não desejável;'),
 (50229,2,36,2,2,'Antes que o decreto produza o seu efeito, e o dia passe como a pragana; antes que venha sobre vós o furor da ira do Senhor, antes que venha sobre vós o dia da ira do Senhor.'),
 (50230,2,36,2,3,'Buscai ao Senhor, vós todos os mansos da terra, que tendes posto por obra o seu juízo; buscai a justiça, buscai a mansidão; pode ser que sejais escondidos no dia da ira do Senhor.'),
 (50231,2,36,2,4,'Porque Gaza será desamparada, e Ascalom assolada; Asdode ao meio-dia será expelida, e Ecrom será desarraigada.'),
@@ -21675,8 +21272,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (50275,2,37,1,13,'Então Ageu, o mensageiro do Senhor, falou ao povo conforme a mensagem do Senhor, dizendo: Eu sou convosco, diz o Senhor.'),
 (50276,2,37,1,14,'E o Senhor suscitou o espírito de Zorobabel, filho de Sealtiel, governador de Judá, e o espírito de Josué, filho de Jozadaque, sumo sacerdote, e o espírito de todo o restante do povo, e eles vieram, e fizeram a obra na casa do Senhor dos Exércitos, seu Deus,'),
 (50277,2,37,1,15,'Ao vigésimo quarto dia do sexto mês, no segundo ano do rei Dario.'),
-(50278,2,37,2,1,'No sétimo mês, ao vigésimo primeiro dia do mês, veio a palavra do SENHOR por intermédio do profeta Ageu, dizendo:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(50278,2,37,2,1,'No sétimo mês, ao vigésimo primeiro dia do mês, veio a palavra do SENHOR por intermédio do profeta Ageu, dizendo:'),
 (50279,2,37,2,2,'Fala agora a Zorobabel, filho de Sealtiel, governador de Judá, e a Josué, filho de Jozadaque, sumo sacerdote, e ao restante do povo, dizendo:'),
 (50280,2,37,2,3,'Quem há entre vós que, tendo ficado, viu esta casa na sua primeira glória? E como a vedes agora? Não é esta como nada diante dos vossos olhos, comparada com aquela?'),
 (50281,2,37,2,4,'Ora, pois, esforça-te, Zorobabel, diz o Senhor, e esforça-te, Josué, filho de Jozadaque, sumo sacerdote, e esforça-te, todo o povo da terra, diz o Senhor, e trabalhai; porque eu sou convosco, diz o Senhor dos Exércitos.'),
@@ -21726,8 +21322,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (50325,2,38,2,4,'E disse-lhe: Corre, fala a este jovem, dizendo: Jerusalém será habitada como as aldeias sem muros, por causa da multidão dos homens e dos animais que haverá nela.'),
 (50326,2,38,2,5,'Pois eu, diz o Senhor, serei para ela um muro de fogo em redor, e para glória estarei no meio dela.'),
 (50327,2,38,2,6,'Ah, ah! Fugi agora da terra do norte, diz o Senhor, porque vos espalhei pelos quatro ventos do céu, diz o Senhor.'),
-(50328,2,38,2,7,'Ah! Sião! Escapa, tu, que habitas com a filha de babilônia.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(50328,2,38,2,7,'Ah! Sião! Escapa, tu, que habitas com a filha de babilônia.'),
 (50329,2,38,2,8,'Porque assim diz o Senhor dos Exércitos: Depois da glória ele me enviou às nações que vos despojaram; porque aquele que tocar em vós toca na menina do seu olho.'),
 (50330,2,38,2,9,'Porque eis aí levantarei a minha mão sobre eles, e eles virão a ser a presa daqueles que os serviram; assim sabereis vós que o Senhor dos Exércitos me enviou.'),
 (50331,2,38,2,10,'Exulta, e alegra-te ó filha de Sião, porque eis que venho, e habitarei no meio de ti, diz o Senhor.'),
@@ -21777,8 +21372,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (50375,2,38,6,6,'O carro em que estão os cavalos pretos, sai para a terra do norte, e os brancos saem atrás deles, e os malhados saem para a terra do sul.'),
 (50376,2,38,6,7,'E os cavalos fortes saíam, e procuravam ir por diante, para percorrerem a terra. E ele disse: Ide, percorrei a terra. E percorreram a terra.'),
 (50377,2,38,6,8,'E chamou-me, e falou-me, dizendo: Eis que aqueles que saíram para a terra do norte fizeram repousar o meu Espírito na terra do norte.'),
-(50378,2,38,6,9,'E a palavra do Senhor veio a mim, dizendo:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(50378,2,38,6,9,'E a palavra do Senhor veio a mim, dizendo:'),
 (50379,2,38,6,10,'Toma dos que foram levados cativos, a saber, de Heldai, de Tobias e de Jedaías, os quais vieram de babilônia, e vem tu no mesmo dia, e entra na casa de Josias, filho de Sofonias.'),
 (50380,2,38,6,11,'Toma, digo, prata e ouro, e faze coroas, e põe-nas na cabeça do sumo sacerdote Josué, filho de Jozadaque.'),
 (50381,2,38,6,12,'E fala-lhe, dizendo: Assim diz o SENHOR dos Exércitos: Eis aqui o homem cujo nome é RENOVO; ele brotará do seu lugar, e edificará o templo do SENHOR.'),
@@ -21828,8 +21422,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (50425,2,38,9,4,'Eis que o Senhor a despojará e ferirá no mar a sua força, e ela será consumida pelo fogo.'),
 (50426,2,38,9,5,'Ascalom o verá e temerá; também Gaza, e terá grande dor; igualmente Ecrom; porque a sua esperança será confundida; e o rei de Gaza perecerá, e Ascalom não será habitada.'),
 (50427,2,38,9,6,'E um bastardo habitará em Asdode, e exterminarei a soberba dos filisteus.'),
-(50428,2,38,9,7,'E da sua boca tirarei o seu sangue, e dentre os seus dentes as suas abominações; e ele também ficará como um remanescente para o nosso Deus; e será como governador em Judá, e Ecrom como um jebuseu.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(50428,2,38,9,7,'E da sua boca tirarei o seu sangue, e dentre os seus dentes as suas abominações; e ele também ficará como um remanescente para o nosso Deus; e será como governador em Judá, e Ecrom como um jebuseu.'),
 (50429,2,38,9,8,'E acampar-me-ei ao redor da minha casa, contra o exército, para que ninguém passe, nem volte; para que não passe mais sobre eles o opressor; porque agora vi com os meus olhos.'),
 (50430,2,38,9,9,'Alegra-te muito, ó filha de Sião; exulta, ó filha de Jerusalém; eis que o teu rei virá a ti, justo e Salvador, pobre, e montado sobre um jumento, e sobre um jumentinho, filho de jumenta.'),
 (50431,2,38,9,10,'E de Efraim destruirei os carros, e de Jerusalém os cavalos; e o arco de guerra será destruído, e ele anunciará paz aos gentios; e o seu domínio se estenderá de mar a mar, e desde o rio até às extremidades da terra.'),
@@ -21879,8 +21472,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (50475,2,38,12,8,'Naquele dia o Senhor protegerá os habitantes de Jerusalém; e o mais fraco dentre eles naquele dia será como Davi, e a casa de Davi será como Deus, como o anjo do Senhor diante deles.'),
 (50476,2,38,12,9,'E acontecerá naquele dia, que procurarei destruir todas as nações que vierem contra Jerusalém;'),
 (50477,2,38,12,10,'Mas sobre a casa de Davi, e sobre os habitantes de Jerusalém, derramarei o Espírito de graça e de súplicas; e olharão para mim, a quem traspassaram; e prantearão sobre ele, como quem pranteia pelo filho unigênito; e chorarão amargamente por ele, como se chora amargamente pelo primogênito.'),
-(50478,2,38,12,11,'Naquele dia será grande o pranto em Jerusalém, como o pranto de Hadade-Rimom no vale de Megido.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(50478,2,38,12,11,'Naquele dia será grande o pranto em Jerusalém, como o pranto de Hadade-Rimom no vale de Megido.'),
 (50479,2,38,12,12,'E a terra pranteará, cada família à parte: a família da casa de Davi à parte, e suas mulheres à parte; e a família da casa de Natã à parte, e suas mulheres à parte;'),
 (50480,2,38,12,13,'A família da casa de Levi à parte, e suas mulheres à parte; a família de Simei à parte, e suas mulheres à parte.'),
 (50481,2,38,12,14,'Todas as mais famílias remanescentes, cada família à parte, e suas mulheres à parte.'),
@@ -21930,8 +21522,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (50525,2,39,1,14,'Pois seja maldito o enganador que, tendo macho no seu rebanho, promete e oferece ao Senhor o que tem mácula; porque eu sou grande Rei, diz o Senhor dos Exércitos, o meu nome é temível entre os gentios.'),
 (50526,2,39,2,1,'Agora, ó sacerdotes, este mandamento é para vós.'),
 (50527,2,39,2,2,'Se não ouvirdes e se não propuserdes, no vosso coração, dar honra ao meu nome, diz o Senhor dos Exércitos, enviarei a maldição contra vós, e amaldiçoarei as vossas bênçãos; e também já as tenho amaldiçoado, porque não aplicais a isso o coração.'),
-(50528,2,39,2,3,'Eis que reprovarei a vossa semente, e espalharei esterco sobre os vossos rostos, o esterco das vossas festas solenes; e para junto deste sereis levados.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(50528,2,39,2,3,'Eis que reprovarei a vossa semente, e espalharei esterco sobre os vossos rostos, o esterco das vossas festas solenes; e para junto deste sereis levados.'),
 (50529,2,39,2,4,'Então sabereis que eu vos enviei este mandamento, para que a minha aliança fosse com Levi, diz o Senhor dos Exércitos.'),
 (50530,2,39,2,5,'Minha aliança com ele foi de vida e de paz, e eu lhas dei para que temesse; então temeu-me, e assombrou-se por causa do meu nome.'),
 (50531,2,39,2,6,'A lei da verdade esteve na sua boca, e a iniqüidade não se achou nos seus lábios; andou comigo em paz e em retidão, e da iniqüidade converteu a muitos.'),
@@ -21981,8 +21572,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (50575,2,40,1,9,'E Uzias gerou a Jotão; e Jotão gerou a Acaz; e Acaz gerou a Ezequias;'),
 (50576,2,40,1,10,'E Ezequias gerou a Manassés; e Manassés gerou a Amom; e Amom gerou a Josias;'),
 (50577,2,40,1,11,'E Josias gerou a Jeconias e a seus irmãos na deportação para babilônia.'),
-(50578,2,40,1,12,'E, depois da deportação para a babilônia, Jeconias gerou a Salatiel; e Salatiel gerou a Zorobabel;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(50578,2,40,1,12,'E, depois da deportação para a babilônia, Jeconias gerou a Salatiel; e Salatiel gerou a Zorobabel;'),
 (50579,2,40,1,13,'E Zorobabel gerou a Abiúde; e Abiúde gerou a Eliaquim; e Eliaquim gerou a Azor;'),
 (50580,2,40,1,14,'E Azor gerou a Sadoque; e Sadoque gerou a Aquim; e Aquim gerou a Eliúde;'),
 (50581,2,40,1,15,'E Eliúde gerou a Eleazar; e Eleazar gerou a Matã; e Matã gerou a Jacó;'),
@@ -22032,8 +21622,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (50625,2,40,3,11,'E eu, em verdade, vos batizo com água, para o arrependimento; mas aquele que vem após mim é mais poderoso do que eu; cujas alparcas não sou digno de levar; ele vos batizará com o Espírito Santo, e com fogo.'),
 (50626,2,40,3,12,'Em sua mão tem a pá, e limpará a sua eira, e recolherá no celeiro o seu trigo, e queimará a palha com fogo que nunca se apagará.'),
 (50627,2,40,3,13,'Então veio Jesus da Galiléia ter com João, junto do Jordão, para ser batizado por ele.'),
-(50628,2,40,3,14,'Mas João opunha-se-lhe, dizendo: Eu careço de ser batizado por ti, e vens tu a mim?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(50628,2,40,3,14,'Mas João opunha-se-lhe, dizendo: Eu careço de ser batizado por ti, e vens tu a mim?'),
 (50629,2,40,3,15,'Jesus, porém, respondendo, disse-lhe: Deixa por agora, porque assim nos convém cumprir toda a justiça. Então ele o permitiu.'),
 (50630,2,40,3,16,'E, sendo Jesus batizado, saiu logo da água, e eis que se lhe abriram os céus, e viu o Espírito de Deus descendo como pomba e vindo sobre ele.'),
 (50631,2,40,3,17,'E eis que uma voz dos céus dizia: Este é o meu Filho amado, em quem me comprazo.'),
@@ -22083,8 +21672,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (50675,2,40,5,19,'Qualquer, pois, que violar um destes mandamentos, por menor que seja, e assim ensinar aos homens, será chamado o menor no reino dos céus; aquele, porém, que os cumprir e ensinar será chamado grande no reino dos céus.'),
 (50676,2,40,5,20,'Porque vos digo que, se a vossa justiça não exceder a dos escribas e fariseus, de modo nenhum entrareis no reino dos céus.'),
 (50677,2,40,5,21,'Ouvistes que foi dito aos antigos: Não matarás; mas qualquer que matar será réu de juízo.'),
-(50678,2,40,5,22,'Eu, porém, vos digo que qualquer que, sem motivo, se encolerizar contra seu irmão, será réu de juízo; e qualquer que disser a seu irmão: Raca, será réu do sinédrio; e qualquer que lhe disser: Louco, será réu do fogo do inferno.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(50678,2,40,5,22,'Eu, porém, vos digo que qualquer que, sem motivo, se encolerizar contra seu irmão, será réu de juízo; e qualquer que disser a seu irmão: Raca, será réu do sinédrio; e qualquer que lhe disser: Louco, será réu do fogo do inferno.'),
 (50679,2,40,5,23,'Portanto, se trouxeres a tua oferta ao altar, e aí te lembrares de que teu irmão tem alguma coisa contra ti,'),
 (50680,2,40,5,24,'Deixa ali diante do altar a tua oferta, e vai reconciliar-te primeiro com teu irmão e, depois, vem e apresenta a tua oferta.'),
 (50681,2,40,5,25,'Concilia-te depressa com o teu adversário, enquanto estás no caminho com ele, para que não aconteça que o adversário te entregue ao juiz, e o juiz te entregue ao oficial, e te encerrem na prisão.'),
@@ -22134,8 +21722,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (50725,2,40,6,21,'Porque onde estiver o vosso tesouro, aí estará também o vosso coração.'),
 (50726,2,40,6,22,'A candeia do corpo são os olhos; de sorte que, se os teus olhos forem bons, todo o teu corpo terá luz;'),
 (50727,2,40,6,23,'Se, porém, os teus olhos forem maus, o teu corpo será tenebroso. Se, portanto, a luz que em ti há são trevas, quão grandes serão tais trevas!'),
-(50728,2,40,6,24,'Ninguém pode servir a dois senhores; porque ou há de odiar um e amar o outro, ou se dedicará a um e desprezará o outro. Não podeis servir a Deus e a Mamom.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(50728,2,40,6,24,'Ninguém pode servir a dois senhores; porque ou há de odiar um e amar o outro, ou se dedicará a um e desprezará o outro. Não podeis servir a Deus e a Mamom.'),
 (50729,2,40,6,25,'Por isso vos digo: Não andeis cuidadosos quanto à vossa vida, pelo que haveis de comer ou pelo que haveis de beber; nem quanto ao vosso corpo, pelo que haveis de vestir. Não é a vida mais do que o mantimento, e o corpo mais do que o vestuário?'),
 (50730,2,40,6,26,'Olhai para as aves do céu, que nem semeiam, nem segam, nem ajuntam em celeiros; e vosso Pai celestial as alimenta. Não tendes vós muito mais valor do que elas?'),
 (50731,2,40,6,27,'E qual de vós poderá, com todos os seus cuidados, acrescentar um côvado à sua estatura?'),
@@ -22185,8 +21772,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (50775,2,40,8,8,'E o centurião, respondendo, disse: Senhor, não sou digno de que entres debaixo do meu telhado, mas dize somente uma palavra, e o meu criado há de sarar.'),
 (50776,2,40,8,9,'Pois também eu sou homem sob autoridade, e tenho soldados às minhas ordens; e digo a este: Vai, e ele vai; e a outro: Vem, e ele vem; e ao meu criado: Faze isto, e ele o faz.'),
 (50777,2,40,8,10,'E maravilhou-se Jesus, ouvindo isto, e disse aos que o seguiam: Em verdade vos digo que nem mesmo em Israel encontrei tanta fé.'),
-(50778,2,40,8,11,'Mas eu vos digo que muitos virão do oriente e do ocidente, e assentar-se-ão à mesa com Abraão, e Isaque, e Jacó, no reino dos céus;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(50778,2,40,8,11,'Mas eu vos digo que muitos virão do oriente e do ocidente, e assentar-se-ão à mesa com Abraão, e Isaque, e Jacó, no reino dos céus;'),
 (50779,2,40,8,12,'E os filhos do reino serão lançados nas trevas exteriores; ali haverá pranto e ranger de dentes.'),
 (50780,2,40,8,13,'Então disse Jesus ao centurião: Vai, e como creste te seja feito. E naquela mesma hora o seu criado sarou.'),
 (50781,2,40,8,14,'E Jesus, entrando em casa de Pedro, viu a sogra deste acamada, e com febre.'),
@@ -22236,8 +21822,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (50825,2,40,9,24,'Disse-lhes: Retirai-vos, que a menina não está morta, mas dorme. E riam-se dele.'),
 (50826,2,40,9,25,'E, logo que o povo foi posto fora, entrou Jesus, e pegou-lhe na mão, e a menina levantou-se.'),
 (50827,2,40,9,26,'E espalhou-se aquela notícia por todo aquele país.'),
-(50828,2,40,9,27,'E, partindo Jesus dali, seguiram-no dois cegos, clamando, e dizendo: Tem compaixão de nós, filho de Davi.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(50828,2,40,9,27,'E, partindo Jesus dali, seguiram-no dois cegos, clamando, e dizendo: Tem compaixão de nós, filho de Davi.'),
 (50829,2,40,9,28,'E, quando chegou à casa, os cegos se aproximaram dele; e Jesus disse-lhes: Credes vós que eu possa fazer isto? Disseram-lhe eles: Sim, Senhor.'),
 (50830,2,40,9,29,'Tocou então os olhos deles, dizendo: Seja-vos feito segundo a vossa fé.'),
 (50831,2,40,9,30,'E os olhos se lhes abriram. E Jesus ameaçou-os, dizendo: Olhai que ninguém o saiba.'),
@@ -22287,8 +21872,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (50875,2,40,10,36,'E assim os inimigos do homem serão os seus familiares.'),
 (50876,2,40,10,37,'Quem ama o pai ou a mãe mais do que a mim não é digno de mim; e quem ama o filho ou a filha mais do que a mim não é digno de mim.'),
 (50877,2,40,10,38,'E quem não toma a sua cruz, e não segue após mim, não é digno de mim.'),
-(50878,2,40,10,39,'Quem achar a sua vida perdê-la-á; e quem perder a sua vida, por amor de mim, achá-la-á.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(50878,2,40,10,39,'Quem achar a sua vida perdê-la-á; e quem perder a sua vida, por amor de mim, achá-la-á.'),
 (50879,2,40,10,40,'Quem vos recebe, a mim me recebe; e quem me recebe a mim, recebe aquele que me enviou.'),
 (50880,2,40,10,41,'Quem recebe um profeta em qualidade de profeta, receberá galardão de profeta; e quem recebe um justo na qualidade de justo, receberá galardão de justo.'),
 (50881,2,40,10,42,'E qualquer que tiver dado só que seja um copo de água fria a um destes pequenos, em nome de discípulo, em verdade vos digo que de modo algum perderá o seu galardão.'),
@@ -22338,8 +21922,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (50925,2,40,12,14,'E os fariseus, tendo saído, formaram conselho contra ele, para o matarem.'),
 (50926,2,40,12,15,'Jesus, sabendo isso, retirou-se dali, e acompanharam-no grandes multidões, e ele curou a todas.'),
 (50927,2,40,12,16,'E recomendava-lhes rigorosamente que o não descobrissem,'),
-(50928,2,40,12,17,'Para que se cumprisse o que fora dito pelo profeta Isaías, que diz:');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(50928,2,40,12,17,'Para que se cumprisse o que fora dito pelo profeta Isaías, que diz:'),
 (50929,2,40,12,18,'Eis aqui o meu servo, que escolhi,o meu amado, em quem a minha alma se compraz;porei sobre ele o meu espírito,e anunciará aos gentios o juízo.'),
 (50930,2,40,12,19,'Não contenderá, nem clamará,Nem alguém ouvirá pelas ruas a sua voz;'),
 (50931,2,40,12,20,'Não esmagará a cana quebrada,enão apagará o morrão que fumega,até que faça triunfar o juízo;'),
@@ -22389,8 +21972,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (50975,2,40,13,14,'E neles se cumpre a profecia de Isaías, que diz:Ouvindo, ouvireis, mas não compreendereis,e, vendo, vereis, mas não percebereis.'),
 (50976,2,40,13,15,'Porque o coração deste povo está endurecido,E ouviram de mau grado com seus ouvidos,E fecharam seus olhos;Para que não vejam com os olhos,E ouçam com os ouvidos,e compreendam com o coração,e se convertam,e eu os cure.'),
 (50977,2,40,13,16,'Mas, bem-aventurados os vossos olhos, porque vêem, e os vossos ouvidos, porque ouvem.'),
-(50978,2,40,13,17,'Porque em verdade vos digo que muitos profetas e justos desejaram ver o que vós vedes, e não o viram; e ouvir o que vós ouvis, e não o ouviram.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(50978,2,40,13,17,'Porque em verdade vos digo que muitos profetas e justos desejaram ver o que vós vedes, e não o viram; e ouvir o que vós ouvis, e não o ouviram.'),
 (50979,2,40,13,18,'Escutai vós, pois, a parábola do semeador.'),
 (50980,2,40,13,19,'Ouvindo alguém a palavra do reino, e não a entendendo, vem o maligno, e arrebata o que foi semeado no seu coração; este é o que foi semeado ao pé do caminho.'),
 (50981,2,40,13,20,'O que foi semeado em pedregais é o que ouve a palavra, e logo a recebe com alegria;'),
@@ -22491,8 +22073,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (51075,2,40,15,20,'São estas coisas que contaminam o homem; mas comer sem lavar as mãos, isso não contamina o homem.'),
 (51076,2,40,15,21,'E, partindo Jesus dali, foi para as partes de Tiro e de Sidom.'),
 (51077,2,40,15,22,'E eis que uma mulher cananéia, que saíra daquelas cercanias, clamou, dizendo: Senhor, Filho de Davi, tem misericórdia de mim, que minha filha está miseravelmente endemoninhada.'),
-(51078,2,40,15,23,'Mas ele não lhe respondeu palavra. E os seus discípulos, chegando ao pé dele, rogaram-lhe, dizendo: Despede-a, que vem gritando atrás de nós.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(51078,2,40,15,23,'Mas ele não lhe respondeu palavra. E os seus discípulos, chegando ao pé dele, rogaram-lhe, dizendo: Despede-a, que vem gritando atrás de nós.'),
 (51079,2,40,15,24,'E ele, respondendo, disse: Eu não fui enviado senão às ovelhas perdidas da casa de Israel.'),
 (51080,2,40,15,25,'Então chegou ela, e adorou-o, dizendo: Senhor, socorre-me!'),
 (51081,2,40,15,26,'Ele, porém, respondendo, disse: Não é bom pegar no pão dos filhos e deitá-lo aos cachorrinhos.'),
@@ -22542,8 +22123,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (51125,2,40,17,3,'E eis que lhes apareceram Moisés e Elias, falando com ele.'),
 (51126,2,40,17,4,'E Pedro, tomando a palavra, disse a Jesus: Senhor, bom é estarmos aqui; se queres, façamos aqui três tabernáculos, um para ti, um para Moisés, e um para Elias.'),
 (51127,2,40,17,5,'E, estando ele ainda a falar, eis que uma nuvem luminosa os cobriu. E da nuvem saiu uma voz que dizia: Este é o meu amado Filho, em quem me comprazo; escutai-o.'),
-(51128,2,40,17,6,'E os discípulos, ouvindo isto, caíram sobre os seus rostos, e tiveram grande medo.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(51128,2,40,17,6,'E os discípulos, ouvindo isto, caíram sobre os seus rostos, e tiveram grande medo.'),
 (51129,2,40,17,7,'E, aproximando-se Jesus, tocou-lhes, e disse: Levantai-vos, e não tenhais medo.'),
 (51130,2,40,17,8,'E, erguendo eles os olhos, ninguém viram senão unicamente a Jesus.'),
 (51131,2,40,17,9,'E, descendo eles do monte, Jesus lhes ordenou, dizendo: A ninguém conteis a visão, até que o Filho do homem seja ressuscitado dentre os mortos.'),
@@ -22593,8 +22173,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (51175,2,40,18,26,'Então aquele servo, prostrando-se, o reverenciava, dizendo: Senhor, sê generoso para comigo, e tudo te pagarei.'),
 (51176,2,40,18,27,'Então o Senhor daquele servo, movido de íntima compaixão, soltou-o e perdoou-lhe a dívida.'),
 (51177,2,40,18,28,'Saindo, porém, aquele servo, encontrou um dos seus conservos, que lhe devia cem dinheiros, e, lançando mão dele, sufocava-o, dizendo: Paga-me o que me deves.'),
-(51178,2,40,18,29,'Então o seu companheiro, prostrando-se a seus pés, rogava-lhe, dizendo: Sê generoso para comigo, e tudo te pagarei.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(51178,2,40,18,29,'Então o seu companheiro, prostrando-se a seus pés, rogava-lhe, dizendo: Sê generoso para comigo, e tudo te pagarei.'),
 (51179,2,40,18,30,'Ele, porém, não quis, antes foi encerrá-lo na prisão, até que pagasse a dívida.'),
 (51180,2,40,18,31,'Vendo, pois, os seus conservos o que acontecia, contristaram-se muito, e foram declarar ao seu senhor tudo o que se passara.'),
 (51181,2,40,18,32,'Então o seu senhor, chamando-o à sua presença, disse-lhe: Servo malvado, perdoei-te toda aquela dívida, porque me suplicaste.'),
@@ -22644,8 +22223,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (51225,2,40,20,11,'E, recebendo-o, murmuravam contra o pai de família,'),
 (51226,2,40,20,12,'Dizendo: Estes derradeiros trabalharam só uma hora, e tu os igualaste conosco, que suportamos a fadiga e a calma do dia.'),
 (51227,2,40,20,13,'Mas ele, respondendo, disse a um deles: Amigo, não te faço agravo; não ajustaste tu comigo um dinheiro?'),
-(51228,2,40,20,14,'Toma o que é teu, e retira-te; eu quero dar a este derradeiro tanto como a ti.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(51228,2,40,20,14,'Toma o que é teu, e retira-te; eu quero dar a este derradeiro tanto como a ti.'),
 (51229,2,40,20,15,'Ou não me é lícito fazer o que quiser do que é meu? Ou é mau o teu olho porque eu sou bom?'),
 (51230,2,40,20,16,'Assim os derradeiros serão primeiros, e os primeiros derradeiros; porque muitos são chamados, mas poucos escolhidos.'),
 (51231,2,40,20,17,'E, subindo Jesus a Jerusalém, chamou à parte os seus doze discípulos, e no caminho disse-lhes:'),
@@ -22695,8 +22273,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (51275,2,40,21,27,'E, respondendo a Jesus, disseram: Não sabemos. Ele disse-lhes: Nem eu vos digo com que autoridade faço isto.'),
 (51276,2,40,21,28,'Mas, que vos parece? Um homem tinha dois filhos, e, dirigindo-se ao primeiro, disse: Filho, vai trabalhar hoje na minha vinha.'),
 (51277,2,40,21,29,'Ele, porém, respondendo, disse: Não quero. Mas depois, arrependendo-se, foi.'),
-(51278,2,40,21,30,'E, dirigindo-se ao segundo, falou-lhe de igual modo; e, respondendo ele, disse: Eu vou, senhor; e não foi.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(51278,2,40,21,30,'E, dirigindo-se ao segundo, falou-lhe de igual modo; e, respondendo ele, disse: Eu vou, senhor; e não foi.'),
 (51279,2,40,21,31,'Qual dos dois fez a vontade do pai? Disseram-lhe eles: O primeiro. Disse-lhes Jesus: Em verdade vos digo que os publicanos e as meretrizes entram adiante de vós no reino de Deus.'),
 (51280,2,40,21,32,'Porque João veio a vós no caminho da justiça, e não o crestes, mas os publicanos e as meretrizes o creram; vós, porém, vendo isto, nem depois vos arrependestes para o crer.'),
 (51281,2,40,21,33,'Ouvi, ainda, outra parábola: Houve um homem, pai de família, que plantou uma vinha, e circundou-a de um valado, e construiu nela um lagar, e edificou uma torre, e arrendou-a a uns lavradores, e ausentou-se para longe.'),
@@ -22746,8 +22323,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (51325,2,40,22,31,'E, acerca da ressurreição dos mortos, não tendes lido o que Deus vos declarou, dizendo:'),
 (51326,2,40,22,32,'Eu sou o Deus de Abraão, o Deus de Isaque, e o Deus de Jacó? Ora, Deus não é Deus dos mortos, mas dos vivos.'),
 (51327,2,40,22,33,'E, as turbas, ouvindo isto, ficaram maravilhadas da sua doutrina.'),
-(51328,2,40,22,34,'E os fariseus, ouvindo que ele fizera emudecer os saduceus, reuniram-se no mesmo lugar.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(51328,2,40,22,34,'E os fariseus, ouvindo que ele fizera emudecer os saduceus, reuniram-se no mesmo lugar.'),
 (51329,2,40,22,35,'E um deles, doutor da lei, interrogou-o para o experimentar, dizendo:'),
 (51330,2,40,22,36,'Mestre, qual é o grande mandamento na lei?'),
 (51331,2,40,22,37,'E Jesus disse-lhe: Amarás o Senhor teu Deus de todo o teu coração, e de toda a tua alma, e de todo o teu pensamento.'),
@@ -22797,8 +22373,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (51375,2,40,23,35,'Para que sobre vós caia todo o sangue justo, que foi derramado sobre a terra, desde o sangue de Abel, o justo, até ao sangue de Zacarias, filho de Baraquias, que matastes entre o santuário e o altar.'),
 (51376,2,40,23,36,'Em verdade vos digo que todas estas coisas hão de vir sobre esta geração.'),
 (51377,2,40,23,37,'Jerusalém, Jerusalém, que matas os profetas, e apedrejas os que te são enviados! quantas vezes quis eu ajuntar os teus filhos, como a galinha ajunta os seus pintos debaixo das asas, e tu não quiseste!'),
-(51378,2,40,23,38,'Eis que a vossa casa vai ficar-vos deserta;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(51378,2,40,23,38,'Eis que a vossa casa vai ficar-vos deserta;'),
 (51379,2,40,23,39,'Porque eu vos digo que desde agora me não vereis mais, até que digais: Bendito o que vem em nome do Senhor.'),
 (51380,2,40,24,1,'E, quando Jesus ia saindo do templo, aproximaram-se dele os seus discípulos para lhe mostrarem a estrutura do templo.'),
 (51381,2,40,24,2,'Jesus, porém, lhes disse: Não vedes tudo isto? Em verdade vos digo que não ficará aqui pedra sobre pedra que não seja derrubada.'),
@@ -22848,8 +22423,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (51425,2,40,24,46,'Bem-aventurado aquele servo que o seu senhor, quando vier, achar servindo assim.'),
 (51426,2,40,24,47,'Em verdade vos digo que o porá sobre todos os seus bens.'),
 (51427,2,40,24,48,'Mas se aquele mau servo disser no seu coração: O meu senhor tarde virá;'),
-(51428,2,40,24,49,'E começar a espancar os seus conservos, e a comer e a beber com os ébrios,');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(51428,2,40,24,49,'E começar a espancar os seus conservos, e a comer e a beber com os ébrios,'),
 (51429,2,40,24,50,'Virá o senhor daquele servo num dia em que o não espera, e à hora em que ele não sabe,'),
 (51430,2,40,24,51,'E separá-lo-á, e destinará a sua parte com os hipócritas; ali haverá pranto e ranger de dentes.'),
 (51431,2,40,25,1,'Então o reino dos céus será semelhante a dez virgens que, tomando as suas lâmpadas, saíram ao encontro do esposo.'),
@@ -22899,8 +22473,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (51475,2,40,25,45,'Então lhes responderá, dizendo: Em verdade vos digo que, quando a um destes pequeninos o não fizestes, não o fizestes a mim.'),
 (51476,2,40,25,46,'E irão estes para o tormento eterno, mas os justos para a vida eterna.'),
 (51477,2,40,26,1,'E aconteceu que, quando Jesus concluiu todos estes discursos, disse aos seus discípulos:'),
-(51478,2,40,26,2,'Bem sabeis que daqui a dois dias é a páscoa; e o Filho do homem será entregue para ser crucificado.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(51478,2,40,26,2,'Bem sabeis que daqui a dois dias é a páscoa; e o Filho do homem será entregue para ser crucificado.'),
 (51479,2,40,26,3,'Depois os príncipes dos sacerdotes, e os escribas, e os anciãos do povo reuniram-se na sala do sumo sacerdote, o qual se chamava Caifás.'),
 (51480,2,40,26,4,'E consultaram-se mutuamente para prenderem Jesus com dolo e o matarem.'),
 (51481,2,40,26,5,'Mas diziam: Não durante a festa, para que não haja alvoroço entre o povo.'),
@@ -22950,8 +22523,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (51525,2,40,26,49,'E logo, aproximando-se de Jesus, disse: Eu te saúdo, Rabi; e beijou-o.'),
 (51526,2,40,26,50,'Jesus, porém, lhe disse: Amigo, a que vieste? Então, aproximando-se eles, lançaram mão de Jesus, e o prenderam.'),
 (51527,2,40,26,51,'E eis que um dos que estavam com Jesus, estendendo a mão, puxou da espada e, ferindo o servo do sumo sacerdote, cortou-lhe uma orelha.'),
-(51528,2,40,26,52,'Então Jesus disse-lhe: Embainha a tua espada; porque todos os que lançarem mão da espada, à espada morrerão.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(51528,2,40,26,52,'Então Jesus disse-lhe: Embainha a tua espada; porque todos os que lançarem mão da espada, à espada morrerão.'),
 (51529,2,40,26,53,'Ou pensas tu que eu não poderia agora orar a meu Pai, e que ele não me daria mais de doze legiões de anjos?'),
 (51530,2,40,26,54,'Como, pois, se cumpririam as Escrituras, que dizem que assim convém que aconteça?'),
 (51531,2,40,26,55,'Então disse Jesus à multidão: Saístes, como para um salteador, com espadas e varapaus para me prender? Todos os dias me assentava junto de vós, ensinando no templo, e não me prendestes.'),
@@ -23001,8 +22573,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (51575,2,40,27,24,'Então Pilatos, vendo que nada aproveitava, antes o tumulto crescia, tomando água, lavou as mãos diante da multidão, dizendo: Estou inocente do sangue deste justo. Considerai isso.'),
 (51576,2,40,27,25,'E, respondendo todo o povo, disse: O seu sangue caia sobre nós e sobre nossos filhos.'),
 (51577,2,40,27,26,'Então soltou-lhes Barrabás, e, tendo mandado açoitar a Jesus, entregou-o para ser crucificado.'),
-(51578,2,40,27,27,'E logo os soldados do presidente, conduzindo Jesus à audiência, reuniram junto dele toda a coorte.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(51578,2,40,27,27,'E logo os soldados do presidente, conduzindo Jesus à audiência, reuniram junto dele toda a coorte.'),
 (51579,2,40,27,28,'E, despindo-o, o cobriram com uma capa de escarlate;'),
 (51580,2,40,27,29,'E, tecendo uma coroa de espinhos, puseram-lha na cabeça, e em sua mão direita uma cana; e, ajoelhando diante dele, o escarneciam, dizendo: Salve, Rei dos judeus.'),
 (51581,2,40,27,30,'E, cuspindo nele, tiraram-lhe a cana, e batiam-lhe com ela na cabeça.'),
@@ -23052,8 +22623,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (51625,2,40,28,8,'E, saindo elas pressurosamente do sepulcro, com temor e grande alegria, correram a anunciá-lo aos seus discípulos.'),
 (51626,2,40,28,9,'E, indo elas a dar as novas aos seus discípulos, eis que Jesus lhes sai ao encontro, dizendo: Eu vos saúdo. E elas, chegando, abraçaram os seus pés, e o adoraram.'),
 (51627,2,40,28,10,'Então Jesus disse-lhes: Não temais; ide dizer a meus irmãos que vão à Galiléia, e lá me verão.'),
-(51628,2,40,28,11,'E, quando iam, eis que alguns da guarda, chegando à cidade, anunciaram aos príncipes dos sacerdotes todas as coisas que haviam acontecido.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(51628,2,40,28,11,'E, quando iam, eis que alguns da guarda, chegando à cidade, anunciaram aos príncipes dos sacerdotes todas as coisas que haviam acontecido.'),
 (51629,2,40,28,12,'E, congregados eles com os anciãos, e tomando conselho entre si, deram muito dinheiro aos soldados,'),
 (51630,2,40,28,13,'Dizendo: Dizei: Vieram de noite os seus discípulos e, dormindo nós, o furtaram.'),
 (51631,2,40,28,14,'E, se isto chegar a ser ouvido pelo presidente, nós o persuadiremos, e vos poremos em segurança.'),
@@ -23103,8 +22673,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (51675,2,41,1,38,'E ele lhes disse: Vamos às aldeias vizinhas, para que eu ali também pregue; porque para isso vim.'),
 (51676,2,41,1,39,'E pregava nas sinagogas deles, por toda a Galiléia, e expulsava os demônios.'),
 (51677,2,41,1,40,'E aproximou-se dele um leproso que, rogando-lhe, e pondo-se de joelhos diante dele, lhe dizia: Se queres, bem podes limpar-me.'),
-(51678,2,41,1,41,'E Jesus, movido de grande compaixão, estendeu a mão, e tocou-o, e disse-lhe: Quero, sê limpo.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(51678,2,41,1,41,'E Jesus, movido de grande compaixão, estendeu a mão, e tocou-o, e disse-lhe: Quero, sê limpo.'),
 (51679,2,41,1,42,'E, tendo ele dito isto, logo a lepra desapareceu, e ficou limpo.'),
 (51680,2,41,1,43,'E, advertindo-o severamente, logo o despediu.'),
 (51681,2,41,1,44,'E disse-lhe: Olha, não digas nada a ninguém; porém vai, mostra-te ao sacerdote, e oferece pela tua purificação o que Moisés determinou, para lhes servir de testemunho.'),
@@ -23154,8 +22723,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (51725,2,41,3,15,'E para que tivessem o poderde curar as enfermidades e expulsar os demônios:'),
 (51726,2,41,3,16,'A Simão, a quem pôs o nome de Pedro,'),
 (51727,2,41,3,17,'E a Tiago, filho de Zebedeu, e a João, irmão de Tiago, aos quais pôs o nome de Boanerges, que significa: Filhos do trovão;'),
-(51728,2,41,3,18,'E a André, e a Filipe, e a Bartolomeu, e a Mateus, e a Tomé, e a Tiago, filho de Alfeu, e a Tadeu, e a Simão, o Cananita,');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(51728,2,41,3,18,'E a André, e a Filipe, e a Bartolomeu, e a Mateus, e a Tomé, e a Tiago, filho de Alfeu, e a Tadeu, e a Simão, o Cananita,'),
 (51729,2,41,3,19,'E a Judas Iscariotes, o que o entregou.'),
 (51730,2,41,3,20,'E foram para uma casa. E afluiu outra vez a multidão, de tal maneira que nem sequer podiam comer pão.'),
 (51731,2,41,3,21,'E, quando os seus ouviram isto, saíram para o prender; porque diziam: Está fora de si.'),
@@ -23205,8 +22773,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (51775,2,41,4,30,'E dizia: A que assemelhare-mos o reino de Deus? ou com que parábola o representaremos?'),
 (51776,2,41,4,31,'É como um grão de mostarda, que, quando se semeia na terra, é a menor de todas as sementes que há na terra;'),
 (51777,2,41,4,32,'Mas, tendo sido semeado, cresce; e faz-se a maior de todas as hortaliças, e cria grandes ramos, de tal maneira que as aves do céu podem aninhar-se debaixo da sua sombra.'),
-(51778,2,41,4,33,'E com muitas parábolas tais lhes dirigia a palavra, segundo o que podiam compreender.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(51778,2,41,4,33,'E com muitas parábolas tais lhes dirigia a palavra, segundo o que podiam compreender.'),
 (51779,2,41,4,34,'E sem parábolas nunca lhes falava; porém, tudo declarava em particular aos seus discípulos.'),
 (51780,2,41,4,35,'E, naquele dia, sendo já tarde, disse-lhes: Passemos para o outro lado.'),
 (51781,2,41,4,36,'E eles, deixando a multidão, o levaram consigo, assim como estava, no barco; e havia também com ele outros barquinhos.'),
@@ -23256,8 +22823,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (51825,2,41,5,39,'E, entrando, disse-lhes: Por que vos alvoroçais e chorais? A menina não está morta, mas dorme.'),
 (51826,2,41,5,40,'E riam-se dele; porém ele, tendo-os feito sair, tomou consigo o pai e a mãe da menina, e os que com ele estavam, e entrou onde a menina estava deitada.'),
 (51827,2,41,5,41,'E, tomando a mão da menina, disse-lhe: Talita cumi; que, traduzido, é: Menina, a ti te digo, levanta-te.'),
-(51828,2,41,5,42,'E logo a menina se levantou, e andava, pois já tinha doze anos; e assombraram-se com grande espanto.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(51828,2,41,5,42,'E logo a menina se levantou, e andava, pois já tinha doze anos; e assombraram-se com grande espanto.'),
 (51829,2,41,5,43,'E mandou-lhes expressamente que ninguém o soubesse; e disse que lhe dessem de comer.'),
 (51830,2,41,6,1,'E, partindo dali, chegou à sua pátria, e os seus discípulos o seguiram.'),
 (51831,2,41,6,2,'E, chegando o sábado, começou a ensinar na sinagoga; e muitos, ouvindo-o, se admiravam, dizendo: De onde lhe vêm estas coisas? e que sabedoria é esta que lhe foi dada? e como se fazem tais maravilhas por suas mãos?'),
@@ -23307,8 +22873,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (51875,2,41,6,46,'E, tendo-os despedido, foi ao monte a orar.'),
 (51876,2,41,6,47,'E, sobrevindo a tarde, estava o barco no meio do mar e ele, sozinho, em terra.'),
 (51877,2,41,6,48,'E vendo que se fatigavam a remar, porque o vento lhes era contrário, perto da quarta vigília da noite aproximou-se deles, andando sobre o mar, e queria passar-lhes adiante.'),
-(51878,2,41,6,49,'Mas, quando eles o viram andar sobre o mar, cuidaram que era um fantasma, e deram grandes gritos.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(51878,2,41,6,49,'Mas, quando eles o viram andar sobre o mar, cuidaram que era um fantasma, e deram grandes gritos.'),
 (51879,2,41,6,50,'Porque todos o viam, e perturbaram-se; mas logo falou com eles, e disse-lhes: Tende bom ânimo; sou eu, não temais.'),
 (51880,2,41,6,51,'E subiu para o barco, para estar com eles, e o vento se aquietou; e entre si ficaram muito assombrados e maravilhados;'),
 (51881,2,41,6,52,'Pois não tinham compreendido o milagre dos pães; antes o seu coração estava endurecido.'),
@@ -23358,8 +22923,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (51925,2,41,8,3,'E, se os deixar ir em jejum, para suas casas, desfalecerão no caminho, porque alguns deles vieram de longe.'),
 (51926,2,41,8,4,'E os seus discípulos responderam-lhe: De onde poderá alguém satisfazê-los de pão aqui no deserto?'),
 (51927,2,41,8,5,'E perguntou-lhes: Quantos pães tendes? E disseram-lhe: Sete.'),
-(51928,2,41,8,6,'E ordenou à multidão que se assentasse no chão. E, tomando os sete pães, e tendo dado graças, partiu-os, e deu-os aos seus discípulos, para que os pusessem diante deles, e puseram-nos diante da multidão.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(51928,2,41,8,6,'E ordenou à multidão que se assentasse no chão. E, tomando os sete pães, e tendo dado graças, partiu-os, e deu-os aos seus discípulos, para que os pusessem diante deles, e puseram-nos diante da multidão.'),
 (51929,2,41,8,7,'Tinham também alguns peixinhos; e, tendo dado graças, ordenou que também lhos pusessem diante.'),
 (51930,2,41,8,8,'E comeram, e saciaram-se; e dos pedaços que sobejaram levantaram sete cestos.'),
 (51931,2,41,8,9,'E os que comeram eram quase quatro mil; e despediu-os.'),
@@ -23409,8 +22973,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (51975,2,41,9,15,'E logo toda a multidão, vendo-o, ficou espantada e, correndo para ele, o saudaram.'),
 (51976,2,41,9,16,'E perguntou aos escribas: Que é que discutis com eles?'),
 (51977,2,41,9,17,'E um da multidão, respondendo, disse: Mestre, trouxe-te o meu filho, que tem um espírito mudo;'),
-(51978,2,41,9,18,'E este, onde quer que o apanhe, despedaça-o, e ele espuma, e range os dentes, e vai definhando; e eu disse aos teus discípulos que o expulsassem, e não puderam.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(51978,2,41,9,18,'E este, onde quer que o apanhe, despedaça-o, e ele espuma, e range os dentes, e vai definhando; e eu disse aos teus discípulos que o expulsassem, e não puderam.'),
 (51979,2,41,9,19,'E ele, respondendo-lhes, disse: Ó geração incrédula! até quando estarei convosco? até quando vos sofrerei ainda? Trazei-mo.'),
 (51980,2,41,9,20,'E trouxeram-lho; e quando ele o viu, logo o espírito o agitou com violência, e, caindo o endemoninhado por terra, revolvia-se, escumando.'),
 (51981,2,41,9,21,'E perguntou ao pai dele: Quanto tempo há que lhe sucede isto? E ele disse-lhe: Desde a infância.'),
@@ -23511,8 +23074,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (52075,2,41,11,13,'E, vendo de longe uma figueira que tinha folhas, foi ver se nela acharia alguma coisa; e, chegando a ela, não achou senão folhas, porque não era tempo de figos.'),
 (52076,2,41,11,14,'E Jesus, falando, disse à figueira: Nunca mais coma alguém fruto de ti. E os seus discípulos ouviram isto.'),
 (52077,2,41,11,15,'E vieram a Jerusalém; e Jesus, entrando no templo, começou a expulsar os que vendiam e compravam no templo; e derrubou as mesas dos cambiadores e as cadeiras dos que vendiam pombas.'),
-(52078,2,41,11,16,'E não consentia que alguém levasse algum vaso pelo templo.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(52078,2,41,11,16,'E não consentia que alguém levasse algum vaso pelo templo.'),
 (52079,2,41,11,17,'E os ensinava, dizendo: Não está escrito: A minha casa será chamada, por todas as nações, casa de oração? Mas vós a tendes feito covil de ladrões.'),
 (52080,2,41,11,18,'E os escribas e príncipes dos sacerdotes, tendo ouvido isto, buscavam ocasião para o matar; pois eles o temiam, porque toda a multidão estava admirada acerca da sua doutrina.'),
 (52081,2,41,11,19,'E, sendo já tarde, saiu para fora da cidade.'),
@@ -23562,8 +23124,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (52125,2,41,12,30,'Amarás, pois, ao Senhor teu Deus de todo o teu coração, e de toda a tua alma, e de todo o teu entendimento, e de todas as tuas forças; este é o primeiro mandamento.'),
 (52126,2,41,12,31,'E o segundo, semelhante a este, é: Amarás o teu próximo como a ti mesmo. Não há outro mandamento maior do que estes.'),
 (52127,2,41,12,32,'E o escriba lhe disse: Muito bem, Mestre, e com verdade disseste que há um só Deus, e que não há outro além dele;'),
-(52128,2,41,12,33,'E que amá-lo de todo o coração, e de todo o entendimento, e de toda a alma, e de todas as forças, e amar o próximo como a si mesmo, é mais do que todos os holocaustos e sacrifícios.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(52128,2,41,12,33,'E que amá-lo de todo o coração, e de todo o entendimento, e de toda a alma, e de todas as forças, e amar o próximo como a si mesmo, é mais do que todos os holocaustos e sacrifícios.'),
 (52129,2,41,12,34,'E Jesus, vendo que havia respondido sabiamente, disse-lhe: Não estás longe do reino de Deus. E já ninguém ousava perguntar-lhe mais nada.'),
 (52130,2,41,12,35,'E, falando Jesus, dizia, ensinando no templo: Como dizem os escribas que o Cristo é filho de Davi?'),
 (52131,2,41,12,36,'O próprio Davi disse pelo Espírito Santo:O Senhor disse ao meu Senhor:Assenta-te à minha direita Até que eu ponha os teus inimigos por escabelo dos teus pés.'),
@@ -23613,8 +23174,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (52175,2,41,13,36,'Para que, vindo de improviso, não vos ache dormindo.'),
 (52176,2,41,13,37,'E as coisas que vos digo, digo-as a todos: Vigiai.'),
 (52177,2,41,14,1,'E dali a dois dias era a páscoa, e a festa dos pães ázimos; e os principais dos sacerdotes e os escribas buscavam como o prenderiam com dolo, e o matariam.'),
-(52178,2,41,14,2,'Mas eles diziam: Não na festa, para que porventura não se faça alvoroço entre o povo.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(52178,2,41,14,2,'Mas eles diziam: Não na festa, para que porventura não se faça alvoroço entre o povo.'),
 (52179,2,41,14,3,'E, estando ele em betânia, assentado à mesa, em casa de Simão, o leproso, veio uma mulher, que trazia um vaso de alabastro, com ungüento de nardo puro, de muito preço, e quebrando o vaso, lho derramou sobre a cabeça.'),
 (52180,2,41,14,4,'E alguns houve que em si mesmos se indignaram, e disseram: Para que se fez este desperdício de ungüento?'),
 (52181,2,41,14,5,'Porque podia vender-se por mais de trezentos dinheiros, e dá-lo aos pobres. E bramavam contra ela.'),
@@ -23664,8 +23224,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (52225,2,41,14,49,'Todos os dias estava convosco ensinando no templo, e não me prendestes; mas isto é para que as Escrituras se cumpram.'),
 (52226,2,41,14,50,'Então, deixando-o, todos fugiram.'),
 (52227,2,41,14,51,'E um certo jovem o seguia, envolto em um lençol sobre o corpo nu. E lançaram-lhe a mão.'),
-(52228,2,41,14,52,'Mas ele, largando o lençol, fugiu nu. Jesus perante o Sinédrio. Negação de Pedro');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(52228,2,41,14,52,'Mas ele, largando o lençol, fugiu nu. Jesus perante o Sinédrio. Negação de Pedro'),
 (52229,2,41,14,53,'E levaram Jesus ao sumo sacerdote, e ajuntaram-se todos os principais dos sacerdotes, e os anciãos e os escribas.'),
 (52230,2,41,14,54,'E Pedro o seguiu de longe até dentro do pátio do sumo sacerdote, e estava assentado com os servidores, aquentando-se ao lume.'),
 (52231,2,41,14,55,'E os principais dos sacerdotes e todo o concílio buscavam algum testemunho contra Jesus, para o matar, e não o achavam.'),
@@ -23715,8 +23274,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (52275,2,41,15,27,'E crucificaram com ele dois salteadores, um à sua direita, e outro à esquerda.'),
 (52276,2,41,15,28,'E cumprindo-se a escritura que diz: E com os malfeitores foi contado.'),
 (52277,2,41,15,29,'E os que passavam blasfemavam dele, meneando as suas cabeças, e dizendo: Ah! tu que derrubas o templo, e em três dias o edificas,'),
-(52278,2,41,15,30,'Salva-te a ti mesmo, e desce da cruz.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(52278,2,41,15,30,'Salva-te a ti mesmo, e desce da cruz.'),
 (52279,2,41,15,31,'E da mesma maneira também os principais dos sacerdotes, com os escribas, diziam uns para os outros, zombando: Salvou os outros, e não pode salvar-se a si mesmo.'),
 (52280,2,41,15,32,'O Cristo, o Rei de Israel, desça agora da cruz, para que o vejamos e acreditemos. Também os que com ele foram crucificados o injuriavam.'),
 (52281,2,41,15,33,'E, chegada a hora sexta, houve trevas sobre toda a terra até a hora nona.'),
@@ -23766,8 +23324,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (52325,2,42,1,10,'E toda a multidão do povo estava fora, orando, à hora do incenso.'),
 (52326,2,42,1,11,'E um anjo do Senhor lhe apareceu, posto em pé, à direita do altar do incenso.'),
 (52327,2,42,1,12,'E Zacarias, vendo-o, turbou-se, e caiu temor sobre ele.'),
-(52328,2,42,1,13,'Mas o anjo lhe disse: Zacarias, não temas, porque a tua oração foi ouvida, e Isabel, tua mulher, dará à luz um filho, e lhe porás o nome de João.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(52328,2,42,1,13,'Mas o anjo lhe disse: Zacarias, não temas, porque a tua oração foi ouvida, e Isabel, tua mulher, dará à luz um filho, e lhe porás o nome de João.'),
 (52329,2,42,1,14,'E terás prazer e alegria, e muitos se alegrarão no seu nascimento,'),
 (52330,2,42,1,15,'Porque será grande diante do Senhor, e não beberá vinho, nem bebida forte, e será cheio do Espírito Santo, já desde o ventre de sua mãe.'),
 (52331,2,42,1,16,'E converterá muitos dos filhos de Israel ao Senhor seu Deus,'),
@@ -23817,8 +23374,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (52375,2,42,1,60,'E, respondendo sua mãe, disse: Não, porém será chamado João.'),
 (52376,2,42,1,61,'E disseram-lhe: Ninguém há na tua parentela que se chame por este nome.'),
 (52377,2,42,1,62,'E perguntaram por acenos ao pai como queria que lhe chamassem.'),
-(52378,2,42,1,63,'E, pedindo ele uma tabuinha de escrever, escreveu, dizendo: O seu nome é João. E todos se maravilharam.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(52378,2,42,1,63,'E, pedindo ele uma tabuinha de escrever, escreveu, dizendo: O seu nome é João. E todos se maravilharam.'),
 (52379,2,42,1,64,'E logo a boca se lhe abriu, e a língua se lhe soltou; e falava, louvando a Deus.'),
 (52380,2,42,1,65,'E veio temor sobre todos os seus vizinhos, e em todas as montanhas da Judéia foram divulgadas todas estas coisas.'),
 (52381,2,42,1,66,'E todos os que as ouviam as conservavam em seus corações, dizendo: Quem será, pois, este menino? E a mão do Senhor estava com ele.'),
@@ -23868,8 +23424,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (52425,2,42,2,30,'Pois já os meus olhos viram a tua salvação,'),
 (52426,2,42,2,31,'A qual tu preparaste perante a face de todos os povos;'),
 (52427,2,42,2,32,'Luz para iluminar as nações, E para glória de teu povo Israel.'),
-(52428,2,42,2,33,'E José, e sua mãe, se maravilharam das coisas que dele se diziam.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(52428,2,42,2,33,'E José, e sua mãe, se maravilharam das coisas que dele se diziam.'),
 (52429,2,42,2,34,'E Simeão os abençoou, e disse a Maria, sua mãe: Eis que este é posto para queda e elevação de muitos em Israel, e para sinal que é contraditado'),
 (52430,2,42,2,35,'(E uma espada traspassará também a tua própria alma); para que se manifestem os pensamentos de muitos corações.'),
 (52431,2,42,2,36,'E estava ali a profetisa Ana, filha de Fanuel, da tribo de Aser. Esta era já avançada em idade, e tinha vivido com o marido sete anos, desde a sua virgindade;'),
@@ -23919,8 +23474,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (52475,2,42,3,28,'E Neri de Melqui, e Melqui de Adi, e Adi de Cosã, e Cosã de Elmadã, e Elmadã de Er,'),
 (52476,2,42,3,29,'E Er de Josué, e Josué de Eliézer, e Eliézer de Jorim, e Jorim de Matã, e Matã de Levi,'),
 (52477,2,42,3,30,'E Levi de Simeão, e Simeão de Judá, e Judá de José, e José de Jonã, e Jonã de Eliaquim,'),
-(52478,2,42,3,31,'E Eliaquim de Meleá, e Meleá de Mená, e Mená de Matatá, e Matatá de Natã, e Natã de Davi,');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(52478,2,42,3,31,'E Eliaquim de Meleá, e Meleá de Mená, e Mená de Matatá, e Matatá de Natã, e Natã de Davi,'),
 (52479,2,42,3,32,'E Davi de Jessé, e Jessé de Obede, e Obede de Boaz, e Boaz de Salá, e Salá de Naassom,'),
 (52480,2,42,3,33,'E Naassom de Aminadabe, e Aminadabe de Arão, e Arão de Esrom, e Esrom Perez, e Perez de Judá,'),
 (52481,2,42,3,34,'E Judá de Jacó, e Jacó de Isaque, e Isaque de Abraão, e Abraão de Terá, e Terá de Nacor,'),
@@ -23970,8 +23524,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (52525,2,42,4,40,'E, ao pôr do sol, todos os que tinham enfermos de várias doenças lhos traziam; e, pondo as mãos sobre cada um deles, os curava.'),
 (52526,2,42,4,41,'E também de muitos saíam demônios, clamando e dizendo: Tu és o Cristo, o Filho de Deus. E ele, repreendendo-os, não os deixava falar, pois sabiam que ele era o Cristo.'),
 (52527,2,42,4,42,'E, sendo já dia, saiu, e foi para um lugar deserto; e a multidão o procurava, e chegou junto dele; e o detinham, para que não se ausentasse deles.'),
-(52528,2,42,4,43,'Ele, porém, lhes disse: Também é necessário que eu anuncie a outras cidades o evangelho do reino de Deus; porque para isso fui enviado.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(52528,2,42,4,43,'Ele, porém, lhes disse: Também é necessário que eu anuncie a outras cidades o evangelho do reino de Deus; porque para isso fui enviado.'),
 (52529,2,42,4,44,'E pregava nas sinagogas da Galiléia.'),
 (52530,2,42,5,1,'E aconteceu que, apertando-o a multidão, para ouvir a palavra de Deus, estava ele junto ao lago de Genesaré;'),
 (52531,2,42,5,2,'E viu estar dois barcos junto à praia do lago; e os pescadores, havendo descido deles, estavam lavando as redes.'),
@@ -24021,8 +23574,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (52575,2,42,6,7,'E os escribas e fariseus observavam-no, se o curaria no sábado, para acharem de que o acusar.'),
 (52576,2,42,6,8,'Mas ele bem conhecia os seus pensamentos; e disse ao homem que tinha a mão mirrada: Levanta-te, e fica em pé no meio. E, levantando-se ele, ficou em pé.'),
 (52577,2,42,6,9,'Então Jesus lhes disse: Uma coisa vos hei de perguntar: É lícito nos sábados fazer bem, ou fazer mal? salvar a vida, ou matar?'),
-(52578,2,42,6,10,'E, olhando para todos em redor, disse ao homem: Estende a tua mão. E ele assim o fez, e a mão lhe foi restituída sã como a outra.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(52578,2,42,6,10,'E, olhando para todos em redor, disse ao homem: Estende a tua mão. E ele assim o fez, e a mão lhe foi restituída sã como a outra.'),
 (52579,2,42,6,11,'E ficaram cheios de furor, e uns com os outros conferenciavam sobre o que fariam a Jesus.'),
 (52580,2,42,6,12,'E aconteceu que naqueles dias subiu ao monte a orar, e passou a noite em oração a Deus.'),
 (52581,2,42,6,13,'E, quando já era dia, chamou a si os seus discípulos, e escolheu doze deles, a quem também deu o nome de apóstolos:'),
@@ -24072,8 +23624,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (52625,2,42,7,8,'Porque também eu sou homem sujeito à autoridade, e tenho soldados sob o meu poder, e digo a este: Vai, e ele vai; e a outro: Vem, e ele vem; e ao meu servo: Faze isto, e ele o faz.'),
 (52626,2,42,7,9,'E, ouvindo isto Jesus, maravilhou-se dele, e voltando-se, disse à multidão que o seguia: Digo-vos que nem ainda em Israel tenho achado tanta fé.'),
 (52627,2,42,7,10,'E, voltando para casa os que foram enviados, acharam são o servo enfermo.'),
-(52628,2,42,7,11,'E aconteceu que, no dia seguinte, ele foi à cidade chamada Naim, e com ele iam muitos dos seus discípulos, e uma grande multidão;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(52628,2,42,7,11,'E aconteceu que, no dia seguinte, ele foi à cidade chamada Naim, e com ele iam muitos dos seus discípulos, e uma grande multidão;'),
 (52629,2,42,7,12,'E, quando chegou perto da porta da cidade, eis que levavam um defunto, filho único de sua mãe, que era viúva; e com ela ia uma grande multidão da cidade.'),
 (52630,2,42,7,13,'E, vendo-a, o Senhor moveu-se de íntima compaixão por ela, e disse-lhe: Não chores.'),
 (52631,2,42,7,14,'E, chegando-se, tocou o esquife (e os que o levavam pararam), e disse: Jovem, a ti te digo: Levanta-te. E o que fora defunto assentou-se, e começou a falar.'),
@@ -24123,8 +23674,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (52675,2,42,8,8,'E outra caiu em boa terra, e, nascida, produziu fruto, a cento por um. Dizendo ele estas coisas, clamava: Quem tem ouvidos para ouvir, ouça.'),
 (52676,2,42,8,9,'E os seus discípulos o interrogaram, dizendo: Que parábola é esta?'),
 (52677,2,42,8,10,'E ele disse: A vós vos é dado conhecer os mistérios do reino de Deus, mas aos outros por parábolas, para que vendo, não vejam, e ouvindo, não entendam.'),
-(52678,2,42,8,11,'Esta é, pois, a parábola: A semente é a palavra de Deus;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(52678,2,42,8,11,'Esta é, pois, a parábola: A semente é a palavra de Deus;'),
 (52679,2,42,8,12,'E os que estão junto do caminho, estes são os que ouvem; depois vem o diabo, e tira-lhes do coração a palavra, para que não se salvem, crendo;'),
 (52680,2,42,8,13,'E os que estão sobre pedra, estes são os que, ouvindo a palavra, a recebem com alegria, mas, como não têm raiz, apenas crêem por algum tempo, e no tempo da tentação se desviam;'),
 (52681,2,42,8,14,'E a que caiu entre espinhos, esses são os que ouviram e, indo pordiante, são sufocados com os cuidados e riquezas e deleites da vida, e não dão fruto com perfeição;'),
@@ -24174,8 +23724,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (52725,2,42,9,2,'E enviou-os a pregar o reino de Deus, e a curar os enfermos.'),
 (52726,2,42,9,3,'E disse-lhes: Nada leveis convosco para o caminho, nem bordões, nem alforje, nem pão, nem dinheiro; nem tenhais duas túnicas.'),
 (52727,2,42,9,4,'E em qualquer casa em que entrardes, ficai ali, e de lá saireis.'),
-(52728,2,42,9,5,'E se em qualquer cidade vos não receberem, saindo vós dali, sacudi o pó dos vossos pés, em testemunho contra eles.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(52728,2,42,9,5,'E se em qualquer cidade vos não receberem, saindo vós dali, sacudi o pó dos vossos pés, em testemunho contra eles.'),
 (52729,2,42,9,6,'E, saindo eles, percorreram todas as aldeias, anunciando o evangelho, e fazendo curas por toda a parte.'),
 (52730,2,42,9,7,'E o tetrarca Herodes ouviu todas as coisas que por ele foram feitas, e estava em dúvida, porque diziam alguns que João ressuscitara dentre os mortos; e outros que Elias tinha aparecido;'),
 (52731,2,42,9,8,'E outros que um profeta dos antigos havia ressuscitado.'),
@@ -24225,8 +23774,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (52775,2,42,9,52,'E mandou mensageiros adiante de si; e, indo eles, entraram numa aldeia de samaritanos, para lhe prepararem pousada,'),
 (52776,2,42,9,53,'Mas não o receberam, porque o seu aspecto era como de quem ia a Jerusalém.'),
 (52777,2,42,9,54,'E os seus discípulos, Tiago e João, vendo isto, disseram: Senhor, queres que digamos que desça fogo do céu e os consuma, como Elias também fez?'),
-(52778,2,42,9,55,'Voltando-se, porém, repreendeu-os, e disse: Vós não sabeis de que espírito sois.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(52778,2,42,9,55,'Voltando-se, porém, repreendeu-os, e disse: Vós não sabeis de que espírito sois.'),
 (52779,2,42,9,56,'Porque o Filho do homem não veio para destruir as almas dos homens, mas para salvá-las. E foram para outra aldeia.'),
 (52780,2,42,9,57,'E aconteceu que, indo eles pelo caminho, lhe disse um: Senhor, seguir-te-ei para onde quer que fores.'),
 (52781,2,42,9,58,'E disse-lhe Jesus: As raposas têm covis, e as aves do céu, ninhos, mas o Filho do homem não tem onde reclinar a cabeça.'),
@@ -24276,8 +23824,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (52825,2,42,10,40,'Marta, porém, andava distraída em muitos serviços; e, aproximando-se, disse: Senhor, não se te dá de que minha irmã me deixe servir só? Dize-lhe que me ajude.'),
 (52826,2,42,10,41,'E respondendo Jesus, disse-lhe: Marta, Marta, estás ansiosa e afadigada com muitas coisas, mas uma só é necessária;'),
 (52827,2,42,10,42,'E Maria escolheu a boa parte, a qual não lhe será tirada.'),
-(52828,2,42,11,1,'E aconteceu que, estando ele a orar num certo lugar, quando acabou, lhe disse um dos seus discípulos: Senhor, ensina-nos a orar, como também João ensinou aos seus discípulos.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(52828,2,42,11,1,'E aconteceu que, estando ele a orar num certo lugar, quando acabou, lhe disse um dos seus discípulos: Senhor, ensina-nos a orar, como também João ensinou aos seus discípulos.'),
 (52829,2,42,11,2,'E ele lhes disse: Quando orardes, dizei: Pai nosso, que estás nos céus, santificado seja o teu nome; venha o teu reino; seja feita a tua vontade, assim na terra, como no céu.'),
 (52830,2,42,11,3,'Dá-nos cada dia o nosso pão cotidiano;'),
 (52831,2,42,11,4,'E perdoa-nos os nossos pecados, pois também nós perdoamos a qualquer que nos deve, e não nos conduzas à tentação, mas livra-nos do mal.'),
@@ -24327,8 +23874,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (52875,2,42,11,48,'Bem testificais, pois, que consentis nas obras de vossos pais; porque eles os mataram, e vós edificais os seus sepulcros.'),
 (52876,2,42,11,49,'Por isso diz também a sabedoria de Deus: Profetas e apóstolos lhes mandarei; e eles matarão uns, e perseguirão outros;'),
 (52877,2,42,11,50,'Para que desta geração seja requerido o sangue de todos os profetas que, desde a fundação do mundo, foi derramado;'),
-(52878,2,42,11,51,'Desde o sangue de Abel, até ao sangue de Zacarias, que foi morto entre o altar e o templo; assim, vos digo, será requerido desta geração.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(52878,2,42,11,51,'Desde o sangue de Abel, até ao sangue de Zacarias, que foi morto entre o altar e o templo; assim, vos digo, será requerido desta geração.'),
 (52879,2,42,11,52,'Ai de vós, doutores da lei, que tirastes a chave da ciência; vós mesmos não entrastes, e impedistes os que entravam.'),
 (52880,2,42,11,53,'E, dizendo-lhes ele isto, começaram os escribas e os fariseus a apertá-lo fortemente, e a fazê-lo falar acerca de muitas coisas,'),
 (52881,2,42,11,54,'Armando-lhe ciladas, e procurando apanhar da sua boca alguma coisa para o acusarem.'),
@@ -24378,8 +23924,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (52925,2,42,12,44,'Em verdade vos digo que sobre todos os seus bens o porá.'),
 (52926,2,42,12,45,'Mas, se aquele servo disser em seu coração: O meu senhor tarda em vir; e começar a espancar os criados e criadas, e a comer, e a beber, e a embriagar-se,'),
 (52927,2,42,12,46,'Virá o senhor daquele servo no dia em que o não espera, e numa hora que ele não sabe, e separá-lo-á, e lhe dará a sua parte com os infiéis.'),
-(52928,2,42,12,47,'E o servo que soube a vontade do seu senhor, e não se aprontou, nem fez conforme a sua vontade, será castigado com muitos açoites;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(52928,2,42,12,47,'E o servo que soube a vontade do seu senhor, e não se aprontou, nem fez conforme a sua vontade, será castigado com muitos açoites;'),
 (52929,2,42,12,48,'Mas o que a não soube, e fez coisas dignas de açoites, com poucos açoites será castigado. E, a qualquer que muito for dado, muito se lhe pedirá, e ao que muito se lhe confiou, muito mais se lhe pedirá.'),
 (52930,2,42,12,49,'Vim lançar fogo na terra; e que mais quero, se já está aceso?'),
 (52931,2,42,12,50,'Importa, porém, que seja batizado com um certo batismo; e como me angustio até que venha a cumprir-se!'),
@@ -24429,8 +23974,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (52975,2,42,13,35,'Eis que a vossa casa se vos deixará deserta. E em verdade vos digo que não me vereis até que venha o tempo em que digais: Bendito aquele que vem em nome do Senhor.'),
 (52976,2,42,14,1,'Aconteceu num sábado que, entrando ele em casa de um dos principais dos fariseus para comer pão, eles o estavam observando.'),
 (52977,2,42,14,2,'E eis que estava ali diante dele um certo homem hidrópico.'),
-(52978,2,42,14,3,'E Jesus, tomando a palavra, falou aos doutores da lei, e aos fariseus, dizendo: É lícito curar no sábado?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(52978,2,42,14,3,'E Jesus, tomando a palavra, falou aos doutores da lei, e aos fariseus, dizendo: É lícito curar no sábado?'),
 (52979,2,42,14,4,'Eles, porém, calaram-se. E, tomando-o, o curou e despediu.'),
 (52980,2,42,14,5,'E respondendo-lhes disse: Qual será de vós o que, caindo-lhe num poço, em dia de sábado, o jumento ou o boi, o não tire logo?'),
 (52981,2,42,14,6,'E nada lhe podiam replicar sobre isto.'),
@@ -24531,8 +24075,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (53075,2,42,17,2,'Melhor lhe fora que lhe pusessem ao pescoço uma mó de atafona, e fosse lançado ao mar, do que fazer tropeçar um destes pequenos.'),
 (53076,2,42,17,3,'Olhai por vós mesmos. E, se teu irmão pecar contra ti, repreende-o e, se ele se arrepender, perdoa-lhe.'),
 (53077,2,42,17,4,'E, se pecar contra ti sete vezes no dia, e sete vezes no dia vier ter contigo, dizendo: Arrependo-me; perdoa-lhe.'),
-(53078,2,42,17,5,'Disseram então os apóstolos ao Senhor: Acrescenta-nos a fé.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(53078,2,42,17,5,'Disseram então os apóstolos ao Senhor: Acrescenta-nos a fé.'),
 (53079,2,42,17,6,'E disse o Senhor: Se tivésseis fé como um grão de mostarda, diríeis a esta amoreira: Desarraiga-te daqui, e planta-te no mar; e ela vos obedeceria.'),
 (53080,2,42,17,7,'E qual de vós terá um servo a lavrar ou a apascentar gado, a quem, voltando ele do campo, diga: Chega-te, e assenta-te à mesa?'),
 (53081,2,42,17,8,'E não lhe diga antes: Prepara-me a ceia, e cinge-te, e serve-me até que tenha comido e bebido, e depois comerás e beberás tu?'),
@@ -24582,8 +24125,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (53125,2,42,18,15,'E traziam-lhe também meninos, para que ele lhes tocasse; e os discípulos, vendo isto, repreendiam-nos.'),
 (53126,2,42,18,16,'Mas Jesus, chamando-os para si, disse: Deixai vir a mim os meninos, e não os impeçais, porque dos tais é o reino de Deus.'),
 (53127,2,42,18,17,'Em verdade vos digo que, qualquer que não receber o reino de Deus como menino, não entrará nele.'),
-(53128,2,42,18,18,'E perguntou-lhe um certo príncipe, dizendo: Bom Mestre, que hei de fazer para herdar a vida eterna?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(53128,2,42,18,18,'E perguntou-lhe um certo príncipe, dizendo: Bom Mestre, que hei de fazer para herdar a vida eterna?'),
 (53129,2,42,18,19,'Jesus lhe disse: Por que me chamas bom? Ninguém há bom, senão um, que é Deus.'),
 (53130,2,42,18,20,'Sabes os mandamentos: Não adulterarás, não matarás, não furtarás, não dirás falso testemunho, honra a teu pai e a tua mãe.'),
 (53131,2,42,18,21,'E disse ele: Todas essas coisas tenho observado desde a minha mocidade.'),
@@ -24633,8 +24175,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (53175,2,42,19,22,'Porém, ele lhe disse: Mau servo, pela tua boca te julgarei. Sabias que eu sou homem rigoroso, que tomo o que não pus, e sego o que não semeei;'),
 (53176,2,42,19,23,'Por que não puseste, pois, o meu dinheiro no banco, para que eu, vindo, o exigisse com os juros?'),
 (53177,2,42,19,24,'E disse aos que estavam com ele: Tirai-lhe a mina, e dai-a ao que tem dez minas.'),
-(53178,2,42,19,25,'(E disseram-lhe eles: Senhor, ele tem dez minas. )');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(53178,2,42,19,25,'(E disseram-lhe eles: Senhor, ele tem dez minas. )'),
 (53179,2,42,19,26,'Pois eu vos digo que a qualquer que tiver ser-lhe-á dado, mas ao que não tiver, até o que tem lhe será tirado.'),
 (53180,2,42,19,27,'E quanto àqueles meus inimigos que não quiseram que eu reinasse sobre eles, trazei-os aqui, e matai-os diante de mim.'),
 (53181,2,42,19,28,'E, dito isto, ia caminhando adiante, subindo para Jerusalém.'),
@@ -24684,8 +24225,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (53225,2,42,20,24,'Mostrai-me uma moeda. De quem tem a imagem e a inscrição? E, respondendo eles, disseram: De César.'),
 (53226,2,42,20,25,'Disse-lhes então: Dai, pois, a César o que é de César, e a Deus o que é de Deus.'),
 (53227,2,42,20,26,'E não puderam apanhá-lo em palavra alguma diante do povo; e, maravilhados da sua resposta, calaram-se.'),
-(53228,2,42,20,27,'E, chegando-se alguns dos saduceus, que dizem não haver ressurreição, perguntaram-lhe,');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(53228,2,42,20,27,'E, chegando-se alguns dos saduceus, que dizem não haver ressurreição, perguntaram-lhe,'),
 (53229,2,42,20,28,'Dizendo: Mestre, Moisés nos deixou escrito que, se o irmão de algum falecer, tendo mulher, e não deixar filhos, o irmão dele tome a mulher, e suscite posteridade a seu irmão.'),
 (53230,2,42,20,29,'Houve, pois, sete irmãos, e o primeiro tomou mulher, e morreu sem filhos;'),
 (53231,2,42,20,30,'E tomou-a o segundo por mulher, e ele morreu sem filhos.'),
@@ -24735,8 +24275,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (53275,2,42,21,27,'E então verão vir o Filho do homem numa nuvem, com poder e grande glória.'),
 (53276,2,42,21,28,'Ora, quando estas coisas começarem a acontecer, olhai para cima e levantai as vossas cabeças, porque a vossa redenção está próxima.'),
 (53277,2,42,21,29,'E disse-lhes uma parábola: Olhai para a figueira, e para todas as árvores;'),
-(53278,2,42,21,30,'Quando já têm rebentado, vós sabeis por vós mesmos, vendo-as, que perto está já o verão.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(53278,2,42,21,30,'Quando já têm rebentado, vós sabeis por vós mesmos, vendo-as, que perto está já o verão.'),
 (53279,2,42,21,31,'Assim também vós, quando virdes acontecer estas coisas, sabei que o reino de Deus está perto.'),
 (53280,2,42,21,32,'Em verdade vos digo que não passará esta geração até que tudo aconteça.'),
 (53281,2,42,21,33,'Passará o céu e a terra, mas as minhas palavras não hão de passar.'),
@@ -24786,8 +24325,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (53325,2,42,22,39,'E, saindo, foi, como costumava, para o Monte das Oliveiras; e também os seus discípulos o seguiram.'),
 (53326,2,42,22,40,'E quando chegou àquele lugar, disse-lhes: Orai, para que não entreis em tentação.'),
 (53327,2,42,22,41,'E apartou-se deles cerca de um tiro de pedra; e, pondo-se de joelhos, orava,'),
-(53328,2,42,22,42,'Dizendo: Pai, se queres, passa de mim este cálice; todavia não se faça a minha vontade, mas a tua.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(53328,2,42,22,42,'Dizendo: Pai, se queres, passa de mim este cálice; todavia não se faça a minha vontade, mas a tua.'),
 (53329,2,42,22,43,'E apareceu-lhe um anjo do céu, que o fortalecia.'),
 (53330,2,42,22,44,'E, posto em agonia, orava mais intensamente. E o seu suor tornou-se como grandes gotas de sangue, que corriam até ao chão.'),
 (53331,2,42,22,45,'E, levantando-se da oração, veio para os seus discípulos, e achou-os dormindo de tristeza.'),
@@ -24837,8 +24375,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (53375,2,42,23,18,'Mas toda a multidão clamou a uma, dizendo: Fora daqui com este, e solta-nos Barrabás.'),
 (53376,2,42,23,19,'O qual fora lançado na prisão por causa de uma sedição feita na cidade, e de um homicídio.'),
 (53377,2,42,23,20,'Falou, pois, outra vez Pilatos, querendo soltar a Jesus.'),
-(53378,2,42,23,21,'Mas eles clamavam em contrário, dizendo: Crucifica-o, crucifica-o.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(53378,2,42,23,21,'Mas eles clamavam em contrário, dizendo: Crucifica-o, crucifica-o.'),
 (53379,2,42,23,22,'Então ele, pela terceira vez, lhes disse: Mas que mal fez este? Não acho nele culpa alguma de morte. Castigá-lo-ei pois, e soltá-lo-ei.'),
 (53380,2,42,23,23,'Mas eles instavam com grandes gritos, pedindo que fosse crucificado. E os seus gritos, e os dos principais dos sacerdotes, prevaleciam.'),
 (53381,2,42,23,24,'Então Pilatos julgou que devia fazer o que eles pediam.'),
@@ -24888,8 +24425,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (53425,2,42,24,12,'Pedro, porém, levantando-se, correu ao sepulcro e, abaixando-se, viu só os lençóis ali postos; e retirou-se, admirando consigo aquele caso.'),
 (53426,2,42,24,13,'E eis que no mesmo dia iam dois deles para uma aldeia, que distava de Jerusalém sessenta estádios, cujo nome era Emaús.'),
 (53427,2,42,24,14,'E iam falando entre si de tudo aquilo que havia sucedido.'),
-(53428,2,42,24,15,'E aconteceu que, indo eles falando entre si, e fazendo perguntas um ao outro, o mesmo Jesus se aproximou, e ia com eles.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(53428,2,42,24,15,'E aconteceu que, indo eles falando entre si, e fazendo perguntas um ao outro, o mesmo Jesus se aproximou, e ia com eles.'),
 (53429,2,42,24,16,'Mas os olhos deles estavam como que fechados, para que o não conhecessem.'),
 (53430,2,42,24,17,'E ele lhes disse: Que palavras são essas que, caminhando, trocais entre vós, e por que estais tristes?'),
 (53431,2,42,24,18,'E, respondendo um, cujo nome era Cléopas, disse-lhe: És tu só peregrino em Jerusalém, e não sabes as coisas que nela têm sucedido nestes dias?'),
@@ -24939,8 +24475,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (53475,2,43,1,9,'Ali estava a luz verdadeira, que ilumina a todo o homem que vem ao mundo.'),
 (53476,2,43,1,10,'Estava no mundo, e o mundo foi feito por ele, e o mundo não o conheceu.'),
 (53477,2,43,1,11,'Veio para o que era seu, e os seus não o receberam.'),
-(53478,2,43,1,12,'Mas, a todos quantos o receberam, deu-lhes o poder de serem feitos filhos de Deus, aos que crêem no seu nome;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(53478,2,43,1,12,'Mas, a todos quantos o receberam, deu-lhes o poder de serem feitos filhos de Deus, aos que crêem no seu nome;'),
 (53479,2,43,1,13,'Os quais não nasceram do sangue, nem da vontade da carne, nem da vontade do homem, mas de Deus.'),
 (53480,2,43,1,14,'E o Verbo se fez carne, e habitou entre nós, e vimos a sua glória, como a glória do unigênito do Pai, cheio de graça e de verdade.'),
 (53481,2,43,1,15,'João testificou dele, e clamou, dizendo: Este era aquele de quem eu dizia: O que vem após mim é antes de mim, porque foi primeiro do que eu.'),
@@ -24990,8 +24525,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (53525,2,43,2,8,'E disse-lhes: Tirai agora, e levai ao mestre-sala. E levaram.'),
 (53526,2,43,2,9,'E, logo que o mestre-sala provou a água feita vinho (não sabendo de onde viera, se bem que o sabiam os serventes que tinham tirado a água), chamou o mestre-sala ao esposo,'),
 (53527,2,43,2,10,'E disse-lhe: Todo o homem põe primeiro o vinho bom e, quando já têm bebido bem, então o inferior; mas tu guardaste até agora o bom vinho.'),
-(53528,2,43,2,11,'Jesus principiou assim os seus sinais em Caná da Galiléia, e manifestou a sua glória; e os seus discípulos creram nele.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(53528,2,43,2,11,'Jesus principiou assim os seus sinais em Caná da Galiléia, e manifestou a sua glória; e os seus discípulos creram nele.'),
 (53529,2,43,2,12,'Depois disto desceu a Cafarnaum, ele, e sua mãe, e seus irmãos, e seus discípulos; e ficaram ali não muitos dias.'),
 (53530,2,43,2,13,'E estava próxima a páscoa dos judeus, e Jesus subiu a Jerusalém.'),
 (53531,2,43,2,14,'E achou no templo os que vendiam bois, e ovelhas, e pombos, e os cambiadores assentados.'),
@@ -25041,8 +24575,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (53575,2,43,3,33,'Aquele que aceitou o seu testemunho, esse confirmou que Deus é verdadeiro.'),
 (53576,2,43,3,34,'Porque aquele que Deus enviou fala as palavras de Deus; pois não lhe dá Deus o Espírito por medida.'),
 (53577,2,43,3,35,'O Pai ama o Filho, e todas as coisas entregou nas suas mãos.'),
-(53578,2,43,3,36,'Aquele que crê no Filho tem a vida eterna; mas aquele que não crê no Filho não verá a vida, mas a ira de Deus sobre ele permanece.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(53578,2,43,3,36,'Aquele que crê no Filho tem a vida eterna; mas aquele que não crê no Filho não verá a vida, mas a ira de Deus sobre ele permanece.'),
 (53579,2,43,4,1,'E quando o Senhor entendeu que os fariseus tinham ouvido que Jesus fazia e batizava mais discípulos do que João'),
 (53580,2,43,4,2,'(Ainda que Jesus mesmo não batizava, mas os seus discípulos),'),
 (53581,2,43,4,3,'Deixou a Judéia, e foi outra vez para a Galiléia.'),
@@ -25092,8 +24625,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (53625,2,43,4,47,'Ouvindo este que Jesus vinha da Judéia para a Galiléia, foi ter com ele, e rogou-lhe que descesse, e curasse o seu filho, porque já estava à morte.'),
 (53626,2,43,4,48,'Então Jesus lhe disse: Se não virdes sinais e milagres, não crereis.'),
 (53627,2,43,4,49,'Disse-lhe o nobre: Senhor, desce, antes que meu filho morra.'),
-(53628,2,43,4,50,'Disse-lhe Jesus: Vai, o teu filho vive. E o homem creu na palavra que Jesus lhe disse, e partiu.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(53628,2,43,4,50,'Disse-lhe Jesus: Vai, o teu filho vive. E o homem creu na palavra que Jesus lhe disse, e partiu.'),
 (53629,2,43,4,51,'E descendo ele logo, saíram-lhe ao encontro os seus servos, e lhe anunciaram, dizendo: O teu filho vive.'),
 (53630,2,43,4,52,'Perguntou-lhes, pois, a que hora se achara melhor. E disseram-lhe: Ontem às sete horas a febre o deixou.'),
 (53631,2,43,4,53,'Entendeu, pois, o pai que era aquela hora a mesma em que Jesus lhe disse: O teu filho vive; e creu ele, e toda a sua casa.'),
@@ -25143,8 +24675,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (53675,2,43,5,43,'Eu vim em nome de meu Pai, e não me aceitais; se outro vier em seu próprio nome, a esse aceitareis.'),
 (53676,2,43,5,44,'Como podeis vós crer, recebendo honra uns dos outros, e não buscando a honra que vem só de Deus?'),
 (53677,2,43,5,45,'Não cuideis que eu vos hei de acusar para com o Pai. Há um que vos acusa, Moisés, em quem vós esperais.'),
-(53678,2,43,5,46,'Porque, se vós crêsseis em Moisés, creríeis em mim; porque de mim escreveu ele.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(53678,2,43,5,46,'Porque, se vós crêsseis em Moisés, creríeis em mim; porque de mim escreveu ele.'),
 (53679,2,43,5,47,'Mas, se não credes nos seus escritos, como crereis nas minhas palavras?'),
 (53680,2,43,6,1,'Depois disto partiu Jesus para o outro lado do mar da Galiléia, que é o de Tiberíades.'),
 (53681,2,43,6,2,'E grande multidão o seguia, porque via os sinais que operava sobre os enfermos.'),
@@ -25194,8 +24725,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (53725,2,43,6,46,'Não que alguém visse ao Pai, a não ser aquele que é de Deus; este tem visto ao Pai.'),
 (53726,2,43,6,47,'Na verdade, na verdade vos digo que aquele que crê em mim tem a vida eterna.'),
 (53727,2,43,6,48,'Eu sou o pão da vida.'),
-(53728,2,43,6,49,'Vossos pais comeram o maná no deserto, e morreram.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(53728,2,43,6,49,'Vossos pais comeram o maná no deserto, e morreram.'),
 (53729,2,43,6,50,'Este é o pão que desce do céu, para que o que dele comer não morra.'),
 (53730,2,43,6,51,'Eu sou o pão vivo que desceu do céu; se alguém comer deste pão, viverá para sempre; e o pão que eu der é a minha carne, que eu darei pela vida do mundo.'),
 (53731,2,43,6,52,'Disputavam, pois, os judeus entre si, dizendo: Como nos pode dar este a sua carne a comer?'),
@@ -25245,8 +24775,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (53775,2,43,7,25,'Então alguns dos de Jerusalém diziam: Não é este o que procuram matar?'),
 (53776,2,43,7,26,'E ei-lo aí está falando abertamente, e nada lhe dizem. Porventura sabem verdadeiramente os príncipes que de fato este é o Cristo?'),
 (53777,2,43,7,27,'Todavia bem sabemos de onde este é; mas, quando vier o Cristo, ninguém saberá de onde ele é.'),
-(53778,2,43,7,28,'Clamava, pois, Jesus no templo, ensinando, e dizendo: Vós conheceis-me, e sabeis de onde sou; e eu não vim de mim mesmo, mas aquele que me enviou é verdadeiro, o qual vós não conheceis.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(53778,2,43,7,28,'Clamava, pois, Jesus no templo, ensinando, e dizendo: Vós conheceis-me, e sabeis de onde sou; e eu não vim de mim mesmo, mas aquele que me enviou é verdadeiro, o qual vós não conheceis.'),
 (53779,2,43,7,29,'Mas eu conheço-o, porque dele sou e ele me enviou.'),
 (53780,2,43,7,30,'Procuravam, pois, prendê-lo, mas ninguém lançou mão dele, porque ainda não era chegada a sua hora.'),
 (53781,2,43,7,31,'E muitos da multidão creram nele, e diziam: Quando o Cristo vier, fará ainda mais sinais do que os que este tem feito?'),
@@ -25296,8 +24825,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (53825,2,43,8,22,'Diziam, pois, os judeus: Porventura quererá matar-se a si mesmo, pois diz: Para onde eu vou não podeis vir?'),
 (53826,2,43,8,23,'E dizia-lhes: Vós sois de baixo, eu sou de cima; vós sois deste mundo, eu não sou deste mundo.'),
 (53827,2,43,8,24,'Por isso vos disse que morrereis em vossos pecados, porque se não crerdes que eu sou, morrereis em vossos pecados.'),
-(53828,2,43,8,25,'Disseram-lhe, pois: Quem és tu? Jesus lhes disse: Isso mesmo que já desde o princípio vos disse.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(53828,2,43,8,25,'Disseram-lhe, pois: Quem és tu? Jesus lhes disse: Isso mesmo que já desde o princípio vos disse.'),
 (53829,2,43,8,26,'Muito tenho que dizer e julgar de vós, mas aquele que me enviou é verdadeiro; e o que dele tenho ouvido, isso falo ao mundo.'),
 (53830,2,43,8,27,'Mas não entenderam que ele lhes falava do Pai.'),
 (53831,2,43,8,28,'Disse-lhes, pois, Jesus: Quando levantardes o Filho do homem, então conhecereis que EU SOU, e que nada faço por mim mesmo; mas isto falo como meu Pai me ensinou.'),
@@ -25347,8 +24875,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (53875,2,43,9,13,'Levaram, pois, aos fariseus o que dantes era cego.'),
 (53876,2,43,9,14,'E era sábado quando Jesus fez o lodo e lhe abriu os olhos.'),
 (53877,2,43,9,15,'Tornaram, pois, também os fariseus a perguntar-lhe como vira, e ele lhes disse: Pôs-me lodo sobre os olhos, lavei-me, e vejo.'),
-(53878,2,43,9,16,'Então alguns dos fariseus diziam: Este homem não é de Deus, pois não guarda o sábado. Diziam outros: Como pode um homem pecador fazer tais sinais? E havia dissensão entre eles.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(53878,2,43,9,16,'Então alguns dos fariseus diziam: Este homem não é de Deus, pois não guarda o sábado. Diziam outros: Como pode um homem pecador fazer tais sinais? E havia dissensão entre eles.'),
 (53879,2,43,9,17,'Tornaram, pois, a dizer ao cego: Tu, que dizes daquele que te abriu os olhos? E ele respondeu: Que é profeta.'),
 (53880,2,43,9,18,'Os judeus, porém, não creram que ele tivesse sido cego, e que agora visse, enquanto não chamaram os pais do que agora via.'),
 (53881,2,43,9,19,'E perguntaram-lhes, dizendo: É este o vosso filho, que vós dizeis ter nascido cego? Como, pois, vê agora?'),
@@ -25398,8 +24925,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (53925,2,43,10,22,'E em Jerusalém havia a festa da dedicação, e era inverno.'),
 (53926,2,43,10,23,'E Jesus andava passeando no templo, no alpendre de Salomão.'),
 (53927,2,43,10,24,'Rodearam-no, pois, os judeus, e disseram-lhe: Até quando terás a nossa alma suspensa? Se tu és o Cristo, dize-no-lo abertamente.'),
-(53928,2,43,10,25,'Respondeu-lhes Jesus: Já vo-lo tenho dito, e não o credes. As obras que eu faço, em nome de meu Pai, essas testificam de mim.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(53928,2,43,10,25,'Respondeu-lhes Jesus: Já vo-lo tenho dito, e não o credes. As obras que eu faço, em nome de meu Pai, essas testificam de mim.'),
 (53929,2,43,10,26,'Mas vós não credes porque não sois das minhas ovelhas, como já vo-lo tenho dito.'),
 (53930,2,43,10,27,'As minhas ovelhas ouvem a minha voz, e eu conheço-as, e elas me seguem;'),
 (53931,2,43,10,28,'E dou-lhes a vida eterna, e nunca hão de perecer, e ninguém as arrebatará da minha mão.'),
@@ -25449,8 +24975,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (53975,2,43,11,30,'(Pois, Jesus ainda não tinha chegado à aldeia, mas estava no lugar onde Marta o encontrara.)'),
 (53976,2,43,11,31,'Vendo, pois, os judeus, que estavam com ela em casa e a consolavam, que Maria apressadamente se levantara e saíra, seguiram-na, dizendo: Vai ao sepulcro para chorar ali.'),
 (53977,2,43,11,32,'Tendo, pois, Maria chegado aonde Jesus estava, e vendo-o, lançou-se aos seus pés, dizendo-lhe: Senhor, se tu estivesses aqui, meu irmão não teria morrido.'),
-(53978,2,43,11,33,'Jesus pois, quando a viu chorar, e também chorando os judeus que com ela vinham, moveu-se muito em espírito, e perturbou-se.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(53978,2,43,11,33,'Jesus pois, quando a viu chorar, e também chorando os judeus que com ela vinham, moveu-se muito em espírito, e perturbou-se.'),
 (53979,2,43,11,34,'E disse: Onde o pusestes? Disseram-lhe: Senhor, vem, e vê.'),
 (53980,2,43,11,35,'Jesus chorou.'),
 (53981,2,43,11,36,'Disseram, pois, os judeus: Vede como o amava.'),
@@ -25551,8 +25076,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (54075,2,43,13,23,'Ora, um de seus discípulos, aquele a quem Jesus amava, estava reclinado no seio de Jesus.'),
 (54076,2,43,13,24,'Então Simão Pedro fez sinal a este, para que perguntasse quem era aquele de quem ele falava.'),
 (54077,2,43,13,25,'E, inclinando-se ele sobre o peito de Jesus, disse-lhe: Senhor, quem é?'),
-(54078,2,43,13,26,'Jesus respondeu: É aquele a quem eu der o bocado molhado. E, molhando o bocado, o deu a Judas Iscariotes, filho de Simão.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(54078,2,43,13,26,'Jesus respondeu: É aquele a quem eu der o bocado molhado. E, molhando o bocado, o deu a Judas Iscariotes, filho de Simão.'),
 (54079,2,43,13,27,'E, após o bocado, entrou nele Satanás. Disse, pois, Jesus: O que fazes, faze-o depressa.'),
 (54080,2,43,13,28,'E nenhum dos que estavam assentados à mesa compreendeu a que propósito lhe dissera isto.'),
 (54081,2,43,13,29,'Porque, como Judas tinha a bolsa, pensavam alguns que Jesus lhe tinha dito: Compra o que nos é necessário para a festa; ou que desse alguma coisa aos pobres.'),
@@ -25602,8 +25126,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (54125,2,43,15,4,'Estai em mim, e eu em vós; como a vara de si mesma não pode dar fruto, se não estiver na videira, assim também vós, se não estiverdes em mim.'),
 (54126,2,43,15,5,'Eu sou a videira, vós as varas; quem está em mim, e eu nele, esse dá muito fruto; porque sem mim nada podeis fazer.'),
 (54127,2,43,15,6,'Se alguém não estiver em mim, será lançado fora, como a vara, e secará; e os colhem e lançam no fogo, e ardem.'),
-(54128,2,43,15,7,'Se vós estiverdes em mim, e as minhas palavras estiverem em vós, pedireis tudo o que quiserdes, e vos será feito.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(54128,2,43,15,7,'Se vós estiverdes em mim, e as minhas palavras estiverem em vós, pedireis tudo o que quiserdes, e vos será feito.'),
 (54129,2,43,15,8,'Nisto é glorificado meu Pai, que deis muito fruto; e assim sereis meus discípulos.'),
 (54130,2,43,15,9,'Como o Pai me amou, também eu vos amei a vós; permanecei no meu amor.'),
 (54131,2,43,15,10,'Se guardardes os meus mandamentos, permanecereis no meu amor; do mesmo modo que eu tenho guardado os mandamentos de meu Pai, e permaneço no seu amor.'),
@@ -25653,8 +25176,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (54175,2,43,16,27,'Pois o mesmo Pai vos ama, visto como vós me amastes, e crestes que saí de Deus.'),
 (54176,2,43,16,28,'Saí do Pai, e vim ao mundo; outra vez deixo o mundo, e vou para o Pai.'),
 (54177,2,43,16,29,'Disseram-lhe os seus discípulos: Eis que agora falas abertamente, e não dizes parábola alguma.'),
-(54178,2,43,16,30,'Agora conhecemos que sabes tudo, e não precisas de que alguém te interrogue. Por isso cremos que saíste de Deus.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(54178,2,43,16,30,'Agora conhecemos que sabes tudo, e não precisas de que alguém te interrogue. Por isso cremos que saíste de Deus.'),
 (54179,2,43,16,31,'Respondeu-lhes Jesus: Credes agora?'),
 (54180,2,43,16,32,'Eis que chega a hora, e já se aproxima, em que vós sereis dispersos cada um para sua parte, e me deixareis só; mas não estou só, porque o Pai está comigo.'),
 (54181,2,43,16,33,'Tenho-vos dito isto, para que em mim tenhais paz; no mundo tereis aflições, mas tende bom ânimo, eu venci o mundo.'),
@@ -25704,8 +25226,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (54225,2,43,18,18,'Ora, estavam ali os servos e os servidores, que tinham feito brasas, e se aquentavam, porque fazia frio; e com eles estava Pedro, aquentando-se também.'),
 (54226,2,43,18,19,'E o sumo sacerdote interrogou Jesus acerca dos seus discípulos e da sua doutrina.'),
 (54227,2,43,18,20,'Jesus lhe respondeu: Eu falei abertamente ao mundo; eu sempre ensinei na sinagoga e no templo, onde os judeus sempre se ajuntam, e nada disse em oculto.'),
-(54228,2,43,18,21,'Para que me perguntas a mim? Pergunta aos que ouviram o que é que lhes ensinei; eis que eles sabem o que eu lhes tenho dito.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(54228,2,43,18,21,'Para que me perguntas a mim? Pergunta aos que ouviram o que é que lhes ensinei; eis que eles sabem o que eu lhes tenho dito.'),
 (54229,2,43,18,22,'E, tendo dito isto, um dos servidores que ali estavam, deu uma bofetada em Jesus, dizendo: Assim respondes ao sumo sacerdote?'),
 (54230,2,43,18,23,'Respondeu-lhe Jesus: Se falei mal, dá testemunho do mal; e, se bem, por que me feres?'),
 (54231,2,43,18,24,'E Anás mandou-o, maniatado, ao sumo sacerdote Caifás.'),
@@ -25755,8 +25276,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (54275,2,43,19,28,'Depois, sabendo Jesus que já todas as coisas estavam terminadas, para que a Escritura se cumprisse, disse: Tenho sede.'),
 (54276,2,43,19,29,'Estava, pois, ali um vaso cheio de vinagre. E encheram de vinagre uma esponja, e, pondo-a num hissopo, lha chegaram à boca.'),
 (54277,2,43,19,30,'E, quando Jesus tomou o vinagre, disse: Está consumado. E, inclinando a cabeça, entregou o espírito.'),
-(54278,2,43,19,31,'Os judeus, pois, para que no sábado não ficassem os corpos na cruz, visto como era a preparação (pois era grande o dia de sábado), rogaram a Pilatos que se lhes quebrassem as pernas, e fossem tirados.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(54278,2,43,19,31,'Os judeus, pois, para que no sábado não ficassem os corpos na cruz, visto como era a preparação (pois era grande o dia de sábado), rogaram a Pilatos que se lhes quebrassem as pernas, e fossem tirados.'),
 (54279,2,43,19,32,'Foram, pois, os soldados, e, na verdade, quebraram as pernas ao primeiro, e ao outro que como ele fora crucificado;'),
 (54280,2,43,19,33,'Mas, vindo a Jesus, e vendo-o já morto, não lhe quebraram as pernas.'),
 (54281,2,43,19,34,'Contudo um dos soldados lhe furou o lado com uma lança, e logo saiu sangue e água.'),
@@ -25806,8 +25326,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (54325,2,43,21,5,'Disse-lhes, pois, Jesus: Filhos, tendes alguma coisa de comer? Responderam-lhe: Não.'),
 (54326,2,43,21,6,'E ele lhes disse: Lançai a rede para o lado direito do barco, e achareis. Lançaram-na, pois, e já não a podiam tirar, pela multidão dos peixes.'),
 (54327,2,43,21,7,'Então aquele discípulo, a quem Jesus amava, disse a Pedro: É o Senhor. E, quando Simão Pedro ouviu que era o Senhor, cingiu-se com a túnica (porque estava nu) e lançou-se ao mar.'),
-(54328,2,43,21,8,'E os outros discípulos foram com o barco (porque não estavam distantes da terra senão quase duzentos côvados), levando a rede cheia de peixes.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(54328,2,43,21,8,'E os outros discípulos foram com o barco (porque não estavam distantes da terra senão quase duzentos côvados), levando a rede cheia de peixes.'),
 (54329,2,43,21,9,'Logo que desceram para terra, viram ali brasas, e um peixe posto em cima, e pão.'),
 (54330,2,43,21,10,'Disse-lhes Jesus: Trazei dos peixes que agora apanhastes.'),
 (54331,2,43,21,11,'Simão Pedro subiu e puxou a rede para terra, cheia de cento e cinqüenta e três grandes peixes e, sendo tantos, não se rompeu a rede.'),
@@ -25857,8 +25376,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (54375,2,45,1,30,'Sendo murmuradores, detratores, aborrecedores de Deus, injuriadores, soberbos, presunçosos, inventores de males, desobedientes aos pais e às mães;'),
 (54376,2,45,1,31,'Néscios, infiéis nos contratos, sem afeição natural, irreconciliáveis, sem misericórdia;'),
 (54377,2,45,1,32,'Os quais, conhecendo o juízo de Deus (que são dignos de morte os que tais coisas praticam), não somente as fazem, mas também consentem aos que as fazem.'),
-(54378,2,45,2,1,'Portanto, és inescusável quando julgas, ó homem, quem quer que sejas, porque te condenas a ti mesmo naquilo em que julgas a outro; pois tu, que julgas, fazes o mesmo.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(54378,2,45,2,1,'Portanto, és inescusável quando julgas, ó homem, quem quer que sejas, porque te condenas a ti mesmo naquilo em que julgas a outro; pois tu, que julgas, fazes o mesmo.'),
 (54379,2,45,2,2,'E bem sabemos que o juízo de Deus é segundo a verdade sobre os que tais coisas fazem.'),
 (54380,2,45,2,3,'E tu, ó homem, que julgas os que fazem tais coisas, cuidas que, fazendo-as tu, escaparás ao juízo de Deus?'),
 (54381,2,45,2,4,'Ou desprezas tu as riquezas da sua benignidade, e paciência e longanimidade, ignorando que a benignidade de Deus te leva ao arrependimento?'),
@@ -25908,8 +25426,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (54425,2,45,3,19,'Ora, nós sabemos que tudo o que a lei diz, aos que estão debaixo da lei o diz, para que toda a boca esteja fechada e todo o mundo seja condenável diante de Deus.'),
 (54426,2,45,3,20,'Por isso nenhuma carne será justificada diante dele pelas obras da lei, porque pela lei vem o conhecimento do pecado.'),
 (54427,2,45,3,21,'Mas agora se manifestou sem a lei a justiça de Deus, tendo o testemunho da lei e dos profetas;'),
-(54428,2,45,3,22,'Isto é, a justiça de Deus pela fé em Jesus Cristo para todos e sobre todos os que crêem; porque não há diferença.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(54428,2,45,3,22,'Isto é, a justiça de Deus pela fé em Jesus Cristo para todos e sobre todos os que crêem; porque não há diferença.'),
 (54429,2,45,3,23,'Porque todos pecaram e destituídos estão da glória de Deus;'),
 (54430,2,45,3,24,'Sendo justificados gratuitamente pela sua graça, pela redenção que há em Cristo Jesus.'),
 (54431,2,45,3,25,'Ao qual Deus propôs para propiciação pela fé no seu sangue, para demonstrar a sua justiça pela remissão dos pecados dantes cometidos, sob a paciência de Deus;'),
@@ -25959,8 +25476,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (54475,2,45,5,13,'Porque até à lei estava o pecado no mundo, mas o pecado não é imputado, não havendo lei.'),
 (54476,2,45,5,14,'No entanto, a morte reinou desde Adão até Moisés, até sobre aqueles que não tinham pecado à semelhança da transgressão de Adão, o qual é a figura daquele que havia de vir.'),
 (54477,2,45,5,15,'Mas não é assim o dom gratuito como a ofensa. Porque, se pela ofensa de um morreram muitos, muito mais a graça de Deus, e o dom pela graça, que é de um só homem, Jesus Cristo, abundou sobre muitos.'),
-(54478,2,45,5,16,'E não foi assim o dom como a ofensa, por um só que pecou. Porque o juízo veio de uma só ofensa, na verdade, para condenação, mas o dom gratuito veio de muitas ofensas para justificação.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(54478,2,45,5,16,'E não foi assim o dom como a ofensa, por um só que pecou. Porque o juízo veio de uma só ofensa, na verdade, para condenação, mas o dom gratuito veio de muitas ofensas para justificação.'),
 (54479,2,45,5,17,'Porque, se pela ofensa de um só, a morte reinou por esse, muito mais os que recebem a abundância da graça, e do dom da justiça, reinarão em vida por um só, Jesus Cristo.'),
 (54480,2,45,5,18,'Pois assim como por uma só ofensa veio o juízo sobre todos os homens para condenação, assim também por um só ato de justiça veio a graça sobre todos os homens para justificação de vida.'),
 (54481,2,45,5,19,'Porque, como pela desobediência de um só homem, muitos foram feitos pecadores, assim pela obediência de um muitos serão feitos justos.'),
@@ -26010,8 +25526,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (54525,2,45,7,19,'Porque não faço o bem que quero, mas o mal que não quero esse faço.'),
 (54526,2,45,7,20,'Ora, se eu faço o que não quero, já o não faço eu, mas o pecado que habita em mim.'),
 (54527,2,45,7,21,'Acho então esta lei em mim, que, quando quero fazer o bem, o mal está comigo.'),
-(54528,2,45,7,22,'Porque, segundo o homem interior, tenho prazer na lei de Deus;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(54528,2,45,7,22,'Porque, segundo o homem interior, tenho prazer na lei de Deus;'),
 (54529,2,45,7,23,'Mas vejo nos meus membros outra lei, que batalha contra a lei do meu entendimento, e me prende debaixo da lei do pecado que está nos meus membros.'),
 (54530,2,45,7,24,'Miserável homem que eu sou! quem me livrará do corpo desta morte?'),
 (54531,2,45,7,25,'Dou graças a Deus por Jesus Cristo nosso Senhor. Assim que eu mesmo com o entendimento sirvo à lei de Deus, mas com a carne à lei do pecado.'),
@@ -26061,8 +25576,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (54575,2,45,9,5,'Dos quais são os pais, e dos quais é Cristo segundo a carne, o qual é sobre todos, Deus bendito eternamente. Amém.'),
 (54576,2,45,9,6,'Não que a palavra de Deus haja faltado, porque nem todos os que são de Israel são israelitas;'),
 (54577,2,45,9,7,'Nem por serem descendência de Abraão são todos filhos; mas: Em Isaque será chamada a tua descendência.'),
-(54578,2,45,9,8,'Isto é, não são os filhos da carne que são filhos de Deus, mas os filhos da promessa são contados como descendência.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(54578,2,45,9,8,'Isto é, não são os filhos da carne que são filhos de Deus, mas os filhos da promessa são contados como descendência.'),
 (54579,2,45,9,9,'Porque a palavra da promessa é esta: Por este tempo virei, e Sara terá um filho.'),
 (54580,2,45,9,10,'E não somente esta, mas também Rebeca, quando concebeu de um, de Isaque, nosso pai;'),
 (54581,2,45,9,11,'Porque, não tendo eles ainda nascido, nem tendo feito bem ou mal (para que o propósito de Deus, segundo a eleição, ficasse firme, não por causa das obras, mas por aquele que chama),'),
@@ -26112,8 +25626,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (54625,2,45,11,1,'Digo, pois: Porventura rejeitou Deus o seu povo? De modo nenhum; porque também eu sou israelita, da descendência de Abraão, da tribo de Benjamim.'),
 (54626,2,45,11,2,'Deus não rejeitou o seu povo, que antes conheceu. Ou não sabeis o que a Escritura diz de Elias, como fala a Deus contra Israel, dizendo:'),
 (54627,2,45,11,3,'Senhor, mataram os teus profetas, e derribaram os teus altares; e só eu fiquei, e buscam a minha alma?'),
-(54628,2,45,11,4,'Mas que lhe diz a resposta divina? Reservei para mim sete mil homens, que não dobraram os joelhos a Baal.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(54628,2,45,11,4,'Mas que lhe diz a resposta divina? Reservei para mim sete mil homens, que não dobraram os joelhos a Baal.'),
 (54629,2,45,11,5,'Assim, pois, também agora neste tempo ficou um remanescente, segundo a eleição da graça.'),
 (54630,2,45,11,6,'Mas se é por graça, já não é pelas obras; de outra maneira, a graça já não é graça. Se, porém, é pelas obras, já não é mais graça; de outra maneira a obra já não é obra.'),
 (54631,2,45,11,7,'Pois quê? O que Israel buscava não o alcançou; mas os eleitos o alcançaram, e os outros foram endurecidos.'),
@@ -26163,8 +25676,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (54675,2,45,12,15,'Alegrai-vos com os que se alegram; e chorai com os que choram;'),
 (54676,2,45,12,16,'Sede unânimes entre vós; não ambicioneis coisas altas, mas acomodai-vos às humildes; não sejais sábios em vós mesmos;'),
 (54677,2,45,12,17,'A ninguém torneis mal por mal; procurai as coisas honestas, perante todos os homens.'),
-(54678,2,45,12,18,'Se for possível, quanto estiver em vós, tende paz com todos os homens.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(54678,2,45,12,18,'Se for possível, quanto estiver em vós, tende paz com todos os homens.'),
 (54679,2,45,12,19,'Não vos vingueis a vós mesmos, amados, mas dai lugar à ira, porque está escrito: Minha é a vingança; eu recompensarei, diz o Senhor.'),
 (54680,2,45,12,20,'Portanto, se o teu inimigo tiver fome, dá-lhe de comer; se tiver sede, dá-lhe de beber; porque, fazendo isto, amontoarás brasas de fogo sobre a sua cabeça.'),
 (54681,2,45,12,21,'Não te deixes vencer do mal, mas vence o mal com o bem.'),
@@ -26214,8 +25726,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (54725,2,45,15,7,'Portanto recebei-vos uns aos outros, como também Cristo nos recebeu para glória de Deus.'),
 (54726,2,45,15,8,'Digo, pois, que Jesus Cristo foi ministro da circuncisão, por causa da verdade de Deus, para que confirmasse as promessas feitas aos pais;'),
 (54727,2,45,15,9,'E para que os gentios glorifiquem a Deus pela sua misericórdia, como está escrito:Portanto eu te louvarei entre os gentios,E cantarei ao teu nome.'),
-(54728,2,45,15,10,'E outra vez diz:Alegrai-vos, gentios, com o seu povo.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(54728,2,45,15,10,'E outra vez diz:Alegrai-vos, gentios, com o seu povo.'),
 (54729,2,45,15,11,'E outra vez:Louvai ao Senhor, todos os gentios,E celebrai-o todos os povos.'),
 (54730,2,45,15,12,'Outra vez diz Isaías:Uma raiz em Jessé haverá,E naquele que se levantar para reger os gentios,Os gentios esperarão.'),
 (54731,2,45,15,13,'Ora o Deus de esperança vos encha de todo o gozo e paz em crença, para que abundeis em esperança pela virtude do Espírito Santo.'),
@@ -26265,8 +25776,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (54775,2,45,16,24,'A graça de nosso Senhor Jesus Cristo seja com todos vós. Amém.'),
 (54776,2,45,16,25,'Ora, àquele que é poderoso para vos confirmar segundo o meu evangelho e a pregação de Jesus Cristo, conforme a revelação do mistério que desde tempos eternos esteve oculto,'),
 (54777,2,45,16,26,'Mas que se manifestou agora, e se notificou pelas Escrituras dos profetas, segundo o mandamento do Deus eterno, a todas as nações para obediência da fé;'),
-(54778,2,45,16,27,'Ao único Deus, sábio, seja dada glória por Jesus Cristo para todo o sempre. Amém.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(54778,2,45,16,27,'Ao único Deus, sábio, seja dada glória por Jesus Cristo para todo o sempre. Amém.'),
 (54779,2,46,1,1,'Paulo (chamado apóstolo de Jesus Cristo, pela vontade de Deus), e o irmão Sóstenes,'),
 (54780,2,46,1,2,'À igreja de Deus que está em Corinto, aos santificados em Cristo Jesus, chamados santos, com todos os que em todo o lugar invocam o nome de nosso Senhor Jesus Cristo, Senhor deles e nosso:'),
 (54781,2,46,1,3,'Graça e paz da parte de Deus nosso Pai, e do Senhor Jesus Cristo.'),
@@ -26316,8 +25826,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (54825,2,46,2,16,'Porque, quem conheceu a mente do Senhor, para que possa instruí-lo? Mas nós temos a mente de Cristo.'),
 (54826,2,46,3,1,'E eu, irmãos, não vos pude falar como a espirituais, mas como a carnais, como a meninos em Cristo.'),
 (54827,2,46,3,2,'Com leite vos criei, e não com carne, porque ainda não podíeis, nem tampouco ainda agora podeis,'),
-(54828,2,46,3,3,'Porque ainda sois carnais; pois, havendo entre vós inveja, contendas e dissensões, não sois porventura carnais, e não andais segundo os homens?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(54828,2,46,3,3,'Porque ainda sois carnais; pois, havendo entre vós inveja, contendas e dissensões, não sois porventura carnais, e não andais segundo os homens?'),
 (54829,2,46,3,4,'Porque, dizendo um: Eu sou de Paulo; e outro: Eu de Apolo; porventura não sois carnais?'),
 (54830,2,46,3,5,'Pois, quem é Paulo, e quem é Apolo, senão ministros pelos quais crestes, e conforme o que o Senhor deu a cada um?'),
 (54831,2,46,3,6,'Eu plantei, Apolo regou; mas Deus deu o crescimento.'),
@@ -26367,8 +25876,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (54875,2,46,5,6,'Não é boa a vossa jactância. Não sabeis que um pouco de fermento faz levedar toda a massa?'),
 (54876,2,46,5,7,'Alimpai-vos, pois, do fermento velho, para que sejais uma nova massa, assim como estais sem fermento. Porque Cristo, nossa páscoa, foi sacrificado por nós.'),
 (54877,2,46,5,8,'Por isso façamos a festa, não com o fermento velho, nem com o fermento da maldade e da malícia, mas com os ázimos da sinceridade e da verdade.'),
-(54878,2,46,5,9,'Já por carta vos tenho escrito, que não vos associeis com os que se prostituem;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(54878,2,46,5,9,'Já por carta vos tenho escrito, que não vos associeis com os que se prostituem;'),
 (54879,2,46,5,10,'Isto não quer dizer absolutamente com os devassos deste mundo, ou com os avarentos, ou com os roubadores, ou com os idólatras; porque então vos seria necessário sair do mundo.'),
 (54880,2,46,5,11,'Mas agora vos escrevi que não vos associeis com aquele que, dizendo-se irmão, for devasso, ou avarento, ou idólatra, ou maldizente, ou beberrão, ou roubador; com o tal nem ainda comais.'),
 (54881,2,46,5,12,'Porque, que tenho eu em julgar também os que estão de fora? Não julgais vós os que estão dentro?'),
@@ -26418,8 +25926,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (54925,2,46,7,23,'Fostes comprados por bom preço; não vos façais servos dos homens.'),
 (54926,2,46,7,24,'Irmãos, cada um fique diante de Deus no estado em que foi chamado.'),
 (54927,2,46,7,25,'Ora, quanto às virgens, não tenho mandamento do Senhor; dou, porém, o meu parecer, como quem tem alcançado misericórdia do Senhor para ser fiel.'),
-(54928,2,46,7,26,'Tenho, pois, por bom, por causa da instante necessidade, que é bom para o homem o estar assim.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(54928,2,46,7,26,'Tenho, pois, por bom, por causa da instante necessidade, que é bom para o homem o estar assim.'),
 (54929,2,46,7,27,'Estás ligado à mulher? não busques separar-te. Estás livre de mulher? não busques mulher.'),
 (54930,2,46,7,28,'Mas, se te casares, não pecas; e, se a virgem se casar, não peca. Todavia os tais terão tribulações na carne, e eu quereria poupar-vos.'),
 (54931,2,46,7,29,'Isto, porém, vos digo, irmãos, que o tempo se abrevia; o que resta é que também os que têm mulheres sejam como se não as tivessem;'),
@@ -26469,8 +25976,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (54975,2,46,9,20,'E fiz-me como judeu para os judeus, para ganhar os judeus; para os que estão debaixo da lei, como se estivesse debaixo da lei, para ganhar os que estão debaixo da lei.'),
 (54976,2,46,9,21,'Para os que estão sem lei, como se estivesse sem lei (não estando sem lei para com Deus, mas debaixo da lei de Cristo), para ganhar os que estão sem lei.'),
 (54977,2,46,9,22,'Fiz-me como fraco para os fracos, para ganhar os fracos. Fiz-me tudo para todos, para por todos os meios chegar a salvar alguns.'),
-(54978,2,46,9,23,'E eu faço isto por causa do evangelho, para ser também participante dele.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(54978,2,46,9,23,'E eu faço isto por causa do evangelho, para ser também participante dele.'),
 (54979,2,46,9,24,'Não sabeis vós que os que correm no estádio, todos, na verdade, correm, mas um só leva o prêmio? Correi de tal maneira que o alcanceis.'),
 (54980,2,46,9,25,'E todo aquele que luta de tudo se abstém; eles o fazem para alcançar uma coroa corruptível; nós, porém, uma incorruptível.'),
 (54981,2,46,9,26,'Pois eu assim corro, não como a coisa incerta; assim combato, não como batendo no ar.'),
@@ -26571,8 +26077,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (55075,2,46,12,26,'De maneira que, se um membro padece, todos os membros padecem com ele; e, se um membro é honrado, todos os membros se regozijam com ele.'),
 (55076,2,46,12,27,'Ora, vós sois o corpo de Cristo, e seus membros em particular.'),
 (55077,2,46,12,28,'E a uns pôs Deus na igreja, primeiramente apóstolos, em segundo lugar profetas, em terceiro doutores, depois milagres, depois dons de curar, socorros, governos, variedades de línguas.'),
-(55078,2,46,12,29,'Porventura são todos apóstolos? são todos profetas? são todos doutores? são todos operadores de milagres?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(55078,2,46,12,29,'Porventura são todos apóstolos? são todos profetas? são todos doutores? são todos operadores de milagres?'),
 (55079,2,46,12,30,'Têm todos o dom de curar? falam todos diversas línguas? interpretam todos?'),
 (55080,2,46,12,31,'Portanto, procurai com zelo os melhores dons; e eu vos mostrarei um caminho mais excelente.'),
 (55081,2,46,13,1,'Ainda que eu falasse as línguas dos homens e dos anjos, e não tivesse amor, seria como o metal que soa ou como o sino que tine.'),
@@ -26622,8 +26127,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (55125,2,46,14,32,'E os espíritos dos profetas estão sujeitos aos profetas.'),
 (55126,2,46,14,33,'Porque Deus não é Deus de confusão, senão de paz, como em todas as igrejas dos santos.'),
 (55127,2,46,14,34,'As vossas mulheres estejam caladas nas igrejas; porque não lhes é permitido falar; mas estejam sujeitas, como também ordena a lei.'),
-(55128,2,46,14,35,'E, se querem aprender alguma coisa, interroguem em casa a seus próprios maridos; porque é vergonhoso que as mulheres falem na igreja.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(55128,2,46,14,35,'E, se querem aprender alguma coisa, interroguem em casa a seus próprios maridos; porque é vergonhoso que as mulheres falem na igreja.'),
 (55129,2,46,14,36,'Porventura saiu dentre vós a palavra de Deus? Ou veio ela somente para vós?'),
 (55130,2,46,14,37,'Se alguém cuida ser profeta, ou espiritual, reconheça que as coisas que vos escrevo são mandamentos do Senhor.'),
 (55131,2,46,14,38,'Mas, se alguém ignora isto, que ignore.'),
@@ -26673,8 +26177,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (55175,2,46,15,42,'Assim também a ressurreição dentre os mortos. Semeia-se o corpo em corrupção; ressuscitará em incorrupção.'),
 (55176,2,46,15,43,'Semeia-se em ignomínia, ressuscitará em glória. Semeia-se em fraqueza, ressuscitará com vigor.'),
 (55177,2,46,15,44,'Semeia-se corpo natural, ressuscitará corpo espiritual. Se há corpo natural, há também corpo espiritual.'),
-(55178,2,46,15,45,'Assim está também escrito: O primeiro homem, Adão, foi feito em alma vivente; o último Adão em espírito vivificante.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(55178,2,46,15,45,'Assim está também escrito: O primeiro homem, Adão, foi feito em alma vivente; o último Adão em espírito vivificante.'),
 (55179,2,46,15,46,'Mas não é primeiro o espiritual, senão o natural; depois o espiritual.'),
 (55180,2,46,15,47,'O primeiro homem, da terra, é terreno; o segundo homem, o Senhor, é do céu.'),
 (55181,2,46,15,48,'Qual o terreno, tais são também os terrestres; e, qual o celestial, tais também os celestiais.'),
@@ -26724,8 +26227,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (55225,2,47,1,10,'O qual nos livrou de tão grande morte, e livra; em quem esperamos que também nos livrará ainda,'),
 (55226,2,47,1,11,'Ajudando-nos também vós com orações por nós, para que pela mercê, que por muitas pessoas nos foi feita, por muitas também sejam dadas graças a nosso respeito.'),
 (55227,2,47,1,12,'Porque a nossa glória é esta: o testemunho da nossa consciência, de que com simplicidade e sinceridade de Deus, não com sabedoria carnal, mas na graça de Deus, temos vivido no mundo, e de modo particular convosco.'),
-(55228,2,47,1,13,'Porque nenhumas outras coisas vos escrevemos, senão as que já sabeis ou também reconheceis; e espero que também até ao fim as reconhecereis.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(55228,2,47,1,13,'Porque nenhumas outras coisas vos escrevemos, senão as que já sabeis ou também reconheceis; e espero que também até ao fim as reconhecereis.'),
 (55229,2,47,1,14,'Como também já em parte reconhecestes em nós, que somos a vossa glória, como também vós sereis a nossa no dia do Senhor Jesus.'),
 (55230,2,47,1,15,'E com esta confiança quis primeiro ir ter convosco, para que tivésseis uma segunda graça;'),
 (55231,2,47,1,16,'E por vós passar à macedônia, e da macedônia ir outra vez ter convosco, e ser guiado por vós à Judéia.'),
@@ -26775,8 +26277,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (55275,2,47,4,1,'Por isso, tendo este ministério, segundo a misericórdia que nos foi feita, não desfalecemos;'),
 (55276,2,47,4,2,'Antes, rejeitamos as coisas que por vergonha se ocultam, não andando com astúcia nem falsificando a palavra de Deus; e assim nos recomendamos à consciência de todo o homem, na presença de Deus, pela manifestação da verdade.'),
 (55277,2,47,4,3,'Mas, se ainda o nosso evangelho está encoberto, para os que se perdem está encoberto.'),
-(55278,2,47,4,4,'Nos quais o deus deste século cegou os entendimentos dos incrédulos, para que lhes não resplandeça a luz do evangelho da glória de Cristo, que é a imagem de Deus.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(55278,2,47,4,4,'Nos quais o deus deste século cegou os entendimentos dos incrédulos, para que lhes não resplandeça a luz do evangelho da glória de Cristo, que é a imagem de Deus.'),
 (55279,2,47,4,5,'Porque não nos pregamos a nós mesmos, mas a Cristo Jesus, o Senhor; e nós mesmos somos vossos servos por amor de Jesus.'),
 (55280,2,47,4,6,'Porque Deus, que disse que das trevas resplandecesse a luz, é quem resplandeceu em nossos corações, para iluminação do conhecimento da glória de Deus, na face de Jesus Cristo.'),
 (55281,2,47,4,7,'Temos, porém, este tesouro em vasos de barro, para que a excelência do poder seja de Deus, e não de nós.'),
@@ -26826,8 +26327,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (55325,2,47,6,12,'Não estais estreitados em nós; mas estais estreitados nos vossos próprios afetos.'),
 (55326,2,47,6,13,'Ora, em recompensa disto, (falo como a filhos) dilatai-vos também vós.'),
 (55327,2,47,6,14,'Não vos prendais a um jugo desigual com os infiéis; porque, que sociedade tem a justiça com a injustiça? E que comunhão tem a luz com as trevas?'),
-(55328,2,47,6,15,'E que concórdia há entre Cristo e Belial? Ou que parte tem o fiel com o infiel?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(55328,2,47,6,15,'E que concórdia há entre Cristo e Belial? Ou que parte tem o fiel com o infiel?'),
 (55329,2,47,6,16,'E que consenso tem o templo de Deus com os ídolos? Porque vós sois o templo do Deus vivente, como Deus disse: Neles habitarei, e entre eles andarei; e eu serei o seu Deus e eles serão o meu povo.'),
 (55330,2,47,6,17,'Por isso saí do meio deles, e apartai-vos, diz o Senhor;E não toqueis nada imundo,E eu vos receberei;'),
 (55331,2,47,6,18,'E eu serei para vós Pai,E vós sereis para mim filhos e filhas, Diz o Senhor Todo-Poderoso.'),
@@ -26877,8 +26377,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (55375,2,47,9,4,'A fim de, se acaso os macedônios vierem comigo, e vos acharem desapercebidos, não nos envergonharmos nós (para não dizermos vós) deste firme fundamento de glória.'),
 (55376,2,47,9,5,'Portanto, tive por coisa necessária exortar estes irmãos, para que primeiro fossem ter convosco, e preparassem de antemão a vossa bênção, já antes anunciada, para que esteja pronta como bênção, e não como avareza.'),
 (55377,2,47,9,6,'E digo isto: Que o que semeia pouco, pouco também ceifará; e o que semeia em abundância, em abundância ceifará.'),
-(55378,2,47,9,7,'Cada um contribua segundo propôs no seu coração; não com tristeza, ou por necessidade; porque Deus ama ao que dá com alegria.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(55378,2,47,9,7,'Cada um contribua segundo propôs no seu coração; não com tristeza, ou por necessidade; porque Deus ama ao que dá com alegria.'),
 (55379,2,47,9,8,'E Deus é poderoso para fazer abundar em vós toda a graça, a fim de que tendo sempre, em tudo, toda a suficiência, abundeis em toda a boa obra;'),
 (55380,2,47,9,9,'Conforme está escrito:Espalhou, deu aos pobres;a sua justiça permanece para sempre.'),
 (55381,2,47,9,10,'Ora, aquele que dá a semente ao que semeia, também vos dê pão para comer, e multiplique a vossa sementeira, e aumente os frutos da vossa justiça;'),
@@ -26928,8 +26427,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (55425,2,47,11,21,'Envergonhado o digo, como se nós fôssemos fracos, mas no que qualquer tem ousadia (com insensatez falo) também eu tenho ousadia.'),
 (55426,2,47,11,22,'São hebreus? também eu. São israelitas? também eu. São descendência de Abraão? também eu.'),
 (55427,2,47,11,23,'São ministros de Cristo? (falo como fora de mim) eu ainda mais: em trabalhos, muito mais; em açoites, mais do que eles; em prisões, muito mais; em perigo de morte, muitas vezes.'),
-(55428,2,47,11,24,'Recebi dos judeus cinco quarentenas de açoites menos um.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(55428,2,47,11,24,'Recebi dos judeus cinco quarentenas de açoites menos um.'),
 (55429,2,47,11,25,'Três vezes fui açoitado com varas, uma vez fui apedrejado, três vezes sofri naufrágio, uma noite e um dia passei no abismo;'),
 (55430,2,47,11,26,'Em viagens muitas vezes, em perigos de rios, em perigos de salteadores, em perigos dos da minha nação, em perigos dos gentios, em perigos na cidade, em perigos no deserto, em perigos no mar, em perigos entre os falsos irmãos;'),
 (55431,2,47,11,27,'Em trabalhos e fadiga, em vigílias muitas vezes, em fome e sede, em jejum muitas vezes, em frio e nudez.'),
@@ -26979,8 +26477,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (55475,2,48,1,3,'Graça e paz da parte de Deus Pai e do nosso Senhor Jesus Cristo,'),
 (55476,2,48,1,4,'O qual se deu a si mesmo por nossos pecados, para nos livrar do presente século mau, segundo a vontade de Deus nosso Pai,'),
 (55477,2,48,1,5,'Ao qual seja dada glória para todo o sempre. Amém.'),
-(55478,2,48,1,6,'Maravilho-me de que tão depressa passásseis daquele que vos chamou à graça de Cristo para outro evangelho;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(55478,2,48,1,6,'Maravilho-me de que tão depressa passásseis daquele que vos chamou à graça de Cristo para outro evangelho;'),
 (55479,2,48,1,7,'O qual não é outro, mas há alguns que vos inquietam e querem transtornar o evangelho de Cristo.'),
 (55480,2,48,1,8,'Mas, ainda que nós mesmos ou um anjo do céu vos anuncie outro evangelho além do que já vos tenho anunciado, seja anátema.'),
 (55481,2,48,1,9,'Assim, como já vo-lo dissemos, agora de novo também vo-lo digo. Se alguém vos anunciar outro evangelho além do que já recebestes, seja anátema.'),
@@ -27030,8 +26527,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (55525,2,48,3,8,'Ora, tendo a Escritura previsto que Deus havia de justificar pela fé os gentios, anunciou primeiro o evangelho a Abraão, dizendo: Todas as nações serão benditas em ti.'),
 (55526,2,48,3,9,'De sorte que os que são da fé são benditos com o crente Abraão.'),
 (55527,2,48,3,10,'Todos aqueles, pois, que são das obras da lei estão debaixo da maldição; porque está escrito: Maldito todo aquele que não permanecer em todas as coisas que estão escritas no livro da lei, para fazê-las.'),
-(55528,2,48,3,11,'E é evidente que pela lei ninguém será justificado diante de Deus, porque o justo viverá pela fé.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(55528,2,48,3,11,'E é evidente que pela lei ninguém será justificado diante de Deus, porque o justo viverá pela fé.'),
 (55529,2,48,3,12,'Ora, a lei não é da fé; mas o homem, que fizer estas coisas, por elas viverá.'),
 (55530,2,48,3,13,'Cristo nos resgatou da maldição da lei, fazendo-se maldição por nós; porque está escrito: Maldito todo aquele que for pendurado no madeiro;'),
 (55531,2,48,3,14,'Para que a bênção de Abraão chegasse aos gentios por Jesus Cristo, e para que pela fé nós recebamos a promessa do Espírito.'),
@@ -27081,8 +26577,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (55575,2,48,4,29,'Mas, como então aquele que era gerado segundo a carne perseguia o que o era segundo o Espírito, assim é também agora.'),
 (55576,2,48,4,30,'Mas que diz a Escritura? Lança fora a escrava e seu filho, porque de modo algum o filho da escrava herdará com o filho da livre.'),
 (55577,2,48,4,31,'De maneira que, irmãos, somos filhos, não da escrava, mas da livre.'),
-(55578,2,48,5,1,'Estai, pois, firmes na liberdade com que Cristo nos libertou, e não torneis a colocar-vos debaixo do jugo da servidão.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(55578,2,48,5,1,'Estai, pois, firmes na liberdade com que Cristo nos libertou, e não torneis a colocar-vos debaixo do jugo da servidão.'),
 (55579,2,48,5,2,'Eis que eu, Paulo, vos digo que, se vos deixardes circuncidar, Cristo de nada vos aproveitará.'),
 (55580,2,48,5,3,'E de novo protesto a todo o homem, que se deixa circuncidar, que está obrigado a guardar toda a lei.'),
 (55581,2,48,5,4,'Separados estais de Cristo, vós os que vos justificais pela lei; da graça tendes caído.'),
@@ -27132,8 +26627,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (55625,2,49,1,4,'Como também nos elegeu nele antes da fundação do mundo, para que fôssemos santos e irrepreensíveis diante dele em amor;'),
 (55626,2,49,1,5,'E nos predestinou para filhos de adoção por Jesus Cristo, para si mesmo, segundo o beneplácito de sua vontade,'),
 (55627,2,49,1,6,'Para louvor da glória de sua graça, pela qual nos fez agradáveis a si no Amado,'),
-(55628,2,49,1,7,'Em quem temos a redenção pelo seu sangue, a remissão das ofensas, segundo as riquezas da sua graça,');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(55628,2,49,1,7,'Em quem temos a redenção pelo seu sangue, a remissão das ofensas, segundo as riquezas da sua graça,'),
 (55629,2,49,1,8,'Que ele fez abundar para conosco em toda a sabedoria e prudência;'),
 (55630,2,49,1,9,'Descobrindo-nos o mistério da sua vontade, segundo o seu beneplácito, que propusera em si mesmo,'),
 (55631,2,49,1,10,'De tornar a congregar em Cristo todas as coisas, na dispensação da plenitude dos tempos, tanto as que estão nos céus como as que estão na terra;'),
@@ -27183,8 +26677,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (55675,2,49,3,9,'E demonstrar a todos qual seja a comunhão do mistério, que desde os séculos esteve oculto em Deus, que tudo criou por meio de Jesus Cristo;'),
 (55676,2,49,3,10,'Para que agora, pela igreja, a multiforme sabedoria de Deus seja conhecida dos principados e potestades nos céus,'),
 (55677,2,49,3,11,'Segundo o eterno propósito que fez em Cristo Jesus nosso Senhor,'),
-(55678,2,49,3,12,'No qual temos ousadia e acesso com confiança, pela nossa fé nele.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(55678,2,49,3,12,'No qual temos ousadia e acesso com confiança, pela nossa fé nele.'),
 (55679,2,49,3,13,'Portanto, vos peço que não desfaleçais nas minhas tribulações por vós, que são a vossa glória.'),
 (55680,2,49,3,14,'Por causa disto me ponho de joelhos perante o Pai de nosso Senhor Jesus Cristo,'),
 (55681,2,49,3,15,'Do qual toda a família nos céus e na terra toma o nome,'),
@@ -27234,8 +26727,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (55725,2,49,5,6,'Ninguém vos engane com palavras vãs; porque por estas coisas vem a ira de Deus sobre os filhos da desobediência.'),
 (55726,2,49,5,7,'Portanto, não sejais seus companheiros.'),
 (55727,2,49,5,8,'Porque noutro tempo éreis trevas, mas agora sois luz no Senhor; andai como filhos da luz'),
-(55728,2,49,5,9,'(Porque o fruto do Espírito está em toda a bondade, e justiça e verdade);');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(55728,2,49,5,9,'(Porque o fruto do Espírito está em toda a bondade, e justiça e verdade);'),
 (55729,2,49,5,10,'Aprovando o que é agradável ao Senhor.'),
 (55730,2,49,5,11,'E não comuniqueis com as obras infrutuosas das trevas, mas antes condenai-as.'),
 (55731,2,49,5,12,'Porque o que eles fazem em oculto até dizê-lo é torpe.'),
@@ -27285,8 +26777,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (55775,2,49,6,23,'Paz seja com os irmãos, e amor com fé da parte de Deus Pai e da do Senhor Jesus Cristo.'),
 (55776,2,49,6,24,'A graça seja com todos os que amam a nosso Senhor Jesus Cristo em sinceridade. Amém.'),
 (55777,2,50,1,1,'Paulo e Timóteo, servos de Jesus Cristo, a todos os santos em Cristo Jesus, que estão em Filipos, com os bispos e diáconos:'),
-(55778,2,50,1,2,'Graça a vós, e paz da parte de Deus nosso Pai e da do Senhor Jesus Cristo.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(55778,2,50,1,2,'Graça a vós, e paz da parte de Deus nosso Pai e da do Senhor Jesus Cristo.'),
 (55779,2,50,1,3,'Dou graças ao meu Deus todas as vezes que me lembro de vós,'),
 (55780,2,50,1,4,'Fazendo sempre com alegria oração por vós em todas as minhas súplicas,'),
 (55781,2,50,1,5,'Pela vossa cooperação no evangelho desde o primeiro dia até agora.'),
@@ -27336,8 +26827,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (55825,2,50,2,19,'E espero no Senhor Jesus que em breve vos mandarei Timóteo, para que também eu esteja de bom ânimo, sabendo dos vossos negócios.'),
 (55826,2,50,2,20,'Porque a ninguém tenho de igual sentimento, que sinceramente cuide do vosso estado;'),
 (55827,2,50,2,21,'Porque todos buscam o que é seu, e não o que é de Cristo Jesus.'),
-(55828,2,50,2,22,'Mas bem sabeis qual a sua experiência, e que serviu comigo no evangelho, como filho ao pai.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(55828,2,50,2,22,'Mas bem sabeis qual a sua experiência, e que serviu comigo no evangelho, como filho ao pai.'),
 (55829,2,50,2,23,'De sorte que espero vo-lo enviar logo que tenha provido a meus negócios.'),
 (55830,2,50,2,24,'Mas confio no Senhor, que também eu mesmo em breve irei ter convosco.'),
 (55831,2,50,2,25,'Julguei, contudo, necessário mandar-vos Epafrodito, meu irmão e cooperador, e companheiro nos combates, e vosso enviado para prover às minhas necessidades.'),
@@ -27387,8 +26877,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (55875,2,50,4,18,'Mas bastante tenho recebido, e tenho abundância. Cheio estou, depois que recebi de Epafrodito o que da vossa parte me foi enviado, como cheiro de suavidade e sacrifício agradável e aprazível a Deus.'),
 (55876,2,50,4,19,'O meu Deus, segundo as suas riquezas, suprirá todas as vossas necessidades em glória, por Cristo Jesus.'),
 (55877,2,50,4,20,'Ora, a nosso Deus e Pai seja dada glória para todo o sempre. Amém.'),
-(55878,2,50,4,21,'Saudai a todos os santos em Cristo Jesus. Os irmãos que estão comigo vos saúdam.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(55878,2,50,4,21,'Saudai a todos os santos em Cristo Jesus. Os irmãos que estão comigo vos saúdam.'),
 (55879,2,50,4,22,'Todos os santos vos saúdam, mas principalmente os que são da casa de César.'),
 (55880,2,50,4,23,'A graça de nosso Senhor Jesus Cristo seja com vós todos. Amém.'),
 (55881,2,51,1,1,'Paulo, apóstolo de Jesus Cristo, pela vontade de Deus, e o irmão Timóteo,'),
@@ -27438,8 +26927,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (55925,2,51,2,16,'Portanto, ninguém vos julgue pelo comer, ou pelo beber, ou por causa dos dias de festa, ou da lua nova, ou dos sábados,'),
 (55926,2,51,2,17,'Que são sombras das coisas futuras, mas o corpo é de Cristo.'),
 (55927,2,51,2,18,'Ninguém vos domine a seu bel-prazer com pretexto de humildade e culto dos anjos, envolvendo-se em coisas que não viu; estando debalde inchado na sua carnal compreensão,'),
-(55928,2,51,2,19,'E não ligado à cabeça, da qual todo o corpo, provido e organizado pelas juntas e ligaduras, vai crescendo em aumento de Deus.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(55928,2,51,2,19,'E não ligado à cabeça, da qual todo o corpo, provido e organizado pelas juntas e ligaduras, vai crescendo em aumento de Deus.'),
 (55929,2,51,2,20,'Se, pois, estais mortos com Cristo quanto aos rudimentos do mundo, por que vos carregam ainda de ordenanças, como se vivêsseis no mundo, tais como:'),
 (55930,2,51,2,21,'Não toques, não proves, não manuseies?'),
 (55931,2,51,2,22,'As quais coisas todas perecem pelo uso, segundo os preceitos e doutrinas dos homens;'),
@@ -27489,8 +26977,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (55975,2,51,4,18,'Saudação de minha mão, de Paulo. Lembrai-vos das minhas prisões. A graça seja convosco. Amém.'),
 (55976,2,52,1,1,'Paulo, e Silvano, e Timóteo, à igreja dos tessalonicenses em Deus, o Pai, e no Senhor Jesus Cristo: Graça e paz tenhais de Deus nosso Pai e do Senhor Jesus Cristo.'),
 (55977,2,52,1,2,'Sempre damos graças a Deus por vós todos, fazendo menção de vós em nossas orações,'),
-(55978,2,52,1,3,'Lembrando-nos sem cessar da obra da vossa fé, do trabalho do amor, e da paciência da esperança em nosso Senhor Jesus Cristo, diante de nosso Deus e Pai,');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(55978,2,52,1,3,'Lembrando-nos sem cessar da obra da vossa fé, do trabalho do amor, e da paciência da esperança em nosso Senhor Jesus Cristo, diante de nosso Deus e Pai,'),
 (55979,2,52,1,4,'Sabendo, amados irmãos, que a vossa eleição é de Deus;'),
 (55980,2,52,1,5,'Porque o nosso evangelho não foi a vós somente em palavras, mas também em poder, e no Espírito Santo, e em muita certeza, como bem sabeis quais fomos entre vós, por amor de vós.'),
 (55981,2,52,1,6,'E vós fostes feitos nossos imitadores, e do Senhor, recebendo a palavra em muita tribulação, com gozo do Espírito Santo.'),
@@ -27591,8 +27078,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (56075,2,53,1,11,'Por isso também rogamos sempre por vós, para que o nosso Deus vos faça dignos da sua vocação, e cumpra todo o desejo da sua bondade, e a obra da fé com poder;'),
 (56076,2,53,1,12,'Para que o nome de nosso Senhor Jesus Cristo seja em vós glorificado, e vós nele, segundo a graça de nosso Deus e do Senhor Jesus Cristo.'),
 (56077,2,53,2,1,'Ora, irmãos, rogamo-vos, pela vinda de nosso Senhor Jesus Cristo, e pela nossa reunião com ele,'),
-(56078,2,53,2,2,'Que não vos movais facilmente do vosso entendimento, nem vos perturbeis, quer por espírito, quer por palavra, quer por epístola, como de nós, como se o dia de Cristo estivesse já perto.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(56078,2,53,2,2,'Que não vos movais facilmente do vosso entendimento, nem vos perturbeis, quer por espírito, quer por palavra, quer por epístola, como de nós, como se o dia de Cristo estivesse já perto.'),
 (56079,2,53,2,3,'Ninguém de maneira alguma vos engane; porque não será assim sem que antes venha a apostasia, e se manifeste o homem do pecado, o filho da perdição,'),
 (56080,2,53,2,4,'O qual se opõe, e se levanta contra tudo o que se chama Deus, ou se adora; de sorte que se assentará, como Deus, no templo de Deus, querendo parecer Deus.'),
 (56081,2,53,2,5,'Não vos lembrais de que estas coisas vos dizia quando ainda estava convosco?'),
@@ -27642,8 +27128,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (56125,2,54,1,14,'E a graça de nosso Senhor superabundou com a fé e amor que há em Jesus Cristo.'),
 (56126,2,54,1,15,'Esta é uma palavra fiel, e digna de toda a aceitação, que Cristo Jesus veio ao mundo, para salvar os pecadores, dos quais eu sou o principal.'),
 (56127,2,54,1,16,'Mas por isso alcancei misericórdia, para que em mim, que sou o principal, Jesus Cristo mostrasse toda a sua longanimidade, para exemplo dos que haviam de crer nele para a vida eterna.'),
-(56128,2,54,1,17,'Ora, ao Rei dos séculos, imortal, invisível, ao único Deus sábio, seja honra e glória para todo o sempre. Amém.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(56128,2,54,1,17,'Ora, ao Rei dos séculos, imortal, invisível, ao único Deus sábio, seja honra e glória para todo o sempre. Amém.'),
 (56129,2,54,1,18,'Este mandamento te dou, meu filho Timóteo, que, segundo as profecias que houve acerca de ti, milites por elas boa milícia;'),
 (56130,2,54,1,19,'Conservando a fé, e a boa consciência, a qual alguns, rejeitando, fizeram naufrágio na fé.'),
 (56131,2,54,1,20,'E entre esses foram Himeneu e Alexandre, os quais entreguei a Satanás, para que aprendam a não blasfemar.'),
@@ -27693,8 +27178,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (56175,2,54,4,13,'Persiste em ler, exortar e ensinar, até que eu vá.'),
 (56176,2,54,4,14,'Não desprezes o dom que há em ti, o qual te foi dado por profecia, com a imposição das mãos do presbitério.'),
 (56177,2,54,4,15,'Medita estas coisas; ocupa-te nelas, para que o teu aproveitamento seja manifesto a todos.'),
-(56178,2,54,4,16,'Tem cuidado de ti mesmo e da doutrina. Persevera nestas coisas; porque, fazendo isto, te salvarás, tanto a ti mesmo como aos que te ouvem.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(56178,2,54,4,16,'Tem cuidado de ti mesmo e da doutrina. Persevera nestas coisas; porque, fazendo isto, te salvarás, tanto a ti mesmo como aos que te ouvem.'),
 (56179,2,54,5,1,'NÃO repreendas asperamente o ancião, mas admoesta-o como a pai; aos moços como a irmãos;'),
 (56180,2,54,5,2,'As mulheres idosas, como a mães, às moças, como a irmãs, em toda a pureza.'),
 (56181,2,54,5,3,'Honra as viúvas que verdadeiramente são viúvas.'),
@@ -27744,8 +27228,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (56225,2,55,1,1,'Paulo, apóstolo de Jesus Cristo, pela vontade de Deus, segundo a promessa da vida que está em Cristo Jesus,'),
 (56226,2,55,1,2,'A Timóteo, meu amado filho: Graça, misericórdia, e paz da parte de Deus Pai, e da de Cristo Jesus, Senhor nosso.'),
 (56227,2,55,1,3,'Dou graças a Deus, a quem desde os meus antepassados sirvo com uma consciência pura, de que sem cessar faço memória de ti nas minhas orações noite e dia;'),
-(56228,2,55,1,4,'Desejando muito ver-te, lembrando-me das tuas lágrimas, para me encher de gozo;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(56228,2,55,1,4,'Desejando muito ver-te, lembrando-me das tuas lágrimas, para me encher de gozo;'),
 (56229,2,55,1,5,'Trazendo à memória a fé não fingida que em ti há, a qual habitou primeiro em tua avó Lóide, e em tua mãe Eunice, e estou certo de que também habita em ti.'),
 (56230,2,55,1,6,'Por cujo motivo te lembro que despertes o dom de Deus que existe em ti pela imposição das minhas mãos.'),
 (56231,2,55,1,7,'Porque Deus não nos deu o espírito de temor, mas de fortaleza, e de amor, e de moderação.'),
@@ -27795,8 +27278,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (56275,2,55,3,7,'Que aprendem sempre, e nunca podem chegar ao conhecimento da verdade.'),
 (56276,2,55,3,8,'E, como Janes e Jambres resistiram a Moisés, assim também estes resistem à verdade, sendo homens corruptos de entendimento e réprobos quanto à fé.'),
 (56277,2,55,3,9,'Não irão, porém, avante; porque a todos será manifesto o seu desvario, como também o foi o daqueles.'),
-(56278,2,55,3,10,'Tu, porém, tens seguido a minha doutrina, modo de viver, intenção, fé, longanimidade, amor, paciência,');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(56278,2,55,3,10,'Tu, porém, tens seguido a minha doutrina, modo de viver, intenção, fé, longanimidade, amor, paciência,'),
 (56279,2,55,3,11,'Perseguições e aflições tais quais me aconteceram em Antioquia, em Icônio, e em Listra; quantas perseguições sofri, e o Senhor de todas me livrou;'),
 (56280,2,55,3,12,'E também todos os que piamente querem viver em Cristo Jesus padecerão perseguições.'),
 (56281,2,55,3,13,'Mas os homens maus e enganadores irão de mal para pior, enganando e sendo enganados.'),
@@ -27846,8 +27328,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (56325,2,56,2,2,'Os velhos, que sejam sóbrios, graves, prudentes, sãos na fé, no amor, e na paciência;'),
 (56326,2,56,2,3,'As mulheres idosas, semelhantemente, que sejam sérias no seu viver, como convém a santas, não caluniadoras, não dadas a muito vinho, mestras no bem;'),
 (56327,2,56,2,4,'Para que ensinem as mulheres novas a serem prudentes, a amarem seus maridos, a amarem seus filhos,'),
-(56328,2,56,2,5,'A serem moderadas, castas, boas donas de casa, sujeitas a seus maridos, a fim de que a palavra de Deus não seja blasfemada.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(56328,2,56,2,5,'A serem moderadas, castas, boas donas de casa, sujeitas a seus maridos, a fim de que a palavra de Deus não seja blasfemada.'),
 (56329,2,56,2,6,'Exorta semelhantemente os jovens a que sejam moderados.'),
 (56330,2,56,2,7,'Em tudo te dá por exemplo de boas obras; na doutrina mostra incorrupção, gravidade, sinceridade,'),
 (56331,2,56,2,8,'Linguagem sã e irrepreensível, para que o adversário se envergonhe, não tendo nenhum mal que dizer de nós.'),
@@ -27897,8 +27378,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (56375,2,57,1,22,'E juntamente prepara-me também pousada, porque espero que pelas vossas orações vos hei de ser concedido.'),
 (56376,2,57,1,23,'Saúdam-te Epafras, meu companheiro de prisão por Cristo Jesus,'),
 (56377,2,57,1,24,'Marcos, Aristarco, Demas e Lucas, meus cooperadores.'),
-(56378,2,57,1,25,'A graça de nosso Senhor Jesus Cristo seja com o vosso espírito. Amém.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(56378,2,57,1,25,'A graça de nosso Senhor Jesus Cristo seja com o vosso espírito. Amém.'),
 (56379,2,58,1,1,'Havendo Deus antigamente falado muitas vezes, e de muitas maneiras, aos pais, pelos profetas, a nós falou-nos nestes últimos dias pelo Filho,'),
 (56380,2,58,1,2,'A quem constituiu herdeiro de tudo, por quem fez também o mundo.'),
 (56381,2,58,1,3,'O qual, sendo o resplendor da sua glória, e a expressa imagem da sua pessoa, e sustentando todas as coisas pela palavra do seu poder, havendo feito por si mesmo a purificação dos nossos pecados, assentou-se à destra da majestade nas alturas;'),
@@ -27948,8 +27428,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (56425,2,58,3,15,'Enquanto se diz: Hoje, se ouvirdes a sua voz, Não endureçais os vossos corações, como na provocação.'),
 (56426,2,58,3,16,'Porque, havendo-a alguns ouvido, o provocaram; mas não todos os que saíram do Egito por meio de Moisés.'),
 (56427,2,58,3,17,'Mas com quem se indignou por quarenta anos? Não foi porventura com os que pecaram, cujos corpos caíram no deserto?'),
-(56428,2,58,3,18,'E a quem jurou que não entrariam no seu repouso, senão aos que foram desobedientes?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(56428,2,58,3,18,'E a quem jurou que não entrariam no seu repouso, senão aos que foram desobedientes?'),
 (56429,2,58,3,19,'E vemos que não puderam entrar por causa da sua incredulidade.'),
 (56430,2,58,4,1,'Temamos, pois, que, porventura, deixada a promessa de entrar no seu repouso, pareça que algum de vós fica para trás.'),
 (56431,2,58,4,2,'Porque também a nós foram pregadas as boas novas, como a eles, mas a palavra da pregação nada lhes aproveitou, porquanto não estava misturada com a fé naqueles que a ouviram.'),
@@ -27999,8 +27478,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (56475,2,58,6,16,'Porque os homens certamente juram por alguém superior a eles, e o juramento para confirmação é, para eles, o fim de toda a contenda.'),
 (56476,2,58,6,17,'Por isso, querendo Deus mostrar mais abundantemente a imutabilidade do seu conselho aos herdeiros da promessa, se interpôs com juramento;'),
 (56477,2,58,6,18,'Para que por duas coisas imutáveis, nas quais é impossível que Deus minta, tenhamos a firme consolação, nós, os que pomos o nosso refúgio em reter a esperança proposta;'),
-(56478,2,58,6,19,'A qual temos como âncora da alma, segura e firme, e que penetra até ao interior do véu,');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(56478,2,58,6,19,'A qual temos como âncora da alma, segura e firme, e que penetra até ao interior do véu,'),
 (56479,2,58,6,20,'Onde Jesus, nosso precursor, entrou por nós, feito eternamente sumo sacerdote, segundo a ordem de Melquisedeque.'),
 (56480,2,58,7,1,'Porque este Melquisedeque, que era rei de Salém, sacerdote do Deus Altíssimo, e que saiu ao encontro de Abraão quando ele regressava da matança dos reis, e o abençoou;'),
 (56481,2,58,7,2,'A quem também Abraão deu o dízimo de tudo, e primeiramente é, por interpretação, rei de justiça, e depois também rei de Salém, que é rei de paz;'),
@@ -28050,8 +27528,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (56525,2,58,9,5,'E sobre a arca os querubins da glória, que faziam sombra no propiciatório; das quais coisas não falaremos agora particularmente.'),
 (56526,2,58,9,6,'Ora, estando estas coisas assim preparadas, a todo o tempo entravam os sacerdotes no primeiro tabernáculo, cumprindo os serviços;'),
 (56527,2,58,9,7,'Mas, no segundo, só o sumo sacerdote, uma vez no ano, não sem sangue, que oferecia por si mesmo e pelas culpas do povo;'),
-(56528,2,58,9,8,'Dando nisto a entender o Espírito Santo que ainda o caminho do santuário não estava descoberto enquanto se conservava em pé o primeiro tabernáculo,');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(56528,2,58,9,8,'Dando nisto a entender o Espírito Santo que ainda o caminho do santuário não estava descoberto enquanto se conservava em pé o primeiro tabernáculo,'),
 (56529,2,58,9,9,'Que é uma alegoria para o tempo presente, em que se oferecem dons e sacrifícios que, quanto à consciência, não podem aperfeiçoar aquele que faz o serviço;'),
 (56530,2,58,9,10,'Consistindo somente em comidas, e bebidas, e várias abluções e justificações da carne, impostas até ao tempo da correção.'),
 (56531,2,58,9,11,'Mas, vindo Cristo, o sumo sacerdote dos bens futuros, por um maior e mais perfeito tabernáculo, não feito por mãos, isto é, não desta criação,'),
@@ -28101,8 +27578,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (56575,2,58,10,27,'Mas uma certa expectação horrível de juízo, e ardor de fogo, que há de devorar os adversários.'),
 (56576,2,58,10,28,'Quebrantando alguém a lei de Moisés, morre sem misericórdia, só pela palavra de duas ou três testemunhas.'),
 (56577,2,58,10,29,'De quanto maior castigo cuidais vós será julgado merecedor aquele que pisar o Filho de Deus, e tiver por profano o sangue da aliança com que foi santificado, e fizer agravo ao Espírito da graça?'),
-(56578,2,58,10,30,'Porque bem conhecemos aquele que disse: Minha é a vingança, eu darei a recompensa, diz o Senhor. E outra vez: O Senhor julgará o seu povo.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(56578,2,58,10,30,'Porque bem conhecemos aquele que disse: Minha é a vingança, eu darei a recompensa, diz o Senhor. E outra vez: O Senhor julgará o seu povo.'),
 (56579,2,58,10,31,'Horrenda coisa é cair nas mãos do Deus vivo.'),
 (56580,2,58,10,32,'Lembrai-vos, porém, dos dias passados, em que, depois de serdes iluminados, suportastes grande combate de aflições.'),
 (56581,2,58,10,33,'Em parte fostes feitos espetáculo com vitupérios e tribulações, e em parte fostes participantes com os que assim foram tratados.'),
@@ -28152,8 +27628,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (56625,2,58,11,38,'(Dos quais o mundo não era digno), errantes pelos desertos, e montes, e pelas covas e cavernas da terra.'),
 (56626,2,58,11,39,'E todos estes, tendo tido testemunho pela fé, não alcançaram a promessa,'),
 (56627,2,58,11,40,'Provendo Deus alguma coisa melhor a nosso respeito, para que eles sem nós não fossem aperfeiçoados.'),
-(56628,2,58,12,1,'Portanto nós também, pois que estamos rodeados de uma tão grande nuvem de testemunhas, deixemos todo o embaraço, e o pecado que tão de perto nos rodeia, e corramos com paciência a carreira que nos está proposta,');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(56628,2,58,12,1,'Portanto nós também, pois que estamos rodeados de uma tão grande nuvem de testemunhas, deixemos todo o embaraço, e o pecado que tão de perto nos rodeia, e corramos com paciência a carreira que nos está proposta,'),
 (56629,2,58,12,2,'Olhando para Jesus, autor e consumador da fé, o qual, pelo gozo que lhe estava proposto, suportou a cruz, desprezando a afronta, e assentou-se à destra do trono de Deus.'),
 (56630,2,58,12,3,'Considerai, pois, aquele que suportou tais contradições dos pecadores contra si mesmo, para que não enfraqueçais, desfalecendo em vossos ânimos.'),
 (56631,2,58,12,4,'Ainda não resististes até ao sangue, combatendo contra o pecado.'),
@@ -28203,8 +27678,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (56675,2,58,13,19,'E rogo-vos com instância que assim o façais, para que eu mais depressa vos seja restituído.'),
 (56676,2,58,13,20,'Ora, o Deus de paz, que pelo sangue da aliança eterna tornou a trazer dos mortos a nosso Senhor Jesus Cristo, grande pastor das ovelhas,'),
 (56677,2,58,13,21,'Vos aperfeiçoe em toda a boa obra, para fazerdes a sua vontade, operando em vós o que perante ele é agradável por Cristo Jesus, ao qual seja glória para todo o sempre. Amém.'),
-(56678,2,58,13,22,'Rogo-vos, porém, irmãos, que suporteis a palavra desta exortação; porque abreviadamente vos escrevi.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(56678,2,58,13,22,'Rogo-vos, porém, irmãos, que suporteis a palavra desta exortação; porque abreviadamente vos escrevi.'),
 (56679,2,58,13,23,'Sabei que já está solto o irmão Timóteo, com o qual, se ele vier depressa, vos verei.'),
 (56680,2,58,13,24,'Saudai a todos os vossos chefes e a todos os santos. Os da Itália vos saúdam.'),
 (56681,2,58,13,25,'A graça seja com todos vós. Amém.'),
@@ -28254,8 +27728,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (56725,2,59,2,17,'Assim também a fé, se não tiver as obras, é morta em si mesma.'),
 (56726,2,59,2,18,'Mas dirá alguém: Tu tens a fé, e eu tenho as obras; mostra-me a tua fé sem as tuas obras, e eu te mostrarei a minha fé pelas minhas obras.'),
 (56727,2,59,2,19,'Tu crês que há um só Deus; fazes bem. Também os demônios o crêem, e estremecem.'),
-(56728,2,59,2,20,'Mas, ó homem vão, queres tu saber que a fé sem as obras é morta?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(56728,2,59,2,20,'Mas, ó homem vão, queres tu saber que a fé sem as obras é morta?'),
 (56729,2,59,2,21,'Porventura o nosso pai Abraão não foi justificado pelas obras, quando ofereceu sobre o altar o seu filho Isaque?'),
 (56730,2,59,2,22,'Bem vês que a fé cooperou com as suas obras, e que pelas obras a fé foi aperfeiçoada.'),
 (56731,2,59,2,23,'E cumpriu-se a Escritura, que diz: E creu Abraão em Deus, e foi-lhe isso imputado como justiça, e foi chamado o amigo de Deus.'),
@@ -28305,8 +27778,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (56775,2,59,5,6,'Condenastes e matastes o justo; ele não vos resistiu.'),
 (56776,2,59,5,7,'Sede pois, irmãos, pacientes até à vinda do Senhor. Eis que o lavrador espera o precioso fruto da terra, aguardando-o com paciência, até que receba a chuva temporã e serôdia.'),
 (56777,2,59,5,8,'Sede vós também pacientes, fortalecei os vossos corações; porque já a vinda do Senhor está próxima.'),
-(56778,2,59,5,9,'Irmãos, não vos queixeis uns contra os outros, para que não sejais condenados. Eis que o juiz está à porta.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(56778,2,59,5,9,'Irmãos, não vos queixeis uns contra os outros, para que não sejais condenados. Eis que o juiz está à porta.'),
 (56779,2,59,5,10,'Meus irmãos, tomai por exemplo de aflição e paciência os profetas que falaram em nome do Senhor.'),
 (56780,2,59,5,11,'Eis que temos por bem-aventurados os que sofreram. Ouvistes qual foi a paciência de Jó, e vistes o fim que o Senhor lhe deu; porque o Senhor é muito misericordioso e piedoso.'),
 (56781,2,59,5,12,'Mas, sobretudo, meus irmãos, não jureis, nem pelo céu, nem pela terra, nem façais qualquer outro juramento; mas que a vossa palavra seja sim, sim, e não, não; para que não caiais em condenação.'),
@@ -28356,8 +27828,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (56825,2,60,2,11,'Amados, peço-vos, como a peregrinos e forasteiros, que vos abstenhais das concupiscências carnais, que combatem contra a alma;'),
 (56826,2,60,2,12,'Tendo o vosso viver honesto entre os gentios; para que, naquilo em que falam mal de vós, como de malfeitores, glorifiquem a Deus no dia da visitação, pelas boas obras que em vós observem.'),
 (56827,2,60,2,13,'Sujeitai-vos, pois, a toda a ordenação humana por amor do Senhor; quer ao rei, como superior;'),
-(56828,2,60,2,14,'Quer aos governadores, como por ele enviados para castigo dos malfeitores, e para louvor dos que fazem o bem.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(56828,2,60,2,14,'Quer aos governadores, como por ele enviados para castigo dos malfeitores, e para louvor dos que fazem o bem.'),
 (56829,2,60,2,15,'Porque assim é a vontade de Deus, que, fazendo bem, tapeis a boca à ignorância dos homens insensatos;'),
 (56830,2,60,2,16,'Como livres, e não tendo a liberdade por cobertura da malícia, mas como servos de Deus.'),
 (56831,2,60,2,17,'Honrai a todos. Amai a fraternidade. Temei a Deus. Honrai ao rei.'),
@@ -28407,8 +27878,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (56875,2,60,4,14,'Se pelo nome de Cristo sois vituperados, bem-aventurados sois, porque sobre vós repousa o Espírito da glória e de Deus; quanto a eles, é ele, sim, blasfemado, mas quanto a vós, é glorificado.'),
 (56876,2,60,4,15,'Que nenhum de vós padeça como homicida, ou ladrão, ou malfeitor, ou como o que se entremete em negócios alheios;'),
 (56877,2,60,4,16,'Mas, se padece como cristão, não se envergonhe, antes glorifique a Deus nesta parte.'),
-(56878,2,60,4,17,'Porque já é tempo que comece o julgamento pela casa de Deus; e, se primeiro começa por nós, qual será o fim daqueles que são desobedientes ao evangelho de Deus?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(56878,2,60,4,17,'Porque já é tempo que comece o julgamento pela casa de Deus; e, se primeiro começa por nós, qual será o fim daqueles que são desobedientes ao evangelho de Deus?'),
 (56879,2,60,4,18,'E, se o justo apenas se salva, onde aparecerá o ímpio e o pecador?'),
 (56880,2,60,4,19,'Portanto também os que padecem segundo a vontade de Deus encomendem-lhe as suas almas, como ao fiel Criador, fazendo o bem.'),
 (56881,2,60,5,1,'Aos presbíteros, que estão entre vós, admoesto eu, que sou também presbítero com eles, e testemunha das aflições de Cristo, e participante da glória que se há de revelar:'),
@@ -28458,8 +27928,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (56925,2,61,2,10,'Mas principalmente aqueles que segundo a carne andam em concupiscências de imundícia, e desprezam as autoridades; atrevidos, obstinados, não receando blasfemar das dignidades;'),
 (56926,2,61,2,11,'Enquanto os anjos, sendo maiores em força e poder, não pronunciam contra eles juízo blasfemo diante do Senhor.'),
 (56927,2,61,2,12,'Mas estes, como animais irracionais, que seguem a natureza, feitos para serem presos e mortos, blasfemando do que não entendem, perecerão na sua corrupção,'),
-(56928,2,61,2,13,'Recebendo o galardão da injustiça; pois que tais homens têm prazer nos deleites quotidianos; nódoas são eles e máculas, deleitando-se em seus enganos, quando se banqueteiam convosco;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(56928,2,61,2,13,'Recebendo o galardão da injustiça; pois que tais homens têm prazer nos deleites quotidianos; nódoas são eles e máculas, deleitando-se em seus enganos, quando se banqueteiam convosco;'),
 (56929,2,61,2,14,'Tendo os olhos cheios de adultério, e não cessando de pecar, engodando as almas inconstantes, tendo o coração exercitado na avareza, filhos de maldição;'),
 (56930,2,61,2,15,'Os quais, deixando o caminho direito, erraram seguindo o caminho de Balaão, filho de Beor, que amou o prêmio da injustiça;'),
 (56931,2,61,2,16,'Mas teve a repreensão da sua transgressão; o mudo jumento, falando com voz humana, impediu a loucura do profeta.'),
@@ -28509,8 +27978,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (56975,2,62,2,10,'Aquele que ama a seu irmão está na luz, e nele não há escândalo.'),
 (56976,2,62,2,11,'Mas aquele que odeia a seu irmão está em trevas, e anda em trevas, e não sabe para onde deva ir; porque as trevas lhe cegaram os olhos.'),
 (56977,2,62,2,12,'Filhinhos, escrevo-vos, porque pelo seu nome vos são perdoados os pecados.'),
-(56978,2,62,2,13,'Pais, escrevo-vos, porque conhecestes aquele que é desde o princípio. Jovens, escrevo-vos, porque vencestes o maligno. Eu vos escrevo, filhos, porque conhecestes o Pai.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(56978,2,62,2,13,'Pais, escrevo-vos, porque conhecestes aquele que é desde o princípio. Jovens, escrevo-vos, porque vencestes o maligno. Eu vos escrevo, filhos, porque conhecestes o Pai.'),
 (56979,2,62,2,14,'Eu vos escrevi, pais, porque já conhecestes aquele que é desde o princípio. Eu vos escrevi, jovens, porque sois fortes, e a palavra de Deus está em vós, e já vencestes o maligno.'),
 (56980,2,62,2,15,'Não ameis o mundo, nem o que no mundo há. Se alguém ama o mundo, o amor do Pai não está nele.'),
 (56981,2,62,2,16,'Porque tudo o que há no mundo, a concupiscência da carne, a concupiscência dos olhos e a soberba da vida, não é do Pai, mas do mundo.'),
@@ -28611,8 +28079,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (57075,2,64,1,2,'Amado, desejo que te vá bem em todas as coisas, e que tenhas saúde, assim como bem vai a tua alma.'),
 (57076,2,64,1,3,'Porque muito me alegrei quando os irmãos vieram, e testificaram da tua verdade, como tu andas na verdade.'),
 (57077,2,64,1,4,'Não tenho maior gozo do que este, o de ouvir que os meus filhos andam na verdade.'),
-(57078,2,64,1,5,'Amado, procedes fielmente em tudo o que fazes para com os irmãos, e para com os estranhos,');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(57078,2,64,1,5,'Amado, procedes fielmente em tudo o que fazes para com os irmãos, e para com os estranhos,'),
 (57079,2,64,1,6,'Que em presença da igreja testificaram do teu amor; aos quais, se conduzires como é digno para com Deus, bem farás;'),
 (57080,2,64,1,7,'Porque pelo seu Nome saíram, nada tomando dos gentios.'),
 (57081,2,64,1,8,'Portanto, aos tais devemos receber, para que sejamos cooperadores da verdade.'),
@@ -28662,8 +28129,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (57125,2,66,1,12,'E virei-me para ver quem falava comigo. E, virando-me, vi sete castiçais de ouro;'),
 (57126,2,66,1,13,'E no meio dos sete castiçais um semelhante ao Filho do homem, vestido até aos pés de uma roupa comprida, e cingido pelos peitos com um cinto de ouro.'),
 (57127,2,66,1,14,'E a sua cabeça e cabelos eram brancos como lã branca, como a neve, e os seus olhos como chama de fogo;'),
-(57128,2,66,1,15,'E os seus pés, semelhantes a latão reluzente, como se tivessem sido refinados numa fornalha, e a sua voz como a voz de muitas águas.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(57128,2,66,1,15,'E os seus pés, semelhantes a latão reluzente, como se tivessem sido refinados numa fornalha, e a sua voz como a voz de muitas águas.'),
 (57129,2,66,1,16,'E ele tinha na sua destra sete estrelas; e da sua boca saía uma aguda espada de dois fios; e o seu rosto era como o sol, quando na sua força resplandece.'),
 (57130,2,66,1,17,'E eu, quando o vi, caí a seus pés como morto; e ele pôs sobre mim a sua destra, dizendo-me: Não temas; Eu sou o primeiro e o último;'),
 (57131,2,66,1,18,'E o que vivo e fui morto, mas eis aqui estou vivo para todo o sempre. Amém. E tenho as chaves da morte e do inferno.'),
@@ -28713,8 +28179,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (57175,2,66,3,13,'Quem tem ouvidos, ouça o que o Espírito diz às igrejas.'),
 (57176,2,66,3,14,'E ao anjo da igreja de Laodicéia escreve: Isto diz o Amém, a testemunha fiel e verdadeira, o princípio da criação de Deus:'),
 (57177,2,66,3,15,'Conheço as tuas obras, que nem és frio nem quente; quem dera foras frio ou quente!'),
-(57178,2,66,3,16,'Assim, porque és morno, e não és frio nem quente, vomitar-te-ei da minha boca.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(57178,2,66,3,16,'Assim, porque és morno, e não és frio nem quente, vomitar-te-ei da minha boca.'),
 (57179,2,66,3,17,'Como dizes: Rico sou, e estou enriquecido, e de nada tenho falta; e não sabes que és um desgraçado, e miserável, e pobre, e cego, e nu;'),
 (57180,2,66,3,18,'Aconselho-te que de mim compres ouro provado no fogo, para que te enriqueças; e roupas brancas, para que te vistas, e não apareça a vergonha da tua nudez; e que unjas os teus olhos com colírio, para que vejas.'),
 (57181,2,66,3,19,'Eu repreendo e castigo a todos quantos amo; sê pois zeloso, e arrepende-te.'),
@@ -28764,8 +28229,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (57225,2,66,6,16,'E diziam aos montes e aos rochedos: Caí sobre nós, e escondei-nos do rosto daquele que está assentado sobre o trono, e da ira do Cordeiro;'),
 (57226,2,66,6,17,'Porque é vindo o grande dia da sua ira; e quem poderá subsistir?'),
 (57227,2,66,7,1,'E depois destas coisas vi quatro anjos que estavam sobre os quatro cantos da terra, retendo os quatro ventos da terra, para que nenhum vento soprasse sobre a terra, nem sobre o mar, nem contra árvore alguma.'),
-(57228,2,66,7,2,'E vi outro anjo subir do lado do sol nascente, e que tinha o selo do Deus vivo; e clamou com grande voz aos quatro anjos, a quem fora dado o poder de danificar a terra e o mar,');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(57228,2,66,7,2,'E vi outro anjo subir do lado do sol nascente, e que tinha o selo do Deus vivo; e clamou com grande voz aos quatro anjos, a quem fora dado o poder de danificar a terra e o mar,'),
 (57229,2,66,7,3,'Dizendo: Não danifiqueis a terra, nem o mar, nem as árvores, até que hajamos selado nas suas testas os servos do nosso Deus.'),
 (57230,2,66,7,4,'E ouvi o número dos selados, e eram cento e quarenta e quatro mil selados, de todas as tribos dos filhos de Israel.'),
 (57231,2,66,7,5,'Da tribo de Judá, havia doze mil selados; da tribo de Rúbem, doze mil selados; da tribo de Gade, doze mil selados;'),
@@ -28815,8 +28279,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (57275,2,66,9,19,'Porque o poder dos cavalos está na sua boca e nas suas caudas. Porquanto as suas caudas são semelhantes a serpentes, e têm cabeças, e com elas danificam.'),
 (57276,2,66,9,20,'E os outros homens, que não foram mortos por estas pragas, não se arrependeram das obras de suas mãos, para não adorarem os demônios, e os ídolos de ouro, e de prata, e de bronze, e de pedra, e de madeira, que nem podem ver, nem ouvir, nem andar.'),
 (57277,2,66,9,21,'E não se arrependeram dos seus homicídios, nem das suas feitiçarias, nem da sua fornicação, nem dos seus furtos.'),
-(57278,2,66,10,1,'E vi outro anjo forte, que descia do céu, vestido de uma nuvem; e por cima da sua cabeça estava o arco celeste, e o seu rosto era como o sol, e os seus pés como colunas de fogo;');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(57278,2,66,10,1,'E vi outro anjo forte, que descia do céu, vestido de uma nuvem; e por cima da sua cabeça estava o arco celeste, e o seu rosto era como o sol, e os seus pés como colunas de fogo;'),
 (57279,2,66,10,2,'E tinha na sua mão um livrinho aberto. E pôs o seu pé direito sobre o mar, e o esquerdo sobre a terra;'),
 (57280,2,66,10,3,'E clamou com grande voz, como quando ruge um leão; e, havendo clamado, os sete trovões emitiram as suas vozes.'),
 (57281,2,66,10,4,'E, quando os sete trovões acabaram de emitir as suas vozes, eu ia escrever; mas ouvi uma voz do céu, que me dizia: Sela o que os sete trovões emitiram, e nào o escrevas.'),
@@ -28866,8 +28329,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (57325,2,66,13,1,'E eu pus-me sobre a areia do mar, e vi subir do mar uma besta que tinha sete cabeças e dez chifres, e sobre os seus chifres dez diademas, e sobre as suas cabeças um nome de blasfêmia.'),
 (57326,2,66,13,2,'E a besta que vi era semelhante ao leopardo, e os seus pés como os de urso, e a sua boca como a de leão; e o dragão deu-lhe o seu poder, e o seu trono, e grande poderio.'),
 (57327,2,66,13,3,'E vi uma das suas cabeças como ferida de morte, e a sua chaga mortal foi curada; e toda a terra se maravilhou após a besta.'),
-(57328,2,66,13,4,'E adoraram o dragão que deu à besta o seu poder; e adoraram a besta, dizendo: Quem é semelhante à besta? Quem poderá batalhar contra ela?');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(57328,2,66,13,4,'E adoraram o dragão que deu à besta o seu poder; e adoraram a besta, dizendo: Quem é semelhante à besta? Quem poderá batalhar contra ela?'),
 (57329,2,66,13,5,'E foi-lhe dada uma boca, para proferir grandes coisas e blasfêmias; e deu-se-lhe poder para agir por quarenta e dois meses.'),
 (57330,2,66,13,6,'E abriu a sua boca em blasfêmias contra Deus, para blasfemar do seu nome, e do seu tabernáculo, e dos que habitam no céu.'),
 (57331,2,66,13,7,'E foi-lhe permitido fazer guerra aos santos, e vencê-los; e deu-se-lhe poder sobre toda a tribo, e língua, e nação.'),
@@ -28917,8 +28379,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (57375,2,66,16,5,'E ouvi o anjo das águas, que dizia: Justo és tu, ó Senhor, que és, e que eras, e hás de ser, porque julgaste estas coisas.'),
 (57376,2,66,16,6,'Visto como derramaram o sangue dos santos e dos profetas, também tu lhes deste o sangue a beber; porque disto são merecedores.'),
 (57377,2,66,16,7,'E ouvi outro do altar, que dizia: Na verdade, ó Senhor Deus Todo-Poderoso, verdadeiros e justos são os teus juízos.'),
-(57378,2,66,16,8,'E o quarto anjo derramou a sua taça sobre o sol, e foi-lhe permitido que abrasasse os homens com fogo.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(57378,2,66,16,8,'E o quarto anjo derramou a sua taça sobre o sol, e foi-lhe permitido que abrasasse os homens com fogo.'),
 (57379,2,66,16,9,'E os homens foram abrasados com grandes calores, e blasfemaram o nome de Deus, que tem poder sobre estas pragas; e não se arrependeram para lhe darem glória.'),
 (57380,2,66,16,10,'E o quinto anjo derramou a sua taça sobre o trono da besta, e o seu reino se fez tenebroso; e eles mordiam as suas línguas de dor.'),
 (57381,2,66,16,11,'E por causa das suas dores, e por causa das suas chagas, blasfemaram do Deus do céu; e não se arrependeram das suas obras.'),
@@ -28968,8 +28429,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (57425,2,66,18,16,'E dizendo: Ai, ai daquela grande cidade! que estava vestida de linho fino, de púrpura, de escarlata; e adornada com ouro e pedras preciosas e pérolas! porque numa hora foram assoladas tantas riquezas.'),
 (57426,2,66,18,17,'E todo piloto, e todo o que navega em naus, e todo marinheiro, e todos os que negociam no mar se puseram de longe;'),
 (57427,2,66,18,18,'E, vendo a fumaça do seu incêndio, clamaram, dizendo: Que cidade é semelhante a esta grande cidade?'),
-(57428,2,66,18,19,'E lançaram pó sobre as suas cabeças, e clamaram, chorando, e lamentando, e dizendo: Ai, ai daquela grande cidade! na qual todos os que tinham naus no mar se enriqueceram em razão da sua opulência; porque numa hora foi assolada.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(57428,2,66,18,19,'E lançaram pó sobre as suas cabeças, e clamaram, chorando, e lamentando, e dizendo: Ai, ai daquela grande cidade! na qual todos os que tinham naus no mar se enriqueceram em razão da sua opulência; porque numa hora foi assolada.'),
 (57429,2,66,18,20,'Alegra-te sobre ela, ó céu, e vós, santos apóstolos e profetas; porque já Deus julgou a vossa causa quanto a ela.'),
 (57430,2,66,18,21,'E um forte anjo levantou uma pedra como uma grande mó, e lançou-a no mar, dizendo: Com igual ímpeto será lançada babilônia, aquela grande cidade, e não será jamais achada.'),
 (57431,2,66,18,22,'E em ti não se ouvirá mais a voz de harpistas, e de músicos, e de flautistas, e de trombeteiros, e nenhum artífice de arte alguma se achará mais em ti; e ruído de mó em ti não se ouvirá mais;'),
@@ -29019,8 +28479,7 @@ INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
 (57475,2,66,21,6,'E disse-me mais: Está cumprido. Eu sou o Alfa e o Ômega, o princípio e o fim. A quem quer que tiver sede, de graça lhe darei da fonte da água da vida.'),
 (57476,2,66,21,7,'Quem vencer, herdará todas as coisas; e eu serei seu Deus, e ele será meu filho.'),
 (57477,2,66,21,8,'Mas, quanto aos tímidos, e aos incrédulos, e aos abomináveis, e aos homicidas, e aos que se prostituem, e aos feiticeiros, e aos idólatras e a todos os mentirosos, a sua parte será no lago que arde com fogo e enxofre; o que é a segunda morte.'),
-(57478,2,66,21,9,'E veio a mim um dos sete anjos que tinham as sete taças cheias das últimas sete pragas, e falou comigo, dizendo: Vem, mostrar-te-ei a esposa, a mulher do Cordeiro.');
-INSERT INTO verses (id, version_id, book_id, chapter, verse, text) VALUES
+(57478,2,66,21,9,'E veio a mim um dos sete anjos que tinham as sete taças cheias das últimas sete pragas, e falou comigo, dizendo: Vem, mostrar-te-ei a esposa, a mulher do Cordeiro.'),
 (57479,2,66,21,10,'E levou-me em espírito a um grande e alto monte, e mostrou-me a grande cidade, a santa Jerusalém, que de Deus descia do céu.'),
 (57480,2,66,21,11,'E tinha a glória de Deus; e a sua luz era semelhante a uma pedra preciosíssima, como a pedra de jaspe, como o cristal resplandecente.'),
 (57481,2,66,21,12,'E tinha um grande e alto muro com doze portas, e nas portas doze anjos, e nomes escritos sobre elas, que são os nomes das doze tribos dos filhos de Israel.'),

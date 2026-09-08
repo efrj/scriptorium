@@ -44,29 +44,57 @@ $colWidthClass = match($numColumns) {
                 </select>
             </div>
 
+<?php
+$versionMap = [];
+foreach ($versions as $v) {
+    $versionMap[$v->id] = $v;
+}
+$ver1 = $versionMap[$v1] ?? $versions[0];
+$ver2 = $versionMap[$v2] ?? ($versions[1] ?? $versions[0]);
+$ver3 = $versionMap[$v3] ?? ($versions[2] ?? $versions[0]);
+?>
+
             <!-- Version 1 Selector -->
             <div class="col-6 col-md-2">
                 <label class="form-label small text-muted mb-1"><i class="bi bi-1-circle me-1"></i>Versão 1:</label>
-                <select name="v1" class="form-select form-select-sm" onchange="this.form.submit()">
-                    <?php foreach ($versions as $v): ?>
-                        <option value="<?= $v->id ?>" <?= $v->id === $v1 ? 'selected' : '' ?>>
-                            [<?= $v->code ?>] <?= htmlspecialchars($v->name) ?>
-                        </option>
-                    <?php endforeach; ?>
-                </select>
+                <div class="version-picker-wrapper position-relative">
+                    <input type="hidden" name="v1" id="version-input-v1" value="<?= $ver1->id ?>" class="version-field-input">
+                    <button type="button" 
+                            class="form-select form-select-sm text-start d-flex justify-content-between align-items-center w-100 version-picker-trigger" 
+                            data-bs-toggle="modal" 
+                            data-bs-target="#versionPickerModal" 
+                            data-target-input="version-input-v1" 
+                            data-auto-submit="true"
+                            title="Escolher Versão 1">
+                        <span class="text-truncate d-flex align-items-center gap-1 me-1">
+                            <span class="badge bg-primary text-white font-monospace version-badge-code"><?= htmlspecialchars($ver1->code) ?></span>
+                            <span class="text-truncate version-btn-name fw-medium"><?= htmlspecialchars($ver1->name) ?></span>
+                        </span>
+                        <span class="badge bg-secondary-subtle text-secondary-emphasis rounded-pill px-1.5 py-0.5 small version-btn-lang flex-shrink-0"><?= strtoupper($ver1->language) ?></span>
+                    </button>
+                </div>
             </div>
 
             <!-- Version 2 Selector -->
             <?php if ($numColumns >= 2): ?>
                 <div class="col-6 col-md-2">
                     <label class="form-label small text-muted mb-1"><i class="bi bi-2-circle me-1"></i>Versão 2:</label>
-                    <select name="v2" class="form-select form-select-sm" onchange="this.form.submit()">
-                        <?php foreach ($versions as $v): ?>
-                            <option value="<?= $v->id ?>" <?= $v->id === $v2 ? 'selected' : '' ?>>
-                                [<?= $v->code ?>] <?= htmlspecialchars($v->name) ?>
-                            </option>
-                        <?php endforeach; ?>
-                    </select>
+                    <div class="version-picker-wrapper position-relative">
+                        <input type="hidden" name="v2" id="version-input-v2" value="<?= $ver2->id ?>" class="version-field-input">
+                        <button type="button" 
+                                class="form-select form-select-sm text-start d-flex justify-content-between align-items-center w-100 version-picker-trigger" 
+                                data-bs-toggle="modal" 
+                                data-bs-target="#versionPickerModal" 
+                                data-target-input="version-input-v2" 
+                                data-auto-submit="true"
+                                title="Escolher Versão 2">
+                            <span class="text-truncate d-flex align-items-center gap-1 me-1">
+                                <span class="badge bg-primary text-white font-monospace version-badge-code"><?= htmlspecialchars($ver2->code) ?></span>
+                                <span class="text-truncate version-btn-name fw-medium"><?= htmlspecialchars($ver2->name) ?></span>
+                            </span>
+                            <span class="badge bg-secondary-subtle text-secondary-emphasis rounded-pill px-1.5 py-0.5 small version-btn-lang flex-shrink-0"><?= strtoupper($ver2->language) ?></span>
+                        </button>
+                    </div>
                 </div>
             <?php endif; ?>
 
@@ -74,48 +102,44 @@ $colWidthClass = match($numColumns) {
             <?php if ($numColumns >= 3): ?>
                 <div class="col-6 col-md-2">
                     <label class="form-label small text-muted mb-1"><i class="bi bi-3-circle me-1"></i>Versão 3:</label>
-                    <select name="v3" class="form-select form-select-sm" onchange="this.form.submit()">
-                        <?php foreach ($versions as $v): ?>
-                            <option value="<?= $v->id ?>" <?= $v->id === $v3 ? 'selected' : '' ?>>
-                                [<?= $v->code ?>] <?= htmlspecialchars($v->name) ?>
-                            </option>
-                        <?php endforeach; ?>
-                    </select>
+                    <div class="version-picker-wrapper position-relative">
+                        <input type="hidden" name="v3" id="version-input-v3" value="<?= $ver3->id ?>" class="version-field-input">
+                        <button type="button" 
+                                class="form-select form-select-sm text-start d-flex justify-content-between align-items-center w-100 version-picker-trigger" 
+                                data-bs-toggle="modal" 
+                                data-bs-target="#versionPickerModal" 
+                                data-target-input="version-input-v3" 
+                                data-auto-submit="true"
+                                title="Escolher Versão 3">
+                            <span class="text-truncate d-flex align-items-center gap-1 me-1">
+                                <span class="badge bg-primary text-white font-monospace version-badge-code"><?= htmlspecialchars($ver3->code) ?></span>
+                                <span class="text-truncate version-btn-name fw-medium"><?= htmlspecialchars($ver3->name) ?></span>
+                            </span>
+                            <span class="badge bg-secondary-subtle text-secondary-emphasis rounded-pill px-1.5 py-0.5 small version-btn-lang flex-shrink-0"><?= strtoupper($ver3->language) ?></span>
+                        </button>
+                    </div>
                 </div>
             <?php endif; ?>
 
-            <!-- Book Selector -->
+            <!-- Book Selector Modal Trigger -->
             <div class="col-6 col-md-2">
                 <label class="form-label small text-muted mb-1"><i class="bi bi-bookmarks me-1"></i>Livro:</label>
-                <select name="b" id="select-book" class="form-select form-select-sm" onchange="this.form.submit()">
-                    <optgroup label="Antigo Testamento">
-                        <?php foreach ($books as $b): ?>
-                            <?php if ($b->testamentId === 1 && $b->id <= 39): ?>
-                                <option value="<?= $b->id ?>" data-chapters="<?= $b->chaptersCount ?>" <?= $b->id === $currentBook->id ? 'selected' : '' ?>>
-                                    <?= htmlspecialchars($b->getDisplayName()) ?>
-                                </option>
-                            <?php endif; ?>
-                        <?php endforeach; ?>
-                    </optgroup>
-                    <optgroup label="Deuterocanônicos (Bíblia Católica)">
-                        <?php foreach ($books as $b): ?>
-                            <?php if ($b->id >= 67 && $b->id <= 73): ?>
-                                <option value="<?= $b->id ?>" data-chapters="<?= $b->chaptersCount ?>" <?= $b->id === $currentBook->id ? 'selected' : '' ?>>
-                                    <?= htmlspecialchars($b->getDisplayName()) ?>
-                                </option>
-                            <?php endif; ?>
-                        <?php endforeach; ?>
-                    </optgroup>
-                    <optgroup label="Novo Testamento">
-                        <?php foreach ($books as $b): ?>
-                            <?php if ($b->testamentId === 2): ?>
-                                <option value="<?= $b->id ?>" data-chapters="<?= $b->chaptersCount ?>" <?= $b->id === $currentBook->id ? 'selected' : '' ?>>
-                                    <?= htmlspecialchars($b->getDisplayName()) ?>
-                                </option>
-                            <?php endif; ?>
-                        <?php endforeach; ?>
-                    </optgroup>
-                </select>
+                <div class="book-picker-wrapper position-relative">
+                    <input type="hidden" name="b" id="book-input-b" value="<?= $currentBook->id ?>" class="book-field-input">
+                    <button type="button" 
+                            class="form-select form-select-sm text-start d-flex justify-content-between align-items-center w-100 book-picker-trigger" 
+                            data-bs-toggle="modal" 
+                            data-bs-target="#bookPickerModal" 
+                            data-target-input="book-input-b" 
+                            data-auto-submit="true"
+                            title="Escolher Livro">
+                        <span class="text-truncate d-flex align-items-center gap-1.5 me-2">
+                            <span class="badge bg-warning-subtle text-warning-emphasis border border-warning-subtle font-monospace book-badge-abbr"><?= htmlspecialchars($currentBook->getDisplayAbbreviation($ver1->language ?? 'pt')) ?></span>
+                            <span class="text-truncate book-btn-name fw-medium ms-1"><?= htmlspecialchars($currentBook->getDisplayName($ver1->language ?? 'pt')) ?></span>
+                        </span>
+                        <span class="badge bg-secondary-subtle text-secondary-emphasis rounded-pill px-1.5 py-0.5 small book-btn-chapters flex-shrink-0"><?= $currentBook->chaptersCount ?> caps</span>
+                    </button>
+                </div>
             </div>
 
             <!-- Chapter Selector -->
@@ -245,3 +269,7 @@ $colWidthClass = match($numColumns) {
         </div>
     <?php endif; ?>
 </div>
+
+<?= $this->render('bible/_version_modal', ['versions' => $versions]) ?>
+<?= $this->render('bible/_book_modal', ['books' => $books, 'currentVersion' => $ver1]) ?>
+

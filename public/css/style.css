@@ -193,3 +193,159 @@ footer {
     border-top: 1px solid var(--border-color);
     background-color: var(--bg-card);
 }
+
+/* ==========================================================================
+   Version Modal Picker & Styled Radio Cards
+   ========================================================================== */
+.version-picker-trigger {
+    background-color: var(--bg-card);
+    border-color: var(--border-color);
+    color: var(--text-main);
+    text-decoration: none;
+    font-size: 0.875rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.version-picker-trigger:hover,
+.version-picker-trigger:focus {
+    border-color: var(--accent-color);
+    box-shadow: 0 0 0 0.2rem rgba(59, 130, 246, 0.15);
+}
+
+.version-badge-code {
+    font-size: 0.75rem;
+    padding: 0.2em 0.5em;
+    letter-spacing: 0.5px;
+}
+
+#modalVersionListBody {
+    max-height: 60vh;
+    overflow-y: auto;
+}
+
+.version-option-card {
+    background-color: var(--bg-card);
+    border-color: var(--border-color) !important;
+    color: var(--text-main);
+    transition: all 0.15s ease-in-out;
+    margin-bottom: 0.4rem;
+}
+
+.version-option-card:hover {
+    border-color: var(--accent-color) !important;
+    background-color: rgba(59, 130, 246, 0.05);
+    transform: translateY(-1px);
+}
+
+.version-option-card.selected {
+    border-color: var(--accent-color) !important;
+    background-color: rgba(59, 130, 246, 0.10) !important;
+    box-shadow: 0 0 0 1.5px var(--accent-color);
+}
+
+.version-option-card.selected .check-icon-active {
+    display: inline-block !important;
+}
+
+.version-option-card .version-pill-code {
+    min-width: 55px;
+    text-align: center;
+}
+
+.language-filter-pills .btn {
+    white-space: nowrap;
+    font-size: 0.8rem;
+    font-weight: 500;
+}
+
+[data-bs-theme="sepia"] .version-option-card.selected {
+    background-color: rgba(180, 83, 9, 0.12) !important;
+    border-color: var(--accent-color) !important;
+    box-shadow: 0 0 0 1.5px var(--accent-color);
+}
+
+[data-bs-theme="dark"] .version-option-card.selected {
+    background-color: rgba(56, 189, 248, 0.15) !important;
+    border-color: var(--accent-color) !important;
+    box-shadow: 0 0 0 1.5px var(--accent-color);
+}
+
+/* ==========================================================================
+   Book Modal Picker & Styled Radio Cards
+   ========================================================================== */
+.book-picker-trigger {
+    background-color: var(--bg-card);
+    border-color: var(--border-color);
+    color: var(--text-main);
+    text-decoration: none;
+    font-size: 0.875rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.book-picker-trigger:hover,
+.book-picker-trigger:focus {
+    border-color: #d97706;
+    box-shadow: 0 0 0 0.2rem rgba(217, 119, 6, 0.15);
+}
+
+.book-badge-abbr {
+    font-size: 0.75rem;
+    padding: 0.2em 0.5em;
+    letter-spacing: 0.5px;
+}
+
+#modalBookListBody {
+    max-height: 65vh;
+    overflow-y: auto;
+}
+
+.book-option-card {
+    background-color: var(--bg-card);
+    border-color: var(--border-color) !important;
+    color: var(--text-main);
+    transition: all 0.15s ease-in-out;
+}
+
+.book-option-card:hover {
+    border-color: #d97706 !important;
+    background-color: rgba(217, 119, 6, 0.05);
+    transform: translateY(-1px);
+}
+
+.book-option-card.selected {
+    border-color: #d97706 !important;
+    background-color: rgba(217, 119, 6, 0.12) !important;
+    box-shadow: 0 0 0 1.5px #d97706;
+}
+
+.book-option-card.selected .check-icon-active {
+    display: inline-block !important;
+}
+
+.book-option-card .book-pill-code {
+    min-width: 42px;
+    text-align: center;
+}
+
+.book-filter-pills .btn {
+    white-space: nowrap;
+    font-size: 0.8rem;
+    font-weight: 500;
+}
+
+[data-bs-theme="sepia"] .book-option-card.selected {
+    background-color: rgba(180, 83, 9, 0.18) !important;
+    border-color: #b45309 !important;
+    box-shadow: 0 0 0 1.5px #b45309;
+}
+
+[data-bs-theme="dark"] .book-option-card.selected {
+    background-color: rgba(245, 158, 11, 0.2) !important;
+    border-color: #f59e0b !important;
+    box-shadow: 0 0 0 1.5px #f59e0b;
+}
+

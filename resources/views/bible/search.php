@@ -18,13 +18,22 @@ $this->setTitle('Buscar nas Escrituras');
         <form method="GET" action="/bible/search" class="row g-2 align-items-center">
             <div class="col-12 col-md-4">
                 <label class="form-label small text-muted mb-1"><i class="bi bi-translate me-1"></i>Versão / Tradução:</label>
-                <select name="v" class="form-select form-select-sm">
-                    <?php foreach ($versions as $v): ?>
-                        <option value="<?= $v->id ?>" <?= $v->id === $currentVersion->id ? 'selected' : '' ?>>
-                            <?= htmlspecialchars($v->getFullTitle()) ?>
-                        </option>
-                    <?php endforeach; ?>
-                </select>
+                <div class="version-picker-wrapper position-relative">
+                    <input type="hidden" name="v" id="version-input-v" value="<?= $currentVersion->id ?>" class="version-field-input">
+                    <button type="button" 
+                            class="form-select form-select-sm text-start d-flex justify-content-between align-items-center w-100 version-picker-trigger" 
+                            data-bs-toggle="modal" 
+                            data-bs-target="#versionPickerModal" 
+                            data-target-input="version-input-v" 
+                            data-auto-submit="<?= $query !== '' ? 'true' : 'false' ?>"
+                            title="Escolher Versão">
+                        <span class="text-truncate d-flex align-items-center gap-1.5 me-2">
+                            <span class="badge bg-primary text-white font-monospace version-badge-code"><?= htmlspecialchars($currentVersion->code) ?></span>
+                            <span class="text-truncate version-btn-name fw-medium"><?= htmlspecialchars($currentVersion->name) ?></span>
+                        </span>
+                        <span class="badge bg-secondary-subtle text-secondary-emphasis rounded-pill px-2 py-0.5 small version-btn-lang flex-shrink-0"><?= strtoupper($currentVersion->language) ?></span>
+                    </button>
+                </div>
             </div>
 
             <div class="col-12 col-md-6">
@@ -84,3 +93,6 @@ $this->setTitle('Buscar nas Escrituras');
         </div>
     <?php endif; ?>
 </div>
+
+<?= $this->render('bible/_version_modal', ['versions' => $versions]) ?>
+

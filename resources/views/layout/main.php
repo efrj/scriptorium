@@ -94,7 +94,7 @@ $currentUrl = (string)($_SERVER['REQUEST_URI'] ?? '');
     <footer class="py-4 mt-auto">
         <div class="container text-center text-muted small">
             <p class="mb-1"><strong>Scriptorium</strong> &bull; Plataforma de Leitura e Estudos Bíblicos</p>
-            <p class="mb-0">72 traduções e versões das Sagradas Escrituras com leitura paralela e comparativa.</p>
+            <p class="mb-0">73 traduções e versões das Sagradas Escrituras com leitura paralela e comparativa.</p>
         </div>
     </footer>
 

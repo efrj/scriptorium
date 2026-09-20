@@ -199,3 +199,4 @@ INSERT INTO versions (id, code, name, language) VALUES (71, 'MRI', 'Paipera Tapu
 INSERT INTO versions (id, code, name, language) VALUES (72, 'CHR', 'Cherokee New Testament', 'chr');
 INSERT INTO versions (id, code, name, language) VALUES (73, 'PASTORAL', 'Bíblia Sagrada - Edição Pastoral (Católica)', 'pt');
 INSERT INTO versions (id, code, name, language) VALUES (74, 'TNM', 'Tradução do Novo Mundo (Edição de Estudo)', 'pt');
+INSERT INTO versions (id, code, name, language) VALUES (75, 'CAP', 'Bíblia dos Capuchinhos', 'pt-PT');

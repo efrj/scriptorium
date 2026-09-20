@@ -29,11 +29,11 @@ $langGroups = [
 
 foreach ($versions as $v) {
     $lang = strtolower($v->language);
-    if ($lang === 'pt') {
+    if ($lang === 'pt' || str_starts_with($lang, 'pt')) {
         $langGroups['pt']['versions'][] = $v;
-    } elseif ($lang === 'en') {
+    } elseif ($lang === 'en' || str_starts_with($lang, 'en')) {
         $langGroups['en']['versions'][] = $v;
-    } elseif ($lang === 'es') {
+    } elseif ($lang === 'es' || str_starts_with($lang, 'es')) {
         $langGroups['es']['versions'][] = $v;
     } else {
         $langGroups['other']['versions'][] = $v;
@@ -110,7 +110,7 @@ foreach ($versions as $v) {
                             <?php foreach ($groupInfo['versions'] as $v): ?>
                                 <?php
                                 $lang = strtolower($v->language);
-                                $groupType = in_array($lang, ['pt', 'en', 'es'], true) ? $lang : 'other';
+                                $groupType = str_starts_with($lang, 'pt') ? 'pt' : (str_starts_with($lang, 'en') ? 'en' : (str_starts_with($lang, 'es') ? 'es' : 'other'));
                                 $searchHaystack = mb_strtolower("{$v->code} {$v->name} {$v->language} " . $v->getLanguageName(), 'UTF-8');
                                 ?>
                                 <label
@@ -135,7 +135,7 @@ foreach ($versions as $v) {
                                                 <?= htmlspecialchars($v->name) ?></div>
                                             <div class="small text-muted text-truncate version-card-subtitle">
                                                 <?= htmlspecialchars($v->getLanguageName()) ?>
-                                                <?php if (in_array($v->id, [9, 73], true)): ?>
+                                                <?php if (in_array($v->id, [9, 73, 75], true)): ?>
                                                     &bull; <span
                                                         class="badge bg-warning-subtle text-warning-emphasis border border-warning-subtle py-0 px-1">73
                                                         livros</span>

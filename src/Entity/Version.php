@@ -53,6 +53,8 @@ final class Version
     {
         return match (strtolower($this->language)) {
             'pt' => 'Português',
+            'pt-pt', 'pt_pt' => 'Português (Portugal)',
+            'pt-br', 'pt_br' => 'Português (Brasil)',
             'en' => 'English',
             'es' => 'Español',
             'de' => 'Deutsch (Alemão)',
